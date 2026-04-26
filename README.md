@@ -68,7 +68,7 @@ Notes:
 
 ## 5) Quick start
 
-From repo root (`C:\Users\hbaaz\OneDrive\Bureau\PHD\ecg`):
+From the repository root:
 
 ### A) Build outline artifacts
 
