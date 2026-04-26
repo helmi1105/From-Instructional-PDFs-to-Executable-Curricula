@@ -1,4 +1,4 @@
-# ECG Project (Outline → ECG → Evaluation)
+# ECG Project (Outline -> ECG -> Evaluation)
 
 This folder contains the end-to-end pipeline to:
 - extract a document outline from OCR,
@@ -27,6 +27,12 @@ This folder contains the end-to-end pipeline to:
 
 - `baseline_direct_ecg.py`  
   Baseline that asks LLM to output ECG directly from OCR pages.
+
+- `graph.py`  
+  Utility script to render an ECG DOT file (`ecg.dot`) into a PNG figure using Graphviz.
+
+- `error.py`  
+  Qualitative error-analysis figure generator (loads evaluation JSON and exports publication-style plots).
 
 - `gold_ecg_*.json`  
   Gold ECG annotations for evaluation.
@@ -149,3 +155,26 @@ python project\baseline_direct_ecg.py `
 - Use the same model name across runs.
 - Keep same PDF input and same prompt version.
 - Save each run under a separate directory (`run1`, `run2`, ...).
+
+## 10) Visualization scripts (`graph.py` and `error.py`)
+
+### `graph.py`
+- **Description:** renders one ECG DOT file (`ecg.dot`) to `ecg_graph.png` with Graphviz.
+- **How to run:**
+  1. Edit `project/graph.py` and set `dot_path` and `out_dir` for your run.
+  2. Run:
+
+```powershell
+python project\graph.py
+```
+
+### `error.py`
+- **Description:** builds a qualitative error-analysis figure from evaluation output.
+- **How to run:**
+  1. First run evaluation to create `evaluation_results.json`.
+  2. Edit `project/error.py` values: `DIFF_JSON_PATH`, `OUT_DIR`, `OUT_NAME`.
+  3. Run:
+
+```powershell
+python project\error.py
+```
