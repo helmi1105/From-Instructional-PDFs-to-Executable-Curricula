@@ -2,6 +2,7 @@ import os
 import json
 import re
 import tempfile
+import argparse
 from collections import Counter
 from pathlib import Path
 
@@ -15,19 +16,15 @@ from graphviz import Digraph
 # ============================================================
 # CONFIG
 # ============================================================
-os.environ["PATH"] += os.pathsep + r"C:\Program Files\Graphviz-14.1.4-win64\bin"
-
-DIFF_JSON_PATH = r"C:\Users\hbaaz\OneDrive\Bureau\PHD\ecg\project\eval_out\evaluation_results.json"
-OUT_DIR = r"C:\Users\hbaaz\OneDrive\Bureau\PHD\ecg\project\eval_out\paper_figures"
-OUT_NAME = "figure_qualitative_error_analysis_d1"
+DEFAULT_OUT_NAME = "figure_qualitative_error_analysis"
 
 FIG_W = 18
 FIG_H = 6.2
 DPI = 300
 
-FOCUS_1_PARENT = "definition du langage cartographique"
-FOCUS_2_PARENT = "1.2 configuration de la zone d'intervention"
-FOCUS_2_CONTEXT_PARENT = "i - analyse de la zone d'intervention"
+DEFAULT_FOCUS_1_PARENT = "definition du langage cartographique"
+DEFAULT_FOCUS_2_PARENT = "1.2 configuration de la zone d'intervention"
+DEFAULT_FOCUS_2_CONTEXT_PARENT = "i - analyse de la zone d'intervention"
 
 plt.rcParams.update({
     "font.family": "serif",
@@ -354,17 +351,24 @@ def add_graphical_legend(fig):
 # ============================================================
 # MAIN FIGURE
 # ============================================================
-def build_article_figure(diff_json_path: str, out_dir: str, out_name: str):
+def build_article_figure(
+    diff_json_path: str,
+    out_dir: str,
+    out_name: str,
+    focus_1_parent: str,
+    focus_2_parent: str,
+    focus_2_context_parent: str,
+):
     diff_data = load_json(diff_json_path)
     summary = extract_error_summary(diff_data)
 
     Path(out_dir).mkdir(parents=True, exist_ok=True)
 
     with tempfile.TemporaryDirectory() as tmpdir:
-        g1 = make_local_leaf_omission_graph(diff_data, FOCUS_1_PARENT)
+        g1 = make_local_leaf_omission_graph(diff_data, focus_1_parent)
         panel_b_path = render_graphviz_to_png(g1, os.path.join(tmpdir, "panel_b"))
 
-        g2 = make_local_attachment_graph(diff_data, FOCUS_2_PARENT, FOCUS_2_CONTEXT_PARENT)
+        g2 = make_local_attachment_graph(diff_data, focus_2_parent, focus_2_context_parent)
         panel_c_path = render_graphviz_to_png(g2, os.path.join(tmpdir, "panel_c"))
 
         img_b = Image.open(panel_b_path)
@@ -409,5 +413,29 @@ def build_article_figure(diff_json_path: str, out_dir: str, out_name: str):
         print(" -", pdf_path)
 
 
+def main() -> None:
+    parser = argparse.ArgumentParser(description="Build qualitative ECG structural error figure.")
+    parser.add_argument("--diff_json", required=True, help="Path to evaluation_results.json")
+    parser.add_argument("--outdir", required=True, help="Output directory for figure files")
+    parser.add_argument("--out_name", default=DEFAULT_OUT_NAME, help="Output filename prefix")
+    parser.add_argument("--focus_1_parent", default=DEFAULT_FOCUS_1_PARENT, help="Panel B parent title")
+    parser.add_argument("--focus_2_parent", default=DEFAULT_FOCUS_2_PARENT, help="Panel C gold parent title")
+    parser.add_argument(
+        "--focus_2_context_parent",
+        default=DEFAULT_FOCUS_2_CONTEXT_PARENT,
+        help="Panel C incorrect/context parent title",
+    )
+    args = parser.parse_args()
+
+    build_article_figure(
+        diff_json_path=args.diff_json,
+        out_dir=args.outdir,
+        out_name=args.out_name,
+        focus_1_parent=args.focus_1_parent,
+        focus_2_parent=args.focus_2_parent,
+        focus_2_context_parent=args.focus_2_context_parent,
+    )
+
+
 if __name__ == "__main__":
-    build_article_figure(DIFF_JSON_PATH, OUT_DIR, OUT_NAME)
+    main()

@@ -1,180 +1,120 @@
-# ECG Project (Outline -> ECG -> Evaluation)
+﻿# ECG Project
 
-This folder contains the end-to-end pipeline to:
-- extract a document outline from OCR,
-- compile a clean ECG graph,
-- evaluate against gold annotations,
-- measure stability across repeated runs.
+End-to-end pipeline to extract a document outline from PDF/OCR, build an ECG graph, and evaluate structural quality and reproducibility.
 
-## 1) What is inside
+## Project layout
 
-- `outline_only_pipeline.py`  
-  PDF/OCR to outline artifacts:
-  - `ocr_raw.json`, `ocr_pages.json`, `ocr_markdown.txt`
-  - `outline_raw.json`, `outline_repaired.json`, `outline_clean.json`
-  - `outline_diff.json`, `token_usage.json`, `summary.json`
+- `outline_only_pipeline.py`: PDF/OCR -> `outline_clean.json`
+- `build_clean_ecg_from_outline.py`: outline -> `ecg.json`
+- `evaluate_ecg_against_gold.py`: prediction vs gold metrics
+- `ecg_stability.py`: multi-run stability summary
+- `inter_annotator_agreement.py`: agreement metrics for annotation studies
+- `structural_error_report.py`: structural error reports + heatmap
+- `graph.py`: render `ecg.dot` to PNG
+- `error.py`: qualitative error-analysis figure
+- `docling/`: Docling conversion utilities
+- `toc/`: TOC extraction utilities (embedded or printed TOC)
 
-- `build_clean_ecg_from_outline.py`  
-  Builds validated ECG from outline:
-  - `ecg.json`, `validation.json`, `nodes.csv`, `edges.csv`, `ecg.dot`, `summary.json`
+## Reproducible setup
 
-- `evaluate_ecg_against_gold.py`  
-  Compares predicted ECG vs gold ECG:
-  - `evaluation_results.json`, `evaluation_summary.md`
-
-- `ecg_stability.py`  
-  Computes multi-run stability (validation pass rate, node/edge mean+std, Dice overlaps).
-
-- `baseline_direct_ecg.py`  
-  Baseline that asks LLM to output ECG directly from OCR pages.
-
-- `graph.py`  
-  Utility script to render an ECG DOT file (`ecg.dot`) into a PNG figure using Graphviz.
-
-- `error.py`  
-  Qualitative error-analysis figure generator (loads evaluation JSON and exports publication-style plots).
-
-- `gold_ecg_*.json`  
-  Gold ECG annotations for evaluation.
-
-## 2) Architecture
-
-Pipeline flow:
-1. **OCR stage** (Mistral OCR): PDF pages to markdown/page objects.
-2. **Outline stage** (OpenAI or Mistral LLM): extract structural hierarchy.
-3. **Repair stage** (OpenAI or Mistral LLM): minimal structural fixes.
-4. **Compile stage**: normalize outline, generate typed ECG nodes/edges, validate constraints.
-5. **Evaluation stage**: compare prediction against gold metrics.
-6. **Stability stage**: compare repeated runs for reproducibility.
-
-## 3) Requirements
-
-Use Python 3.10+.
-
-Install dependencies:
+1. Create a virtual environment.
+2. Install dependencies.
+3. Set environment variables.
 
 ```powershell
-pip install mistralai openai matplotlib pillow graphviz
+cd project
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
 ```
 
-Graphviz binary is required for rendering DOT/PNG (if you use graph rendering scripts).
-
-## 4) Environment variables
-
-Set keys (PowerShell):
+Set keys:
 
 ```powershell
 $env:OPENAI_API_KEY="YOUR_OPENAI_KEY"
 $env:MISTRAL_API_KEY="YOUR_MISTRAL_KEY"
 ```
 
-Notes:
-- OpenAI key is used when `--provider openai`.
-- Mistral key is still required if OCR cache does not already exist (OCR is done by Mistral in this project pipeline).
+## Core pipeline
 
-## 5) Quick start
-
-From the repository root:
-
-### A) Build outline artifacts
+From `project/`:
 
 ```powershell
-python project\outline_only_pipeline.py `
-  --pdf "C:\path\your_document.pdf" `
-  --outdir "C:\path\outputs\run1" `
+python outline_only_pipeline.py `
+  --pdf "C:\path\input.pdf" `
+  --outdir "outputs\run1" `
   --provider openai
+
+python build_clean_ecg_from_outline.py `
+  --outline_json "outputs\run1\outline_clean.json" `
+  --outdir "outputs\run1"
+
+python evaluate_ecg_against_gold.py `
+  --gold "gold_ecg_annotation_v1.json" `
+  --pred "outputs\run1\ecg.json" `
+  --outdir "eval_out\run1"
 ```
 
-If `ocr_pages.json` and `ocr_markdown.txt` already exist in `--outdir`, OCR is skipped and cached outputs are reused.
+## TOC and Docling utilities
 
-### B) Build clean ECG
+Extract TOC outline directly from PDF bookmarks/printed TOC:
 
 ```powershell
-python project\build_clean_ecg_from_outline.py `
-  --outline_json "C:\path\outputs\run1\outline_clean.json" `
-  --outdir "C:\path\outputs\run1"
+python toc\toc_outline.py `
+  --pdf "C:\path\input.pdf" `
+  --out_json "outputs\toc\outline.json"
 ```
 
-### C) Evaluate against gold ECG
+Convert one PDF using Docling:
 
 ```powershell
-python project\evaluate_ecg_against_gold.py `
-  --gold "project\gold_ecg_sauvegarde_operationnelle_2024.json" `
-  --pred "C:\path\outputs\run1\ecg.json" `
-  --outdir "project\eval_out_run1"
+python docling\run_docling_one.py `
+  --pdf "C:\path\input.pdf" `
+  --outdir "outputs\docling"
 ```
 
-### D) Stability across 5 runs
+Convert Docling JSON to outline JSON:
 
 ```powershell
-python project\ecg_stability.py `
-  --inputs `
-    "C:\path\outputs\run1\ecg.json" `
-    "C:\path\outputs\run2\ecg.json" `
-    "C:\path\outputs\run3\ecg.json" `
-    "C:\path\outputs\run4\ecg.json" `
-    "C:\path\outputs\run5\ecg.json" `
-  --out "project\outputs\stability_summary.json"
+python docling\adapter.py `
+  --input "outputs\docling\input_docling.json" `
+  --output "outputs\docling\outline.json"
 ```
 
-## 6) Optional: direct ECG baseline
+## Visualization
 
 ```powershell
-python project\baseline_direct_ecg.py `
-  --pdf "C:\path\your_document.pdf" `
-  --outdir "C:\path\outputs\baseline_direct" `
-  --provider openai
+python graph.py --dot "outputs\run1\ecg.dot" --outdir "outputs\run1\graphs"
+
+python error.py `
+  --diff_json "eval_out\run1\evaluation_results.json" `
+  --outdir "eval_out\run1\paper_figures" `
+  --out_name "figure_qualitative_error_analysis"
 ```
 
-## 7) Main outputs to inspect
+## Structural report
 
-- `outline_clean.json`: final cleaned hierarchy used for ECG compilation.
-- `ecg.json`: compiled graph (nodes, edges, metadata, validation).
-- `summary.json`: compact numeric summary.
-- `token_usage.json`: token usage for extraction/repair (when available).
-- `evaluation_results.json`: detailed metric breakdown vs gold.
-- `stability_summary.json`: reproducibility metrics over repeated runs.
-
-## 8) Troubleshooting
-
-- **`Missing OPENAI_API_KEY`**  
-  Set `$env:OPENAI_API_KEY` in the same terminal session.
-
-- **`Missing MISTRAL_API_KEY (required for OCR)`**  
-  Set `$env:MISTRAL_API_KEY`, or reuse an outdir with existing OCR cache files.
-
-- **`RateLimitError` / `insufficient_quota`**  
-  API account quota/billing issue for the selected provider.
-
-- **File path with spaces fails**  
-  Wrap paths in quotes: `"C:\path with spaces\file.pdf"`.
-
-## 9) Reproducibility tips
-
-- Keep `temperature=0` (already used in calls).
-- Use the same model name across runs.
-- Keep same PDF input and same prompt version.
-- Save each run under a separate directory (`run1`, `run2`, ...).
-
-## 10) Visualization scripts (`graph.py` and `error.py`)
-
-### `graph.py`
-- **Description:** renders one ECG DOT file (`ecg.dot`) to `ecg_graph.png` with Graphviz.
-- **How to run:**
-  1. Edit `project/graph.py` and set `dot_path` and `out_dir` for your run.
-  2. Run:
+Default report (uses local sample pairs):
 
 ```powershell
-python project\graph.py
+python structural_error_report.py
 ```
 
-### `error.py`
-- **Description:** builds a qualitative error-analysis figure from evaluation output.
-- **How to run:**
-  1. First run evaluation to create `evaluation_results.json`.
-  2. Edit `project/error.py` values: `DIFF_JSON_PATH`, `OUT_DIR`, `OUT_NAME`.
-  3. Run:
+Custom pairs:
+
+```json
+[
+  {"name": "D1", "gold": "gold_ecg_annotation_v1.json", "pred": "outputs/run1/ecg.json"}
+]
+```
 
 ```powershell
-python project\error.py
+python structural_error_report.py --pairs_json "pairs.json" --outdir "eval_out\structural_errors"
 ```
+
+## Publishing checklist
+
+- Keep generated artifacts outside version control (`outputs/`, `eval_out/`).
+- Pin dependencies before release (`pip freeze > requirements-lock.txt`).
+- Keep API keys in environment variables only.
+- Record model names used for each experiment in output metadata.

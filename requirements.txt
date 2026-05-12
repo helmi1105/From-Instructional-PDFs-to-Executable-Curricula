@@ -1,0 +1,8 @@
+﻿openai>=1.0.0
+mistralai>=1.0.0
+matplotlib>=3.8.0
+numpy>=1.26.0
+pillow>=10.0.0
+graphviz>=0.20.0
+pymupdf>=1.24.0
+docling>=2.0.0
