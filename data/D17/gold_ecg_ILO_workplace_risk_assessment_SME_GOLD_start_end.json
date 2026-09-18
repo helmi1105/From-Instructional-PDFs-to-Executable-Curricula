@@ -1,0 +1,1694 @@
+{
+  "source_pdf": "wcms_215344(1).pdf",
+  "source_title": "Training Package on Workplace Risk Assessment and Management for Small and Medium-Sized Enterprises",
+  "note": "Gold ECG rechecked from the full source-visible document outline, not only the printed Table of contents. Real section and instructional headings are retained; prose/bullets/tables/paraphrased concepts are excluded. Typing follows the exact compiler rule.",
+  "compiler_typing_rule": {
+    "COURSE_child": "MODULE if has children, else KC",
+    "non_COURSE_child": "UNIT if has children, else KC"
+  },
+  "nodes": [
+    {
+      "id": "g_course",
+      "title": "Training Package on Workplace Risk Assessment and Management for Small and Medium-Sized Enterprises",
+      "kind": "COURSE",
+      "pages": [
+        1,
+        84
+      ]
+    },
+    {
+      "id": "g_k1",
+      "title": "Preface",
+      "kind": "KC",
+      "pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "g_k2",
+      "title": "Acknowledgements",
+      "kind": "KC",
+      "pages": [
+        8,
+        11
+      ]
+    },
+    {
+      "id": "g_m1",
+      "title": "Introduction",
+      "kind": "MODULE",
+      "pages": [
+        12,
+        14
+      ]
+    },
+    {
+      "id": "g_k3",
+      "title": "What is a small and medium-sized enterprise?",
+      "kind": "KC",
+      "pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "g_k4",
+      "title": "Why focus on risk assessment for small and medium-sized enterprises?",
+      "kind": "KC",
+      "pages": [
+        14,
+        14
+      ]
+    },
+    {
+      "id": "g_m2",
+      "title": "About the training package",
+      "kind": "MODULE",
+      "pages": [
+        15,
+        17
+      ]
+    },
+    {
+      "id": "g_k5",
+      "title": "Target audiences",
+      "kind": "KC",
+      "pages": [
+        15,
+        15
+      ]
+    },
+    {
+      "id": "g_k6",
+      "title": "Aims of the training package",
+      "kind": "KC",
+      "pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "g_u1",
+      "title": "How to use this training package",
+      "kind": "UNIT",
+      "pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "g_k7",
+      "title": "Underlying assumptions",
+      "kind": "KC",
+      "pages": [
+        16,
+        16
+      ]
+    },
+    {
+      "id": "g_k8",
+      "title": "Structure and content",
+      "kind": "KC",
+      "pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "g_m3",
+      "title": "PART I. RISK ASSESSMENT METHODOLOGY",
+      "kind": "MODULE",
+      "pages": [
+        18,
+        51
+      ]
+    },
+    {
+      "id": "g_u2",
+      "title": "1. Basic concepts and terminology on risk assessment",
+      "kind": "UNIT",
+      "pages": [
+        20,
+        24
+      ]
+    },
+    {
+      "id": "g_k9",
+      "title": "Hazard and risk",
+      "kind": "KC",
+      "pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "g_k10",
+      "title": "The difference between safety and health",
+      "kind": "KC",
+      "pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "g_k11",
+      "title": "The scope of a risk assessment",
+      "kind": "KC",
+      "pages": [
+        22,
+        22
+      ]
+    },
+    {
+      "id": "g_k12",
+      "title": "The business in terms of occupational safety and health",
+      "kind": "KC",
+      "pages": [
+        22,
+        22
+      ]
+    },
+    {
+      "id": "g_k13",
+      "title": "What if the workplace is shared?",
+      "kind": "KC",
+      "pages": [
+        22,
+        24
+      ]
+    },
+    {
+      "id": "g_u3",
+      "title": "2. Carrying out the risk assessment",
+      "kind": "UNIT",
+      "pages": [
+        24,
+        29
+      ]
+    },
+    {
+      "id": "g_k14",
+      "title": "What is a risk assessment?",
+      "kind": "KC",
+      "pages": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "g_k15",
+      "title": "Risk assessment – a five-step process",
+      "kind": "KC",
+      "pages": [
+        25,
+        25
+      ]
+    },
+    {
+      "id": "g_k16",
+      "title": "Risk assessment template",
+      "kind": "KC",
+      "pages": [
+        25,
+        27
+      ]
+    },
+    {
+      "id": "g_k17",
+      "title": "Who carries out the risk assessment?",
+      "kind": "KC",
+      "pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "g_k18",
+      "title": "Active participation of the workforce",
+      "kind": "KC",
+      "pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "g_k19",
+      "title": "STEP 1: IDENTIFY THE HAZARDS",
+      "kind": "KC",
+      "pages": [
+        29,
+        31
+      ]
+    },
+    {
+      "id": "g_k20",
+      "title": "STEP 2: IDENTIFY WHO MIGHT BE HARMED AND HOW",
+      "kind": "KC",
+      "pages": [
+        31,
+        33
+      ]
+    },
+    {
+      "id": "g_u4",
+      "title": "STEP 3: EVALUATE THE RISK – IDENTIFY AND DECIDE ON THE SAFETY AND HEALTH RISK CONTROL MEASURES",
+      "kind": "UNIT",
+      "pages": [
+        33,
+        44
+      ]
+    },
+    {
+      "id": "g_k21",
+      "title": "Step 3.A: What are you already doing in terms of existing risk control measures?",
+      "kind": "KC",
+      "pages": [
+        34,
+        35
+      ]
+    },
+    {
+      "id": "g_k22",
+      "title": "Step 3.B: What further risk control measures are needed?",
+      "kind": "KC",
+      "pages": [
+        35,
+        35
+      ]
+    },
+    {
+      "id": "g_k23",
+      "title": "How to use the hierarchy of risk control measures",
+      "kind": "KC",
+      "pages": [
+        35,
+        35
+      ]
+    },
+    {
+      "id": "g_k24",
+      "title": "Risk Control Measure 1: Elimination or substitution of hazards",
+      "kind": "KC",
+      "pages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "g_k25",
+      "title": "Risk Control Measure 2: Tools, equipment, technology and engineering",
+      "kind": "KC",
+      "pages": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "g_k26",
+      "title": "Risk Control Measure 3: Safe work methods, practices, organization, information and training",
+      "kind": "KC",
+      "pages": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "g_k27",
+      "title": "Risk Control Measure 4: Hygiene and welfare",
+      "kind": "KC",
+      "pages": [
+        38,
+        38
+      ]
+    },
+    {
+      "id": "g_k28",
+      "title": "Risk Control Measure 5: Personal protective equipment",
+      "kind": "KC",
+      "pages": [
+        38,
+        39
+      ]
+    },
+    {
+      "id": "g_k29",
+      "title": "Risk Control Measure 6: Health/medical surveillance",
+      "kind": "KC",
+      "pages": [
+        39,
+        44
+      ]
+    },
+    {
+      "id": "g_u5",
+      "title": "STEP 4: RECORD WHO IS RESPONSIBLE FOR IMPLEMENTING WHICH RISK CONTROL MEASURES, AND THE TIMEFRAME",
+      "kind": "UNIT",
+      "pages": [
+        44,
+        49
+      ]
+    },
+    {
+      "id": "g_k30",
+      "title": "Using a risk matrix",
+      "kind": "KC",
+      "pages": [
+        45,
+        49
+      ]
+    },
+    {
+      "id": "g_k31",
+      "title": "STEP 5: RECORD YOUR FINDINGS, MONITOR AND REVIEW YOUR RISK ASSESSMENT, AND UPDATE WHEN NECESSARY",
+      "kind": "KC",
+      "pages": [
+        49,
+        51
+      ]
+    },
+    {
+      "id": "g_m4",
+      "title": "PART II. TRAINER’S TOOLKIT",
+      "kind": "MODULE",
+      "pages": [
+        52,
+        67
+      ]
+    },
+    {
+      "id": "g_u6",
+      "title": "1. Planning, conducting and evaluating training activities: Checklists for trainers",
+      "kind": "UNIT",
+      "pages": [
+        54,
+        60
+      ]
+    },
+    {
+      "id": "g_k32",
+      "title": "Key principles",
+      "kind": "KC",
+      "pages": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "g_k33",
+      "title": "The trainer’s role",
+      "kind": "KC",
+      "pages": [
+        55,
+        55
+      ]
+    },
+    {
+      "id": "g_k34",
+      "title": "Small group activity",
+      "kind": "KC",
+      "pages": [
+        55,
+        56
+      ]
+    },
+    {
+      "id": "g_k35",
+      "title": "Active participation",
+      "kind": "KC",
+      "pages": [
+        56,
+        56
+      ]
+    },
+    {
+      "id": "g_k36",
+      "title": "Planning and preparation",
+      "kind": "KC",
+      "pages": [
+        56,
+        58
+      ]
+    },
+    {
+      "id": "g_k37",
+      "title": "Training techniques",
+      "kind": "KC",
+      "pages": [
+        58,
+        58
+      ]
+    },
+    {
+      "id": "g_k38",
+      "title": "Course evaluation",
+      "kind": "KC",
+      "pages": [
+        58,
+        60
+      ]
+    },
+    {
+      "id": "g_u7",
+      "title": "2. Activities on risk assessment",
+      "kind": "UNIT",
+      "pages": [
+        60,
+        67
+      ]
+    },
+    {
+      "id": "g_u8",
+      "title": "Activity 1 – STEP 1: IDENTIFYING HAZARDS IN THE WORKPLACE",
+      "kind": "UNIT",
+      "pages": [
+        61,
+        63
+      ]
+    },
+    {
+      "id": "g_k39",
+      "title": "To help you identify hazards in this exercise:",
+      "kind": "KC",
+      "pages": [
+        62,
+        63
+      ]
+    },
+    {
+      "id": "g_k40",
+      "title": "Activity 2 – STEP 2: WHO IS AT RISK, AND HOW?",
+      "kind": "KC",
+      "pages": [
+        63,
+        65
+      ]
+    },
+    {
+      "id": "g_k41",
+      "title": "Activity 3 – STEP 3.A and B: IDENTIFYING AND DECIDING ON RISK CONTROL MEASURES",
+      "kind": "KC",
+      "pages": [
+        65,
+        67
+      ]
+    },
+    {
+      "id": "g_k42",
+      "title": "Activity 4 – STEP 4: EVALUATING THE DEGREE OF RISK, AND PRIORITIZING RISKS FOR ACTION",
+      "kind": "KC",
+      "pages": [
+        67,
+        67
+      ]
+    },
+    {
+      "id": "g_m5",
+      "title": "PART III: EXAMPLES OF RISK ASSESSMENTS FOR SELECTED WORKPLACES",
+      "kind": "MODULE",
+      "pages": [
+        68,
+        81
+      ]
+    },
+    {
+      "id": "g_k43",
+      "title": "How were the risk assessments done?",
+      "kind": "KC",
+      "pages": [
+        70,
+        72
+      ]
+    },
+    {
+      "id": "g_k44",
+      "title": "Example 1: Brick layers (Construction)",
+      "kind": "KC",
+      "pages": [
+        72,
+        74
+      ]
+    },
+    {
+      "id": "g_k45",
+      "title": "Example 2: Call centre",
+      "kind": "KC",
+      "pages": [
+        74,
+        76
+      ]
+    },
+    {
+      "id": "g_k46",
+      "title": "Example 3: Hair dressing",
+      "kind": "KC",
+      "pages": [
+        76,
+        78
+      ]
+    },
+    {
+      "id": "g_k47",
+      "title": "Example 4: Motor vehicle repair",
+      "kind": "KC",
+      "pages": [
+        78,
+        80
+      ]
+    },
+    {
+      "id": "g_k48",
+      "title": "Example 5: Office cleaning",
+      "kind": "KC",
+      "pages": [
+        80,
+        81
+      ]
+    },
+    {
+      "id": "g_m6",
+      "title": "Annex: Further information",
+      "kind": "MODULE",
+      "pages": [
+        82,
+        84
+      ]
+    },
+    {
+      "id": "g_k49",
+      "title": "Where to find good practice and information",
+      "kind": "KC",
+      "pages": [
+        82,
+        84
+      ]
+    }
+  ],
+  "contains": [
+    [
+      "g_course",
+      "g_k1"
+    ],
+    [
+      "g_course",
+      "g_k2"
+    ],
+    [
+      "g_course",
+      "g_m1"
+    ],
+    [
+      "g_course",
+      "g_m2"
+    ],
+    [
+      "g_course",
+      "g_m3"
+    ],
+    [
+      "g_course",
+      "g_m4"
+    ],
+    [
+      "g_course",
+      "g_m5"
+    ],
+    [
+      "g_course",
+      "g_m6"
+    ],
+    [
+      "g_m1",
+      "g_k3"
+    ],
+    [
+      "g_m1",
+      "g_k4"
+    ],
+    [
+      "g_m2",
+      "g_k5"
+    ],
+    [
+      "g_m2",
+      "g_k6"
+    ],
+    [
+      "g_m2",
+      "g_u1"
+    ],
+    [
+      "g_u1",
+      "g_k7"
+    ],
+    [
+      "g_u1",
+      "g_k8"
+    ],
+    [
+      "g_m3",
+      "g_u2"
+    ],
+    [
+      "g_m3",
+      "g_u3"
+    ],
+    [
+      "g_m3",
+      "g_k19"
+    ],
+    [
+      "g_m3",
+      "g_k20"
+    ],
+    [
+      "g_m3",
+      "g_u4"
+    ],
+    [
+      "g_m3",
+      "g_u5"
+    ],
+    [
+      "g_m3",
+      "g_k31"
+    ],
+    [
+      "g_u2",
+      "g_k9"
+    ],
+    [
+      "g_u2",
+      "g_k10"
+    ],
+    [
+      "g_u2",
+      "g_k11"
+    ],
+    [
+      "g_u2",
+      "g_k12"
+    ],
+    [
+      "g_u2",
+      "g_k13"
+    ],
+    [
+      "g_u3",
+      "g_k14"
+    ],
+    [
+      "g_u3",
+      "g_k15"
+    ],
+    [
+      "g_u3",
+      "g_k16"
+    ],
+    [
+      "g_u3",
+      "g_k17"
+    ],
+    [
+      "g_u3",
+      "g_k18"
+    ],
+    [
+      "g_u4",
+      "g_k21"
+    ],
+    [
+      "g_u4",
+      "g_k22"
+    ],
+    [
+      "g_u4",
+      "g_k23"
+    ],
+    [
+      "g_u4",
+      "g_k24"
+    ],
+    [
+      "g_u4",
+      "g_k25"
+    ],
+    [
+      "g_u4",
+      "g_k26"
+    ],
+    [
+      "g_u4",
+      "g_k27"
+    ],
+    [
+      "g_u4",
+      "g_k28"
+    ],
+    [
+      "g_u4",
+      "g_k29"
+    ],
+    [
+      "g_u5",
+      "g_k30"
+    ],
+    [
+      "g_m4",
+      "g_u6"
+    ],
+    [
+      "g_m4",
+      "g_u7"
+    ],
+    [
+      "g_u6",
+      "g_k32"
+    ],
+    [
+      "g_u6",
+      "g_k33"
+    ],
+    [
+      "g_u6",
+      "g_k34"
+    ],
+    [
+      "g_u6",
+      "g_k35"
+    ],
+    [
+      "g_u6",
+      "g_k36"
+    ],
+    [
+      "g_u6",
+      "g_k37"
+    ],
+    [
+      "g_u6",
+      "g_k38"
+    ],
+    [
+      "g_u7",
+      "g_u8"
+    ],
+    [
+      "g_u7",
+      "g_k40"
+    ],
+    [
+      "g_u7",
+      "g_k41"
+    ],
+    [
+      "g_u7",
+      "g_k42"
+    ],
+    [
+      "g_u8",
+      "g_k39"
+    ],
+    [
+      "g_m5",
+      "g_k43"
+    ],
+    [
+      "g_m5",
+      "g_k44"
+    ],
+    [
+      "g_m5",
+      "g_k45"
+    ],
+    [
+      "g_m5",
+      "g_k46"
+    ],
+    [
+      "g_m5",
+      "g_k47"
+    ],
+    [
+      "g_m5",
+      "g_k48"
+    ],
+    [
+      "g_m6",
+      "g_k49"
+    ]
+  ],
+  "sequence": [
+    [
+      "g_k1",
+      "g_k2"
+    ],
+    [
+      "g_k2",
+      "g_m1"
+    ],
+    [
+      "g_m1",
+      "g_m2"
+    ],
+    [
+      "g_m2",
+      "g_m3"
+    ],
+    [
+      "g_m3",
+      "g_m4"
+    ],
+    [
+      "g_m4",
+      "g_m5"
+    ],
+    [
+      "g_m5",
+      "g_m6"
+    ],
+    [
+      "g_k3",
+      "g_k4"
+    ],
+    [
+      "g_k5",
+      "g_k6"
+    ],
+    [
+      "g_k6",
+      "g_u1"
+    ],
+    [
+      "g_k7",
+      "g_k8"
+    ],
+    [
+      "g_u2",
+      "g_u3"
+    ],
+    [
+      "g_u3",
+      "g_k19"
+    ],
+    [
+      "g_k19",
+      "g_k20"
+    ],
+    [
+      "g_k20",
+      "g_u4"
+    ],
+    [
+      "g_u4",
+      "g_u5"
+    ],
+    [
+      "g_u5",
+      "g_k31"
+    ],
+    [
+      "g_k9",
+      "g_k10"
+    ],
+    [
+      "g_k10",
+      "g_k11"
+    ],
+    [
+      "g_k11",
+      "g_k12"
+    ],
+    [
+      "g_k12",
+      "g_k13"
+    ],
+    [
+      "g_k14",
+      "g_k15"
+    ],
+    [
+      "g_k15",
+      "g_k16"
+    ],
+    [
+      "g_k16",
+      "g_k17"
+    ],
+    [
+      "g_k17",
+      "g_k18"
+    ],
+    [
+      "g_k21",
+      "g_k22"
+    ],
+    [
+      "g_k22",
+      "g_k23"
+    ],
+    [
+      "g_k23",
+      "g_k24"
+    ],
+    [
+      "g_k24",
+      "g_k25"
+    ],
+    [
+      "g_k25",
+      "g_k26"
+    ],
+    [
+      "g_k26",
+      "g_k27"
+    ],
+    [
+      "g_k27",
+      "g_k28"
+    ],
+    [
+      "g_k28",
+      "g_k29"
+    ],
+    [
+      "g_u6",
+      "g_u7"
+    ],
+    [
+      "g_k32",
+      "g_k33"
+    ],
+    [
+      "g_k33",
+      "g_k34"
+    ],
+    [
+      "g_k34",
+      "g_k35"
+    ],
+    [
+      "g_k35",
+      "g_k36"
+    ],
+    [
+      "g_k36",
+      "g_k37"
+    ],
+    [
+      "g_k37",
+      "g_k38"
+    ],
+    [
+      "g_u8",
+      "g_k40"
+    ],
+    [
+      "g_k40",
+      "g_k41"
+    ],
+    [
+      "g_k41",
+      "g_k42"
+    ],
+    [
+      "g_k43",
+      "g_k44"
+    ],
+    [
+      "g_k44",
+      "g_k45"
+    ],
+    [
+      "g_k45",
+      "g_k46"
+    ],
+    [
+      "g_k46",
+      "g_k47"
+    ],
+    [
+      "g_k47",
+      "g_k48"
+    ]
+  ],
+  "grounding": {
+    "g_k1": {
+      "pages": [
+        6,
+        7
+      ],
+      "heading_path": [
+        "Preface"
+      ]
+    },
+    "g_k2": {
+      "pages": [
+        8,
+        11
+      ],
+      "heading_path": [
+        "Acknowledgements"
+      ]
+    },
+    "g_m1": {
+      "pages": [
+        12,
+        14
+      ],
+      "heading_path": [
+        "Introduction"
+      ]
+    },
+    "g_k3": {
+      "pages": [
+        13,
+        14
+      ],
+      "heading_path": [
+        "Introduction",
+        "What is a small and medium-sized enterprise?"
+      ]
+    },
+    "g_k4": {
+      "pages": [
+        14,
+        14
+      ],
+      "heading_path": [
+        "Introduction",
+        "Why focus on risk assessment for small and medium-sized enterprises?"
+      ]
+    },
+    "g_m2": {
+      "pages": [
+        15,
+        17
+      ],
+      "heading_path": [
+        "About the training package"
+      ]
+    },
+    "g_k5": {
+      "pages": [
+        15,
+        15
+      ],
+      "heading_path": [
+        "About the training package",
+        "Target audiences"
+      ]
+    },
+    "g_k6": {
+      "pages": [
+        15,
+        16
+      ],
+      "heading_path": [
+        "About the training package",
+        "Aims of the training package"
+      ]
+    },
+    "g_u1": {
+      "pages": [
+        16,
+        17
+      ],
+      "heading_path": [
+        "About the training package",
+        "How to use this training package"
+      ]
+    },
+    "g_k7": {
+      "pages": [
+        16,
+        16
+      ],
+      "heading_path": [
+        "About the training package",
+        "How to use this training package",
+        "Underlying assumptions"
+      ]
+    },
+    "g_k8": {
+      "pages": [
+        16,
+        17
+      ],
+      "heading_path": [
+        "About the training package",
+        "How to use this training package",
+        "Structure and content"
+      ]
+    },
+    "g_m3": {
+      "pages": [
+        18,
+        51
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY"
+      ]
+    },
+    "g_u2": {
+      "pages": [
+        20,
+        24
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "1. Basic concepts and terminology on risk assessment"
+      ]
+    },
+    "g_k9": {
+      "pages": [
+        20,
+        21
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "1. Basic concepts and terminology on risk assessment",
+        "Hazard and risk"
+      ]
+    },
+    "g_k10": {
+      "pages": [
+        21,
+        22
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "1. Basic concepts and terminology on risk assessment",
+        "The difference between safety and health"
+      ]
+    },
+    "g_k11": {
+      "pages": [
+        22,
+        22
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "1. Basic concepts and terminology on risk assessment",
+        "The scope of a risk assessment"
+      ]
+    },
+    "g_k12": {
+      "pages": [
+        22,
+        22
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "1. Basic concepts and terminology on risk assessment",
+        "The business in terms of occupational safety and health"
+      ]
+    },
+    "g_k13": {
+      "pages": [
+        22,
+        24
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "1. Basic concepts and terminology on risk assessment",
+        "What if the workplace is shared?"
+      ]
+    },
+    "g_u3": {
+      "pages": [
+        24,
+        29
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "2. Carrying out the risk assessment"
+      ]
+    },
+    "g_k14": {
+      "pages": [
+        24,
+        25
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "2. Carrying out the risk assessment",
+        "What is a risk assessment?"
+      ]
+    },
+    "g_k15": {
+      "pages": [
+        25,
+        25
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "2. Carrying out the risk assessment",
+        "Risk assessment – a five-step process"
+      ]
+    },
+    "g_k16": {
+      "pages": [
+        25,
+        27
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "2. Carrying out the risk assessment",
+        "Risk assessment template"
+      ]
+    },
+    "g_k17": {
+      "pages": [
+        27,
+        28
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "2. Carrying out the risk assessment",
+        "Who carries out the risk assessment?"
+      ]
+    },
+    "g_k18": {
+      "pages": [
+        28,
+        29
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "2. Carrying out the risk assessment",
+        "Active participation of the workforce"
+      ]
+    },
+    "g_k19": {
+      "pages": [
+        29,
+        31
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "STEP 1: IDENTIFY THE HAZARDS"
+      ]
+    },
+    "g_k20": {
+      "pages": [
+        31,
+        33
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "STEP 2: IDENTIFY WHO MIGHT BE HARMED AND HOW"
+      ]
+    },
+    "g_u4": {
+      "pages": [
+        33,
+        44
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "STEP 3: EVALUATE THE RISK – IDENTIFY AND DECIDE ON THE SAFETY AND HEALTH RISK CONTROL MEASURES"
+      ]
+    },
+    "g_k21": {
+      "pages": [
+        34,
+        35
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "STEP 3: EVALUATE THE RISK – IDENTIFY AND DECIDE ON THE SAFETY AND HEALTH RISK CONTROL MEASURES",
+        "Step 3.A: What are you already doing in terms of existing risk control measures?"
+      ]
+    },
+    "g_k22": {
+      "pages": [
+        35,
+        35
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "STEP 3: EVALUATE THE RISK – IDENTIFY AND DECIDE ON THE SAFETY AND HEALTH RISK CONTROL MEASURES",
+        "Step 3.B: What further risk control measures are needed?"
+      ]
+    },
+    "g_k23": {
+      "pages": [
+        35,
+        35
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "STEP 3: EVALUATE THE RISK – IDENTIFY AND DECIDE ON THE SAFETY AND HEALTH RISK CONTROL MEASURES",
+        "How to use the hierarchy of risk control measures"
+      ]
+    },
+    "g_k24": {
+      "pages": [
+        35,
+        36
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "STEP 3: EVALUATE THE RISK – IDENTIFY AND DECIDE ON THE SAFETY AND HEALTH RISK CONTROL MEASURES",
+        "Risk Control Measure 1: Elimination or substitution of hazards"
+      ]
+    },
+    "g_k25": {
+      "pages": [
+        36,
+        37
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "STEP 3: EVALUATE THE RISK – IDENTIFY AND DECIDE ON THE SAFETY AND HEALTH RISK CONTROL MEASURES",
+        "Risk Control Measure 2: Tools, equipment, technology and engineering"
+      ]
+    },
+    "g_k26": {
+      "pages": [
+        37,
+        38
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "STEP 3: EVALUATE THE RISK – IDENTIFY AND DECIDE ON THE SAFETY AND HEALTH RISK CONTROL MEASURES",
+        "Risk Control Measure 3: Safe work methods, practices, organization, information and training"
+      ]
+    },
+    "g_k27": {
+      "pages": [
+        38,
+        38
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "STEP 3: EVALUATE THE RISK – IDENTIFY AND DECIDE ON THE SAFETY AND HEALTH RISK CONTROL MEASURES",
+        "Risk Control Measure 4: Hygiene and welfare"
+      ]
+    },
+    "g_k28": {
+      "pages": [
+        38,
+        39
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "STEP 3: EVALUATE THE RISK – IDENTIFY AND DECIDE ON THE SAFETY AND HEALTH RISK CONTROL MEASURES",
+        "Risk Control Measure 5: Personal protective equipment"
+      ]
+    },
+    "g_k29": {
+      "pages": [
+        39,
+        44
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "STEP 3: EVALUATE THE RISK – IDENTIFY AND DECIDE ON THE SAFETY AND HEALTH RISK CONTROL MEASURES",
+        "Risk Control Measure 6: Health/medical surveillance"
+      ]
+    },
+    "g_u5": {
+      "pages": [
+        44,
+        49
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "STEP 4: RECORD WHO IS RESPONSIBLE FOR IMPLEMENTING WHICH RISK CONTROL MEASURES, AND THE TIMEFRAME"
+      ]
+    },
+    "g_k30": {
+      "pages": [
+        45,
+        49
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "STEP 4: RECORD WHO IS RESPONSIBLE FOR IMPLEMENTING WHICH RISK CONTROL MEASURES, AND THE TIMEFRAME",
+        "Using a risk matrix"
+      ]
+    },
+    "g_k31": {
+      "pages": [
+        49,
+        51
+      ],
+      "heading_path": [
+        "PART I. RISK ASSESSMENT METHODOLOGY",
+        "STEP 5: RECORD YOUR FINDINGS, MONITOR AND REVIEW YOUR RISK ASSESSMENT, AND UPDATE WHEN NECESSARY"
+      ]
+    },
+    "g_m4": {
+      "pages": [
+        52,
+        67
+      ],
+      "heading_path": [
+        "PART II. TRAINER’S TOOLKIT"
+      ]
+    },
+    "g_u6": {
+      "pages": [
+        54,
+        60
+      ],
+      "heading_path": [
+        "PART II. TRAINER’S TOOLKIT",
+        "1. Planning, conducting and evaluating training activities: Checklists for trainers"
+      ]
+    },
+    "g_k32": {
+      "pages": [
+        54,
+        55
+      ],
+      "heading_path": [
+        "PART II. TRAINER’S TOOLKIT",
+        "1. Planning, conducting and evaluating training activities: Checklists for trainers",
+        "Key principles"
+      ]
+    },
+    "g_k33": {
+      "pages": [
+        55,
+        55
+      ],
+      "heading_path": [
+        "PART II. TRAINER’S TOOLKIT",
+        "1. Planning, conducting and evaluating training activities: Checklists for trainers",
+        "The trainer’s role"
+      ]
+    },
+    "g_k34": {
+      "pages": [
+        55,
+        56
+      ],
+      "heading_path": [
+        "PART II. TRAINER’S TOOLKIT",
+        "1. Planning, conducting and evaluating training activities: Checklists for trainers",
+        "Small group activity"
+      ]
+    },
+    "g_k35": {
+      "pages": [
+        56,
+        56
+      ],
+      "heading_path": [
+        "PART II. TRAINER’S TOOLKIT",
+        "1. Planning, conducting and evaluating training activities: Checklists for trainers",
+        "Active participation"
+      ]
+    },
+    "g_k36": {
+      "pages": [
+        56,
+        58
+      ],
+      "heading_path": [
+        "PART II. TRAINER’S TOOLKIT",
+        "1. Planning, conducting and evaluating training activities: Checklists for trainers",
+        "Planning and preparation"
+      ]
+    },
+    "g_k37": {
+      "pages": [
+        58,
+        58
+      ],
+      "heading_path": [
+        "PART II. TRAINER’S TOOLKIT",
+        "1. Planning, conducting and evaluating training activities: Checklists for trainers",
+        "Training techniques"
+      ]
+    },
+    "g_k38": {
+      "pages": [
+        58,
+        60
+      ],
+      "heading_path": [
+        "PART II. TRAINER’S TOOLKIT",
+        "1. Planning, conducting and evaluating training activities: Checklists for trainers",
+        "Course evaluation"
+      ]
+    },
+    "g_u7": {
+      "pages": [
+        60,
+        67
+      ],
+      "heading_path": [
+        "PART II. TRAINER’S TOOLKIT",
+        "2. Activities on risk assessment"
+      ]
+    },
+    "g_u8": {
+      "pages": [
+        61,
+        63
+      ],
+      "heading_path": [
+        "PART II. TRAINER’S TOOLKIT",
+        "2. Activities on risk assessment",
+        "Activity 1 – STEP 1: IDENTIFYING HAZARDS IN THE WORKPLACE"
+      ]
+    },
+    "g_k39": {
+      "pages": [
+        62,
+        63
+      ],
+      "heading_path": [
+        "PART II. TRAINER’S TOOLKIT",
+        "2. Activities on risk assessment",
+        "Activity 1 – STEP 1: IDENTIFYING HAZARDS IN THE WORKPLACE",
+        "To help you identify hazards in this exercise:"
+      ]
+    },
+    "g_k40": {
+      "pages": [
+        63,
+        65
+      ],
+      "heading_path": [
+        "PART II. TRAINER’S TOOLKIT",
+        "2. Activities on risk assessment",
+        "Activity 2 – STEP 2: WHO IS AT RISK, AND HOW?"
+      ]
+    },
+    "g_k41": {
+      "pages": [
+        65,
+        67
+      ],
+      "heading_path": [
+        "PART II. TRAINER’S TOOLKIT",
+        "2. Activities on risk assessment",
+        "Activity 3 – STEP 3.A and B: IDENTIFYING AND DECIDING ON RISK CONTROL MEASURES"
+      ]
+    },
+    "g_k42": {
+      "pages": [
+        67,
+        67
+      ],
+      "heading_path": [
+        "PART II. TRAINER’S TOOLKIT",
+        "2. Activities on risk assessment",
+        "Activity 4 – STEP 4: EVALUATING THE DEGREE OF RISK, AND PRIORITIZING RISKS FOR ACTION"
+      ]
+    },
+    "g_m5": {
+      "pages": [
+        68,
+        81
+      ],
+      "heading_path": [
+        "PART III: EXAMPLES OF RISK ASSESSMENTS FOR SELECTED WORKPLACES"
+      ]
+    },
+    "g_k43": {
+      "pages": [
+        70,
+        72
+      ],
+      "heading_path": [
+        "PART III: EXAMPLES OF RISK ASSESSMENTS FOR SELECTED WORKPLACES",
+        "How were the risk assessments done?"
+      ]
+    },
+    "g_k44": {
+      "pages": [
+        72,
+        74
+      ],
+      "heading_path": [
+        "PART III: EXAMPLES OF RISK ASSESSMENTS FOR SELECTED WORKPLACES",
+        "Example 1: Brick layers (Construction)"
+      ]
+    },
+    "g_k45": {
+      "pages": [
+        74,
+        76
+      ],
+      "heading_path": [
+        "PART III: EXAMPLES OF RISK ASSESSMENTS FOR SELECTED WORKPLACES",
+        "Example 2: Call centre"
+      ]
+    },
+    "g_k46": {
+      "pages": [
+        76,
+        78
+      ],
+      "heading_path": [
+        "PART III: EXAMPLES OF RISK ASSESSMENTS FOR SELECTED WORKPLACES",
+        "Example 3: Hair dressing"
+      ]
+    },
+    "g_k47": {
+      "pages": [
+        78,
+        80
+      ],
+      "heading_path": [
+        "PART III: EXAMPLES OF RISK ASSESSMENTS FOR SELECTED WORKPLACES",
+        "Example 4: Motor vehicle repair"
+      ]
+    },
+    "g_k48": {
+      "pages": [
+        80,
+        81
+      ],
+      "heading_path": [
+        "PART III: EXAMPLES OF RISK ASSESSMENTS FOR SELECTED WORKPLACES",
+        "Example 5: Office cleaning"
+      ]
+    },
+    "g_m6": {
+      "pages": [
+        82,
+        84
+      ],
+      "heading_path": [
+        "Annex: Further information"
+      ]
+    },
+    "g_k49": {
+      "pages": [
+        82,
+        84
+      ],
+      "heading_path": [
+        "Annex: Further information",
+        "Where to find good practice and information"
+      ]
+    }
+  }
+}

@@ -1,0 +1,1053 @@
+{
+  "source_pdf": "MEMENTO CdC.pdf",
+  "source_title": "Gestion Opérationnelle et Commandement - Mémento Chef de Colonne",
+  "note": "Gold ECG revised in the same format as the provided example, with explicit nodes, contains, sequence, grounding, and annotation decisions. Page 1 is treated as cover and page 28 as closing/back matter, so the instructional graph spans pages 2-27.",
+  "nodes": [
+    {
+      "id": "g_course",
+      "title": "Gestion Opérationnelle et Commandement - Mémento Chef de Colonne",
+      "kind": "COURSE",
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "id": "g_k1",
+      "title": "Commandement (quelques règles)",
+      "kind": "KC",
+      "pages": [
+        2
+      ]
+    },
+    {
+      "id": "g_k2",
+      "title": "Sécurité",
+      "kind": "KC",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "id": "g_k3",
+      "title": "Algorithme",
+      "kind": "KC",
+      "pages": [
+        4,
+        5
+      ]
+    },
+    {
+      "id": "g_m1",
+      "title": "Le cadre d’ordre",
+      "kind": "MODULE",
+      "pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "g_k4",
+      "title": "Ordre Préparatoire",
+      "kind": "KC",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "id": "g_k5",
+      "title": "Ordre de Mouvement",
+      "kind": "KC",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "id": "g_k6",
+      "title": "Réaction Immédiate",
+      "kind": "KC",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "id": "g_k7",
+      "title": "Ordre Initial",
+      "kind": "KC",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "id": "g_k8",
+      "title": "Ordre de Conduite",
+      "kind": "KC",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "id": "g_k9",
+      "title": "Ordre Initial à l’aide du raisonnement tactique",
+      "kind": "KC",
+      "pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "g_k10",
+      "title": "Ordre Complémentaire des Transmissions",
+      "kind": "KC",
+      "pages": [
+        10
+      ]
+    },
+    {
+      "id": "g_m2",
+      "title": "Messages",
+      "kind": "MODULE",
+      "pages": [
+        11
+      ]
+    },
+    {
+      "id": "g_k11",
+      "title": "Message d’ambiance",
+      "kind": "KC",
+      "pages": [
+        11
+      ]
+    },
+    {
+      "id": "g_k12",
+      "title": "Message de compte rendu",
+      "kind": "KC",
+      "pages": [
+        11
+      ]
+    },
+    {
+      "id": "g_k13",
+      "title": "Possibilités opérationnelles des Groupes « type ENSOSP »",
+      "kind": "KC",
+      "pages": [
+        12
+      ]
+    },
+    {
+      "id": "g_k14",
+      "title": "Possibilités opérationnelles de votre département",
+      "kind": "KC",
+      "pages": [
+        13
+      ]
+    },
+    {
+      "id": "g_k15",
+      "title": "Organisation possible d’un PC de colonne",
+      "kind": "KC",
+      "pages": [
+        14
+      ]
+    },
+    {
+      "id": "g_k16",
+      "title": "Organisation possible d’un P.C de site",
+      "kind": "KC",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "id": "g_m3",
+      "title": "Charte graphique",
+      "kind": "MODULE",
+      "pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "g_k17",
+      "title": "Code couleur",
+      "kind": "KC",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "id": "g_k18",
+      "title": "Prises d’eau",
+      "kind": "KC",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "id": "g_k19",
+      "title": "Les zones d’actions",
+      "kind": "KC",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "id": "g_k20",
+      "title": "Postes de commandement",
+      "kind": "KC",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "id": "g_k21",
+      "title": "Point de transit",
+      "kind": "KC",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "id": "g_k22",
+      "title": "Moyens d’intervention terrestres S.P",
+      "kind": "KC",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "id": "g_k23",
+      "title": "Moyens d’intervention terrestres non S.P",
+      "kind": "KC",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "id": "g_k24",
+      "title": "Moyens d’intervention aériens",
+      "kind": "KC",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "id": "g_k25",
+      "title": "Ressources, infrastructures et logistique opérationnelle",
+      "kind": "KC",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "id": "g_k26",
+      "title": "Actions offensives",
+      "kind": "KC",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "id": "g_k27",
+      "title": "Reconnaissances",
+      "kind": "KC",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "id": "g_k28",
+      "title": "Actions défensives",
+      "kind": "KC",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "id": "g_k29",
+      "title": "Exemple SITAC et ordre graphique",
+      "kind": "KC",
+      "pages": [
+        18
+      ]
+    },
+    {
+      "id": "g_k30",
+      "title": "Tableau SITAC",
+      "kind": "KC",
+      "pages": [
+        19
+      ]
+    },
+    {
+      "id": "g_k31",
+      "title": "Fiche réflexe de la fonction OFFICIER MOYENS",
+      "kind": "KC",
+      "pages": [
+        20
+      ]
+    },
+    {
+      "id": "g_k32",
+      "title": "Fiche réflexe de la fonction OFFICIER RENSEIGNEMENTS",
+      "kind": "KC",
+      "pages": [
+        21
+      ]
+    },
+    {
+      "id": "g_k33",
+      "title": "Fiche réflexe de la fonction OFFICIER ACTIONS",
+      "kind": "KC",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "id": "g_k34",
+      "title": "Fiche réflexe de la fonction OFFICIER ANTICIPATION",
+      "kind": "KC",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "id": "g_k35",
+      "title": "Elaboration des Situations Envisageables (SE)",
+      "kind": "KC",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "id": "g_k36",
+      "title": "Elaboration Idées de Manoeuvre (IM)",
+      "kind": "KC",
+      "pages": [
+        25
+      ]
+    },
+    {
+      "id": "g_k37",
+      "title": "Elaboration des Différentes Taches à Accomplir (DTA)",
+      "kind": "KC",
+      "pages": [
+        26
+      ]
+    },
+    {
+      "id": "g_k38",
+      "title": "Montée en puissance du commandement",
+      "kind": "KC",
+      "pages": [
+        27
+      ]
+    }
+  ],
+  "contains": [
+    [
+      "g_course",
+      "g_k1"
+    ],
+    [
+      "g_course",
+      "g_k2"
+    ],
+    [
+      "g_course",
+      "g_k3"
+    ],
+    [
+      "g_course",
+      "g_m1"
+    ],
+    [
+      "g_course",
+      "g_k9"
+    ],
+    [
+      "g_course",
+      "g_k10"
+    ],
+    [
+      "g_course",
+      "g_m2"
+    ],
+    [
+      "g_course",
+      "g_k13"
+    ],
+    [
+      "g_course",
+      "g_k14"
+    ],
+    [
+      "g_course",
+      "g_k15"
+    ],
+    [
+      "g_course",
+      "g_k16"
+    ],
+    [
+      "g_course",
+      "g_m3"
+    ],
+    [
+      "g_course",
+      "g_k29"
+    ],
+    [
+      "g_course",
+      "g_k30"
+    ],
+    [
+      "g_course",
+      "g_k31"
+    ],
+    [
+      "g_course",
+      "g_k32"
+    ],
+    [
+      "g_course",
+      "g_k33"
+    ],
+    [
+      "g_course",
+      "g_k34"
+    ],
+    [
+      "g_course",
+      "g_k35"
+    ],
+    [
+      "g_course",
+      "g_k36"
+    ],
+    [
+      "g_course",
+      "g_k37"
+    ],
+    [
+      "g_course",
+      "g_k38"
+    ],
+    [
+      "g_m1",
+      "g_k4"
+    ],
+    [
+      "g_m1",
+      "g_k5"
+    ],
+    [
+      "g_m1",
+      "g_k6"
+    ],
+    [
+      "g_m1",
+      "g_k7"
+    ],
+    [
+      "g_m1",
+      "g_k8"
+    ],
+    [
+      "g_m2",
+      "g_k11"
+    ],
+    [
+      "g_m2",
+      "g_k12"
+    ],
+    [
+      "g_m3",
+      "g_k17"
+    ],
+    [
+      "g_m3",
+      "g_k18"
+    ],
+    [
+      "g_m3",
+      "g_k19"
+    ],
+    [
+      "g_m3",
+      "g_k20"
+    ],
+    [
+      "g_m3",
+      "g_k21"
+    ],
+    [
+      "g_m3",
+      "g_k22"
+    ],
+    [
+      "g_m3",
+      "g_k23"
+    ],
+    [
+      "g_m3",
+      "g_k24"
+    ],
+    [
+      "g_m3",
+      "g_k25"
+    ],
+    [
+      "g_m3",
+      "g_k26"
+    ],
+    [
+      "g_m3",
+      "g_k27"
+    ],
+    [
+      "g_m3",
+      "g_k28"
+    ]
+  ],
+  "sequence": [
+    [
+      "g_k1",
+      "g_k2"
+    ],
+    [
+      "g_k2",
+      "g_k3"
+    ],
+    [
+      "g_k3",
+      "g_m1"
+    ],
+    [
+      "g_m1",
+      "g_k9"
+    ],
+    [
+      "g_k9",
+      "g_k10"
+    ],
+    [
+      "g_k10",
+      "g_m2"
+    ],
+    [
+      "g_m2",
+      "g_k13"
+    ],
+    [
+      "g_k13",
+      "g_k14"
+    ],
+    [
+      "g_k14",
+      "g_k15"
+    ],
+    [
+      "g_k15",
+      "g_k16"
+    ],
+    [
+      "g_k16",
+      "g_m3"
+    ],
+    [
+      "g_m3",
+      "g_k29"
+    ],
+    [
+      "g_k29",
+      "g_k30"
+    ],
+    [
+      "g_k30",
+      "g_k31"
+    ],
+    [
+      "g_k31",
+      "g_k32"
+    ],
+    [
+      "g_k32",
+      "g_k33"
+    ],
+    [
+      "g_k33",
+      "g_k34"
+    ],
+    [
+      "g_k34",
+      "g_k35"
+    ],
+    [
+      "g_k35",
+      "g_k36"
+    ],
+    [
+      "g_k36",
+      "g_k37"
+    ],
+    [
+      "g_k37",
+      "g_k38"
+    ],
+    [
+      "g_k4",
+      "g_k5"
+    ],
+    [
+      "g_k5",
+      "g_k6"
+    ],
+    [
+      "g_k6",
+      "g_k7"
+    ],
+    [
+      "g_k7",
+      "g_k8"
+    ],
+    [
+      "g_k11",
+      "g_k12"
+    ],
+    [
+      "g_k17",
+      "g_k18"
+    ],
+    [
+      "g_k18",
+      "g_k19"
+    ],
+    [
+      "g_k19",
+      "g_k20"
+    ],
+    [
+      "g_k20",
+      "g_k21"
+    ],
+    [
+      "g_k21",
+      "g_k22"
+    ],
+    [
+      "g_k22",
+      "g_k23"
+    ],
+    [
+      "g_k23",
+      "g_k24"
+    ],
+    [
+      "g_k24",
+      "g_k25"
+    ],
+    [
+      "g_k25",
+      "g_k26"
+    ],
+    [
+      "g_k26",
+      "g_k27"
+    ],
+    [
+      "g_k27",
+      "g_k28"
+    ]
+  ],
+  "grounding": {
+    "g_k1": {
+      "pages": [
+        2
+      ],
+      "heading_path": [
+        "Commandement (quelques règles)"
+      ]
+    },
+    "g_k2": {
+      "pages": [
+        3
+      ],
+      "heading_path": [
+        "Sécurité"
+      ]
+    },
+    "g_k3": {
+      "pages": [
+        4,
+        5
+      ],
+      "heading_path": [
+        "Algorithme"
+      ]
+    },
+    "g_m1": {
+      "pages": [
+        6,
+        7
+      ],
+      "heading_path": [
+        "Le cadre d’ordre"
+      ]
+    },
+    "g_k4": {
+      "pages": [
+        6
+      ],
+      "heading_path": [
+        "Le cadre d’ordre",
+        "Ordre Préparatoire"
+      ]
+    },
+    "g_k5": {
+      "pages": [
+        6
+      ],
+      "heading_path": [
+        "Le cadre d’ordre",
+        "Ordre de Mouvement"
+      ]
+    },
+    "g_k6": {
+      "pages": [
+        7
+      ],
+      "heading_path": [
+        "Le cadre d’ordre",
+        "Réaction Immédiate"
+      ]
+    },
+    "g_k7": {
+      "pages": [
+        7
+      ],
+      "heading_path": [
+        "Le cadre d’ordre",
+        "Ordre Initial"
+      ]
+    },
+    "g_k8": {
+      "pages": [
+        7
+      ],
+      "heading_path": [
+        "Le cadre d’ordre",
+        "Ordre de Conduite"
+      ]
+    },
+    "g_k9": {
+      "pages": [
+        8,
+        9
+      ],
+      "heading_path": [
+        "Ordre Initial à l’aide du raisonnement tactique"
+      ]
+    },
+    "g_k10": {
+      "pages": [
+        10
+      ],
+      "heading_path": [
+        "Ordre Complémentaire des Transmissions"
+      ]
+    },
+    "g_m2": {
+      "pages": [
+        11
+      ],
+      "heading_path": [
+        "Messages"
+      ]
+    },
+    "g_k11": {
+      "pages": [
+        11
+      ],
+      "heading_path": [
+        "Messages",
+        "Message d’ambiance"
+      ]
+    },
+    "g_k12": {
+      "pages": [
+        11
+      ],
+      "heading_path": [
+        "Messages",
+        "Message de compte rendu"
+      ]
+    },
+    "g_k13": {
+      "pages": [
+        12
+      ],
+      "heading_path": [
+        "Possibilités opérationnelles des Groupes « type ENSOSP »"
+      ]
+    },
+    "g_k14": {
+      "pages": [
+        13
+      ],
+      "heading_path": [
+        "Possibilités opérationnelles de votre département"
+      ]
+    },
+    "g_k15": {
+      "pages": [
+        14
+      ],
+      "heading_path": [
+        "Organisation possible d’un PC de colonne"
+      ]
+    },
+    "g_k16": {
+      "pages": [
+        15
+      ],
+      "heading_path": [
+        "Organisation possible d’un P.C de site"
+      ]
+    },
+    "g_m3": {
+      "pages": [
+        16,
+        17
+      ],
+      "heading_path": [
+        "Charte graphique"
+      ]
+    },
+    "g_k17": {
+      "pages": [
+        16
+      ],
+      "heading_path": [
+        "Charte graphique",
+        "Code couleur"
+      ]
+    },
+    "g_k18": {
+      "pages": [
+        16
+      ],
+      "heading_path": [
+        "Charte graphique",
+        "Prises d’eau"
+      ]
+    },
+    "g_k19": {
+      "pages": [
+        16
+      ],
+      "heading_path": [
+        "Charte graphique",
+        "Les zones d’actions"
+      ]
+    },
+    "g_k20": {
+      "pages": [
+        16
+      ],
+      "heading_path": [
+        "Charte graphique",
+        "Postes de commandement"
+      ]
+    },
+    "g_k21": {
+      "pages": [
+        16
+      ],
+      "heading_path": [
+        "Charte graphique",
+        "Point de transit"
+      ]
+    },
+    "g_k22": {
+      "pages": [
+        16
+      ],
+      "heading_path": [
+        "Charte graphique",
+        "Moyens d’intervention terrestres S.P"
+      ]
+    },
+    "g_k23": {
+      "pages": [
+        16
+      ],
+      "heading_path": [
+        "Charte graphique",
+        "Moyens d’intervention terrestres non S.P"
+      ]
+    },
+    "g_k24": {
+      "pages": [
+        16
+      ],
+      "heading_path": [
+        "Charte graphique",
+        "Moyens d’intervention aériens"
+      ]
+    },
+    "g_k25": {
+      "pages": [
+        17
+      ],
+      "heading_path": [
+        "Charte graphique",
+        "Ressources, infrastructures et logistique opérationnelle"
+      ]
+    },
+    "g_k26": {
+      "pages": [
+        17
+      ],
+      "heading_path": [
+        "Charte graphique",
+        "Actions offensives"
+      ]
+    },
+    "g_k27": {
+      "pages": [
+        17
+      ],
+      "heading_path": [
+        "Charte graphique",
+        "Reconnaissances"
+      ]
+    },
+    "g_k28": {
+      "pages": [
+        17
+      ],
+      "heading_path": [
+        "Charte graphique",
+        "Actions défensives"
+      ]
+    },
+    "g_k29": {
+      "pages": [
+        18
+      ],
+      "heading_path": [
+        "Exemple SITAC et ordre graphique"
+      ]
+    },
+    "g_k30": {
+      "pages": [
+        19
+      ],
+      "heading_path": [
+        "Tableau SITAC"
+      ]
+    },
+    "g_k31": {
+      "pages": [
+        20
+      ],
+      "heading_path": [
+        "Fiche réflexe de la fonction OFFICIER MOYENS"
+      ]
+    },
+    "g_k32": {
+      "pages": [
+        21
+      ],
+      "heading_path": [
+        "Fiche réflexe de la fonction OFFICIER RENSEIGNEMENTS"
+      ]
+    },
+    "g_k33": {
+      "pages": [
+        22
+      ],
+      "heading_path": [
+        "Fiche réflexe de la fonction OFFICIER ACTIONS"
+      ]
+    },
+    "g_k34": {
+      "pages": [
+        23
+      ],
+      "heading_path": [
+        "Fiche réflexe de la fonction OFFICIER ANTICIPATION"
+      ]
+    },
+    "g_k35": {
+      "pages": [
+        24
+      ],
+      "heading_path": [
+        "Elaboration des Situations Envisageables (SE)"
+      ]
+    },
+    "g_k36": {
+      "pages": [
+        25
+      ],
+      "heading_path": [
+        "Elaboration Idées de Manoeuvre (IM)"
+      ]
+    },
+    "g_k37": {
+      "pages": [
+        26
+      ],
+      "heading_path": [
+        "Elaboration des Différentes Taches à Accomplir (DTA)"
+      ]
+    },
+    "g_k38": {
+      "pages": [
+        27
+      ],
+      "heading_path": [
+        "Montée en puissance du commandement"
+      ]
+    }
+  },
+  "annotation_decisions": [
+    "Same JSON form as the provided example: source_pdf, source_title, note, nodes, contains, sequence, grounding, annotation_decisions.",
+    "Page 1 is excluded as cover.",
+    "Page 28 is excluded as closing/back matter because it contains a conclusion plus previews of other memos.",
+    "Algorithme on pages 4-5 is kept as a single KC because the visible heading is repeated without printed subheadings.",
+    "Le cadre d’ordre is typed as MODULE because it has visible child instructional items across pages 6-7.",
+    "Ordre Initial à l’aide du raisonnement tactique is kept as a single two-page KC on pages 8-9.",
+    "Messages is typed as MODULE because page 11 contains two clearly labeled child items.",
+    "Charte graphique is typed as MODULE because pages 16-17 contain multiple visible labeled categories.",
+    "Pages 22-27 are kept as standalone KCs because they are printed as separate instructional sheets or diagrams with their own titles.",
+    "Leaves are typed as KC."
+  ]
+}

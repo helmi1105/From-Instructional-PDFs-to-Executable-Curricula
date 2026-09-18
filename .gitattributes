@@ -1,0 +1,2 @@
+# Preserve source corpus bytes so manifest SHA-256 checksums match on all platforms.
+/data/** -text

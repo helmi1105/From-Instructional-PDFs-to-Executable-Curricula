@@ -1,0 +1,3114 @@
+{
+  "source_pdf": "9789241513081-eng (1)(1).pdf",
+  "source_title": "Basic Emergency Care: Approach to the Acutely Ill and Injured — Participant Workbook",
+  "note": "Final gold ECG revised against the PDF using the chart/graphic-tools annotation philosophy: preserve explicit visible document headings, exclude navigation-only items, preserve source order, and apply compiler typing deterministically (COURSE child with children -> MODULE; other non-leaf -> UNIT; leaf -> KC).",
+  "page_semantics": {
+    "format": "[start_page, end_page]",
+    "inclusive": true,
+    "page_numbering": "physical PDF pages, 1-based",
+    "meaning": "The first value is the physical PDF page where the node starts and the second is where it ends."
+  },
+  "nodes": [
+    {
+      "id": "g_course",
+      "title": "Basic Emergency Care: Approach to the Acutely Ill and Injured - Participant Workbook",
+      "kind": "COURSE",
+      "pages": [
+        1,
+        240
+      ]
+    },
+    {
+      "id": "g_m1",
+      "title": "INTRODUCTION",
+      "kind": "MODULE",
+      "pages": [
+        9,
+        16
+      ]
+    },
+    {
+      "id": "g_u1",
+      "title": "Scope of the course",
+      "kind": "UNIT",
+      "pages": [
+        10,
+        12
+      ]
+    },
+    {
+      "id": "g_k1",
+      "title": "Key acute presentations",
+      "kind": "KC",
+      "pages": [
+        10,
+        10
+      ]
+    },
+    {
+      "id": "g_k2",
+      "title": "Other emergency presentations",
+      "kind": "KC",
+      "pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "g_k3",
+      "title": "Special considerations for fever",
+      "kind": "KC",
+      "pages": [
+        11,
+        11
+      ]
+    },
+    {
+      "id": "g_k4",
+      "title": "Obstetric delivery and neonatal resuscitation",
+      "kind": "KC",
+      "pages": [
+        11,
+        11
+      ]
+    },
+    {
+      "id": "g_k5",
+      "title": "Expected participant background knowledge",
+      "kind": "KC",
+      "pages": [
+        12,
+        12
+      ]
+    },
+    {
+      "id": "g_k6",
+      "title": "Cardiopulmonary resuscitation (CPR)",
+      "kind": "KC",
+      "pages": [
+        12,
+        12
+      ]
+    },
+    {
+      "id": "g_k7",
+      "title": "Medication",
+      "kind": "KC",
+      "pages": [
+        12,
+        12
+      ]
+    },
+    {
+      "id": "g_k8",
+      "title": "Handover/transfer",
+      "kind": "KC",
+      "pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "g_k9",
+      "title": "Triage",
+      "kind": "KC",
+      "pages": [
+        13,
+        13
+      ]
+    },
+    {
+      "id": "g_k10",
+      "title": "Approach to the emergency patient",
+      "kind": "KC",
+      "pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "g_k11",
+      "title": "How to use this Participant Workbook",
+      "kind": "KC",
+      "pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "g_k12",
+      "title": "Module format",
+      "kind": "KC",
+      "pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "g_u2",
+      "title": "Participant requirements",
+      "kind": "UNIT",
+      "pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "g_k13",
+      "title": "Written final exam",
+      "kind": "KC",
+      "pages": [
+        16,
+        16
+      ]
+    },
+    {
+      "id": "g_k14",
+      "title": "The ABCDE and SAMPLE history approach",
+      "kind": "KC",
+      "pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "g_m2",
+      "title": "Module 1: The ABCDE and SAMPLE history approach",
+      "kind": "MODULE",
+      "pages": [
+        19,
+        43
+      ]
+    },
+    {
+      "id": "g_k15",
+      "title": "OBJECTIVES",
+      "kind": "KC",
+      "pages": [
+        19,
+        19
+      ]
+    },
+    {
+      "id": "g_k16",
+      "title": "Essential skills",
+      "kind": "KC",
+      "pages": [
+        19,
+        19
+      ]
+    },
+    {
+      "id": "g_k17",
+      "title": "KEY TERMS",
+      "kind": "KC",
+      "pages": [
+        20,
+        22
+      ]
+    },
+    {
+      "id": "g_k18",
+      "title": "OVERVIEW",
+      "kind": "KC",
+      "pages": [
+        23,
+        23
+      ]
+    },
+    {
+      "id": "g_u3",
+      "title": "SAFETY CONSIDERATIONS",
+      "kind": "UNIT",
+      "pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "g_k19",
+      "title": "USE PERSONAL PROTECTIVE EQUIPMENT",
+      "kind": "KC",
+      "pages": [
+        24,
+        24
+      ]
+    },
+    {
+      "id": "g_k20",
+      "title": "CLEANING AND DECONTAMINATION",
+      "kind": "KC",
+      "pages": [
+        24,
+        24
+      ]
+    },
+    {
+      "id": "g_k21",
+      "title": "ASK FOR MORE HELP IF NEEDED",
+      "kind": "KC",
+      "pages": [
+        24,
+        24
+      ]
+    },
+    {
+      "id": "g_k22",
+      "title": "ELEMENTS OF THE ABCDE APPROACH",
+      "kind": "KC",
+      "pages": [
+        25,
+        25
+      ]
+    },
+    {
+      "id": "g_k23",
+      "title": "THE ABCDE ASSESSMENT AND MANAGEMENT",
+      "kind": "KC",
+      "pages": [
+        26,
+        28
+      ]
+    },
+    {
+      "id": "g_k24",
+      "title": "ABCDE IN DEPTH: ACUTE, LIFE-THREATENING CONDITIONS",
+      "kind": "KC",
+      "pages": [
+        29,
+        34
+      ]
+    },
+    {
+      "id": "g_k25",
+      "title": "PAEDIATRIC ABCDE CONSIDERATIONS",
+      "kind": "KC",
+      "pages": [
+        35,
+        37
+      ]
+    },
+    {
+      "id": "g_k26",
+      "title": "Elements of the SAMPLE history",
+      "kind": "KC",
+      "pages": [
+        38,
+        39
+      ]
+    },
+    {
+      "id": "g_k27",
+      "title": "DISPOSITION CONSIDERATIONS",
+      "kind": "KC",
+      "pages": [
+        39,
+        39
+      ]
+    },
+    {
+      "id": "g_k28",
+      "title": "FOR REFERENCE: NORMAL VITAL SIGNS",
+      "kind": "KC",
+      "pages": [
+        40,
+        40
+      ]
+    },
+    {
+      "id": "g_k29",
+      "title": "FACILITATOR-LED CASE SCENARIOS",
+      "kind": "KC",
+      "pages": [
+        41,
+        42
+      ]
+    },
+    {
+      "id": "g_k30",
+      "title": "MULTIPLE CHOICE QUESTIONS",
+      "kind": "KC",
+      "pages": [
+        43,
+        43
+      ]
+    },
+    {
+      "id": "g_m3",
+      "title": "Module 2: Approach to trauma",
+      "kind": "MODULE",
+      "pages": [
+        45,
+        81
+      ]
+    },
+    {
+      "id": "g_k31",
+      "title": "Objectives",
+      "kind": "KC",
+      "pages": [
+        45,
+        45
+      ]
+    },
+    {
+      "id": "g_k32",
+      "title": "Essential skills",
+      "kind": "KC",
+      "pages": [
+        45,
+        45
+      ]
+    },
+    {
+      "id": "g_k33",
+      "title": "KEY TERMS",
+      "kind": "KC",
+      "pages": [
+        45,
+        47
+      ]
+    },
+    {
+      "id": "g_u4",
+      "title": "Overview",
+      "kind": "UNIT",
+      "pages": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "g_k34",
+      "title": "GENERAL PRINCIPLES OF TRAUMA CARE",
+      "kind": "KC",
+      "pages": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "g_k35",
+      "title": "APPROACH TO TRAUMA",
+      "kind": "KC",
+      "pages": [
+        48,
+        48
+      ]
+    },
+    {
+      "id": "g_k36",
+      "title": "ABCDE: TRAUMA PRIMARY SURVEY",
+      "kind": "KC",
+      "pages": [
+        49,
+        51
+      ]
+    },
+    {
+      "id": "g_k37",
+      "title": "DO: IMPORTANT CONDITIONS TO RECOGNIZE AND MANAGE IN THE PRIMARY SURVEY",
+      "kind": "KC",
+      "pages": [
+        52,
+        55
+      ]
+    },
+    {
+      "id": "g_k38",
+      "title": "ASK: KEY HISTORY FINDINGS FOR TRAUMA PATIENTS",
+      "kind": "KC",
+      "pages": [
+        56,
+        60
+      ]
+    },
+    {
+      "id": "g_k39",
+      "title": "CHECK: TRAUMA SECONDARY SURVEY",
+      "kind": "KC",
+      "pages": [
+        60,
+        63
+      ]
+    },
+    {
+      "id": "g_k40",
+      "title": "DO: IMPORTANT CONDITIONS TO RECOGNIZE AND MANAGE BASED ON HISTORY AND SECONDARY SURVEY",
+      "kind": "KC",
+      "pages": [
+        65,
+        66
+      ]
+    },
+    {
+      "id": "g_k41",
+      "title": "SPECIAL CONSIDERATIONS",
+      "kind": "KC",
+      "pages": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "g_u5",
+      "title": "SPECIAL POPULATIONS",
+      "kind": "UNIT",
+      "pages": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "g_k42",
+      "title": "TRAUMA IN PREGNANCY",
+      "kind": "KC",
+      "pages": [
+        73,
+        74
+      ]
+    },
+    {
+      "id": "g_k43",
+      "title": "SPECIAL CONSIDERATIONS IN CHILDREN",
+      "kind": "KC",
+      "pages": [
+        75,
+        77
+      ]
+    },
+    {
+      "id": "g_k44",
+      "title": "DISPOSITION CONSIDERATIONS",
+      "kind": "KC",
+      "pages": [
+        78,
+        78
+      ]
+    },
+    {
+      "id": "g_k45",
+      "title": "FACILITATOR-LED CASE SCENARIOS",
+      "kind": "KC",
+      "pages": [
+        79,
+        80
+      ]
+    },
+    {
+      "id": "g_k46",
+      "title": "MULTIPLE CHOICE QUESTIONS",
+      "kind": "KC",
+      "pages": [
+        81,
+        81
+      ]
+    },
+    {
+      "id": "g_m4",
+      "title": "Module 3: Approach to difficulty in breathing",
+      "kind": "MODULE",
+      "pages": [
+        83,
+        102
+      ]
+    },
+    {
+      "id": "g_k47",
+      "title": "Objectives",
+      "kind": "KC",
+      "pages": [
+        83,
+        83
+      ]
+    },
+    {
+      "id": "g_k48",
+      "title": "Essential skills",
+      "kind": "KC",
+      "pages": [
+        83,
+        83
+      ]
+    },
+    {
+      "id": "g_k49",
+      "title": "KEY TERMS",
+      "kind": "KC",
+      "pages": [
+        83,
+        85
+      ]
+    },
+    {
+      "id": "g_k50",
+      "title": "Overview",
+      "kind": "KC",
+      "pages": [
+        85,
+        85
+      ]
+    },
+    {
+      "id": "g_k51",
+      "title": "ABCDE: KEY ELEMENTS FOR PATIENTS WITH DIFFICULTY IN BREATHING",
+      "kind": "KC",
+      "pages": [
+        86,
+        87
+      ]
+    },
+    {
+      "id": "g_k52",
+      "title": "ASK: KEY HISTORY FINDINGS FOR PATIENTS WITH DIFFICULTY IN BREATHING",
+      "kind": "KC",
+      "pages": [
+        87,
+        89
+      ]
+    },
+    {
+      "id": "g_k53",
+      "title": "CHECK: SECONDARY EXAMINATION FINDINGS FOR PATIENTS WITH DIFFICULTY IN BREATHING",
+      "kind": "KC",
+      "pages": [
+        90,
+        92
+      ]
+    },
+    {
+      "id": "g_k54",
+      "title": "POSSIBLE CAUSES OF DIFFICULTY IN BREATHING",
+      "kind": "KC",
+      "pages": [
+        93,
+        96
+      ]
+    },
+    {
+      "id": "g_k55",
+      "title": "DO: MANAGEMENT",
+      "kind": "KC",
+      "pages": [
+        97,
+        98
+      ]
+    },
+    {
+      "id": "g_k56",
+      "title": "SPECIAL CONSIDERATIONS IN CHILDREN",
+      "kind": "KC",
+      "pages": [
+        98,
+        98
+      ]
+    },
+    {
+      "id": "g_k57",
+      "title": "DISPOSITION CONSIDERATIONS",
+      "kind": "KC",
+      "pages": [
+        99,
+        99
+      ]
+    },
+    {
+      "id": "g_k58",
+      "title": "FACILITATOR-LED CASE SCENARIOS",
+      "kind": "KC",
+      "pages": [
+        100,
+        101
+      ]
+    },
+    {
+      "id": "g_k59",
+      "title": "MULTIPLE CHOICE QUESTIONS",
+      "kind": "KC",
+      "pages": [
+        102,
+        102
+      ]
+    },
+    {
+      "id": "g_m5",
+      "title": "Module 4: Approach to shock",
+      "kind": "MODULE",
+      "pages": [
+        103,
+        125
+      ]
+    },
+    {
+      "id": "g_k60",
+      "title": "Objectives",
+      "kind": "KC",
+      "pages": [
+        103,
+        103
+      ]
+    },
+    {
+      "id": "g_k61",
+      "title": "Essential skills",
+      "kind": "KC",
+      "pages": [
+        103,
+        103
+      ]
+    },
+    {
+      "id": "g_k62",
+      "title": "KEY TERMS",
+      "kind": "KC",
+      "pages": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "g_k63",
+      "title": "Overview",
+      "kind": "KC",
+      "pages": [
+        105,
+        105
+      ]
+    },
+    {
+      "id": "g_k64",
+      "title": "ABCDE: KEY ELEMENTS IN SHOCK",
+      "kind": "KC",
+      "pages": [
+        106,
+        106
+      ]
+    },
+    {
+      "id": "g_k65",
+      "title": "ASK: KEY HISTORY FINDINGS IN SHOCK",
+      "kind": "KC",
+      "pages": [
+        106,
+        108
+      ]
+    },
+    {
+      "id": "g_k66",
+      "title": "CHECK: SECONDARY EXAMINATION FINDINGS IN SHOCK",
+      "kind": "KC",
+      "pages": [
+        109,
+        111
+      ]
+    },
+    {
+      "id": "g_k67",
+      "title": "POSSIBLE CAUSES OF SHOCK",
+      "kind": "KC",
+      "pages": [
+        112,
+        114
+      ]
+    },
+    {
+      "id": "g_k68",
+      "title": "DO: MANAGEMENT",
+      "kind": "KC",
+      "pages": [
+        115,
+        119
+      ]
+    },
+    {
+      "id": "g_k69",
+      "title": "SPECIAL CONSIDERATIONS IN CHILDREN",
+      "kind": "KC",
+      "pages": [
+        120,
+        121
+      ]
+    },
+    {
+      "id": "g_k70",
+      "title": "DISPOSITION CONSIDERATIONS",
+      "kind": "KC",
+      "pages": [
+        121,
+        121
+      ]
+    },
+    {
+      "id": "g_k71",
+      "title": "FACILITATOR-LED CASE SCENARIOS",
+      "kind": "KC",
+      "pages": [
+        122,
+        123
+      ]
+    },
+    {
+      "id": "g_k72",
+      "title": "MULTIPLE CHOICE QUESTIONS",
+      "kind": "KC",
+      "pages": [
+        124,
+        125
+      ]
+    },
+    {
+      "id": "g_m6",
+      "title": "Module 5: Approach to altered mental status",
+      "kind": "MODULE",
+      "pages": [
+        127,
+        147
+      ]
+    },
+    {
+      "id": "g_k73",
+      "title": "Objectives",
+      "kind": "KC",
+      "pages": [
+        127,
+        127
+      ]
+    },
+    {
+      "id": "g_k74",
+      "title": "Essential skills",
+      "kind": "KC",
+      "pages": [
+        127,
+        127
+      ]
+    },
+    {
+      "id": "g_k75",
+      "title": "KEY TERMS",
+      "kind": "KC",
+      "pages": [
+        127,
+        128
+      ]
+    },
+    {
+      "id": "g_k76",
+      "title": "Overview",
+      "kind": "KC",
+      "pages": [
+        129,
+        129
+      ]
+    },
+    {
+      "id": "g_k77",
+      "title": "ABCDE: KEY ELEMENTS FOR ALTERED MENTAL STATUS",
+      "kind": "KC",
+      "pages": [
+        130,
+        130
+      ]
+    },
+    {
+      "id": "g_k78",
+      "title": "ASK: KEY HISTORY FINDINGS FOR PATIENTS WITH ALTERED MENTAL STATUS",
+      "kind": "KC",
+      "pages": [
+        130,
+        134
+      ]
+    },
+    {
+      "id": "g_k79",
+      "title": "CHECK: SECONDARY EXAMINATION FINDINGS IN ALTERED MENTAL STATUS",
+      "kind": "KC",
+      "pages": [
+        135,
+        136
+      ]
+    },
+    {
+      "id": "g_k80",
+      "title": "POSSIBLE CAUSES OF ALTERED MENTAL STATUS",
+      "kind": "KC",
+      "pages": [
+        137,
+        139
+      ]
+    },
+    {
+      "id": "g_k81",
+      "title": "DO: MANAGEMENT",
+      "kind": "KC",
+      "pages": [
+        140,
+        141
+      ]
+    },
+    {
+      "id": "g_k82",
+      "title": "SPECIAL CONSIDERATIONS",
+      "kind": "KC",
+      "pages": [
+        142,
+        143
+      ]
+    },
+    {
+      "id": "g_k83",
+      "title": "DISPOSITION CONSIDERATIONS",
+      "kind": "KC",
+      "pages": [
+        145,
+        145
+      ]
+    },
+    {
+      "id": "g_k84",
+      "title": "FACILITATOR-LED CASE SCENARIOS",
+      "kind": "KC",
+      "pages": [
+        145,
+        146
+      ]
+    },
+    {
+      "id": "g_k85",
+      "title": "MULTIPLE CHOICE QUESTIONS",
+      "kind": "KC",
+      "pages": [
+        147,
+        147
+      ]
+    },
+    {
+      "id": "g_m7",
+      "title": "WHO BASIC EMERGENCY CARE [SKILLS]",
+      "kind": "MODULE",
+      "pages": [
+        149,
+        209
+      ]
+    },
+    {
+      "id": "g_u6",
+      "title": "SKILLS",
+      "kind": "UNIT",
+      "pages": [
+        153,
+        209
+      ]
+    },
+    {
+      "id": "g_k86",
+      "title": "1. AIRWAY SKILL STATIONS",
+      "kind": "KC",
+      "pages": [
+        153,
+        161
+      ]
+    },
+    {
+      "id": "g_k87",
+      "title": "2. BREATHING SKILL STATIONS",
+      "kind": "KC",
+      "pages": [
+        162,
+        168
+      ]
+    },
+    {
+      "id": "g_k88",
+      "title": "3. CIRCULATION SKILL STATIONS",
+      "kind": "KC",
+      "pages": [
+        169,
+        183
+      ]
+    },
+    {
+      "id": "g_k89",
+      "title": "4. EXTENDED PHYSICAL EXAMINATION SKILL STATIONS",
+      "kind": "KC",
+      "pages": [
+        184,
+        186
+      ]
+    },
+    {
+      "id": "g_k90",
+      "title": "5. IMMOBILIZATION SKILL STATIONS",
+      "kind": "KC",
+      "pages": [
+        187,
+        195
+      ]
+    },
+    {
+      "id": "g_k91",
+      "title": "6. WOUND MANAGEMENT SKILL STATIONS",
+      "kind": "KC",
+      "pages": [
+        196,
+        201
+      ]
+    },
+    {
+      "id": "g_k92",
+      "title": "7. Medication administration skill discussion",
+      "kind": "KC",
+      "pages": [
+        202,
+        206
+      ]
+    },
+    {
+      "id": "g_k93",
+      "title": "8. Transfer and handover skills discussion",
+      "kind": "KC",
+      "pages": [
+        207,
+        209
+      ]
+    },
+    {
+      "id": "g_k94",
+      "title": "GLOSSARY",
+      "kind": "KC",
+      "pages": [
+        211,
+        221
+      ]
+    },
+    {
+      "id": "g_k95",
+      "title": "WHO sources",
+      "kind": "KC",
+      "pages": [
+        222,
+        222
+      ]
+    },
+    {
+      "id": "g_m8",
+      "title": "Basic Emergency Care Quick Cards",
+      "kind": "MODULE",
+      "pages": [
+        223,
+        238
+      ]
+    },
+    {
+      "id": "g_k96",
+      "title": "ABCDE APPROACH",
+      "kind": "KC",
+      "pages": [
+        225,
+        225
+      ]
+    },
+    {
+      "id": "g_k97",
+      "title": "APPROACH TO THE PATIENT WITH TRAUMA",
+      "kind": "KC",
+      "pages": [
+        227,
+        228
+      ]
+    },
+    {
+      "id": "g_k98",
+      "title": "APPROACH TO THE PATIENT WITH DIFFICULTY IN BREATHING",
+      "kind": "KC",
+      "pages": [
+        229,
+        230
+      ]
+    },
+    {
+      "id": "g_k99",
+      "title": "APPROACH TO THE PATIENT WITH SHOCK",
+      "kind": "KC",
+      "pages": [
+        231,
+        232
+      ]
+    },
+    {
+      "id": "g_k100",
+      "title": "APPROACH TO THE PATIENT WITH ALTERED MENTAL STATUS (AMS)",
+      "kind": "KC",
+      "pages": [
+        233,
+        234
+      ]
+    },
+    {
+      "id": "g_k101",
+      "title": "MEDICATIONS",
+      "kind": "KC",
+      "pages": [
+        235,
+        236
+      ]
+    },
+    {
+      "id": "g_k102",
+      "title": "TRANSFER AND HANDOVER",
+      "kind": "KC",
+      "pages": [
+        237,
+        238
+      ]
+    }
+  ],
+  "contains": [
+    [
+      "g_course",
+      "g_m1"
+    ],
+    [
+      "g_course",
+      "g_k14"
+    ],
+    [
+      "g_course",
+      "g_m2"
+    ],
+    [
+      "g_course",
+      "g_m3"
+    ],
+    [
+      "g_course",
+      "g_m4"
+    ],
+    [
+      "g_course",
+      "g_m5"
+    ],
+    [
+      "g_course",
+      "g_m6"
+    ],
+    [
+      "g_course",
+      "g_m7"
+    ],
+    [
+      "g_course",
+      "g_k94"
+    ],
+    [
+      "g_course",
+      "g_k95"
+    ],
+    [
+      "g_course",
+      "g_m8"
+    ],
+    [
+      "g_m1",
+      "g_u1"
+    ],
+    [
+      "g_m1",
+      "g_k3"
+    ],
+    [
+      "g_m1",
+      "g_k4"
+    ],
+    [
+      "g_m1",
+      "g_k5"
+    ],
+    [
+      "g_m1",
+      "g_k6"
+    ],
+    [
+      "g_m1",
+      "g_k7"
+    ],
+    [
+      "g_m1",
+      "g_k8"
+    ],
+    [
+      "g_m1",
+      "g_k9"
+    ],
+    [
+      "g_m1",
+      "g_k10"
+    ],
+    [
+      "g_m1",
+      "g_k11"
+    ],
+    [
+      "g_m1",
+      "g_k12"
+    ],
+    [
+      "g_m1",
+      "g_u2"
+    ],
+    [
+      "g_u1",
+      "g_k1"
+    ],
+    [
+      "g_u1",
+      "g_k2"
+    ],
+    [
+      "g_u2",
+      "g_k13"
+    ],
+    [
+      "g_m2",
+      "g_k15"
+    ],
+    [
+      "g_m2",
+      "g_k16"
+    ],
+    [
+      "g_m2",
+      "g_k17"
+    ],
+    [
+      "g_m2",
+      "g_k18"
+    ],
+    [
+      "g_m2",
+      "g_u3"
+    ],
+    [
+      "g_m2",
+      "g_k22"
+    ],
+    [
+      "g_m2",
+      "g_k23"
+    ],
+    [
+      "g_m2",
+      "g_k24"
+    ],
+    [
+      "g_m2",
+      "g_k25"
+    ],
+    [
+      "g_m2",
+      "g_k26"
+    ],
+    [
+      "g_m2",
+      "g_k27"
+    ],
+    [
+      "g_m2",
+      "g_k28"
+    ],
+    [
+      "g_m2",
+      "g_k29"
+    ],
+    [
+      "g_m2",
+      "g_k30"
+    ],
+    [
+      "g_u3",
+      "g_k19"
+    ],
+    [
+      "g_u3",
+      "g_k20"
+    ],
+    [
+      "g_u3",
+      "g_k21"
+    ],
+    [
+      "g_m3",
+      "g_k31"
+    ],
+    [
+      "g_m3",
+      "g_k32"
+    ],
+    [
+      "g_m3",
+      "g_k33"
+    ],
+    [
+      "g_m3",
+      "g_u4"
+    ],
+    [
+      "g_m3",
+      "g_k36"
+    ],
+    [
+      "g_m3",
+      "g_k37"
+    ],
+    [
+      "g_m3",
+      "g_k38"
+    ],
+    [
+      "g_m3",
+      "g_k39"
+    ],
+    [
+      "g_m3",
+      "g_k40"
+    ],
+    [
+      "g_m3",
+      "g_k41"
+    ],
+    [
+      "g_m3",
+      "g_u5"
+    ],
+    [
+      "g_m3",
+      "g_k43"
+    ],
+    [
+      "g_m3",
+      "g_k44"
+    ],
+    [
+      "g_m3",
+      "g_k45"
+    ],
+    [
+      "g_m3",
+      "g_k46"
+    ],
+    [
+      "g_u4",
+      "g_k34"
+    ],
+    [
+      "g_u4",
+      "g_k35"
+    ],
+    [
+      "g_u5",
+      "g_k42"
+    ],
+    [
+      "g_m4",
+      "g_k47"
+    ],
+    [
+      "g_m4",
+      "g_k48"
+    ],
+    [
+      "g_m4",
+      "g_k49"
+    ],
+    [
+      "g_m4",
+      "g_k50"
+    ],
+    [
+      "g_m4",
+      "g_k51"
+    ],
+    [
+      "g_m4",
+      "g_k52"
+    ],
+    [
+      "g_m4",
+      "g_k53"
+    ],
+    [
+      "g_m4",
+      "g_k54"
+    ],
+    [
+      "g_m4",
+      "g_k55"
+    ],
+    [
+      "g_m4",
+      "g_k56"
+    ],
+    [
+      "g_m4",
+      "g_k57"
+    ],
+    [
+      "g_m4",
+      "g_k58"
+    ],
+    [
+      "g_m4",
+      "g_k59"
+    ],
+    [
+      "g_m5",
+      "g_k60"
+    ],
+    [
+      "g_m5",
+      "g_k61"
+    ],
+    [
+      "g_m5",
+      "g_k62"
+    ],
+    [
+      "g_m5",
+      "g_k63"
+    ],
+    [
+      "g_m5",
+      "g_k64"
+    ],
+    [
+      "g_m5",
+      "g_k65"
+    ],
+    [
+      "g_m5",
+      "g_k66"
+    ],
+    [
+      "g_m5",
+      "g_k67"
+    ],
+    [
+      "g_m5",
+      "g_k68"
+    ],
+    [
+      "g_m5",
+      "g_k69"
+    ],
+    [
+      "g_m5",
+      "g_k70"
+    ],
+    [
+      "g_m5",
+      "g_k71"
+    ],
+    [
+      "g_m5",
+      "g_k72"
+    ],
+    [
+      "g_m6",
+      "g_k73"
+    ],
+    [
+      "g_m6",
+      "g_k74"
+    ],
+    [
+      "g_m6",
+      "g_k75"
+    ],
+    [
+      "g_m6",
+      "g_k76"
+    ],
+    [
+      "g_m6",
+      "g_k77"
+    ],
+    [
+      "g_m6",
+      "g_k78"
+    ],
+    [
+      "g_m6",
+      "g_k79"
+    ],
+    [
+      "g_m6",
+      "g_k80"
+    ],
+    [
+      "g_m6",
+      "g_k81"
+    ],
+    [
+      "g_m6",
+      "g_k82"
+    ],
+    [
+      "g_m6",
+      "g_k83"
+    ],
+    [
+      "g_m6",
+      "g_k84"
+    ],
+    [
+      "g_m6",
+      "g_k85"
+    ],
+    [
+      "g_m7",
+      "g_u6"
+    ],
+    [
+      "g_u6",
+      "g_k86"
+    ],
+    [
+      "g_u6",
+      "g_k87"
+    ],
+    [
+      "g_u6",
+      "g_k88"
+    ],
+    [
+      "g_u6",
+      "g_k89"
+    ],
+    [
+      "g_u6",
+      "g_k90"
+    ],
+    [
+      "g_u6",
+      "g_k91"
+    ],
+    [
+      "g_u6",
+      "g_k92"
+    ],
+    [
+      "g_u6",
+      "g_k93"
+    ],
+    [
+      "g_m8",
+      "g_k96"
+    ],
+    [
+      "g_m8",
+      "g_k97"
+    ],
+    [
+      "g_m8",
+      "g_k98"
+    ],
+    [
+      "g_m8",
+      "g_k99"
+    ],
+    [
+      "g_m8",
+      "g_k100"
+    ],
+    [
+      "g_m8",
+      "g_k101"
+    ],
+    [
+      "g_m8",
+      "g_k102"
+    ]
+  ],
+  "sequence": [
+    [
+      "g_m1",
+      "g_k14"
+    ],
+    [
+      "g_k14",
+      "g_m2"
+    ],
+    [
+      "g_m2",
+      "g_m3"
+    ],
+    [
+      "g_m3",
+      "g_m4"
+    ],
+    [
+      "g_m4",
+      "g_m5"
+    ],
+    [
+      "g_m5",
+      "g_m6"
+    ],
+    [
+      "g_m6",
+      "g_m7"
+    ],
+    [
+      "g_m7",
+      "g_k94"
+    ],
+    [
+      "g_k94",
+      "g_k95"
+    ],
+    [
+      "g_k95",
+      "g_m8"
+    ],
+    [
+      "g_u1",
+      "g_k3"
+    ],
+    [
+      "g_k3",
+      "g_k4"
+    ],
+    [
+      "g_k4",
+      "g_k5"
+    ],
+    [
+      "g_k5",
+      "g_k6"
+    ],
+    [
+      "g_k6",
+      "g_k7"
+    ],
+    [
+      "g_k7",
+      "g_k8"
+    ],
+    [
+      "g_k8",
+      "g_k9"
+    ],
+    [
+      "g_k9",
+      "g_k10"
+    ],
+    [
+      "g_k10",
+      "g_k11"
+    ],
+    [
+      "g_k11",
+      "g_k12"
+    ],
+    [
+      "g_k12",
+      "g_u2"
+    ],
+    [
+      "g_k1",
+      "g_k2"
+    ],
+    [
+      "g_k15",
+      "g_k16"
+    ],
+    [
+      "g_k16",
+      "g_k17"
+    ],
+    [
+      "g_k17",
+      "g_k18"
+    ],
+    [
+      "g_k18",
+      "g_u3"
+    ],
+    [
+      "g_u3",
+      "g_k22"
+    ],
+    [
+      "g_k22",
+      "g_k23"
+    ],
+    [
+      "g_k23",
+      "g_k24"
+    ],
+    [
+      "g_k24",
+      "g_k25"
+    ],
+    [
+      "g_k25",
+      "g_k26"
+    ],
+    [
+      "g_k26",
+      "g_k27"
+    ],
+    [
+      "g_k27",
+      "g_k28"
+    ],
+    [
+      "g_k28",
+      "g_k29"
+    ],
+    [
+      "g_k29",
+      "g_k30"
+    ],
+    [
+      "g_k19",
+      "g_k20"
+    ],
+    [
+      "g_k20",
+      "g_k21"
+    ],
+    [
+      "g_k31",
+      "g_k32"
+    ],
+    [
+      "g_k32",
+      "g_k33"
+    ],
+    [
+      "g_k33",
+      "g_u4"
+    ],
+    [
+      "g_u4",
+      "g_k36"
+    ],
+    [
+      "g_k36",
+      "g_k37"
+    ],
+    [
+      "g_k37",
+      "g_k38"
+    ],
+    [
+      "g_k38",
+      "g_k39"
+    ],
+    [
+      "g_k39",
+      "g_k40"
+    ],
+    [
+      "g_k40",
+      "g_k41"
+    ],
+    [
+      "g_k41",
+      "g_u5"
+    ],
+    [
+      "g_u5",
+      "g_k43"
+    ],
+    [
+      "g_k43",
+      "g_k44"
+    ],
+    [
+      "g_k44",
+      "g_k45"
+    ],
+    [
+      "g_k45",
+      "g_k46"
+    ],
+    [
+      "g_k34",
+      "g_k35"
+    ],
+    [
+      "g_k47",
+      "g_k48"
+    ],
+    [
+      "g_k48",
+      "g_k49"
+    ],
+    [
+      "g_k49",
+      "g_k50"
+    ],
+    [
+      "g_k50",
+      "g_k51"
+    ],
+    [
+      "g_k51",
+      "g_k52"
+    ],
+    [
+      "g_k52",
+      "g_k53"
+    ],
+    [
+      "g_k53",
+      "g_k54"
+    ],
+    [
+      "g_k54",
+      "g_k55"
+    ],
+    [
+      "g_k55",
+      "g_k56"
+    ],
+    [
+      "g_k56",
+      "g_k57"
+    ],
+    [
+      "g_k57",
+      "g_k58"
+    ],
+    [
+      "g_k58",
+      "g_k59"
+    ],
+    [
+      "g_k60",
+      "g_k61"
+    ],
+    [
+      "g_k61",
+      "g_k62"
+    ],
+    [
+      "g_k62",
+      "g_k63"
+    ],
+    [
+      "g_k63",
+      "g_k64"
+    ],
+    [
+      "g_k64",
+      "g_k65"
+    ],
+    [
+      "g_k65",
+      "g_k66"
+    ],
+    [
+      "g_k66",
+      "g_k67"
+    ],
+    [
+      "g_k67",
+      "g_k68"
+    ],
+    [
+      "g_k68",
+      "g_k69"
+    ],
+    [
+      "g_k69",
+      "g_k70"
+    ],
+    [
+      "g_k70",
+      "g_k71"
+    ],
+    [
+      "g_k71",
+      "g_k72"
+    ],
+    [
+      "g_k73",
+      "g_k74"
+    ],
+    [
+      "g_k74",
+      "g_k75"
+    ],
+    [
+      "g_k75",
+      "g_k76"
+    ],
+    [
+      "g_k76",
+      "g_k77"
+    ],
+    [
+      "g_k77",
+      "g_k78"
+    ],
+    [
+      "g_k78",
+      "g_k79"
+    ],
+    [
+      "g_k79",
+      "g_k80"
+    ],
+    [
+      "g_k80",
+      "g_k81"
+    ],
+    [
+      "g_k81",
+      "g_k82"
+    ],
+    [
+      "g_k82",
+      "g_k83"
+    ],
+    [
+      "g_k83",
+      "g_k84"
+    ],
+    [
+      "g_k84",
+      "g_k85"
+    ],
+    [
+      "g_k86",
+      "g_k87"
+    ],
+    [
+      "g_k87",
+      "g_k88"
+    ],
+    [
+      "g_k88",
+      "g_k89"
+    ],
+    [
+      "g_k89",
+      "g_k90"
+    ],
+    [
+      "g_k90",
+      "g_k91"
+    ],
+    [
+      "g_k91",
+      "g_k92"
+    ],
+    [
+      "g_k92",
+      "g_k93"
+    ],
+    [
+      "g_k96",
+      "g_k97"
+    ],
+    [
+      "g_k97",
+      "g_k98"
+    ],
+    [
+      "g_k98",
+      "g_k99"
+    ],
+    [
+      "g_k99",
+      "g_k100"
+    ],
+    [
+      "g_k100",
+      "g_k101"
+    ],
+    [
+      "g_k101",
+      "g_k102"
+    ]
+  ],
+  "grounding": {
+    "g_m1": {
+      "pages": [
+        9,
+        16
+      ],
+      "heading_path": [
+        "INTRODUCTION"
+      ]
+    },
+    "g_u1": {
+      "pages": [
+        10,
+        12
+      ],
+      "heading_path": [
+        "INTRODUCTION",
+        "Scope of the course"
+      ]
+    },
+    "g_k1": {
+      "pages": [
+        10,
+        10
+      ],
+      "heading_path": [
+        "INTRODUCTION",
+        "Scope of the course",
+        "Key acute presentations"
+      ]
+    },
+    "g_k2": {
+      "pages": [
+        10,
+        11
+      ],
+      "heading_path": [
+        "INTRODUCTION",
+        "Scope of the course",
+        "Other emergency presentations"
+      ]
+    },
+    "g_k3": {
+      "pages": [
+        11,
+        11
+      ],
+      "heading_path": [
+        "INTRODUCTION",
+        "Special considerations for fever"
+      ]
+    },
+    "g_k4": {
+      "pages": [
+        11,
+        11
+      ],
+      "heading_path": [
+        "INTRODUCTION",
+        "Obstetric delivery and neonatal resuscitation"
+      ]
+    },
+    "g_k5": {
+      "pages": [
+        12,
+        12
+      ],
+      "heading_path": [
+        "INTRODUCTION",
+        "Expected participant background knowledge"
+      ]
+    },
+    "g_k6": {
+      "pages": [
+        12,
+        12
+      ],
+      "heading_path": [
+        "INTRODUCTION",
+        "Cardiopulmonary resuscitation (CPR)"
+      ]
+    },
+    "g_k7": {
+      "pages": [
+        12,
+        12
+      ],
+      "heading_path": [
+        "INTRODUCTION",
+        "Medication"
+      ]
+    },
+    "g_k8": {
+      "pages": [
+        12,
+        13
+      ],
+      "heading_path": [
+        "INTRODUCTION",
+        "Handover/transfer"
+      ]
+    },
+    "g_k9": {
+      "pages": [
+        13,
+        13
+      ],
+      "heading_path": [
+        "INTRODUCTION",
+        "Triage"
+      ]
+    },
+    "g_k10": {
+      "pages": [
+        13,
+        14
+      ],
+      "heading_path": [
+        "INTRODUCTION",
+        "Approach to the emergency patient"
+      ]
+    },
+    "g_k11": {
+      "pages": [
+        14,
+        15
+      ],
+      "heading_path": [
+        "INTRODUCTION",
+        "How to use this Participant Workbook"
+      ]
+    },
+    "g_k12": {
+      "pages": [
+        14,
+        15
+      ],
+      "heading_path": [
+        "INTRODUCTION",
+        "Module format"
+      ]
+    },
+    "g_u2": {
+      "pages": [
+        15,
+        16
+      ],
+      "heading_path": [
+        "INTRODUCTION",
+        "Participant requirements"
+      ]
+    },
+    "g_k13": {
+      "pages": [
+        16,
+        16
+      ],
+      "heading_path": [
+        "INTRODUCTION",
+        "Participant requirements",
+        "Written final exam"
+      ]
+    },
+    "g_k14": {
+      "pages": [
+        17,
+        18
+      ],
+      "heading_path": [
+        "The ABCDE and SAMPLE history approach"
+      ]
+    },
+    "g_m2": {
+      "pages": [
+        19,
+        43
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach"
+      ]
+    },
+    "g_k15": {
+      "pages": [
+        19,
+        19
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "OBJECTIVES"
+      ]
+    },
+    "g_k16": {
+      "pages": [
+        19,
+        19
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "Essential skills"
+      ]
+    },
+    "g_k17": {
+      "pages": [
+        20,
+        22
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "KEY TERMS"
+      ]
+    },
+    "g_k18": {
+      "pages": [
+        23,
+        23
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "OVERVIEW"
+      ]
+    },
+    "g_u3": {
+      "pages": [
+        23,
+        24
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "SAFETY CONSIDERATIONS"
+      ]
+    },
+    "g_k19": {
+      "pages": [
+        24,
+        24
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "SAFETY CONSIDERATIONS",
+        "USE PERSONAL PROTECTIVE EQUIPMENT"
+      ]
+    },
+    "g_k20": {
+      "pages": [
+        24,
+        24
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "SAFETY CONSIDERATIONS",
+        "CLEANING AND DECONTAMINATION"
+      ]
+    },
+    "g_k21": {
+      "pages": [
+        24,
+        24
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "SAFETY CONSIDERATIONS",
+        "ASK FOR MORE HELP IF NEEDED"
+      ]
+    },
+    "g_k22": {
+      "pages": [
+        25,
+        25
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "ELEMENTS OF THE ABCDE APPROACH"
+      ]
+    },
+    "g_k23": {
+      "pages": [
+        26,
+        28
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "THE ABCDE ASSESSMENT AND MANAGEMENT"
+      ]
+    },
+    "g_k24": {
+      "pages": [
+        29,
+        34
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "ABCDE IN DEPTH: ACUTE, LIFE-THREATENING CONDITIONS"
+      ]
+    },
+    "g_k25": {
+      "pages": [
+        35,
+        37
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "PAEDIATRIC ABCDE CONSIDERATIONS"
+      ]
+    },
+    "g_k26": {
+      "pages": [
+        38,
+        39
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "Elements of the SAMPLE history"
+      ]
+    },
+    "g_k27": {
+      "pages": [
+        39,
+        39
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "DISPOSITION CONSIDERATIONS"
+      ]
+    },
+    "g_k28": {
+      "pages": [
+        40,
+        40
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "FOR REFERENCE: NORMAL VITAL SIGNS"
+      ]
+    },
+    "g_k29": {
+      "pages": [
+        41,
+        42
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "FACILITATOR-LED CASE SCENARIOS"
+      ]
+    },
+    "g_k30": {
+      "pages": [
+        43,
+        43
+      ],
+      "heading_path": [
+        "Module 1: The ABCDE and SAMPLE history approach",
+        "MULTIPLE CHOICE QUESTIONS"
+      ]
+    },
+    "g_m3": {
+      "pages": [
+        45,
+        81
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma"
+      ]
+    },
+    "g_k31": {
+      "pages": [
+        45,
+        45
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "Objectives"
+      ]
+    },
+    "g_k32": {
+      "pages": [
+        45,
+        45
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "Essential skills"
+      ]
+    },
+    "g_k33": {
+      "pages": [
+        45,
+        47
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "KEY TERMS"
+      ]
+    },
+    "g_u4": {
+      "pages": [
+        48,
+        48
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "Overview"
+      ]
+    },
+    "g_k34": {
+      "pages": [
+        48,
+        48
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "Overview",
+        "GENERAL PRINCIPLES OF TRAUMA CARE"
+      ]
+    },
+    "g_k35": {
+      "pages": [
+        48,
+        48
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "Overview",
+        "APPROACH TO TRAUMA"
+      ]
+    },
+    "g_k36": {
+      "pages": [
+        49,
+        51
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "ABCDE: TRAUMA PRIMARY SURVEY"
+      ]
+    },
+    "g_k37": {
+      "pages": [
+        52,
+        55
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "DO: IMPORTANT CONDITIONS TO RECOGNIZE AND MANAGE IN THE PRIMARY SURVEY"
+      ]
+    },
+    "g_k38": {
+      "pages": [
+        56,
+        60
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "ASK: KEY HISTORY FINDINGS FOR TRAUMA PATIENTS"
+      ]
+    },
+    "g_k39": {
+      "pages": [
+        60,
+        63
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "CHECK: TRAUMA SECONDARY SURVEY"
+      ]
+    },
+    "g_k40": {
+      "pages": [
+        65,
+        66
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "DO: IMPORTANT CONDITIONS TO RECOGNIZE AND MANAGE BASED ON HISTORY AND SECONDARY SURVEY"
+      ]
+    },
+    "g_k41": {
+      "pages": [
+        70,
+        71
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "SPECIAL CONSIDERATIONS"
+      ]
+    },
+    "g_u5": {
+      "pages": [
+        73,
+        74
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "SPECIAL POPULATIONS"
+      ]
+    },
+    "g_k42": {
+      "pages": [
+        73,
+        74
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "SPECIAL POPULATIONS",
+        "TRAUMA IN PREGNANCY"
+      ]
+    },
+    "g_k43": {
+      "pages": [
+        75,
+        77
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "SPECIAL CONSIDERATIONS IN CHILDREN"
+      ]
+    },
+    "g_k44": {
+      "pages": [
+        78,
+        78
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "DISPOSITION CONSIDERATIONS"
+      ]
+    },
+    "g_k45": {
+      "pages": [
+        79,
+        80
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "FACILITATOR-LED CASE SCENARIOS"
+      ]
+    },
+    "g_k46": {
+      "pages": [
+        81,
+        81
+      ],
+      "heading_path": [
+        "Module 2: Approach to trauma",
+        "MULTIPLE CHOICE QUESTIONS"
+      ]
+    },
+    "g_m4": {
+      "pages": [
+        83,
+        102
+      ],
+      "heading_path": [
+        "Module 3: Approach to difficulty in breathing"
+      ]
+    },
+    "g_k47": {
+      "pages": [
+        83,
+        83
+      ],
+      "heading_path": [
+        "Module 3: Approach to difficulty in breathing",
+        "Objectives"
+      ]
+    },
+    "g_k48": {
+      "pages": [
+        83,
+        83
+      ],
+      "heading_path": [
+        "Module 3: Approach to difficulty in breathing",
+        "Essential skills"
+      ]
+    },
+    "g_k49": {
+      "pages": [
+        83,
+        85
+      ],
+      "heading_path": [
+        "Module 3: Approach to difficulty in breathing",
+        "KEY TERMS"
+      ]
+    },
+    "g_k50": {
+      "pages": [
+        85,
+        85
+      ],
+      "heading_path": [
+        "Module 3: Approach to difficulty in breathing",
+        "Overview"
+      ]
+    },
+    "g_k51": {
+      "pages": [
+        86,
+        87
+      ],
+      "heading_path": [
+        "Module 3: Approach to difficulty in breathing",
+        "ABCDE: KEY ELEMENTS FOR PATIENTS WITH DIFFICULTY IN BREATHING"
+      ]
+    },
+    "g_k52": {
+      "pages": [
+        87,
+        89
+      ],
+      "heading_path": [
+        "Module 3: Approach to difficulty in breathing",
+        "ASK: KEY HISTORY FINDINGS FOR PATIENTS WITH DIFFICULTY IN BREATHING"
+      ]
+    },
+    "g_k53": {
+      "pages": [
+        90,
+        92
+      ],
+      "heading_path": [
+        "Module 3: Approach to difficulty in breathing",
+        "CHECK: SECONDARY EXAMINATION FINDINGS FOR PATIENTS WITH DIFFICULTY IN BREATHING"
+      ]
+    },
+    "g_k54": {
+      "pages": [
+        93,
+        96
+      ],
+      "heading_path": [
+        "Module 3: Approach to difficulty in breathing",
+        "POSSIBLE CAUSES OF DIFFICULTY IN BREATHING"
+      ]
+    },
+    "g_k55": {
+      "pages": [
+        97,
+        98
+      ],
+      "heading_path": [
+        "Module 3: Approach to difficulty in breathing",
+        "DO: MANAGEMENT"
+      ]
+    },
+    "g_k56": {
+      "pages": [
+        98,
+        98
+      ],
+      "heading_path": [
+        "Module 3: Approach to difficulty in breathing",
+        "SPECIAL CONSIDERATIONS IN CHILDREN"
+      ]
+    },
+    "g_k57": {
+      "pages": [
+        99,
+        99
+      ],
+      "heading_path": [
+        "Module 3: Approach to difficulty in breathing",
+        "DISPOSITION CONSIDERATIONS"
+      ]
+    },
+    "g_k58": {
+      "pages": [
+        100,
+        101
+      ],
+      "heading_path": [
+        "Module 3: Approach to difficulty in breathing",
+        "FACILITATOR-LED CASE SCENARIOS"
+      ]
+    },
+    "g_k59": {
+      "pages": [
+        102,
+        102
+      ],
+      "heading_path": [
+        "Module 3: Approach to difficulty in breathing",
+        "MULTIPLE CHOICE QUESTIONS"
+      ]
+    },
+    "g_m5": {
+      "pages": [
+        103,
+        125
+      ],
+      "heading_path": [
+        "Module 4: Approach to shock"
+      ]
+    },
+    "g_k60": {
+      "pages": [
+        103,
+        103
+      ],
+      "heading_path": [
+        "Module 4: Approach to shock",
+        "Objectives"
+      ]
+    },
+    "g_k61": {
+      "pages": [
+        103,
+        103
+      ],
+      "heading_path": [
+        "Module 4: Approach to shock",
+        "Essential skills"
+      ]
+    },
+    "g_k62": {
+      "pages": [
+        103,
+        104
+      ],
+      "heading_path": [
+        "Module 4: Approach to shock",
+        "KEY TERMS"
+      ]
+    },
+    "g_k63": {
+      "pages": [
+        105,
+        105
+      ],
+      "heading_path": [
+        "Module 4: Approach to shock",
+        "Overview"
+      ]
+    },
+    "g_k64": {
+      "pages": [
+        106,
+        106
+      ],
+      "heading_path": [
+        "Module 4: Approach to shock",
+        "ABCDE: KEY ELEMENTS IN SHOCK"
+      ]
+    },
+    "g_k65": {
+      "pages": [
+        106,
+        108
+      ],
+      "heading_path": [
+        "Module 4: Approach to shock",
+        "ASK: KEY HISTORY FINDINGS IN SHOCK"
+      ]
+    },
+    "g_k66": {
+      "pages": [
+        109,
+        111
+      ],
+      "heading_path": [
+        "Module 4: Approach to shock",
+        "CHECK: SECONDARY EXAMINATION FINDINGS IN SHOCK"
+      ]
+    },
+    "g_k67": {
+      "pages": [
+        112,
+        114
+      ],
+      "heading_path": [
+        "Module 4: Approach to shock",
+        "POSSIBLE CAUSES OF SHOCK"
+      ]
+    },
+    "g_k68": {
+      "pages": [
+        115,
+        119
+      ],
+      "heading_path": [
+        "Module 4: Approach to shock",
+        "DO: MANAGEMENT"
+      ]
+    },
+    "g_k69": {
+      "pages": [
+        120,
+        121
+      ],
+      "heading_path": [
+        "Module 4: Approach to shock",
+        "SPECIAL CONSIDERATIONS IN CHILDREN"
+      ]
+    },
+    "g_k70": {
+      "pages": [
+        121,
+        121
+      ],
+      "heading_path": [
+        "Module 4: Approach to shock",
+        "DISPOSITION CONSIDERATIONS"
+      ]
+    },
+    "g_k71": {
+      "pages": [
+        122,
+        123
+      ],
+      "heading_path": [
+        "Module 4: Approach to shock",
+        "FACILITATOR-LED CASE SCENARIOS"
+      ]
+    },
+    "g_k72": {
+      "pages": [
+        124,
+        125
+      ],
+      "heading_path": [
+        "Module 4: Approach to shock",
+        "MULTIPLE CHOICE QUESTIONS"
+      ]
+    },
+    "g_m6": {
+      "pages": [
+        127,
+        147
+      ],
+      "heading_path": [
+        "Module 5: Approach to altered mental status"
+      ]
+    },
+    "g_k73": {
+      "pages": [
+        127,
+        127
+      ],
+      "heading_path": [
+        "Module 5: Approach to altered mental status",
+        "Objectives"
+      ]
+    },
+    "g_k74": {
+      "pages": [
+        127,
+        127
+      ],
+      "heading_path": [
+        "Module 5: Approach to altered mental status",
+        "Essential skills"
+      ]
+    },
+    "g_k75": {
+      "pages": [
+        127,
+        128
+      ],
+      "heading_path": [
+        "Module 5: Approach to altered mental status",
+        "KEY TERMS"
+      ]
+    },
+    "g_k76": {
+      "pages": [
+        129,
+        129
+      ],
+      "heading_path": [
+        "Module 5: Approach to altered mental status",
+        "Overview"
+      ]
+    },
+    "g_k77": {
+      "pages": [
+        130,
+        130
+      ],
+      "heading_path": [
+        "Module 5: Approach to altered mental status",
+        "ABCDE: KEY ELEMENTS FOR ALTERED MENTAL STATUS"
+      ]
+    },
+    "g_k78": {
+      "pages": [
+        130,
+        134
+      ],
+      "heading_path": [
+        "Module 5: Approach to altered mental status",
+        "ASK: KEY HISTORY FINDINGS FOR PATIENTS WITH ALTERED MENTAL STATUS"
+      ]
+    },
+    "g_k79": {
+      "pages": [
+        135,
+        136
+      ],
+      "heading_path": [
+        "Module 5: Approach to altered mental status",
+        "CHECK: SECONDARY EXAMINATION FINDINGS IN ALTERED MENTAL STATUS"
+      ]
+    },
+    "g_k80": {
+      "pages": [
+        137,
+        139
+      ],
+      "heading_path": [
+        "Module 5: Approach to altered mental status",
+        "POSSIBLE CAUSES OF ALTERED MENTAL STATUS"
+      ]
+    },
+    "g_k81": {
+      "pages": [
+        140,
+        141
+      ],
+      "heading_path": [
+        "Module 5: Approach to altered mental status",
+        "DO: MANAGEMENT"
+      ]
+    },
+    "g_k82": {
+      "pages": [
+        142,
+        143
+      ],
+      "heading_path": [
+        "Module 5: Approach to altered mental status",
+        "SPECIAL CONSIDERATIONS"
+      ]
+    },
+    "g_k83": {
+      "pages": [
+        145,
+        145
+      ],
+      "heading_path": [
+        "Module 5: Approach to altered mental status",
+        "DISPOSITION CONSIDERATIONS"
+      ]
+    },
+    "g_k84": {
+      "pages": [
+        145,
+        146
+      ],
+      "heading_path": [
+        "Module 5: Approach to altered mental status",
+        "FACILITATOR-LED CASE SCENARIOS"
+      ]
+    },
+    "g_k85": {
+      "pages": [
+        147,
+        147
+      ],
+      "heading_path": [
+        "Module 5: Approach to altered mental status",
+        "MULTIPLE CHOICE QUESTIONS"
+      ]
+    },
+    "g_m7": {
+      "pages": [
+        149,
+        209
+      ],
+      "heading_path": [
+        "WHO BASIC EMERGENCY CARE [SKILLS]"
+      ]
+    },
+    "g_u6": {
+      "pages": [
+        153,
+        209
+      ],
+      "heading_path": [
+        "WHO BASIC EMERGENCY CARE [SKILLS]",
+        "SKILLS"
+      ]
+    },
+    "g_k86": {
+      "pages": [
+        153,
+        161
+      ],
+      "heading_path": [
+        "WHO BASIC EMERGENCY CARE [SKILLS]",
+        "SKILLS",
+        "1. AIRWAY SKILL STATIONS"
+      ]
+    },
+    "g_k87": {
+      "pages": [
+        162,
+        168
+      ],
+      "heading_path": [
+        "WHO BASIC EMERGENCY CARE [SKILLS]",
+        "SKILLS",
+        "2. BREATHING SKILL STATIONS"
+      ]
+    },
+    "g_k88": {
+      "pages": [
+        169,
+        183
+      ],
+      "heading_path": [
+        "WHO BASIC EMERGENCY CARE [SKILLS]",
+        "SKILLS",
+        "3. CIRCULATION SKILL STATIONS"
+      ]
+    },
+    "g_k89": {
+      "pages": [
+        184,
+        186
+      ],
+      "heading_path": [
+        "WHO BASIC EMERGENCY CARE [SKILLS]",
+        "SKILLS",
+        "4. EXTENDED PHYSICAL EXAMINATION SKILL STATIONS"
+      ]
+    },
+    "g_k90": {
+      "pages": [
+        187,
+        195
+      ],
+      "heading_path": [
+        "WHO BASIC EMERGENCY CARE [SKILLS]",
+        "SKILLS",
+        "5. IMMOBILIZATION SKILL STATIONS"
+      ]
+    },
+    "g_k91": {
+      "pages": [
+        196,
+        201
+      ],
+      "heading_path": [
+        "WHO BASIC EMERGENCY CARE [SKILLS]",
+        "SKILLS",
+        "6. WOUND MANAGEMENT SKILL STATIONS"
+      ]
+    },
+    "g_k92": {
+      "pages": [
+        202,
+        206
+      ],
+      "heading_path": [
+        "WHO BASIC EMERGENCY CARE [SKILLS]",
+        "SKILLS",
+        "7. Medication administration skill discussion"
+      ]
+    },
+    "g_k93": {
+      "pages": [
+        207,
+        209
+      ],
+      "heading_path": [
+        "WHO BASIC EMERGENCY CARE [SKILLS]",
+        "SKILLS",
+        "8. Transfer and handover skills discussion"
+      ]
+    },
+    "g_k94": {
+      "pages": [
+        211,
+        221
+      ],
+      "heading_path": [
+        "GLOSSARY"
+      ]
+    },
+    "g_k95": {
+      "pages": [
+        222,
+        222
+      ],
+      "heading_path": [
+        "WHO sources"
+      ]
+    },
+    "g_m8": {
+      "pages": [
+        223,
+        238
+      ],
+      "heading_path": [
+        "Basic Emergency Care Quick Cards"
+      ]
+    },
+    "g_k96": {
+      "pages": [
+        225,
+        225
+      ],
+      "heading_path": [
+        "Basic Emergency Care Quick Cards",
+        "ABCDE APPROACH"
+      ]
+    },
+    "g_k97": {
+      "pages": [
+        227,
+        228
+      ],
+      "heading_path": [
+        "Basic Emergency Care Quick Cards",
+        "APPROACH TO THE PATIENT WITH TRAUMA"
+      ]
+    },
+    "g_k98": {
+      "pages": [
+        229,
+        230
+      ],
+      "heading_path": [
+        "Basic Emergency Care Quick Cards",
+        "APPROACH TO THE PATIENT WITH DIFFICULTY IN BREATHING"
+      ]
+    },
+    "g_k99": {
+      "pages": [
+        231,
+        232
+      ],
+      "heading_path": [
+        "Basic Emergency Care Quick Cards",
+        "APPROACH TO THE PATIENT WITH SHOCK"
+      ]
+    },
+    "g_k100": {
+      "pages": [
+        233,
+        234
+      ],
+      "heading_path": [
+        "Basic Emergency Care Quick Cards",
+        "APPROACH TO THE PATIENT WITH ALTERED MENTAL STATUS (AMS)"
+      ]
+    },
+    "g_k101": {
+      "pages": [
+        235,
+        236
+      ],
+      "heading_path": [
+        "Basic Emergency Care Quick Cards",
+        "MEDICATIONS"
+      ]
+    },
+    "g_k102": {
+      "pages": [
+        237,
+        238
+      ],
+      "heading_path": [
+        "Basic Emergency Care Quick Cards",
+        "TRANSFER AND HANDOVER"
+      ]
+    }
+  },
+  "annotation_decisions": [
+    "The table of contents is navigation evidence only and is excluded as a node.",
+    "Only source-visible headings are retained; paraphrased body-text concepts are not introduced.",
+    "Module format is a sibling heading under INTRODUCTION, not a child of How to use this Participant Workbook.",
+    "Skills-section page spans were corrected from the physical PDF.",
+    "Notes pages are not absorbed into preceding modules unless they contain structural content.",
+    "Strict compiler typing is applied deterministically from the final hierarchy."
+  ]
+}

@@ -1,0 +1,6959 @@
+{
+  "source_pdf": "GDO_incendies_de_structures_2018(1).pdf",
+  "source_title": "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+  "note": "Gold ECG built conservatively from the printed sommaire of the PDF and compiled under the strict hierarchy COURSE > MODULE > UNIT > KC. Children of COURSE with descendants are MODULE; other internal nodes with descendants are UNIT; leaves are KC.",
+  "nodes": [
+    {
+      "id": "COURSE_59526c701d58",
+      "title": "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+      "kind": "COURSE",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161
+      ]
+    },
+    {
+      "id": "KC_42956fe1c1c2",
+      "title": "PREFACE",
+      "kind": "KC",
+      "pages": [
+        9
+      ],
+      "role": "front_matter"
+    },
+    {
+      "id": "KC_7293dc309698",
+      "title": "LEXIQUE",
+      "kind": "KC",
+      "pages": [
+        17
+      ],
+      "role": "front_matter"
+    },
+    {
+      "id": "MODULE_516decac5da6",
+      "title": "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+      "kind": "MODULE",
+      "pages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "number": "CHAPITRE 1",
+      "role": "chapter"
+    },
+    {
+      "id": "UNIT_64bb7a1d7462",
+      "title": "SECTION I-CONNAISSANCE DU RISQUE",
+      "kind": "UNIT",
+      "pages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "number": "SECTION I-CONNAISSANCE DU RISQUE",
+      "role": "section"
+    },
+    {
+      "id": "UNIT_de6cbfaaf5ff",
+      "title": "1. NOTIONS ESSENTIELLES",
+      "kind": "UNIT",
+      "pages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "number": "1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_f8ae2bb04ef3",
+      "title": "1.1. Définitions/Généralités",
+      "kind": "UNIT",
+      "pages": [
+        19,
+        20
+      ],
+      "number": "1.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_61dbf62a6185",
+      "title": "1.1.1. Combustion",
+      "kind": "KC",
+      "pages": [
+        19
+      ],
+      "number": "1.1.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_97686ef34213",
+      "title": "1.1.2. Feu",
+      "kind": "KC",
+      "pages": [
+        20
+      ],
+      "number": "1.1.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_369072c33653",
+      "title": "1.1.3. Incendie",
+      "kind": "KC",
+      "pages": [
+        20
+      ],
+      "number": "1.1.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_6aad0dab7b20",
+      "title": "1.2. Physique et chimie du feu",
+      "kind": "KC",
+      "pages": [
+        20
+      ],
+      "number": "1.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_df9f39bc00a6",
+      "title": "1.3. Transferts de chaleur et modes de propagation",
+      "kind": "KC",
+      "pages": [
+        21
+      ],
+      "number": "1.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_2b0e8544ceda",
+      "title": "1.4. Notions de puissance",
+      "kind": "KC",
+      "pages": [
+        21
+      ],
+      "number": "1.4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_0a38bdbabfd6",
+      "title": "1.5. Caractéristiques des fumées",
+      "kind": "KC",
+      "pages": [
+        21
+      ],
+      "number": "1.5.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_ddf5c74b101d",
+      "title": "1.6. Phases de développement du feu",
+      "kind": "KC",
+      "pages": [
+        22
+      ],
+      "number": "1.6.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_40294d7a0148",
+      "title": "1.7. Phénomènes thermiques / Progression rapide du feu",
+      "kind": "UNIT",
+      "pages": [
+        23,
+        24,
+        25
+      ],
+      "number": "1.7.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_3da2544db6ac",
+      "title": "1.7.1. Famille des Flashover",
+      "kind": "KC",
+      "pages": [
+        24
+      ],
+      "number": "1.7.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_0f9661a45337",
+      "title": "1.7.2. « Backdraft »",
+      "kind": "KC",
+      "pages": [
+        24
+      ],
+      "number": "1.7.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_6764bf8cbe06",
+      "title": "1.7.3. Famille des Fire Gas Ignition (FGI)",
+      "kind": "KC",
+      "pages": [
+        24
+      ],
+      "number": "1.7.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_a73eea505e56",
+      "title": "1.7.4. Synthèse des phénomènes à cinétique rapide",
+      "kind": "KC",
+      "pages": [
+        25
+      ],
+      "number": "1.7.4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_fa5f03e2e118",
+      "title": "2. LA STRUCTURE",
+      "kind": "UNIT",
+      "pages": [
+        27,
+        28,
+        29
+      ],
+      "number": "2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_0f1ebdecf2f6",
+      "title": "2.1. Comportement au feu selon les matériaux de construction",
+      "kind": "UNIT",
+      "pages": [
+        27,
+        28,
+        29
+      ],
+      "number": "2.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_d34e0ce0a680",
+      "title": "2.1.1. La résistance au feu",
+      "kind": "KC",
+      "pages": [
+        27
+      ],
+      "number": "2.1.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_fce8ee8af0a0",
+      "title": "2.1.2. La réaction au feu",
+      "kind": "KC",
+      "pages": [
+        27
+      ],
+      "number": "2.1.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_9b761cde9d66",
+      "title": "2.1.3. Application",
+      "kind": "KC",
+      "pages": [
+        27
+      ],
+      "number": "2.1.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_1541ddceea82",
+      "title": "2.1.4. Comportement au feu des structures selon la destination",
+      "kind": "KC",
+      "pages": [
+        27
+      ],
+      "number": "2.1.4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_0af250975a33",
+      "title": "2.1.5. Caractérisation du combustible",
+      "kind": "UNIT",
+      "pages": [
+        28
+      ],
+      "number": "2.1.5.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_a848dec64320",
+      "title": "2.1.5.1. Energie calorifique",
+      "kind": "KC",
+      "pages": [
+        28
+      ],
+      "number": "2.1.5.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_a912c25391ac",
+      "title": "2.1.5.2. Pouvoir calorifique",
+      "kind": "KC",
+      "pages": [
+        28
+      ],
+      "number": "2.1.5.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_008be9bad718",
+      "title": "2.1.5.3. Charge calorifique",
+      "kind": "KC",
+      "pages": [
+        28
+      ],
+      "number": "2.1.5.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_b4a419213c44",
+      "title": "2.1.5.4. Potentiel calorifique",
+      "kind": "KC",
+      "pages": [
+        28
+      ],
+      "number": "2.1.5.4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_4f05970ab12c",
+      "title": "2.1.6. Comportement du feu selon les dispositifs d’isolation et de cloisonnement",
+      "kind": "UNIT",
+      "pages": [
+        28,
+        29
+      ],
+      "number": "2.1.6.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_a220926aff4c",
+      "title": "2.1.6.1. Isolation du volume",
+      "kind": "KC",
+      "pages": [
+        28
+      ],
+      "number": "2.1.6.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_105ee7074dd6",
+      "title": "2.1.6.2. Cloisonnement des volumes entre eux",
+      "kind": "KC",
+      "pages": [
+        29
+      ],
+      "number": "2.1.6.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_a1169013fd75",
+      "title": "2.2. Lecture bâtimentaire (Évaluation d'une construction existante)",
+      "kind": "KC",
+      "pages": [
+        29
+      ],
+      "number": "2.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_2676cc7d1197",
+      "title": "3. MODELE DE REPRESENTATION DU SYSTEME FEU AU SEIN D’UN LOCAL",
+      "kind": "UNIT",
+      "pages": [
+        29,
+        30,
+        31
+      ],
+      "number": "3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_0b41bcd65ad4",
+      "title": "3.1. Modèle de Thomas",
+      "kind": "KC",
+      "pages": [
+        29
+      ],
+      "number": "3.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_f0dd4bc17a6d",
+      "title": "3.2. Transferts de masse",
+      "kind": "KC",
+      "pages": [
+        30
+      ],
+      "number": "3.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_327897f6b06d",
+      "title": "3.3. Transferts de chaleur",
+      "kind": "KC",
+      "pages": [
+        31
+      ],
+      "number": "3.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_85a9abd889db",
+      "title": "SECTION II - PRINCIPES DE MAITRISE ET D’EXTINCTION DU FEU",
+      "kind": "UNIT",
+      "pages": [
+        32,
+        33,
+        34
+      ],
+      "number": "SECTION II",
+      "role": "section"
+    },
+    {
+      "id": "KC_887062417018",
+      "title": "1. CONTROLER L’ARRIVEE D’AIR",
+      "kind": "KC",
+      "pages": [
+        32
+      ],
+      "number": "1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_ad79f51c6cbb",
+      "title": "2. AGIR SUR LES FUMEES ET GAZ CHAUDS",
+      "kind": "UNIT",
+      "pages": [
+        32,
+        33
+      ],
+      "number": "2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_92a3723b1c64",
+      "title": "2.1. Evacuer les fumées",
+      "kind": "KC",
+      "pages": [
+        32
+      ],
+      "number": "2.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_9f4d9be9241c",
+      "title": "2.2. Abaisser la température des fumées",
+      "kind": "KC",
+      "pages": [
+        33
+      ],
+      "number": "2.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_8467b5cf7d7c",
+      "title": "2.3. Agir sur la composition des fumées",
+      "kind": "KC",
+      "pages": [
+        33
+      ],
+      "number": "2.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_0c61487860f9",
+      "title": "3. AGIR SUR LE COMBUSTIBLE",
+      "kind": "KC",
+      "pages": [
+        33
+      ],
+      "number": "3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_a8e7c19cf641",
+      "title": "4. INTERROMPRE LA REACTION CHIMIQUE EN CHAINE",
+      "kind": "KC",
+      "pages": [
+        34
+      ],
+      "number": "4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_6e6e1f31aef2",
+      "title": "SECTION III - ANALYSE DE RISQUES",
+      "kind": "UNIT",
+      "pages": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "number": "SECTION III",
+      "role": "section"
+    },
+    {
+      "id": "KC_654ae8f3b4bc",
+      "title": "1. GENERALITES",
+      "kind": "KC",
+      "pages": [
+        34
+      ],
+      "number": "1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_70906293885e",
+      "title": "2. LES INDICATEURS",
+      "kind": "UNIT",
+      "pages": [
+        34,
+        35
+      ],
+      "number": "2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_1a2c89d27569",
+      "title": "2.1. Le bâtiment et sa destination",
+      "kind": "KC",
+      "pages": [
+        34
+      ],
+      "number": "2.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_9d2af9831415",
+      "title": "2.2. La fumée",
+      "kind": "KC",
+      "pages": [
+        35
+      ],
+      "number": "2.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_1166b011c199",
+      "title": "2.3. Les flammes",
+      "kind": "KC",
+      "pages": [
+        35
+      ],
+      "number": "2.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_8f29aa3f7d8f",
+      "title": "2.4. Les sons",
+      "kind": "KC",
+      "pages": [
+        35
+      ],
+      "number": "2.4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_7067fa4b5749",
+      "title": "2.5. La chaleur",
+      "kind": "KC",
+      "pages": [
+        35
+      ],
+      "number": "2.5.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_5b00045a9871",
+      "title": "3. LES TYPOLOGIES DE SITUATIONS OPERATIONNELLES",
+      "kind": "UNIT",
+      "pages": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "number": "3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_7518aabc6038",
+      "title": "3.1. Différents paramètres définissant une situation opérationnelle",
+      "kind": "KC",
+      "pages": [
+        36
+      ],
+      "number": "3.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_347c3c387630",
+      "title": "3.2. Critères de regroupement des situations type",
+      "kind": "KC",
+      "pages": [
+        36
+      ],
+      "number": "3.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_635d9ccd8273",
+      "title": "3.3. Quelques situations type",
+      "kind": "UNIT",
+      "pages": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "number": "3.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_0b9b0578d8c0",
+      "title": "3.3.1. Feux naissant",
+      "kind": "KC",
+      "pages": [
+        37
+      ],
+      "number": "3.3.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_001395b3d0af",
+      "title": "3.3.2. Feux en superstructure (en étages)",
+      "kind": "KC",
+      "pages": [
+        37
+      ],
+      "number": "3.3.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_0becc6d4cfab",
+      "title": "3.3.3. Feux en infrastructures (sous-sol)",
+      "kind": "KC",
+      "pages": [
+        38
+      ],
+      "number": "3.3.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_4bc1f10a7459",
+      "title": "3.3.4. Feux d’éléments de construction",
+      "kind": "UNIT",
+      "pages": [
+        38,
+        39,
+        40
+      ],
+      "number": "3.3.4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_516ce86ef25f",
+      "title": "3.3.4.1. Les feux de terrasses et toits-terrasses",
+      "kind": "KC",
+      "pages": [
+        38
+      ],
+      "number": "3.3.4.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_6d30ae49e7fc",
+      "title": "3.3.4.2. Les feux de combles",
+      "kind": "KC",
+      "pages": [
+        39
+      ],
+      "number": "3.3.4.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_22b2f1189a65",
+      "title": "3.3.4.3. Les feux de joints de dilatation",
+      "kind": "KC",
+      "pages": [
+        39
+      ],
+      "number": "3.3.4.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_9d0c0ad82805",
+      "title": "3.3.4.4. Les feux de façades",
+      "kind": "KC",
+      "pages": [
+        40
+      ],
+      "number": "3.3.4.4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_1e8a204c0882",
+      "title": "3.3.4.5. Les feux de cages d’escalier",
+      "kind": "KC",
+      "pages": [
+        40
+      ],
+      "number": "3.3.4.5.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_e3a342e559f8",
+      "title": "3.3.5. Equipements techniques",
+      "kind": "KC",
+      "pages": [
+        41
+      ],
+      "number": "3.3.5.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_d1b7198767aa",
+      "title": "4. ANALYSE DES CONTRAINTES ET DES RISQUES IMPACTANT L’HOMME",
+      "kind": "UNIT",
+      "pages": [
+        41,
+        42,
+        43
+      ],
+      "number": "4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_7a80e6cc5269",
+      "title": "4.1. Contraintes",
+      "kind": "KC",
+      "pages": [
+        41
+      ],
+      "number": "4.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_2e8e52a7cd17",
+      "title": "4.2. Risques physiologiques",
+      "kind": "KC",
+      "pages": [
+        42
+      ],
+      "number": "4.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_dd6f7a824ab2",
+      "title": "4.3. Risques ergonomiques",
+      "kind": "KC",
+      "pages": [
+        42
+      ],
+      "number": "4.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_c87bf109c51e",
+      "title": "4.4. Risques comportementaux",
+      "kind": "KC",
+      "pages": [
+        42
+      ],
+      "number": "4.4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_b9166a43cbcf",
+      "title": "4.5. Risques toxiques",
+      "kind": "KC",
+      "pages": [
+        42
+      ],
+      "number": "4.5.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_895717b501f3",
+      "title": "4.6. Risques phénomènes thermiques, explosion et explosion de poussière",
+      "kind": "KC",
+      "pages": [
+        43
+      ],
+      "number": "4.6.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_8a836d70b6e5",
+      "title": "4.7. Risques liés à la fragilisation des structures",
+      "kind": "KC",
+      "pages": [
+        43
+      ],
+      "number": "4.7.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_c8df0499a6bf",
+      "title": "4.8. Risques liés à l’électricité",
+      "kind": "KC",
+      "pages": [
+        43
+      ],
+      "number": "4.8.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_7b20400e8a1b",
+      "title": "4.9. Risques liés à la présence d’autres installations ou produits dangereux",
+      "kind": "KC",
+      "pages": [
+        43
+      ],
+      "number": "4.9.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "MODULE_d41bc93d437c",
+      "title": "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+      "kind": "MODULE",
+      "pages": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "number": "CHAPITRE 2",
+      "role": "chapter"
+    },
+    {
+      "id": "KC_04f99b54e39f",
+      "title": "SECTION I - DE LA DEFINITION DES OBJECTIFS OPERATIONNELS A LA DEMARCHE D’ AMELIORATION CONTINUE",
+      "kind": "KC",
+      "pages": [
+        45
+      ],
+      "number": "SECTION I",
+      "role": "section"
+    },
+    {
+      "id": "UNIT_62dbf3a533f9",
+      "title": "SECTION II - TACTIQUE GENERALE DE LUTTE CONTRE L’INCENDIE",
+      "kind": "UNIT",
+      "pages": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "number": "SECTION II",
+      "role": "section"
+    },
+    {
+      "id": "UNIT_55309bc179f6",
+      "title": "1. LE CHOIX TACTIQUE DU COS",
+      "kind": "UNIT",
+      "pages": [
+        48,
+        49
+      ],
+      "number": "1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_ae18318703c3",
+      "title": "1.1. L’évolution de la situation",
+      "kind": "KC",
+      "pages": [
+        48
+      ],
+      "number": "1.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_71deb5d115b0",
+      "title": "1.2. La sécurité",
+      "kind": "KC",
+      "pages": [
+        49
+      ],
+      "number": "1.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_229ad5acccd4",
+      "title": "1.3. Les moyens disponibles",
+      "kind": "KC",
+      "pages": [
+        49
+      ],
+      "number": "1.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_23664216e22a",
+      "title": "2. LES TYPOLOGIES DE TACTIQUES",
+      "kind": "UNIT",
+      "pages": [
+        49,
+        50
+      ],
+      "number": "2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_6b6e38ea61e1",
+      "title": "2.1. Tactiques offensives",
+      "kind": "KC",
+      "pages": [
+        50
+      ],
+      "number": "2.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_29f0dd34582a",
+      "title": "2.2. Tactiques défensives",
+      "kind": "KC",
+      "pages": [
+        50
+      ],
+      "number": "2.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_89d09ef70d36",
+      "title": "2.3. Tactiques de transition",
+      "kind": "KC",
+      "pages": [
+        50
+      ],
+      "number": "2.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_0eafe868e6a6",
+      "title": "3. LES CHOIX TACTIQUES DU COS D'UN DISPOSITIF OPERATIONNEL REDUIT",
+      "kind": "KC",
+      "pages": [
+        52
+      ],
+      "number": "3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_b0492b1f2b60",
+      "title": "SECTION III - PREPARATION A LA MISSION OPERATIONNELLE",
+      "kind": "UNIT",
+      "pages": [
+        53,
+        54,
+        55
+      ],
+      "number": "SECTION III",
+      "role": "section"
+    },
+    {
+      "id": "KC_ac69b18842c8",
+      "title": "1. LA PLANIFICATION OPERATIONNELLE",
+      "kind": "KC",
+      "pages": [
+        53
+      ],
+      "number": "1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_cfc0ac2aa900",
+      "title": "2. CONCEPTION DE LA REPONSE OPERATIONNELLE DE TERRAIN",
+      "kind": "KC",
+      "pages": [
+        53
+      ],
+      "number": "2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_ba3c70c8bea2",
+      "title": "3. IMPLICATION CITOYENNE",
+      "kind": "KC",
+      "pages": [
+        54
+      ],
+      "number": "3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_96cb22d93218",
+      "title": "4. LA PREPARATION DE L’INTERVENANT A L’OPERATION",
+      "kind": "UNIT",
+      "pages": [
+        54,
+        55
+      ],
+      "number": "4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_6d831ba9ee2e",
+      "title": "4.1. Maintenir et développer les compétences individuelles et collectives",
+      "kind": "UNIT",
+      "pages": [
+        54
+      ],
+      "number": "4.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_d659fcaca710",
+      "title": "4.1.1. Démarche individuelle",
+      "kind": "KC",
+      "pages": [
+        54
+      ],
+      "number": "4.1.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_4e0c38755c6b",
+      "title": "4.1.2. Démarche collective",
+      "kind": "KC",
+      "pages": [
+        54
+      ],
+      "number": "4.1.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_929c819533d9",
+      "title": "4.2. Aptitude physique et psychologique",
+      "kind": "UNIT",
+      "pages": [
+        55
+      ],
+      "number": "4.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_b3339913db49",
+      "title": "4.2.1. Préparation physique",
+      "kind": "KC",
+      "pages": [
+        55
+      ],
+      "number": "4.2.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_b363b0a6856b",
+      "title": "4.2.2. Préparation psychologique",
+      "kind": "KC",
+      "pages": [
+        55
+      ],
+      "number": "4.2.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_ee5982c298f4",
+      "title": "4.2.3. Prise en compte des conditions météorologiques et temporelles",
+      "kind": "KC",
+      "pages": [
+        55
+      ],
+      "number": "4.2.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_e1684bce96aa",
+      "title": "5. EQUIPEMENT EN MATERIELS DE LUTTE",
+      "kind": "KC",
+      "pages": [
+        55
+      ],
+      "number": "5.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_e3546e13e797",
+      "title": "SECTION IV – PRINCIPES FONDAMENTAUX DE LA SANTE ET SECURITE EN INTERVENTION :",
+      "kind": "UNIT",
+      "pages": [
+        56
+      ],
+      "number": "SECTION IV – PRINCIPES FONDAMENTAUX DE LA SANTE ET SECURITE EN INTERVENTION :",
+      "role": "section"
+    },
+    {
+      "id": "KC_6d20a577b6ad",
+      "title": "1. STRUCTURATION DE L’INTERVENTION",
+      "kind": "KC",
+      "pages": [
+        56
+      ],
+      "number": "1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_db11509ca61a",
+      "title": "2. COMMUNICATION",
+      "kind": "KC",
+      "pages": [
+        56
+      ],
+      "number": "2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_05ba4bd4c584",
+      "title": "3. PREVENTION DE L’ACCIDENT ET DE L’EXPOSITION AUX RISQUES ET ANTICIPATION DE L’ACCIDENT",
+      "kind": "KC",
+      "pages": [
+        56
+      ],
+      "number": "3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "MODULE_73fb9b098d26",
+      "title": "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+      "kind": "MODULE",
+      "pages": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
+      ],
+      "number": "CHAPITRE 3",
+      "role": "chapter"
+    },
+    {
+      "id": "UNIT_60820a2a2e35",
+      "title": "SECTION I - DE L’ ANALYSE DE LA SITUATION, A LA DEFINITION DES ACTIONS DE LUTTE",
+      "kind": "UNIT",
+      "pages": [
+        57,
+        58,
+        59
+      ],
+      "number": "SECTION I",
+      "role": "section"
+    },
+    {
+      "id": "KC_5b6feb0b6b3b",
+      "title": "1. QUALIFICATION DE LA SITUATION",
+      "kind": "KC",
+      "pages": [
+        57
+      ],
+      "number": "1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_74fe9a27f974",
+      "title": "2. RESULTAT DES ACTIONS ENGAGEES",
+      "kind": "KC",
+      "pages": [
+        58
+      ],
+      "number": "2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_107de0bf0166",
+      "title": "3. DE L'ALERTE A L'ARRIVEE SUR LES LIEUX - SE PROJETER DANS L'ACTION",
+      "kind": "UNIT",
+      "pages": [
+        58,
+        59
+      ],
+      "number": "3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_12e41c7492a6",
+      "title": "3.1. Outils aide à la prise de décision (départs types)",
+      "kind": "KC",
+      "pages": [
+        58
+      ],
+      "number": "3.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_7468c20749ea",
+      "title": "3.2. Le conseil à l’appelant",
+      "kind": "KC",
+      "pages": [
+        59
+      ],
+      "number": "3.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_bbad6970a3a0",
+      "title": "3.3. Exploitation des parcellaires et d’éventuels plans d'établissements répertoriés",
+      "kind": "KC",
+      "pages": [
+        59
+      ],
+      "number": "3.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_377f43ba1f93",
+      "title": "3.4. Le positionnement des engins",
+      "kind": "KC",
+      "pages": [
+        59
+      ],
+      "number": "3.4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_bf722e37c2ed",
+      "title": "SECTION II – SECURITE EN INTERVENTION",
+      "kind": "UNIT",
+      "pages": [
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "number": "SECTION II – SECURITE EN INTERVENTION",
+      "role": "section"
+    },
+    {
+      "id": "UNIT_979cbb24fc0d",
+      "title": "1. LA SECURITE DES INTERVENANTS",
+      "kind": "UNIT",
+      "pages": [
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
+      ],
+      "number": "1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_eb2236410e39",
+      "title": "1.1. Le rôle des différents intervenants en matière de sécurité",
+      "kind": "UNIT",
+      "pages": [
+        61,
+        62
+      ],
+      "number": "1.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_e5d2b1fb63fb",
+      "title": "1.1.1. L’intervenant équipier ou chef d’équipe",
+      "kind": "KC",
+      "pages": [
+        61
+      ],
+      "number": "1.1.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_bad20150f96d",
+      "title": "1.1.2. Le binôme",
+      "kind": "KC",
+      "pages": [
+        61
+      ],
+      "number": "1.1.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_a546c55f8821",
+      "title": "1.1.3. Le chef d’agrès",
+      "kind": "KC",
+      "pages": [
+        61
+      ],
+      "number": "1.1.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_5b5d57dd0647",
+      "title": "1.1.4. Le commandant des opérations de secours",
+      "kind": "KC",
+      "pages": [
+        62
+      ],
+      "number": "1.1.4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_3f94540d3159",
+      "title": "1.2. La protection collective",
+      "kind": "UNIT",
+      "pages": [
+        62,
+        63,
+        64,
+        65
+      ],
+      "number": "1.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_6cf0018fd9c7",
+      "title": "1.2.1. Le zonage opérationnel",
+      "kind": "KC",
+      "pages": [
+        62
+      ],
+      "number": "1.2.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_0fa669159255",
+      "title": "1.2.2. Binôme de sécurité",
+      "kind": "KC",
+      "pages": [
+        63
+      ],
+      "number": "1.2.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_5ae3f8900282",
+      "title": "1.2.3. Extraction des sauveteurs",
+      "kind": "UNIT",
+      "pages": [
+        64
+      ],
+      "number": "1.2.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_c8fbbcfeadae",
+      "title": "1.2.3.1. Appellations de façades",
+      "kind": "KC",
+      "pages": [
+        64
+      ],
+      "number": "1.2.3.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_9b405e4861a0",
+      "title": "1.2.3.2. Procédure d’évacuation",
+      "kind": "KC",
+      "pages": [
+        64
+      ],
+      "number": "1.2.3.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_80c1f2d1a04b",
+      "title": "1.2.3.3. Les itinéraires de « repli » et de « secours »",
+      "kind": "KC",
+      "pages": [
+        64
+      ],
+      "number": "1.2.3.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_5c6df6ae1c9b",
+      "title": "1.2.4. Officier sécurité",
+      "kind": "KC",
+      "pages": [
+        65
+      ],
+      "number": "1.2.4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_8925b325b6bf",
+      "title": "1.3. La protection individuelle",
+      "kind": "UNIT",
+      "pages": [
+        65,
+        66
+      ],
+      "number": "1.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_52da45576cba",
+      "title": "1.3.1. Principes de la protection individuelle",
+      "kind": "KC",
+      "pages": [
+        65
+      ],
+      "number": "1.3.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_eb14a10f36b6",
+      "title": "1.3.2. Auto sauvetage",
+      "kind": "KC",
+      "pages": [
+        66
+      ],
+      "number": "1.3.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_6c504b3c7866",
+      "title": "2. SOUTIEN SANITAIRE EN OPERATION",
+      "kind": "UNIT",
+      "pages": [
+        66
+      ],
+      "number": "2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_b205d951b4bc",
+      "title": "2.1. Cas des interventions courantes",
+      "kind": "KC",
+      "pages": [
+        66
+      ],
+      "number": "2.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_5284fb507a7f",
+      "title": "2.2. Cas des interventions importantes ou présentant des risques particuliers",
+      "kind": "KC",
+      "pages": [
+        66
+      ],
+      "number": "2.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_73415a36825c",
+      "title": "2.3. Cas des accidents graves concernant un intervenant",
+      "kind": "KC",
+      "pages": [
+        66
+      ],
+      "number": "2.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_e915015b8e7d",
+      "title": "3. REHABILITATION",
+      "kind": "KC",
+      "pages": [
+        67
+      ],
+      "number": "3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_bf4a62e4eef0",
+      "title": "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+      "kind": "UNIT",
+      "pages": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
+      ],
+      "number": "SECTION III",
+      "role": "section"
+    },
+    {
+      "id": "KC_f159f3f03120",
+      "title": "1. LES RECONNAISSANCES - AU SERVICE DU RAISONNEMENT TACTIQUE",
+      "kind": "KC",
+      "pages": [
+        69
+      ],
+      "number": "1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_1e5420a304c3",
+      "title": "2. LA VENTILATION OPERATIONNELLE – MAITRISER LES FLUX GAZEUX",
+      "kind": "KC",
+      "pages": [
+        69
+      ],
+      "number": "2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_976c86cbaee0",
+      "title": "3. LES SAUVETAGES",
+      "kind": "UNIT",
+      "pages": [
+        71,
+        72
+      ],
+      "number": "3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_ac6a65a4b4b3",
+      "title": "3.1. Le sauvetage : des actions préalables ou concomitantes",
+      "kind": "KC",
+      "pages": [
+        71
+      ],
+      "number": "3.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_cca68d056573",
+      "title": "3.2. Les sauvetages à vue",
+      "kind": "KC",
+      "pages": [
+        71
+      ],
+      "number": "3.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_a8672513415f",
+      "title": "3.3. Les sauvetages en exploration",
+      "kind": "KC",
+      "pages": [
+        71
+      ],
+      "number": "3.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_9bf2aadb558c",
+      "title": "3.4. AIDES : Accéder, Isoler, Désenfumer, Explorer, Sauver (ou Sortir)",
+      "kind": "KC",
+      "pages": [
+        72
+      ],
+      "number": "3.4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_a552bdc265a0",
+      "title": "3.5. Les mises en sécurité",
+      "kind": "KC",
+      "pages": [
+        72
+      ],
+      "number": "3.5.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "UNIT_a652bb51ae6a",
+      "title": "4. ACTIONS CONTRE LE FEU",
+      "kind": "UNIT",
+      "pages": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "number": "4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_f288a5de5d8e",
+      "title": "4.1. La lutte contre les propagations externes",
+      "kind": "KC",
+      "pages": [
+        72
+      ],
+      "number": "4.1.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_d9174bb541bb",
+      "title": "4.2. La lutte contre les propagations internes",
+      "kind": "KC",
+      "pages": [
+        73
+      ],
+      "number": "4.2.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_fcc5cdecf23c",
+      "title": "4.3. Attaque massive depuis l’extérieur",
+      "kind": "KC",
+      "pages": [
+        73
+      ],
+      "number": "4.3.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_40e62909948a",
+      "title": "4.4. Attaque des feux naissants",
+      "kind": "KC",
+      "pages": [
+        74
+      ],
+      "number": "4.4.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_c67bbef36a5b",
+      "title": "4.5. Attaque menée avec “ventilation positive”",
+      "kind": "KC",
+      "pages": [
+        74
+      ],
+      "number": "4.5.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_d148c23e0731",
+      "title": "4.6. Attaque menée en “antiventilation”",
+      "kind": "KC",
+      "pages": [
+        74
+      ],
+      "number": "4.6.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_36b0484b9d89",
+      "title": "4.7. Attaque de transition",
+      "kind": "KC",
+      "pages": [
+        77
+      ],
+      "number": "4.7.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_0802b89e3db5",
+      "title": "4.8. Cas de l’impossibilité d’agir sur la ventilation",
+      "kind": "KC",
+      "pages": [
+        77
+      ],
+      "number": "4.8.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_bb88c2b7c623",
+      "title": "4.9. Repli défensif",
+      "kind": "KC",
+      "pages": [
+        78
+      ],
+      "number": "4.9.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_c118b84f0548",
+      "title": "4.10. Choix du moyen hydraulique",
+      "kind": "KC",
+      "pages": [
+        78
+      ],
+      "number": "4.10.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_3966d619ad4f",
+      "title": "5. LES ETABLISSEMENTS",
+      "kind": "KC",
+      "pages": [
+        79
+      ],
+      "number": "5.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_bb1b278a10d4",
+      "title": "6. LA PROTECTION",
+      "kind": "KC",
+      "pages": [
+        80
+      ],
+      "number": "6.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_0f142ee2d72b",
+      "title": "7. LES DEBLAIS",
+      "kind": "KC",
+      "pages": [
+        81
+      ],
+      "number": "7.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_14c1034efb45",
+      "title": "8. LA SURVEILLANCE",
+      "kind": "KC",
+      "pages": [
+        81
+      ],
+      "number": "8.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_94ddf2b47270",
+      "title": "9. LE RELOGEMENT",
+      "kind": "KC",
+      "pages": [
+        82
+      ],
+      "number": "9.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_474da76c555c",
+      "title": "10. LA REHABILITATION DES HOMMES ET LE RECONDITIONNEMENT DU MATERIEL",
+      "kind": "KC",
+      "pages": [
+        82
+      ],
+      "number": "10.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_e4f8aafcbf61",
+      "title": "11. LA PRESERVATION DES TRACES ET INDICES",
+      "kind": "KC",
+      "pages": [
+        83
+      ],
+      "number": "11.",
+      "role": "numbered_heading"
+    },
+    {
+      "id": "KC_ad7833ee4580",
+      "title": "BIBLIOGRAPHIE",
+      "kind": "KC",
+      "pages": [
+        85
+      ],
+      "role": "back_matter"
+    },
+    {
+      "id": "MODULE_59e7bd770591",
+      "title": "ANNEXE A :",
+      "kind": "MODULE",
+      "pages": [
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "number": "ANNEXE A",
+      "role": "annex"
+    },
+    {
+      "id": "UNIT_4a58e62cfda1",
+      "title": "FICHES SCIENTIFIQUES : COMPREHENSION DU SYSTEME FEU ET EFFETS SUR L’HOMME",
+      "kind": "UNIT",
+      "pages": [
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "role": "annex_content"
+    },
+    {
+      "id": "KC_00266126dc6a",
+      "title": "FSCI-CSF-1 Notions de transferts thermiques et pyrolyse",
+      "kind": "KC",
+      "pages": [
+        91,
+        92,
+        93,
+        94
+      ],
+      "number": "FSCI-CSF-1",
+      "role": "scientific_fiche"
+    },
+    {
+      "id": "KC_63b8a4771d6b",
+      "title": "FSCI-CSF-2 Mélange et inflammation",
+      "kind": "KC",
+      "pages": [
+        95,
+        96,
+        97,
+        98
+      ],
+      "number": "FSCI-CSF-2",
+      "role": "scientific_fiche"
+    },
+    {
+      "id": "KC_84eabaab1fff",
+      "title": "FSCI-CSF-3 Réaction de combustion et types de flammes",
+      "kind": "KC",
+      "pages": [
+        99,
+        100,
+        101,
+        102
+      ],
+      "number": "FSCI-CSF-3",
+      "role": "scientific_fiche"
+    },
+    {
+      "id": "KC_086c966fbbf0",
+      "title": "FSCI-CSF-4 Puissance d’un feu",
+      "kind": "KC",
+      "pages": [
+        103,
+        104,
+        105,
+        106
+      ],
+      "number": "FSCI-CSF-4",
+      "role": "scientific_fiche"
+    },
+    {
+      "id": "KC_7962f7d1bcbc",
+      "title": "FSCI-CSF-5 Les dangers des fumées",
+      "kind": "KC",
+      "pages": [
+        107,
+        108
+      ],
+      "number": "FSCI-CSF-5",
+      "role": "scientific_fiche"
+    },
+    {
+      "id": "KC_18448da9b56a",
+      "title": "FSCI-CSF-6 Les régimes de feu",
+      "kind": "KC",
+      "pages": [
+        109,
+        110,
+        111,
+        112
+      ],
+      "number": "FSCI-CSF-6",
+      "role": "scientific_fiche"
+    },
+    {
+      "id": "KC_0c1b9bd5eff8",
+      "title": "FSCI-CSF-7 Système feu et modèle de Thomas",
+      "kind": "KC",
+      "pages": [
+        113,
+        114,
+        115,
+        116
+      ],
+      "number": "FSCI-CSF-7",
+      "role": "scientific_fiche"
+    },
+    {
+      "id": "KC_ee378c54189f",
+      "title": "FSCI-CSF-8 Les effets de l’eau",
+      "kind": "KC",
+      "pages": [
+        117,
+        118,
+        119,
+        120
+      ],
+      "number": "FSCI-CSF-8",
+      "role": "scientific_fiche"
+    },
+    {
+      "id": "KC_9b4979e2e965",
+      "title": "FSCI-CSF-9 Principes d’interruption des réactions en chaîne",
+      "kind": "KC",
+      "pages": [
+        121,
+        122
+      ],
+      "number": "FSCI-CSF-9",
+      "role": "scientific_fiche"
+    },
+    {
+      "id": "KC_dcb589d153ea",
+      "title": "FSCI-CSF-10 Flashover (ou les embrasements généralisés)",
+      "kind": "KC",
+      "pages": [
+        123,
+        124,
+        125,
+        126
+      ],
+      "number": "FSCI-CSF-10",
+      "role": "scientific_fiche"
+    },
+    {
+      "id": "KC_aaa57d53c9b4",
+      "title": "FSCI-CSF-11 Les phénomènes de type « backdraft »",
+      "kind": "KC",
+      "pages": [
+        127,
+        128
+      ],
+      "number": "FSCI-CSF-11",
+      "role": "scientific_fiche"
+    },
+    {
+      "id": "KC_975fe6791a0c",
+      "title": "FSCI-CSF-12 Inflammations de gaz issus d’un incendie : Flash Fire et Smoke Explosion",
+      "kind": "KC",
+      "pages": [
+        129,
+        130
+      ],
+      "number": "FSCI-CSF-12",
+      "role": "scientific_fiche"
+    },
+    {
+      "id": "KC_141ffd499a31",
+      "title": "FSCI-CSF-13 Les feux pilotés par le vent",
+      "kind": "KC",
+      "pages": [
+        131,
+        132,
+        133,
+        134
+      ],
+      "number": "FSCI-CSF-13",
+      "role": "scientific_fiche"
+    },
+    {
+      "id": "MODULE_9a0fa9b75814",
+      "title": "ANNEXE B :",
+      "kind": "MODULE",
+      "pages": [
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156
+      ],
+      "number": "ANNEXE B",
+      "role": "annex"
+    },
+    {
+      "id": "UNIT_7a473d74b699",
+      "title": "FICHES SCIENTIFIQUES : L’HOMME FACE AU FEU ET AUX FUMEES",
+      "kind": "UNIT",
+      "pages": [
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156
+      ],
+      "role": "annex_content"
+    },
+    {
+      "id": "KC_ee71976b0832",
+      "title": "FSCI-HOM-1 Les effets du feu sur l’Homme",
+      "kind": "KC",
+      "pages": [
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146
+      ],
+      "number": "FSCI-HOM-1",
+      "role": "scientific_fiche"
+    },
+    {
+      "id": "KC_f44e2f2125ee",
+      "title": "FSCI-HOM-2 Gérer le stress thermique",
+      "kind": "KC",
+      "pages": [
+        147,
+        148,
+        149,
+        150,
+        151,
+        152
+      ],
+      "number": "FSCI-HOM-2",
+      "role": "scientific_fiche"
+    },
+    {
+      "id": "KC_6645c68234cf",
+      "title": "FSCI-HOM-3 « Aptitude à la mission »",
+      "kind": "KC",
+      "pages": [
+        153,
+        154,
+        155,
+        156
+      ],
+      "number": "FSCI-HOM-3",
+      "role": "scientific_fiche"
+    },
+    {
+      "id": "MODULE_f2aa68c1599c",
+      "title": "ANNEXE C :",
+      "kind": "MODULE",
+      "pages": [
+        157
+      ],
+      "number": "ANNEXE C",
+      "role": "annex"
+    },
+    {
+      "id": "KC_c10019b9adea",
+      "title": "COMPOSITION DU GROUPE DE TRAVAIL",
+      "kind": "KC",
+      "pages": [
+        157
+      ],
+      "role": "annex_content"
+    },
+    {
+      "id": "MODULE_e5896e782a67",
+      "title": "ANNEXE D :",
+      "kind": "MODULE",
+      "pages": [
+        159
+      ],
+      "number": "ANNEXE D",
+      "role": "annex"
+    },
+    {
+      "id": "KC_b350dd91eb95",
+      "title": "DEMANDE D’INCORPORATION DES AMENDEMENTS",
+      "kind": "KC",
+      "pages": [
+        159
+      ],
+      "role": "annex_content"
+    },
+    {
+      "id": "KC_d7852478fe53",
+      "title": "ANNEXES COMPLEMENTAIRES",
+      "kind": "KC",
+      "pages": [
+        161
+      ],
+      "role": "back_matter"
+    }
+  ],
+  "contains": [
+    [
+      "COURSE_59526c701d58",
+      "KC_42956fe1c1c2"
+    ],
+    [
+      "COURSE_59526c701d58",
+      "KC_7293dc309698"
+    ],
+    [
+      "COURSE_59526c701d58",
+      "MODULE_516decac5da6"
+    ],
+    [
+      "MODULE_516decac5da6",
+      "UNIT_64bb7a1d7462"
+    ],
+    [
+      "UNIT_64bb7a1d7462",
+      "UNIT_de6cbfaaf5ff"
+    ],
+    [
+      "UNIT_de6cbfaaf5ff",
+      "UNIT_f8ae2bb04ef3"
+    ],
+    [
+      "UNIT_f8ae2bb04ef3",
+      "KC_61dbf62a6185"
+    ],
+    [
+      "UNIT_f8ae2bb04ef3",
+      "KC_97686ef34213"
+    ],
+    [
+      "UNIT_f8ae2bb04ef3",
+      "KC_369072c33653"
+    ],
+    [
+      "UNIT_de6cbfaaf5ff",
+      "KC_6aad0dab7b20"
+    ],
+    [
+      "UNIT_de6cbfaaf5ff",
+      "KC_df9f39bc00a6"
+    ],
+    [
+      "UNIT_de6cbfaaf5ff",
+      "KC_2b0e8544ceda"
+    ],
+    [
+      "UNIT_de6cbfaaf5ff",
+      "KC_0a38bdbabfd6"
+    ],
+    [
+      "UNIT_de6cbfaaf5ff",
+      "KC_ddf5c74b101d"
+    ],
+    [
+      "UNIT_de6cbfaaf5ff",
+      "UNIT_40294d7a0148"
+    ],
+    [
+      "UNIT_40294d7a0148",
+      "KC_3da2544db6ac"
+    ],
+    [
+      "UNIT_40294d7a0148",
+      "KC_0f9661a45337"
+    ],
+    [
+      "UNIT_40294d7a0148",
+      "KC_6764bf8cbe06"
+    ],
+    [
+      "UNIT_40294d7a0148",
+      "KC_a73eea505e56"
+    ],
+    [
+      "UNIT_64bb7a1d7462",
+      "UNIT_fa5f03e2e118"
+    ],
+    [
+      "UNIT_fa5f03e2e118",
+      "UNIT_0f1ebdecf2f6"
+    ],
+    [
+      "UNIT_0f1ebdecf2f6",
+      "KC_d34e0ce0a680"
+    ],
+    [
+      "UNIT_0f1ebdecf2f6",
+      "KC_fce8ee8af0a0"
+    ],
+    [
+      "UNIT_0f1ebdecf2f6",
+      "KC_9b761cde9d66"
+    ],
+    [
+      "UNIT_0f1ebdecf2f6",
+      "KC_1541ddceea82"
+    ],
+    [
+      "UNIT_0f1ebdecf2f6",
+      "UNIT_0af250975a33"
+    ],
+    [
+      "UNIT_0af250975a33",
+      "KC_a848dec64320"
+    ],
+    [
+      "UNIT_0af250975a33",
+      "KC_a912c25391ac"
+    ],
+    [
+      "UNIT_0af250975a33",
+      "KC_008be9bad718"
+    ],
+    [
+      "UNIT_0af250975a33",
+      "KC_b4a419213c44"
+    ],
+    [
+      "UNIT_0f1ebdecf2f6",
+      "UNIT_4f05970ab12c"
+    ],
+    [
+      "UNIT_4f05970ab12c",
+      "KC_a220926aff4c"
+    ],
+    [
+      "UNIT_4f05970ab12c",
+      "KC_105ee7074dd6"
+    ],
+    [
+      "UNIT_fa5f03e2e118",
+      "KC_a1169013fd75"
+    ],
+    [
+      "UNIT_64bb7a1d7462",
+      "UNIT_2676cc7d1197"
+    ],
+    [
+      "UNIT_2676cc7d1197",
+      "KC_0b41bcd65ad4"
+    ],
+    [
+      "UNIT_2676cc7d1197",
+      "KC_f0dd4bc17a6d"
+    ],
+    [
+      "UNIT_2676cc7d1197",
+      "KC_327897f6b06d"
+    ],
+    [
+      "MODULE_516decac5da6",
+      "UNIT_85a9abd889db"
+    ],
+    [
+      "UNIT_85a9abd889db",
+      "KC_887062417018"
+    ],
+    [
+      "UNIT_85a9abd889db",
+      "UNIT_ad79f51c6cbb"
+    ],
+    [
+      "UNIT_ad79f51c6cbb",
+      "KC_92a3723b1c64"
+    ],
+    [
+      "UNIT_ad79f51c6cbb",
+      "KC_9f4d9be9241c"
+    ],
+    [
+      "UNIT_ad79f51c6cbb",
+      "KC_8467b5cf7d7c"
+    ],
+    [
+      "UNIT_85a9abd889db",
+      "KC_0c61487860f9"
+    ],
+    [
+      "UNIT_85a9abd889db",
+      "KC_a8e7c19cf641"
+    ],
+    [
+      "MODULE_516decac5da6",
+      "UNIT_6e6e1f31aef2"
+    ],
+    [
+      "UNIT_6e6e1f31aef2",
+      "KC_654ae8f3b4bc"
+    ],
+    [
+      "UNIT_6e6e1f31aef2",
+      "UNIT_70906293885e"
+    ],
+    [
+      "UNIT_70906293885e",
+      "KC_1a2c89d27569"
+    ],
+    [
+      "UNIT_70906293885e",
+      "KC_9d2af9831415"
+    ],
+    [
+      "UNIT_70906293885e",
+      "KC_1166b011c199"
+    ],
+    [
+      "UNIT_70906293885e",
+      "KC_8f29aa3f7d8f"
+    ],
+    [
+      "UNIT_70906293885e",
+      "KC_7067fa4b5749"
+    ],
+    [
+      "UNIT_6e6e1f31aef2",
+      "UNIT_5b00045a9871"
+    ],
+    [
+      "UNIT_5b00045a9871",
+      "KC_7518aabc6038"
+    ],
+    [
+      "UNIT_5b00045a9871",
+      "KC_347c3c387630"
+    ],
+    [
+      "UNIT_5b00045a9871",
+      "UNIT_635d9ccd8273"
+    ],
+    [
+      "UNIT_635d9ccd8273",
+      "KC_0b9b0578d8c0"
+    ],
+    [
+      "UNIT_635d9ccd8273",
+      "KC_001395b3d0af"
+    ],
+    [
+      "UNIT_635d9ccd8273",
+      "KC_0becc6d4cfab"
+    ],
+    [
+      "UNIT_635d9ccd8273",
+      "UNIT_4bc1f10a7459"
+    ],
+    [
+      "UNIT_4bc1f10a7459",
+      "KC_516ce86ef25f"
+    ],
+    [
+      "UNIT_4bc1f10a7459",
+      "KC_6d30ae49e7fc"
+    ],
+    [
+      "UNIT_4bc1f10a7459",
+      "KC_22b2f1189a65"
+    ],
+    [
+      "UNIT_4bc1f10a7459",
+      "KC_9d0c0ad82805"
+    ],
+    [
+      "UNIT_4bc1f10a7459",
+      "KC_1e8a204c0882"
+    ],
+    [
+      "UNIT_635d9ccd8273",
+      "KC_e3a342e559f8"
+    ],
+    [
+      "UNIT_6e6e1f31aef2",
+      "UNIT_d1b7198767aa"
+    ],
+    [
+      "UNIT_d1b7198767aa",
+      "KC_7a80e6cc5269"
+    ],
+    [
+      "UNIT_d1b7198767aa",
+      "KC_2e8e52a7cd17"
+    ],
+    [
+      "UNIT_d1b7198767aa",
+      "KC_dd6f7a824ab2"
+    ],
+    [
+      "UNIT_d1b7198767aa",
+      "KC_c87bf109c51e"
+    ],
+    [
+      "UNIT_d1b7198767aa",
+      "KC_b9166a43cbcf"
+    ],
+    [
+      "UNIT_d1b7198767aa",
+      "KC_895717b501f3"
+    ],
+    [
+      "UNIT_d1b7198767aa",
+      "KC_8a836d70b6e5"
+    ],
+    [
+      "UNIT_d1b7198767aa",
+      "KC_c8df0499a6bf"
+    ],
+    [
+      "UNIT_d1b7198767aa",
+      "KC_7b20400e8a1b"
+    ],
+    [
+      "COURSE_59526c701d58",
+      "MODULE_d41bc93d437c"
+    ],
+    [
+      "MODULE_d41bc93d437c",
+      "KC_04f99b54e39f"
+    ],
+    [
+      "MODULE_d41bc93d437c",
+      "UNIT_62dbf3a533f9"
+    ],
+    [
+      "UNIT_62dbf3a533f9",
+      "UNIT_55309bc179f6"
+    ],
+    [
+      "UNIT_55309bc179f6",
+      "KC_ae18318703c3"
+    ],
+    [
+      "UNIT_55309bc179f6",
+      "KC_71deb5d115b0"
+    ],
+    [
+      "UNIT_55309bc179f6",
+      "KC_229ad5acccd4"
+    ],
+    [
+      "UNIT_62dbf3a533f9",
+      "UNIT_23664216e22a"
+    ],
+    [
+      "UNIT_23664216e22a",
+      "KC_6b6e38ea61e1"
+    ],
+    [
+      "UNIT_23664216e22a",
+      "KC_29f0dd34582a"
+    ],
+    [
+      "UNIT_23664216e22a",
+      "KC_89d09ef70d36"
+    ],
+    [
+      "UNIT_62dbf3a533f9",
+      "KC_0eafe868e6a6"
+    ],
+    [
+      "MODULE_d41bc93d437c",
+      "UNIT_b0492b1f2b60"
+    ],
+    [
+      "UNIT_b0492b1f2b60",
+      "KC_ac69b18842c8"
+    ],
+    [
+      "UNIT_b0492b1f2b60",
+      "KC_cfc0ac2aa900"
+    ],
+    [
+      "UNIT_b0492b1f2b60",
+      "KC_ba3c70c8bea2"
+    ],
+    [
+      "UNIT_b0492b1f2b60",
+      "UNIT_96cb22d93218"
+    ],
+    [
+      "UNIT_96cb22d93218",
+      "UNIT_6d831ba9ee2e"
+    ],
+    [
+      "UNIT_6d831ba9ee2e",
+      "KC_d659fcaca710"
+    ],
+    [
+      "UNIT_6d831ba9ee2e",
+      "KC_4e0c38755c6b"
+    ],
+    [
+      "UNIT_96cb22d93218",
+      "UNIT_929c819533d9"
+    ],
+    [
+      "UNIT_929c819533d9",
+      "KC_b3339913db49"
+    ],
+    [
+      "UNIT_929c819533d9",
+      "KC_b363b0a6856b"
+    ],
+    [
+      "UNIT_929c819533d9",
+      "KC_ee5982c298f4"
+    ],
+    [
+      "UNIT_b0492b1f2b60",
+      "KC_e1684bce96aa"
+    ],
+    [
+      "MODULE_d41bc93d437c",
+      "UNIT_e3546e13e797"
+    ],
+    [
+      "UNIT_e3546e13e797",
+      "KC_6d20a577b6ad"
+    ],
+    [
+      "UNIT_e3546e13e797",
+      "KC_db11509ca61a"
+    ],
+    [
+      "UNIT_e3546e13e797",
+      "KC_05ba4bd4c584"
+    ],
+    [
+      "COURSE_59526c701d58",
+      "MODULE_73fb9b098d26"
+    ],
+    [
+      "MODULE_73fb9b098d26",
+      "UNIT_60820a2a2e35"
+    ],
+    [
+      "UNIT_60820a2a2e35",
+      "KC_5b6feb0b6b3b"
+    ],
+    [
+      "UNIT_60820a2a2e35",
+      "KC_74fe9a27f974"
+    ],
+    [
+      "UNIT_60820a2a2e35",
+      "UNIT_107de0bf0166"
+    ],
+    [
+      "UNIT_107de0bf0166",
+      "KC_12e41c7492a6"
+    ],
+    [
+      "UNIT_107de0bf0166",
+      "KC_7468c20749ea"
+    ],
+    [
+      "UNIT_107de0bf0166",
+      "KC_bbad6970a3a0"
+    ],
+    [
+      "UNIT_107de0bf0166",
+      "KC_377f43ba1f93"
+    ],
+    [
+      "MODULE_73fb9b098d26",
+      "UNIT_bf722e37c2ed"
+    ],
+    [
+      "UNIT_bf722e37c2ed",
+      "UNIT_979cbb24fc0d"
+    ],
+    [
+      "UNIT_979cbb24fc0d",
+      "UNIT_eb2236410e39"
+    ],
+    [
+      "UNIT_eb2236410e39",
+      "KC_e5d2b1fb63fb"
+    ],
+    [
+      "UNIT_eb2236410e39",
+      "KC_bad20150f96d"
+    ],
+    [
+      "UNIT_eb2236410e39",
+      "KC_a546c55f8821"
+    ],
+    [
+      "UNIT_eb2236410e39",
+      "KC_5b5d57dd0647"
+    ],
+    [
+      "UNIT_979cbb24fc0d",
+      "UNIT_3f94540d3159"
+    ],
+    [
+      "UNIT_3f94540d3159",
+      "KC_6cf0018fd9c7"
+    ],
+    [
+      "UNIT_3f94540d3159",
+      "KC_0fa669159255"
+    ],
+    [
+      "UNIT_3f94540d3159",
+      "UNIT_5ae3f8900282"
+    ],
+    [
+      "UNIT_5ae3f8900282",
+      "KC_c8fbbcfeadae"
+    ],
+    [
+      "UNIT_5ae3f8900282",
+      "KC_9b405e4861a0"
+    ],
+    [
+      "UNIT_5ae3f8900282",
+      "KC_80c1f2d1a04b"
+    ],
+    [
+      "UNIT_3f94540d3159",
+      "KC_5c6df6ae1c9b"
+    ],
+    [
+      "UNIT_979cbb24fc0d",
+      "UNIT_8925b325b6bf"
+    ],
+    [
+      "UNIT_8925b325b6bf",
+      "KC_52da45576cba"
+    ],
+    [
+      "UNIT_8925b325b6bf",
+      "KC_eb14a10f36b6"
+    ],
+    [
+      "UNIT_bf722e37c2ed",
+      "UNIT_6c504b3c7866"
+    ],
+    [
+      "UNIT_6c504b3c7866",
+      "KC_b205d951b4bc"
+    ],
+    [
+      "UNIT_6c504b3c7866",
+      "KC_5284fb507a7f"
+    ],
+    [
+      "UNIT_6c504b3c7866",
+      "KC_73415a36825c"
+    ],
+    [
+      "UNIT_bf722e37c2ed",
+      "KC_e915015b8e7d"
+    ],
+    [
+      "MODULE_73fb9b098d26",
+      "UNIT_bf4a62e4eef0"
+    ],
+    [
+      "UNIT_bf4a62e4eef0",
+      "KC_f159f3f03120"
+    ],
+    [
+      "UNIT_bf4a62e4eef0",
+      "KC_1e5420a304c3"
+    ],
+    [
+      "UNIT_bf4a62e4eef0",
+      "UNIT_976c86cbaee0"
+    ],
+    [
+      "UNIT_976c86cbaee0",
+      "KC_ac6a65a4b4b3"
+    ],
+    [
+      "UNIT_976c86cbaee0",
+      "KC_cca68d056573"
+    ],
+    [
+      "UNIT_976c86cbaee0",
+      "KC_a8672513415f"
+    ],
+    [
+      "UNIT_976c86cbaee0",
+      "KC_9bf2aadb558c"
+    ],
+    [
+      "UNIT_976c86cbaee0",
+      "KC_a552bdc265a0"
+    ],
+    [
+      "UNIT_bf4a62e4eef0",
+      "UNIT_a652bb51ae6a"
+    ],
+    [
+      "UNIT_a652bb51ae6a",
+      "KC_f288a5de5d8e"
+    ],
+    [
+      "UNIT_a652bb51ae6a",
+      "KC_d9174bb541bb"
+    ],
+    [
+      "UNIT_a652bb51ae6a",
+      "KC_fcc5cdecf23c"
+    ],
+    [
+      "UNIT_a652bb51ae6a",
+      "KC_40e62909948a"
+    ],
+    [
+      "UNIT_a652bb51ae6a",
+      "KC_c67bbef36a5b"
+    ],
+    [
+      "UNIT_a652bb51ae6a",
+      "KC_d148c23e0731"
+    ],
+    [
+      "UNIT_a652bb51ae6a",
+      "KC_36b0484b9d89"
+    ],
+    [
+      "UNIT_a652bb51ae6a",
+      "KC_0802b89e3db5"
+    ],
+    [
+      "UNIT_a652bb51ae6a",
+      "KC_bb88c2b7c623"
+    ],
+    [
+      "UNIT_a652bb51ae6a",
+      "KC_c118b84f0548"
+    ],
+    [
+      "UNIT_bf4a62e4eef0",
+      "KC_3966d619ad4f"
+    ],
+    [
+      "UNIT_bf4a62e4eef0",
+      "KC_bb1b278a10d4"
+    ],
+    [
+      "UNIT_bf4a62e4eef0",
+      "KC_0f142ee2d72b"
+    ],
+    [
+      "UNIT_bf4a62e4eef0",
+      "KC_14c1034efb45"
+    ],
+    [
+      "UNIT_bf4a62e4eef0",
+      "KC_94ddf2b47270"
+    ],
+    [
+      "UNIT_bf4a62e4eef0",
+      "KC_474da76c555c"
+    ],
+    [
+      "UNIT_bf4a62e4eef0",
+      "KC_e4f8aafcbf61"
+    ],
+    [
+      "COURSE_59526c701d58",
+      "KC_ad7833ee4580"
+    ],
+    [
+      "COURSE_59526c701d58",
+      "MODULE_59e7bd770591"
+    ],
+    [
+      "MODULE_59e7bd770591",
+      "UNIT_4a58e62cfda1"
+    ],
+    [
+      "UNIT_4a58e62cfda1",
+      "KC_00266126dc6a"
+    ],
+    [
+      "UNIT_4a58e62cfda1",
+      "KC_63b8a4771d6b"
+    ],
+    [
+      "UNIT_4a58e62cfda1",
+      "KC_84eabaab1fff"
+    ],
+    [
+      "UNIT_4a58e62cfda1",
+      "KC_086c966fbbf0"
+    ],
+    [
+      "UNIT_4a58e62cfda1",
+      "KC_7962f7d1bcbc"
+    ],
+    [
+      "UNIT_4a58e62cfda1",
+      "KC_18448da9b56a"
+    ],
+    [
+      "UNIT_4a58e62cfda1",
+      "KC_0c1b9bd5eff8"
+    ],
+    [
+      "UNIT_4a58e62cfda1",
+      "KC_ee378c54189f"
+    ],
+    [
+      "UNIT_4a58e62cfda1",
+      "KC_9b4979e2e965"
+    ],
+    [
+      "UNIT_4a58e62cfda1",
+      "KC_dcb589d153ea"
+    ],
+    [
+      "UNIT_4a58e62cfda1",
+      "KC_aaa57d53c9b4"
+    ],
+    [
+      "UNIT_4a58e62cfda1",
+      "KC_975fe6791a0c"
+    ],
+    [
+      "UNIT_4a58e62cfda1",
+      "KC_141ffd499a31"
+    ],
+    [
+      "COURSE_59526c701d58",
+      "MODULE_9a0fa9b75814"
+    ],
+    [
+      "MODULE_9a0fa9b75814",
+      "UNIT_7a473d74b699"
+    ],
+    [
+      "UNIT_7a473d74b699",
+      "KC_ee71976b0832"
+    ],
+    [
+      "UNIT_7a473d74b699",
+      "KC_f44e2f2125ee"
+    ],
+    [
+      "UNIT_7a473d74b699",
+      "KC_6645c68234cf"
+    ],
+    [
+      "COURSE_59526c701d58",
+      "MODULE_f2aa68c1599c"
+    ],
+    [
+      "MODULE_f2aa68c1599c",
+      "KC_c10019b9adea"
+    ],
+    [
+      "COURSE_59526c701d58",
+      "MODULE_e5896e782a67"
+    ],
+    [
+      "MODULE_e5896e782a67",
+      "KC_b350dd91eb95"
+    ],
+    [
+      "COURSE_59526c701d58",
+      "KC_d7852478fe53"
+    ]
+  ],
+  "sequence": [
+    [
+      "KC_61dbf62a6185",
+      "KC_97686ef34213"
+    ],
+    [
+      "KC_97686ef34213",
+      "KC_369072c33653"
+    ],
+    [
+      "KC_3da2544db6ac",
+      "KC_0f9661a45337"
+    ],
+    [
+      "KC_0f9661a45337",
+      "KC_6764bf8cbe06"
+    ],
+    [
+      "KC_6764bf8cbe06",
+      "KC_a73eea505e56"
+    ],
+    [
+      "UNIT_f8ae2bb04ef3",
+      "KC_6aad0dab7b20"
+    ],
+    [
+      "KC_6aad0dab7b20",
+      "KC_df9f39bc00a6"
+    ],
+    [
+      "KC_df9f39bc00a6",
+      "KC_2b0e8544ceda"
+    ],
+    [
+      "KC_2b0e8544ceda",
+      "KC_0a38bdbabfd6"
+    ],
+    [
+      "KC_0a38bdbabfd6",
+      "KC_ddf5c74b101d"
+    ],
+    [
+      "KC_ddf5c74b101d",
+      "UNIT_40294d7a0148"
+    ],
+    [
+      "KC_a848dec64320",
+      "KC_a912c25391ac"
+    ],
+    [
+      "KC_a912c25391ac",
+      "KC_008be9bad718"
+    ],
+    [
+      "KC_008be9bad718",
+      "KC_b4a419213c44"
+    ],
+    [
+      "KC_a220926aff4c",
+      "KC_105ee7074dd6"
+    ],
+    [
+      "KC_d34e0ce0a680",
+      "KC_fce8ee8af0a0"
+    ],
+    [
+      "KC_fce8ee8af0a0",
+      "KC_9b761cde9d66"
+    ],
+    [
+      "KC_9b761cde9d66",
+      "KC_1541ddceea82"
+    ],
+    [
+      "KC_1541ddceea82",
+      "UNIT_0af250975a33"
+    ],
+    [
+      "UNIT_0af250975a33",
+      "UNIT_4f05970ab12c"
+    ],
+    [
+      "UNIT_0f1ebdecf2f6",
+      "KC_a1169013fd75"
+    ],
+    [
+      "KC_0b41bcd65ad4",
+      "KC_f0dd4bc17a6d"
+    ],
+    [
+      "KC_f0dd4bc17a6d",
+      "KC_327897f6b06d"
+    ],
+    [
+      "UNIT_de6cbfaaf5ff",
+      "UNIT_fa5f03e2e118"
+    ],
+    [
+      "UNIT_fa5f03e2e118",
+      "UNIT_2676cc7d1197"
+    ],
+    [
+      "KC_92a3723b1c64",
+      "KC_9f4d9be9241c"
+    ],
+    [
+      "KC_9f4d9be9241c",
+      "KC_8467b5cf7d7c"
+    ],
+    [
+      "KC_887062417018",
+      "UNIT_ad79f51c6cbb"
+    ],
+    [
+      "UNIT_ad79f51c6cbb",
+      "KC_0c61487860f9"
+    ],
+    [
+      "KC_0c61487860f9",
+      "KC_a8e7c19cf641"
+    ],
+    [
+      "KC_1a2c89d27569",
+      "KC_9d2af9831415"
+    ],
+    [
+      "KC_9d2af9831415",
+      "KC_1166b011c199"
+    ],
+    [
+      "KC_1166b011c199",
+      "KC_8f29aa3f7d8f"
+    ],
+    [
+      "KC_8f29aa3f7d8f",
+      "KC_7067fa4b5749"
+    ],
+    [
+      "KC_516ce86ef25f",
+      "KC_6d30ae49e7fc"
+    ],
+    [
+      "KC_6d30ae49e7fc",
+      "KC_22b2f1189a65"
+    ],
+    [
+      "KC_22b2f1189a65",
+      "KC_9d0c0ad82805"
+    ],
+    [
+      "KC_9d0c0ad82805",
+      "KC_1e8a204c0882"
+    ],
+    [
+      "KC_0b9b0578d8c0",
+      "KC_001395b3d0af"
+    ],
+    [
+      "KC_001395b3d0af",
+      "KC_0becc6d4cfab"
+    ],
+    [
+      "KC_0becc6d4cfab",
+      "UNIT_4bc1f10a7459"
+    ],
+    [
+      "UNIT_4bc1f10a7459",
+      "KC_e3a342e559f8"
+    ],
+    [
+      "KC_7518aabc6038",
+      "KC_347c3c387630"
+    ],
+    [
+      "KC_347c3c387630",
+      "UNIT_635d9ccd8273"
+    ],
+    [
+      "KC_7a80e6cc5269",
+      "KC_2e8e52a7cd17"
+    ],
+    [
+      "KC_2e8e52a7cd17",
+      "KC_dd6f7a824ab2"
+    ],
+    [
+      "KC_dd6f7a824ab2",
+      "KC_c87bf109c51e"
+    ],
+    [
+      "KC_c87bf109c51e",
+      "KC_b9166a43cbcf"
+    ],
+    [
+      "KC_b9166a43cbcf",
+      "KC_895717b501f3"
+    ],
+    [
+      "KC_895717b501f3",
+      "KC_8a836d70b6e5"
+    ],
+    [
+      "KC_8a836d70b6e5",
+      "KC_c8df0499a6bf"
+    ],
+    [
+      "KC_c8df0499a6bf",
+      "KC_7b20400e8a1b"
+    ],
+    [
+      "KC_654ae8f3b4bc",
+      "UNIT_70906293885e"
+    ],
+    [
+      "UNIT_70906293885e",
+      "UNIT_5b00045a9871"
+    ],
+    [
+      "UNIT_5b00045a9871",
+      "UNIT_d1b7198767aa"
+    ],
+    [
+      "UNIT_64bb7a1d7462",
+      "UNIT_85a9abd889db"
+    ],
+    [
+      "UNIT_85a9abd889db",
+      "UNIT_6e6e1f31aef2"
+    ],
+    [
+      "KC_ae18318703c3",
+      "KC_71deb5d115b0"
+    ],
+    [
+      "KC_71deb5d115b0",
+      "KC_229ad5acccd4"
+    ],
+    [
+      "KC_6b6e38ea61e1",
+      "KC_29f0dd34582a"
+    ],
+    [
+      "KC_29f0dd34582a",
+      "KC_89d09ef70d36"
+    ],
+    [
+      "UNIT_55309bc179f6",
+      "UNIT_23664216e22a"
+    ],
+    [
+      "UNIT_23664216e22a",
+      "KC_0eafe868e6a6"
+    ],
+    [
+      "KC_d659fcaca710",
+      "KC_4e0c38755c6b"
+    ],
+    [
+      "KC_b3339913db49",
+      "KC_b363b0a6856b"
+    ],
+    [
+      "KC_b363b0a6856b",
+      "KC_ee5982c298f4"
+    ],
+    [
+      "UNIT_6d831ba9ee2e",
+      "UNIT_929c819533d9"
+    ],
+    [
+      "KC_ac69b18842c8",
+      "KC_cfc0ac2aa900"
+    ],
+    [
+      "KC_cfc0ac2aa900",
+      "KC_ba3c70c8bea2"
+    ],
+    [
+      "KC_ba3c70c8bea2",
+      "UNIT_96cb22d93218"
+    ],
+    [
+      "UNIT_96cb22d93218",
+      "KC_e1684bce96aa"
+    ],
+    [
+      "KC_6d20a577b6ad",
+      "KC_db11509ca61a"
+    ],
+    [
+      "KC_db11509ca61a",
+      "KC_05ba4bd4c584"
+    ],
+    [
+      "KC_04f99b54e39f",
+      "UNIT_62dbf3a533f9"
+    ],
+    [
+      "UNIT_62dbf3a533f9",
+      "UNIT_b0492b1f2b60"
+    ],
+    [
+      "UNIT_b0492b1f2b60",
+      "UNIT_e3546e13e797"
+    ],
+    [
+      "KC_12e41c7492a6",
+      "KC_7468c20749ea"
+    ],
+    [
+      "KC_7468c20749ea",
+      "KC_bbad6970a3a0"
+    ],
+    [
+      "KC_bbad6970a3a0",
+      "KC_377f43ba1f93"
+    ],
+    [
+      "KC_5b6feb0b6b3b",
+      "KC_74fe9a27f974"
+    ],
+    [
+      "KC_74fe9a27f974",
+      "UNIT_107de0bf0166"
+    ],
+    [
+      "KC_e5d2b1fb63fb",
+      "KC_bad20150f96d"
+    ],
+    [
+      "KC_bad20150f96d",
+      "KC_a546c55f8821"
+    ],
+    [
+      "KC_a546c55f8821",
+      "KC_5b5d57dd0647"
+    ],
+    [
+      "KC_c8fbbcfeadae",
+      "KC_9b405e4861a0"
+    ],
+    [
+      "KC_9b405e4861a0",
+      "KC_80c1f2d1a04b"
+    ],
+    [
+      "KC_6cf0018fd9c7",
+      "KC_0fa669159255"
+    ],
+    [
+      "KC_0fa669159255",
+      "UNIT_5ae3f8900282"
+    ],
+    [
+      "UNIT_5ae3f8900282",
+      "KC_5c6df6ae1c9b"
+    ],
+    [
+      "KC_52da45576cba",
+      "KC_eb14a10f36b6"
+    ],
+    [
+      "UNIT_eb2236410e39",
+      "UNIT_3f94540d3159"
+    ],
+    [
+      "UNIT_3f94540d3159",
+      "UNIT_8925b325b6bf"
+    ],
+    [
+      "KC_b205d951b4bc",
+      "KC_5284fb507a7f"
+    ],
+    [
+      "KC_5284fb507a7f",
+      "KC_73415a36825c"
+    ],
+    [
+      "UNIT_979cbb24fc0d",
+      "UNIT_6c504b3c7866"
+    ],
+    [
+      "UNIT_6c504b3c7866",
+      "KC_e915015b8e7d"
+    ],
+    [
+      "KC_ac6a65a4b4b3",
+      "KC_cca68d056573"
+    ],
+    [
+      "KC_cca68d056573",
+      "KC_a8672513415f"
+    ],
+    [
+      "KC_a8672513415f",
+      "KC_9bf2aadb558c"
+    ],
+    [
+      "KC_9bf2aadb558c",
+      "KC_a552bdc265a0"
+    ],
+    [
+      "KC_f288a5de5d8e",
+      "KC_d9174bb541bb"
+    ],
+    [
+      "KC_d9174bb541bb",
+      "KC_fcc5cdecf23c"
+    ],
+    [
+      "KC_fcc5cdecf23c",
+      "KC_40e62909948a"
+    ],
+    [
+      "KC_40e62909948a",
+      "KC_c67bbef36a5b"
+    ],
+    [
+      "KC_c67bbef36a5b",
+      "KC_d148c23e0731"
+    ],
+    [
+      "KC_d148c23e0731",
+      "KC_36b0484b9d89"
+    ],
+    [
+      "KC_36b0484b9d89",
+      "KC_0802b89e3db5"
+    ],
+    [
+      "KC_0802b89e3db5",
+      "KC_bb88c2b7c623"
+    ],
+    [
+      "KC_bb88c2b7c623",
+      "KC_c118b84f0548"
+    ],
+    [
+      "KC_f159f3f03120",
+      "KC_1e5420a304c3"
+    ],
+    [
+      "KC_1e5420a304c3",
+      "UNIT_976c86cbaee0"
+    ],
+    [
+      "UNIT_976c86cbaee0",
+      "UNIT_a652bb51ae6a"
+    ],
+    [
+      "UNIT_a652bb51ae6a",
+      "KC_3966d619ad4f"
+    ],
+    [
+      "KC_3966d619ad4f",
+      "KC_bb1b278a10d4"
+    ],
+    [
+      "KC_bb1b278a10d4",
+      "KC_0f142ee2d72b"
+    ],
+    [
+      "KC_0f142ee2d72b",
+      "KC_14c1034efb45"
+    ],
+    [
+      "KC_14c1034efb45",
+      "KC_94ddf2b47270"
+    ],
+    [
+      "KC_94ddf2b47270",
+      "KC_474da76c555c"
+    ],
+    [
+      "KC_474da76c555c",
+      "KC_e4f8aafcbf61"
+    ],
+    [
+      "UNIT_60820a2a2e35",
+      "UNIT_bf722e37c2ed"
+    ],
+    [
+      "UNIT_bf722e37c2ed",
+      "UNIT_bf4a62e4eef0"
+    ],
+    [
+      "KC_00266126dc6a",
+      "KC_63b8a4771d6b"
+    ],
+    [
+      "KC_63b8a4771d6b",
+      "KC_84eabaab1fff"
+    ],
+    [
+      "KC_84eabaab1fff",
+      "KC_086c966fbbf0"
+    ],
+    [
+      "KC_086c966fbbf0",
+      "KC_7962f7d1bcbc"
+    ],
+    [
+      "KC_7962f7d1bcbc",
+      "KC_18448da9b56a"
+    ],
+    [
+      "KC_18448da9b56a",
+      "KC_0c1b9bd5eff8"
+    ],
+    [
+      "KC_0c1b9bd5eff8",
+      "KC_ee378c54189f"
+    ],
+    [
+      "KC_ee378c54189f",
+      "KC_9b4979e2e965"
+    ],
+    [
+      "KC_9b4979e2e965",
+      "KC_dcb589d153ea"
+    ],
+    [
+      "KC_dcb589d153ea",
+      "KC_aaa57d53c9b4"
+    ],
+    [
+      "KC_aaa57d53c9b4",
+      "KC_975fe6791a0c"
+    ],
+    [
+      "KC_975fe6791a0c",
+      "KC_141ffd499a31"
+    ],
+    [
+      "KC_ee71976b0832",
+      "KC_f44e2f2125ee"
+    ],
+    [
+      "KC_f44e2f2125ee",
+      "KC_6645c68234cf"
+    ],
+    [
+      "KC_42956fe1c1c2",
+      "KC_7293dc309698"
+    ],
+    [
+      "KC_7293dc309698",
+      "MODULE_516decac5da6"
+    ],
+    [
+      "MODULE_516decac5da6",
+      "MODULE_d41bc93d437c"
+    ],
+    [
+      "MODULE_d41bc93d437c",
+      "MODULE_73fb9b098d26"
+    ],
+    [
+      "MODULE_73fb9b098d26",
+      "KC_ad7833ee4580"
+    ],
+    [
+      "KC_ad7833ee4580",
+      "MODULE_59e7bd770591"
+    ],
+    [
+      "MODULE_59e7bd770591",
+      "MODULE_9a0fa9b75814"
+    ],
+    [
+      "MODULE_9a0fa9b75814",
+      "MODULE_f2aa68c1599c"
+    ],
+    [
+      "MODULE_f2aa68c1599c",
+      "MODULE_e5896e782a67"
+    ],
+    [
+      "MODULE_e5896e782a67",
+      "KC_d7852478fe53"
+    ]
+  ],
+  "grounding": {
+    "COURSE_59526c701d58": {
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures"
+      ],
+      "page_start": 1,
+      "page_end": 161
+    },
+    "KC_42956fe1c1c2": {
+      "pages": [
+        9
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "PREFACE"
+      ],
+      "page_start": 9,
+      "page_end": 9
+    },
+    "KC_7293dc309698": {
+      "pages": [
+        17
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "LEXIQUE"
+      ],
+      "page_start": 17,
+      "page_end": 17
+    },
+    "MODULE_516decac5da6": {
+      "pages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE"
+      ],
+      "page_start": 19,
+      "page_end": 43
+    },
+    "UNIT_64bb7a1d7462": {
+      "pages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE"
+      ],
+      "page_start": 19,
+      "page_end": 31
+    },
+    "UNIT_de6cbfaaf5ff": {
+      "pages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "1. NOTIONS ESSENTIELLES"
+      ],
+      "page_start": 19,
+      "page_end": 25
+    },
+    "UNIT_f8ae2bb04ef3": {
+      "pages": [
+        19,
+        20
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "NOTIONS ESSENTIELLES",
+        "1.1. Définitions/Généralités"
+      ],
+      "page_start": 19,
+      "page_end": 20
+    },
+    "KC_61dbf62a6185": {
+      "pages": [
+        19
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "NOTIONS ESSENTIELLES",
+        "Définitions/Généralités",
+        "1.1.1. Combustion"
+      ],
+      "page_start": 19,
+      "page_end": 19
+    },
+    "KC_97686ef34213": {
+      "pages": [
+        20
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "NOTIONS ESSENTIELLES",
+        "Définitions/Généralités",
+        "1.1.2. Feu"
+      ],
+      "page_start": 20,
+      "page_end": 20
+    },
+    "KC_369072c33653": {
+      "pages": [
+        20
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "NOTIONS ESSENTIELLES",
+        "Définitions/Généralités",
+        "1.1.3. Incendie"
+      ],
+      "page_start": 20,
+      "page_end": 20
+    },
+    "KC_6aad0dab7b20": {
+      "pages": [
+        20
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "NOTIONS ESSENTIELLES",
+        "1.2. Physique et chimie du feu"
+      ],
+      "page_start": 20,
+      "page_end": 20
+    },
+    "KC_df9f39bc00a6": {
+      "pages": [
+        21
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "NOTIONS ESSENTIELLES",
+        "1.3. Transferts de chaleur et modes de propagation"
+      ],
+      "page_start": 21,
+      "page_end": 21
+    },
+    "KC_2b0e8544ceda": {
+      "pages": [
+        21
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "NOTIONS ESSENTIELLES",
+        "1.4. Notions de puissance"
+      ],
+      "page_start": 21,
+      "page_end": 21
+    },
+    "KC_0a38bdbabfd6": {
+      "pages": [
+        21
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "NOTIONS ESSENTIELLES",
+        "1.5. Caractéristiques des fumées"
+      ],
+      "page_start": 21,
+      "page_end": 21
+    },
+    "KC_ddf5c74b101d": {
+      "pages": [
+        22
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "NOTIONS ESSENTIELLES",
+        "1.6. Phases de développement du feu"
+      ],
+      "page_start": 22,
+      "page_end": 22
+    },
+    "UNIT_40294d7a0148": {
+      "pages": [
+        23,
+        24,
+        25
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "NOTIONS ESSENTIELLES",
+        "1.7. Phénomènes thermiques / Progression rapide du feu"
+      ],
+      "page_start": 23,
+      "page_end": 25
+    },
+    "KC_3da2544db6ac": {
+      "pages": [
+        24
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "NOTIONS ESSENTIELLES",
+        "Phénomènes thermiques / Progression rapide du feu",
+        "1.7.1. Famille des Flashover"
+      ],
+      "page_start": 24,
+      "page_end": 24
+    },
+    "KC_0f9661a45337": {
+      "pages": [
+        24
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "NOTIONS ESSENTIELLES",
+        "Phénomènes thermiques / Progression rapide du feu",
+        "1.7.2. « Backdraft »"
+      ],
+      "page_start": 24,
+      "page_end": 24
+    },
+    "KC_6764bf8cbe06": {
+      "pages": [
+        24
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "NOTIONS ESSENTIELLES",
+        "Phénomènes thermiques / Progression rapide du feu",
+        "1.7.3. Famille des Fire Gas Ignition (FGI)"
+      ],
+      "page_start": 24,
+      "page_end": 24
+    },
+    "KC_a73eea505e56": {
+      "pages": [
+        25
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "NOTIONS ESSENTIELLES",
+        "Phénomènes thermiques / Progression rapide du feu",
+        "1.7.4. Synthèse des phénomènes à cinétique rapide"
+      ],
+      "page_start": 25,
+      "page_end": 25
+    },
+    "UNIT_fa5f03e2e118": {
+      "pages": [
+        27,
+        28,
+        29
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "2. LA STRUCTURE"
+      ],
+      "page_start": 27,
+      "page_end": 29
+    },
+    "UNIT_0f1ebdecf2f6": {
+      "pages": [
+        27,
+        28,
+        29
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "LA STRUCTURE",
+        "2.1. Comportement au feu selon les matériaux de construction"
+      ],
+      "page_start": 27,
+      "page_end": 29
+    },
+    "KC_d34e0ce0a680": {
+      "pages": [
+        27
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "LA STRUCTURE",
+        "Comportement au feu selon les matériaux de construction",
+        "2.1.1. La résistance au feu"
+      ],
+      "page_start": 27,
+      "page_end": 27
+    },
+    "KC_fce8ee8af0a0": {
+      "pages": [
+        27
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "LA STRUCTURE",
+        "Comportement au feu selon les matériaux de construction",
+        "2.1.2. La réaction au feu"
+      ],
+      "page_start": 27,
+      "page_end": 27
+    },
+    "KC_9b761cde9d66": {
+      "pages": [
+        27
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "LA STRUCTURE",
+        "Comportement au feu selon les matériaux de construction",
+        "2.1.3. Application"
+      ],
+      "page_start": 27,
+      "page_end": 27
+    },
+    "KC_1541ddceea82": {
+      "pages": [
+        27
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "LA STRUCTURE",
+        "Comportement au feu selon les matériaux de construction",
+        "2.1.4. Comportement au feu des structures selon la destination"
+      ],
+      "page_start": 27,
+      "page_end": 27
+    },
+    "UNIT_0af250975a33": {
+      "pages": [
+        28
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "LA STRUCTURE",
+        "Comportement au feu selon les matériaux de construction",
+        "2.1.5. Caractérisation du combustible"
+      ],
+      "page_start": 28,
+      "page_end": 28
+    },
+    "KC_a848dec64320": {
+      "pages": [
+        28
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "LA STRUCTURE",
+        "Comportement au feu selon les matériaux de construction",
+        "Caractérisation du combustible",
+        "2.1.5.1. Energie calorifique"
+      ],
+      "page_start": 28,
+      "page_end": 28
+    },
+    "KC_a912c25391ac": {
+      "pages": [
+        28
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "LA STRUCTURE",
+        "Comportement au feu selon les matériaux de construction",
+        "Caractérisation du combustible",
+        "2.1.5.2. Pouvoir calorifique"
+      ],
+      "page_start": 28,
+      "page_end": 28
+    },
+    "KC_008be9bad718": {
+      "pages": [
+        28
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "LA STRUCTURE",
+        "Comportement au feu selon les matériaux de construction",
+        "Caractérisation du combustible",
+        "2.1.5.3. Charge calorifique"
+      ],
+      "page_start": 28,
+      "page_end": 28
+    },
+    "KC_b4a419213c44": {
+      "pages": [
+        28
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "LA STRUCTURE",
+        "Comportement au feu selon les matériaux de construction",
+        "Caractérisation du combustible",
+        "2.1.5.4. Potentiel calorifique"
+      ],
+      "page_start": 28,
+      "page_end": 28
+    },
+    "UNIT_4f05970ab12c": {
+      "pages": [
+        28,
+        29
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "LA STRUCTURE",
+        "Comportement au feu selon les matériaux de construction",
+        "2.1.6. Comportement du feu selon les dispositifs d’isolation et de cloisonnement"
+      ],
+      "page_start": 28,
+      "page_end": 29
+    },
+    "KC_a220926aff4c": {
+      "pages": [
+        28
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "LA STRUCTURE",
+        "Comportement au feu selon les matériaux de construction",
+        "Comportement du feu selon les dispositifs d’isolation et de cloisonnement",
+        "2.1.6.1. Isolation du volume"
+      ],
+      "page_start": 28,
+      "page_end": 28
+    },
+    "KC_105ee7074dd6": {
+      "pages": [
+        29
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "LA STRUCTURE",
+        "Comportement au feu selon les matériaux de construction",
+        "Comportement du feu selon les dispositifs d’isolation et de cloisonnement",
+        "2.1.6.2. Cloisonnement des volumes entre eux"
+      ],
+      "page_start": 29,
+      "page_end": 29
+    },
+    "KC_a1169013fd75": {
+      "pages": [
+        29
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "LA STRUCTURE",
+        "2.2. Lecture bâtimentaire (Évaluation d'une construction existante)"
+      ],
+      "page_start": 29,
+      "page_end": 29
+    },
+    "UNIT_2676cc7d1197": {
+      "pages": [
+        29,
+        30,
+        31
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "3. MODELE DE REPRESENTATION DU SYSTEME FEU AU SEIN D’UN LOCAL"
+      ],
+      "page_start": 29,
+      "page_end": 31
+    },
+    "KC_0b41bcd65ad4": {
+      "pages": [
+        29
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "MODELE DE REPRESENTATION DU SYSTEME FEU AU SEIN D’UN LOCAL",
+        "3.1. Modèle de Thomas"
+      ],
+      "page_start": 29,
+      "page_end": 29
+    },
+    "KC_f0dd4bc17a6d": {
+      "pages": [
+        30
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "MODELE DE REPRESENTATION DU SYSTEME FEU AU SEIN D’UN LOCAL",
+        "3.2. Transferts de masse"
+      ],
+      "page_start": 30,
+      "page_end": 30
+    },
+    "KC_327897f6b06d": {
+      "pages": [
+        31
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION I-CONNAISSANCE DU RISQUE",
+        "MODELE DE REPRESENTATION DU SYSTEME FEU AU SEIN D’UN LOCAL",
+        "3.3. Transferts de chaleur"
+      ],
+      "page_start": 31,
+      "page_end": 31
+    },
+    "UNIT_85a9abd889db": {
+      "pages": [
+        32,
+        33,
+        34
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION II - PRINCIPES DE MAITRISE ET D’EXTINCTION DU FEU"
+      ],
+      "page_start": 32,
+      "page_end": 34
+    },
+    "KC_887062417018": {
+      "pages": [
+        32
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION II - PRINCIPES DE MAITRISE ET D’EXTINCTION DU FEU",
+        "1. CONTROLER L’ARRIVEE D’AIR"
+      ],
+      "page_start": 32,
+      "page_end": 32
+    },
+    "UNIT_ad79f51c6cbb": {
+      "pages": [
+        32,
+        33
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION II - PRINCIPES DE MAITRISE ET D’EXTINCTION DU FEU",
+        "2. AGIR SUR LES FUMEES ET GAZ CHAUDS"
+      ],
+      "page_start": 32,
+      "page_end": 33
+    },
+    "KC_92a3723b1c64": {
+      "pages": [
+        32
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION II - PRINCIPES DE MAITRISE ET D’EXTINCTION DU FEU",
+        "AGIR SUR LES FUMEES ET GAZ CHAUDS",
+        "2.1. Evacuer les fumées"
+      ],
+      "page_start": 32,
+      "page_end": 32
+    },
+    "KC_9f4d9be9241c": {
+      "pages": [
+        33
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION II - PRINCIPES DE MAITRISE ET D’EXTINCTION DU FEU",
+        "AGIR SUR LES FUMEES ET GAZ CHAUDS",
+        "2.2. Abaisser la température des fumées"
+      ],
+      "page_start": 33,
+      "page_end": 33
+    },
+    "KC_8467b5cf7d7c": {
+      "pages": [
+        33
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION II - PRINCIPES DE MAITRISE ET D’EXTINCTION DU FEU",
+        "AGIR SUR LES FUMEES ET GAZ CHAUDS",
+        "2.3. Agir sur la composition des fumées"
+      ],
+      "page_start": 33,
+      "page_end": 33
+    },
+    "KC_0c61487860f9": {
+      "pages": [
+        33
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION II - PRINCIPES DE MAITRISE ET D’EXTINCTION DU FEU",
+        "3. AGIR SUR LE COMBUSTIBLE"
+      ],
+      "page_start": 33,
+      "page_end": 33
+    },
+    "KC_a8e7c19cf641": {
+      "pages": [
+        34
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION II - PRINCIPES DE MAITRISE ET D’EXTINCTION DU FEU",
+        "4. INTERROMPRE LA REACTION CHIMIQUE EN CHAINE"
+      ],
+      "page_start": 34,
+      "page_end": 34
+    },
+    "UNIT_6e6e1f31aef2": {
+      "pages": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES"
+      ],
+      "page_start": 34,
+      "page_end": 43
+    },
+    "KC_654ae8f3b4bc": {
+      "pages": [
+        34
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "1. GENERALITES"
+      ],
+      "page_start": 34,
+      "page_end": 34
+    },
+    "UNIT_70906293885e": {
+      "pages": [
+        34,
+        35
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "2. LES INDICATEURS"
+      ],
+      "page_start": 34,
+      "page_end": 35
+    },
+    "KC_1a2c89d27569": {
+      "pages": [
+        34
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES INDICATEURS",
+        "2.1. Le bâtiment et sa destination"
+      ],
+      "page_start": 34,
+      "page_end": 34
+    },
+    "KC_9d2af9831415": {
+      "pages": [
+        35
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES INDICATEURS",
+        "2.2. La fumée"
+      ],
+      "page_start": 35,
+      "page_end": 35
+    },
+    "KC_1166b011c199": {
+      "pages": [
+        35
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES INDICATEURS",
+        "2.3. Les flammes"
+      ],
+      "page_start": 35,
+      "page_end": 35
+    },
+    "KC_8f29aa3f7d8f": {
+      "pages": [
+        35
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES INDICATEURS",
+        "2.4. Les sons"
+      ],
+      "page_start": 35,
+      "page_end": 35
+    },
+    "KC_7067fa4b5749": {
+      "pages": [
+        35
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES INDICATEURS",
+        "2.5. La chaleur"
+      ],
+      "page_start": 35,
+      "page_end": 35
+    },
+    "UNIT_5b00045a9871": {
+      "pages": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "3. LES TYPOLOGIES DE SITUATIONS OPERATIONNELLES"
+      ],
+      "page_start": 35,
+      "page_end": 41
+    },
+    "KC_7518aabc6038": {
+      "pages": [
+        36
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES TYPOLOGIES DE SITUATIONS OPERATIONNELLES",
+        "3.1. Différents paramètres définissant une situation opérationnelle"
+      ],
+      "page_start": 36,
+      "page_end": 36
+    },
+    "KC_347c3c387630": {
+      "pages": [
+        36
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES TYPOLOGIES DE SITUATIONS OPERATIONNELLES",
+        "3.2. Critères de regroupement des situations type"
+      ],
+      "page_start": 36,
+      "page_end": 36
+    },
+    "UNIT_635d9ccd8273": {
+      "pages": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES TYPOLOGIES DE SITUATIONS OPERATIONNELLES",
+        "3.3. Quelques situations type"
+      ],
+      "page_start": 36,
+      "page_end": 41
+    },
+    "KC_0b9b0578d8c0": {
+      "pages": [
+        37
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES TYPOLOGIES DE SITUATIONS OPERATIONNELLES",
+        "Quelques situations type",
+        "3.3.1. Feux naissant"
+      ],
+      "page_start": 37,
+      "page_end": 37
+    },
+    "KC_001395b3d0af": {
+      "pages": [
+        37
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES TYPOLOGIES DE SITUATIONS OPERATIONNELLES",
+        "Quelques situations type",
+        "3.3.2. Feux en superstructure (en étages)"
+      ],
+      "page_start": 37,
+      "page_end": 37
+    },
+    "KC_0becc6d4cfab": {
+      "pages": [
+        38
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES TYPOLOGIES DE SITUATIONS OPERATIONNELLES",
+        "Quelques situations type",
+        "3.3.3. Feux en infrastructures (sous-sol)"
+      ],
+      "page_start": 38,
+      "page_end": 38
+    },
+    "UNIT_4bc1f10a7459": {
+      "pages": [
+        38,
+        39,
+        40
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES TYPOLOGIES DE SITUATIONS OPERATIONNELLES",
+        "Quelques situations type",
+        "3.3.4. Feux d’éléments de construction"
+      ],
+      "page_start": 38,
+      "page_end": 40
+    },
+    "KC_516ce86ef25f": {
+      "pages": [
+        38
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES TYPOLOGIES DE SITUATIONS OPERATIONNELLES",
+        "Quelques situations type",
+        "Feux d’éléments de construction",
+        "3.3.4.1. Les feux de terrasses et toits-terrasses"
+      ],
+      "page_start": 38,
+      "page_end": 38
+    },
+    "KC_6d30ae49e7fc": {
+      "pages": [
+        39
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES TYPOLOGIES DE SITUATIONS OPERATIONNELLES",
+        "Quelques situations type",
+        "Feux d’éléments de construction",
+        "3.3.4.2. Les feux de combles"
+      ],
+      "page_start": 39,
+      "page_end": 39
+    },
+    "KC_22b2f1189a65": {
+      "pages": [
+        39
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES TYPOLOGIES DE SITUATIONS OPERATIONNELLES",
+        "Quelques situations type",
+        "Feux d’éléments de construction",
+        "3.3.4.3. Les feux de joints de dilatation"
+      ],
+      "page_start": 39,
+      "page_end": 39
+    },
+    "KC_9d0c0ad82805": {
+      "pages": [
+        40
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES TYPOLOGIES DE SITUATIONS OPERATIONNELLES",
+        "Quelques situations type",
+        "Feux d’éléments de construction",
+        "3.3.4.4. Les feux de façades"
+      ],
+      "page_start": 40,
+      "page_end": 40
+    },
+    "KC_1e8a204c0882": {
+      "pages": [
+        40
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES TYPOLOGIES DE SITUATIONS OPERATIONNELLES",
+        "Quelques situations type",
+        "Feux d’éléments de construction",
+        "3.3.4.5. Les feux de cages d’escalier"
+      ],
+      "page_start": 40,
+      "page_end": 40
+    },
+    "KC_e3a342e559f8": {
+      "pages": [
+        41
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "LES TYPOLOGIES DE SITUATIONS OPERATIONNELLES",
+        "Quelques situations type",
+        "3.3.5. Equipements techniques"
+      ],
+      "page_start": 41,
+      "page_end": 41
+    },
+    "UNIT_d1b7198767aa": {
+      "pages": [
+        41,
+        42,
+        43
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "4. ANALYSE DES CONTRAINTES ET DES RISQUES IMPACTANT L’HOMME"
+      ],
+      "page_start": 41,
+      "page_end": 43
+    },
+    "KC_7a80e6cc5269": {
+      "pages": [
+        41
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "ANALYSE DES CONTRAINTES ET DES RISQUES IMPACTANT L’HOMME",
+        "4.1. Contraintes"
+      ],
+      "page_start": 41,
+      "page_end": 41
+    },
+    "KC_2e8e52a7cd17": {
+      "pages": [
+        42
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "ANALYSE DES CONTRAINTES ET DES RISQUES IMPACTANT L’HOMME",
+        "4.2. Risques physiologiques"
+      ],
+      "page_start": 42,
+      "page_end": 42
+    },
+    "KC_dd6f7a824ab2": {
+      "pages": [
+        42
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "ANALYSE DES CONTRAINTES ET DES RISQUES IMPACTANT L’HOMME",
+        "4.3. Risques ergonomiques"
+      ],
+      "page_start": 42,
+      "page_end": 42
+    },
+    "KC_c87bf109c51e": {
+      "pages": [
+        42
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "ANALYSE DES CONTRAINTES ET DES RISQUES IMPACTANT L’HOMME",
+        "4.4. Risques comportementaux"
+      ],
+      "page_start": 42,
+      "page_end": 42
+    },
+    "KC_b9166a43cbcf": {
+      "pages": [
+        42
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "ANALYSE DES CONTRAINTES ET DES RISQUES IMPACTANT L’HOMME",
+        "4.5. Risques toxiques"
+      ],
+      "page_start": 42,
+      "page_end": 42
+    },
+    "KC_895717b501f3": {
+      "pages": [
+        43
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "ANALYSE DES CONTRAINTES ET DES RISQUES IMPACTANT L’HOMME",
+        "4.6. Risques phénomènes thermiques, explosion et explosion de poussière"
+      ],
+      "page_start": 43,
+      "page_end": 43
+    },
+    "KC_8a836d70b6e5": {
+      "pages": [
+        43
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "ANALYSE DES CONTRAINTES ET DES RISQUES IMPACTANT L’HOMME",
+        "4.7. Risques liés à la fragilisation des structures"
+      ],
+      "page_start": 43,
+      "page_end": 43
+    },
+    "KC_c8df0499a6bf": {
+      "pages": [
+        43
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "ANALYSE DES CONTRAINTES ET DES RISQUES IMPACTANT L’HOMME",
+        "4.8. Risques liés à l’électricité"
+      ],
+      "page_start": 43,
+      "page_end": 43
+    },
+    "KC_7b20400e8a1b": {
+      "pages": [
+        43
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 1 - CONNAISSANCE DU RISQUE INCENDIE",
+        "SECTION III - ANALYSE DE RISQUES",
+        "ANALYSE DES CONTRAINTES ET DES RISQUES IMPACTANT L’HOMME",
+        "4.9. Risques liés à la présence d’autres installations ou produits dangereux"
+      ],
+      "page_start": 43,
+      "page_end": 43
+    },
+    "MODULE_d41bc93d437c": {
+      "pages": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE"
+      ],
+      "page_start": 45,
+      "page_end": 56
+    },
+    "KC_04f99b54e39f": {
+      "pages": [
+        45
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION I - DE LA DEFINITION DES OBJECTIFS OPERATIONNELS A LA DEMARCHE D’ AMELIORATION CONTINUE"
+      ],
+      "page_start": 45,
+      "page_end": 45
+    },
+    "UNIT_62dbf3a533f9": {
+      "pages": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION II - TACTIQUE GENERALE DE LUTTE CONTRE L’INCENDIE"
+      ],
+      "page_start": 47,
+      "page_end": 52
+    },
+    "UNIT_55309bc179f6": {
+      "pages": [
+        48,
+        49
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION II - TACTIQUE GENERALE DE LUTTE CONTRE L’INCENDIE",
+        "1. LE CHOIX TACTIQUE DU COS"
+      ],
+      "page_start": 48,
+      "page_end": 49
+    },
+    "KC_ae18318703c3": {
+      "pages": [
+        48
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION II - TACTIQUE GENERALE DE LUTTE CONTRE L’INCENDIE",
+        "LE CHOIX TACTIQUE DU COS",
+        "1.1. L’évolution de la situation"
+      ],
+      "page_start": 48,
+      "page_end": 48
+    },
+    "KC_71deb5d115b0": {
+      "pages": [
+        49
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION II - TACTIQUE GENERALE DE LUTTE CONTRE L’INCENDIE",
+        "LE CHOIX TACTIQUE DU COS",
+        "1.2. La sécurité"
+      ],
+      "page_start": 49,
+      "page_end": 49
+    },
+    "KC_229ad5acccd4": {
+      "pages": [
+        49
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION II - TACTIQUE GENERALE DE LUTTE CONTRE L’INCENDIE",
+        "LE CHOIX TACTIQUE DU COS",
+        "1.3. Les moyens disponibles"
+      ],
+      "page_start": 49,
+      "page_end": 49
+    },
+    "UNIT_23664216e22a": {
+      "pages": [
+        49,
+        50
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION II - TACTIQUE GENERALE DE LUTTE CONTRE L’INCENDIE",
+        "2. LES TYPOLOGIES DE TACTIQUES"
+      ],
+      "page_start": 49,
+      "page_end": 50
+    },
+    "KC_6b6e38ea61e1": {
+      "pages": [
+        50
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION II - TACTIQUE GENERALE DE LUTTE CONTRE L’INCENDIE",
+        "LES TYPOLOGIES DE TACTIQUES",
+        "2.1. Tactiques offensives"
+      ],
+      "page_start": 50,
+      "page_end": 50
+    },
+    "KC_29f0dd34582a": {
+      "pages": [
+        50
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION II - TACTIQUE GENERALE DE LUTTE CONTRE L’INCENDIE",
+        "LES TYPOLOGIES DE TACTIQUES",
+        "2.2. Tactiques défensives"
+      ],
+      "page_start": 50,
+      "page_end": 50
+    },
+    "KC_89d09ef70d36": {
+      "pages": [
+        50
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION II - TACTIQUE GENERALE DE LUTTE CONTRE L’INCENDIE",
+        "LES TYPOLOGIES DE TACTIQUES",
+        "2.3. Tactiques de transition"
+      ],
+      "page_start": 50,
+      "page_end": 50
+    },
+    "KC_0eafe868e6a6": {
+      "pages": [
+        52
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION II - TACTIQUE GENERALE DE LUTTE CONTRE L’INCENDIE",
+        "3. LES CHOIX TACTIQUES DU COS D'UN DISPOSITIF OPERATIONNEL REDUIT"
+      ],
+      "page_start": 52,
+      "page_end": 52
+    },
+    "UNIT_b0492b1f2b60": {
+      "pages": [
+        53,
+        54,
+        55
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION III - PREPARATION A LA MISSION OPERATIONNELLE"
+      ],
+      "page_start": 53,
+      "page_end": 55
+    },
+    "KC_ac69b18842c8": {
+      "pages": [
+        53
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION III - PREPARATION A LA MISSION OPERATIONNELLE",
+        "1. LA PLANIFICATION OPERATIONNELLE"
+      ],
+      "page_start": 53,
+      "page_end": 53
+    },
+    "KC_cfc0ac2aa900": {
+      "pages": [
+        53
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION III - PREPARATION A LA MISSION OPERATIONNELLE",
+        "2. CONCEPTION DE LA REPONSE OPERATIONNELLE DE TERRAIN"
+      ],
+      "page_start": 53,
+      "page_end": 53
+    },
+    "KC_ba3c70c8bea2": {
+      "pages": [
+        54
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION III - PREPARATION A LA MISSION OPERATIONNELLE",
+        "3. IMPLICATION CITOYENNE"
+      ],
+      "page_start": 54,
+      "page_end": 54
+    },
+    "UNIT_96cb22d93218": {
+      "pages": [
+        54,
+        55
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION III - PREPARATION A LA MISSION OPERATIONNELLE",
+        "4. LA PREPARATION DE L’INTERVENANT A L’OPERATION"
+      ],
+      "page_start": 54,
+      "page_end": 55
+    },
+    "UNIT_6d831ba9ee2e": {
+      "pages": [
+        54
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION III - PREPARATION A LA MISSION OPERATIONNELLE",
+        "LA PREPARATION DE L’INTERVENANT A L’OPERATION",
+        "4.1. Maintenir et développer les compétences individuelles et collectives"
+      ],
+      "page_start": 54,
+      "page_end": 54
+    },
+    "KC_d659fcaca710": {
+      "pages": [
+        54
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION III - PREPARATION A LA MISSION OPERATIONNELLE",
+        "LA PREPARATION DE L’INTERVENANT A L’OPERATION",
+        "Maintenir et développer les compétences individuelles et collectives",
+        "4.1.1. Démarche individuelle"
+      ],
+      "page_start": 54,
+      "page_end": 54
+    },
+    "KC_4e0c38755c6b": {
+      "pages": [
+        54
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION III - PREPARATION A LA MISSION OPERATIONNELLE",
+        "LA PREPARATION DE L’INTERVENANT A L’OPERATION",
+        "Maintenir et développer les compétences individuelles et collectives",
+        "4.1.2. Démarche collective"
+      ],
+      "page_start": 54,
+      "page_end": 54
+    },
+    "UNIT_929c819533d9": {
+      "pages": [
+        55
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION III - PREPARATION A LA MISSION OPERATIONNELLE",
+        "LA PREPARATION DE L’INTERVENANT A L’OPERATION",
+        "4.2. Aptitude physique et psychologique"
+      ],
+      "page_start": 55,
+      "page_end": 55
+    },
+    "KC_b3339913db49": {
+      "pages": [
+        55
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION III - PREPARATION A LA MISSION OPERATIONNELLE",
+        "LA PREPARATION DE L’INTERVENANT A L’OPERATION",
+        "Aptitude physique et psychologique",
+        "4.2.1. Préparation physique"
+      ],
+      "page_start": 55,
+      "page_end": 55
+    },
+    "KC_b363b0a6856b": {
+      "pages": [
+        55
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION III - PREPARATION A LA MISSION OPERATIONNELLE",
+        "LA PREPARATION DE L’INTERVENANT A L’OPERATION",
+        "Aptitude physique et psychologique",
+        "4.2.2. Préparation psychologique"
+      ],
+      "page_start": 55,
+      "page_end": 55
+    },
+    "KC_ee5982c298f4": {
+      "pages": [
+        55
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION III - PREPARATION A LA MISSION OPERATIONNELLE",
+        "LA PREPARATION DE L’INTERVENANT A L’OPERATION",
+        "Aptitude physique et psychologique",
+        "4.2.3. Prise en compte des conditions météorologiques et temporelles"
+      ],
+      "page_start": 55,
+      "page_end": 55
+    },
+    "KC_e1684bce96aa": {
+      "pages": [
+        55
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION III - PREPARATION A LA MISSION OPERATIONNELLE",
+        "5. EQUIPEMENT EN MATERIELS DE LUTTE"
+      ],
+      "page_start": 55,
+      "page_end": 55
+    },
+    "UNIT_e3546e13e797": {
+      "pages": [
+        56
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION IV – PRINCIPES FONDAMENTAUX DE LA SANTE ET SECURITE EN INTERVENTION :"
+      ],
+      "page_start": 56,
+      "page_end": 56
+    },
+    "KC_6d20a577b6ad": {
+      "pages": [
+        56
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION IV – PRINCIPES FONDAMENTAUX DE LA SANTE ET SECURITE EN INTERVENTION :",
+        "1. STRUCTURATION DE L’INTERVENTION"
+      ],
+      "page_start": 56,
+      "page_end": 56
+    },
+    "KC_db11509ca61a": {
+      "pages": [
+        56
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION IV – PRINCIPES FONDAMENTAUX DE LA SANTE ET SECURITE EN INTERVENTION :",
+        "2. COMMUNICATION"
+      ],
+      "page_start": 56,
+      "page_end": 56
+    },
+    "KC_05ba4bd4c584": {
+      "pages": [
+        56
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 2 - PRINCIPES GENERAUX DE LA LUTTE CONTRE L’INCENDIE",
+        "SECTION IV – PRINCIPES FONDAMENTAUX DE LA SANTE ET SECURITE EN INTERVENTION :",
+        "3. PREVENTION DE L’ACCIDENT ET DE L’EXPOSITION AUX RISQUES ET ANTICIPATION DE L’ACCIDENT"
+      ],
+      "page_start": 56,
+      "page_end": 56
+    },
+    "MODULE_73fb9b098d26": {
+      "pages": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE"
+      ],
+      "page_start": 57,
+      "page_end": 83
+    },
+    "UNIT_60820a2a2e35": {
+      "pages": [
+        57,
+        58,
+        59
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION I - DE L’ ANALYSE DE LA SITUATION, A LA DEFINITION DES ACTIONS DE LUTTE"
+      ],
+      "page_start": 57,
+      "page_end": 59
+    },
+    "KC_5b6feb0b6b3b": {
+      "pages": [
+        57
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION I - DE L’ ANALYSE DE LA SITUATION, A LA DEFINITION DES ACTIONS DE LUTTE",
+        "1. QUALIFICATION DE LA SITUATION"
+      ],
+      "page_start": 57,
+      "page_end": 57
+    },
+    "KC_74fe9a27f974": {
+      "pages": [
+        58
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION I - DE L’ ANALYSE DE LA SITUATION, A LA DEFINITION DES ACTIONS DE LUTTE",
+        "2. RESULTAT DES ACTIONS ENGAGEES"
+      ],
+      "page_start": 58,
+      "page_end": 58
+    },
+    "UNIT_107de0bf0166": {
+      "pages": [
+        58,
+        59
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION I - DE L’ ANALYSE DE LA SITUATION, A LA DEFINITION DES ACTIONS DE LUTTE",
+        "3. DE L'ALERTE A L'ARRIVEE SUR LES LIEUX - SE PROJETER DANS L'ACTION"
+      ],
+      "page_start": 58,
+      "page_end": 59
+    },
+    "KC_12e41c7492a6": {
+      "pages": [
+        58
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION I - DE L’ ANALYSE DE LA SITUATION, A LA DEFINITION DES ACTIONS DE LUTTE",
+        "DE L'ALERTE A L'ARRIVEE SUR LES LIEUX - SE PROJETER DANS L'ACTION",
+        "3.1. Outils aide à la prise de décision (départs types)"
+      ],
+      "page_start": 58,
+      "page_end": 58
+    },
+    "KC_7468c20749ea": {
+      "pages": [
+        59
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION I - DE L’ ANALYSE DE LA SITUATION, A LA DEFINITION DES ACTIONS DE LUTTE",
+        "DE L'ALERTE A L'ARRIVEE SUR LES LIEUX - SE PROJETER DANS L'ACTION",
+        "3.2. Le conseil à l’appelant"
+      ],
+      "page_start": 59,
+      "page_end": 59
+    },
+    "KC_bbad6970a3a0": {
+      "pages": [
+        59
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION I - DE L’ ANALYSE DE LA SITUATION, A LA DEFINITION DES ACTIONS DE LUTTE",
+        "DE L'ALERTE A L'ARRIVEE SUR LES LIEUX - SE PROJETER DANS L'ACTION",
+        "3.3. Exploitation des parcellaires et d’éventuels plans d'établissements répertoriés"
+      ],
+      "page_start": 59,
+      "page_end": 59
+    },
+    "KC_377f43ba1f93": {
+      "pages": [
+        59
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION I - DE L’ ANALYSE DE LA SITUATION, A LA DEFINITION DES ACTIONS DE LUTTE",
+        "DE L'ALERTE A L'ARRIVEE SUR LES LIEUX - SE PROJETER DANS L'ACTION",
+        "3.4. Le positionnement des engins"
+      ],
+      "page_start": 59,
+      "page_end": 59
+    },
+    "UNIT_bf722e37c2ed": {
+      "pages": [
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION"
+      ],
+      "page_start": 60,
+      "page_end": 67
+    },
+    "UNIT_979cbb24fc0d": {
+      "pages": [
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "1. LA SECURITE DES INTERVENANTS"
+      ],
+      "page_start": 60,
+      "page_end": 66
+    },
+    "UNIT_eb2236410e39": {
+      "pages": [
+        61,
+        62
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "LA SECURITE DES INTERVENANTS",
+        "1.1. Le rôle des différents intervenants en matière de sécurité"
+      ],
+      "page_start": 61,
+      "page_end": 62
+    },
+    "KC_e5d2b1fb63fb": {
+      "pages": [
+        61
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "LA SECURITE DES INTERVENANTS",
+        "Le rôle des différents intervenants en matière de sécurité",
+        "1.1.1. L’intervenant équipier ou chef d’équipe"
+      ],
+      "page_start": 61,
+      "page_end": 61
+    },
+    "KC_bad20150f96d": {
+      "pages": [
+        61
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "LA SECURITE DES INTERVENANTS",
+        "Le rôle des différents intervenants en matière de sécurité",
+        "1.1.2. Le binôme"
+      ],
+      "page_start": 61,
+      "page_end": 61
+    },
+    "KC_a546c55f8821": {
+      "pages": [
+        61
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "LA SECURITE DES INTERVENANTS",
+        "Le rôle des différents intervenants en matière de sécurité",
+        "1.1.3. Le chef d’agrès"
+      ],
+      "page_start": 61,
+      "page_end": 61
+    },
+    "KC_5b5d57dd0647": {
+      "pages": [
+        62
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "LA SECURITE DES INTERVENANTS",
+        "Le rôle des différents intervenants en matière de sécurité",
+        "1.1.4. Le commandant des opérations de secours"
+      ],
+      "page_start": 62,
+      "page_end": 62
+    },
+    "UNIT_3f94540d3159": {
+      "pages": [
+        62,
+        63,
+        64,
+        65
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "LA SECURITE DES INTERVENANTS",
+        "1.2. La protection collective"
+      ],
+      "page_start": 62,
+      "page_end": 65
+    },
+    "KC_6cf0018fd9c7": {
+      "pages": [
+        62
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "LA SECURITE DES INTERVENANTS",
+        "La protection collective",
+        "1.2.1. Le zonage opérationnel"
+      ],
+      "page_start": 62,
+      "page_end": 62
+    },
+    "KC_0fa669159255": {
+      "pages": [
+        63
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "LA SECURITE DES INTERVENANTS",
+        "La protection collective",
+        "1.2.2. Binôme de sécurité"
+      ],
+      "page_start": 63,
+      "page_end": 63
+    },
+    "UNIT_5ae3f8900282": {
+      "pages": [
+        64
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "LA SECURITE DES INTERVENANTS",
+        "La protection collective",
+        "1.2.3. Extraction des sauveteurs"
+      ],
+      "page_start": 64,
+      "page_end": 64
+    },
+    "KC_c8fbbcfeadae": {
+      "pages": [
+        64
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "LA SECURITE DES INTERVENANTS",
+        "La protection collective",
+        "Extraction des sauveteurs",
+        "1.2.3.1. Appellations de façades"
+      ],
+      "page_start": 64,
+      "page_end": 64
+    },
+    "KC_9b405e4861a0": {
+      "pages": [
+        64
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "LA SECURITE DES INTERVENANTS",
+        "La protection collective",
+        "Extraction des sauveteurs",
+        "1.2.3.2. Procédure d’évacuation"
+      ],
+      "page_start": 64,
+      "page_end": 64
+    },
+    "KC_80c1f2d1a04b": {
+      "pages": [
+        64
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "LA SECURITE DES INTERVENANTS",
+        "La protection collective",
+        "Extraction des sauveteurs",
+        "1.2.3.3. Les itinéraires de « repli » et de « secours »"
+      ],
+      "page_start": 64,
+      "page_end": 64
+    },
+    "KC_5c6df6ae1c9b": {
+      "pages": [
+        65
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "LA SECURITE DES INTERVENANTS",
+        "La protection collective",
+        "1.2.4. Officier sécurité"
+      ],
+      "page_start": 65,
+      "page_end": 65
+    },
+    "UNIT_8925b325b6bf": {
+      "pages": [
+        65,
+        66
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "LA SECURITE DES INTERVENANTS",
+        "1.3. La protection individuelle"
+      ],
+      "page_start": 65,
+      "page_end": 66
+    },
+    "KC_52da45576cba": {
+      "pages": [
+        65
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "LA SECURITE DES INTERVENANTS",
+        "La protection individuelle",
+        "1.3.1. Principes de la protection individuelle"
+      ],
+      "page_start": 65,
+      "page_end": 65
+    },
+    "KC_eb14a10f36b6": {
+      "pages": [
+        66
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "LA SECURITE DES INTERVENANTS",
+        "La protection individuelle",
+        "1.3.2. Auto sauvetage"
+      ],
+      "page_start": 66,
+      "page_end": 66
+    },
+    "UNIT_6c504b3c7866": {
+      "pages": [
+        66
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "2. SOUTIEN SANITAIRE EN OPERATION"
+      ],
+      "page_start": 66,
+      "page_end": 66
+    },
+    "KC_b205d951b4bc": {
+      "pages": [
+        66
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "SOUTIEN SANITAIRE EN OPERATION",
+        "2.1. Cas des interventions courantes"
+      ],
+      "page_start": 66,
+      "page_end": 66
+    },
+    "KC_5284fb507a7f": {
+      "pages": [
+        66
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "SOUTIEN SANITAIRE EN OPERATION",
+        "2.2. Cas des interventions importantes ou présentant des risques particuliers"
+      ],
+      "page_start": 66,
+      "page_end": 66
+    },
+    "KC_73415a36825c": {
+      "pages": [
+        66
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "SOUTIEN SANITAIRE EN OPERATION",
+        "2.3. Cas des accidents graves concernant un intervenant"
+      ],
+      "page_start": 66,
+      "page_end": 66
+    },
+    "KC_e915015b8e7d": {
+      "pages": [
+        67
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION II – SECURITE EN INTERVENTION",
+        "3. REHABILITATION"
+      ],
+      "page_start": 67,
+      "page_end": 67
+    },
+    "UNIT_bf4a62e4eef0": {
+      "pages": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE"
+      ],
+      "page_start": 68,
+      "page_end": 83
+    },
+    "KC_f159f3f03120": {
+      "pages": [
+        69
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "1. LES RECONNAISSANCES - AU SERVICE DU RAISONNEMENT TACTIQUE"
+      ],
+      "page_start": 69,
+      "page_end": 69
+    },
+    "KC_1e5420a304c3": {
+      "pages": [
+        69
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "2. LA VENTILATION OPERATIONNELLE – MAITRISER LES FLUX GAZEUX"
+      ],
+      "page_start": 69,
+      "page_end": 69
+    },
+    "UNIT_976c86cbaee0": {
+      "pages": [
+        71,
+        72
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "3. LES SAUVETAGES"
+      ],
+      "page_start": 71,
+      "page_end": 72
+    },
+    "KC_ac6a65a4b4b3": {
+      "pages": [
+        71
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "LES SAUVETAGES",
+        "3.1. Le sauvetage : des actions préalables ou concomitantes"
+      ],
+      "page_start": 71,
+      "page_end": 71
+    },
+    "KC_cca68d056573": {
+      "pages": [
+        71
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "LES SAUVETAGES",
+        "3.2. Les sauvetages à vue"
+      ],
+      "page_start": 71,
+      "page_end": 71
+    },
+    "KC_a8672513415f": {
+      "pages": [
+        71
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "LES SAUVETAGES",
+        "3.3. Les sauvetages en exploration"
+      ],
+      "page_start": 71,
+      "page_end": 71
+    },
+    "KC_9bf2aadb558c": {
+      "pages": [
+        72
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "LES SAUVETAGES",
+        "3.4. AIDES : Accéder, Isoler, Désenfumer, Explorer, Sauver (ou Sortir)"
+      ],
+      "page_start": 72,
+      "page_end": 72
+    },
+    "KC_a552bdc265a0": {
+      "pages": [
+        72
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "LES SAUVETAGES",
+        "3.5. Les mises en sécurité"
+      ],
+      "page_start": 72,
+      "page_end": 72
+    },
+    "UNIT_a652bb51ae6a": {
+      "pages": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "4. ACTIONS CONTRE LE FEU"
+      ],
+      "page_start": 72,
+      "page_end": 78
+    },
+    "KC_f288a5de5d8e": {
+      "pages": [
+        72
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "ACTIONS CONTRE LE FEU",
+        "4.1. La lutte contre les propagations externes"
+      ],
+      "page_start": 72,
+      "page_end": 72
+    },
+    "KC_d9174bb541bb": {
+      "pages": [
+        73
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "ACTIONS CONTRE LE FEU",
+        "4.2. La lutte contre les propagations internes"
+      ],
+      "page_start": 73,
+      "page_end": 73
+    },
+    "KC_fcc5cdecf23c": {
+      "pages": [
+        73
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "ACTIONS CONTRE LE FEU",
+        "4.3. Attaque massive depuis l’extérieur"
+      ],
+      "page_start": 73,
+      "page_end": 73
+    },
+    "KC_40e62909948a": {
+      "pages": [
+        74
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "ACTIONS CONTRE LE FEU",
+        "4.4. Attaque des feux naissants"
+      ],
+      "page_start": 74,
+      "page_end": 74
+    },
+    "KC_c67bbef36a5b": {
+      "pages": [
+        74
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "ACTIONS CONTRE LE FEU",
+        "4.5. Attaque menée avec “ventilation positive”"
+      ],
+      "page_start": 74,
+      "page_end": 74
+    },
+    "KC_d148c23e0731": {
+      "pages": [
+        74
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "ACTIONS CONTRE LE FEU",
+        "4.6. Attaque menée en “antiventilation”"
+      ],
+      "page_start": 74,
+      "page_end": 74
+    },
+    "KC_36b0484b9d89": {
+      "pages": [
+        77
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "ACTIONS CONTRE LE FEU",
+        "4.7. Attaque de transition"
+      ],
+      "page_start": 77,
+      "page_end": 77
+    },
+    "KC_0802b89e3db5": {
+      "pages": [
+        77
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "ACTIONS CONTRE LE FEU",
+        "4.8. Cas de l’impossibilité d’agir sur la ventilation"
+      ],
+      "page_start": 77,
+      "page_end": 77
+    },
+    "KC_bb88c2b7c623": {
+      "pages": [
+        78
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "ACTIONS CONTRE LE FEU",
+        "4.9. Repli défensif"
+      ],
+      "page_start": 78,
+      "page_end": 78
+    },
+    "KC_c118b84f0548": {
+      "pages": [
+        78
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "ACTIONS CONTRE LE FEU",
+        "4.10. Choix du moyen hydraulique"
+      ],
+      "page_start": 78,
+      "page_end": 78
+    },
+    "KC_3966d619ad4f": {
+      "pages": [
+        79
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "5. LES ETABLISSEMENTS"
+      ],
+      "page_start": 79,
+      "page_end": 79
+    },
+    "KC_bb1b278a10d4": {
+      "pages": [
+        80
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "6. LA PROTECTION"
+      ],
+      "page_start": 80,
+      "page_end": 80
+    },
+    "KC_0f142ee2d72b": {
+      "pages": [
+        81
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "7. LES DEBLAIS"
+      ],
+      "page_start": 81,
+      "page_end": 81
+    },
+    "KC_14c1034efb45": {
+      "pages": [
+        81
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "8. LA SURVEILLANCE"
+      ],
+      "page_start": 81,
+      "page_end": 81
+    },
+    "KC_94ddf2b47270": {
+      "pages": [
+        82
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "9. LE RELOGEMENT"
+      ],
+      "page_start": 82,
+      "page_end": 82
+    },
+    "KC_474da76c555c": {
+      "pages": [
+        82
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "10. LA REHABILITATION DES HOMMES ET LE RECONDITIONNEMENT DU MATERIEL"
+      ],
+      "page_start": 82,
+      "page_end": 82
+    },
+    "KC_e4f8aafcbf61": {
+      "pages": [
+        83
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "CHAPITRE 3 - ACTIONS DE LUTTE CONTRE L’INCENDIE",
+        "SECTION III - LA MARCHE GENERALE DES OPERATIONS DE LUTTE CONTRE L’INCENDIE",
+        "11. LA PRESERVATION DES TRACES ET INDICES"
+      ],
+      "page_start": 83,
+      "page_end": 83
+    },
+    "KC_ad7833ee4580": {
+      "pages": [
+        85
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "BIBLIOGRAPHIE"
+      ],
+      "page_start": 85,
+      "page_end": 85
+    },
+    "MODULE_59e7bd770591": {
+      "pages": [
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE A :"
+      ],
+      "page_start": 87,
+      "page_end": 134
+    },
+    "UNIT_4a58e62cfda1": {
+      "pages": [
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE A :",
+        "FICHES SCIENTIFIQUES : COMPREHENSION DU SYSTEME FEU ET EFFETS SUR L’HOMME"
+      ],
+      "page_start": 87,
+      "page_end": 134
+    },
+    "KC_00266126dc6a": {
+      "pages": [
+        91,
+        92,
+        93,
+        94
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE A :",
+        "FICHES SCIENTIFIQUES : COMPREHENSION DU SYSTEME FEU ET EFFETS SUR L’HOMME",
+        "FSCI-CSF-1 Notions de transferts thermiques et pyrolyse"
+      ],
+      "page_start": 91,
+      "page_end": 94
+    },
+    "KC_63b8a4771d6b": {
+      "pages": [
+        95,
+        96,
+        97,
+        98
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE A :",
+        "FICHES SCIENTIFIQUES : COMPREHENSION DU SYSTEME FEU ET EFFETS SUR L’HOMME",
+        "FSCI-CSF-2 Mélange et inflammation"
+      ],
+      "page_start": 95,
+      "page_end": 98
+    },
+    "KC_84eabaab1fff": {
+      "pages": [
+        99,
+        100,
+        101,
+        102
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE A :",
+        "FICHES SCIENTIFIQUES : COMPREHENSION DU SYSTEME FEU ET EFFETS SUR L’HOMME",
+        "FSCI-CSF-3 Réaction de combustion et types de flammes"
+      ],
+      "page_start": 99,
+      "page_end": 102
+    },
+    "KC_086c966fbbf0": {
+      "pages": [
+        103,
+        104,
+        105,
+        106
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE A :",
+        "FICHES SCIENTIFIQUES : COMPREHENSION DU SYSTEME FEU ET EFFETS SUR L’HOMME",
+        "FSCI-CSF-4 Puissance d’un feu"
+      ],
+      "page_start": 103,
+      "page_end": 106
+    },
+    "KC_7962f7d1bcbc": {
+      "pages": [
+        107,
+        108
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE A :",
+        "FICHES SCIENTIFIQUES : COMPREHENSION DU SYSTEME FEU ET EFFETS SUR L’HOMME",
+        "FSCI-CSF-5 Les dangers des fumées"
+      ],
+      "page_start": 107,
+      "page_end": 108
+    },
+    "KC_18448da9b56a": {
+      "pages": [
+        109,
+        110,
+        111,
+        112
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE A :",
+        "FICHES SCIENTIFIQUES : COMPREHENSION DU SYSTEME FEU ET EFFETS SUR L’HOMME",
+        "FSCI-CSF-6 Les régimes de feu"
+      ],
+      "page_start": 109,
+      "page_end": 112
+    },
+    "KC_0c1b9bd5eff8": {
+      "pages": [
+        113,
+        114,
+        115,
+        116
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE A :",
+        "FICHES SCIENTIFIQUES : COMPREHENSION DU SYSTEME FEU ET EFFETS SUR L’HOMME",
+        "FSCI-CSF-7 Système feu et modèle de Thomas"
+      ],
+      "page_start": 113,
+      "page_end": 116
+    },
+    "KC_ee378c54189f": {
+      "pages": [
+        117,
+        118,
+        119,
+        120
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE A :",
+        "FICHES SCIENTIFIQUES : COMPREHENSION DU SYSTEME FEU ET EFFETS SUR L’HOMME",
+        "FSCI-CSF-8 Les effets de l’eau"
+      ],
+      "page_start": 117,
+      "page_end": 120
+    },
+    "KC_9b4979e2e965": {
+      "pages": [
+        121,
+        122
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE A :",
+        "FICHES SCIENTIFIQUES : COMPREHENSION DU SYSTEME FEU ET EFFETS SUR L’HOMME",
+        "FSCI-CSF-9 Principes d’interruption des réactions en chaîne"
+      ],
+      "page_start": 121,
+      "page_end": 122
+    },
+    "KC_dcb589d153ea": {
+      "pages": [
+        123,
+        124,
+        125,
+        126
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE A :",
+        "FICHES SCIENTIFIQUES : COMPREHENSION DU SYSTEME FEU ET EFFETS SUR L’HOMME",
+        "FSCI-CSF-10 Flashover (ou les embrasements généralisés)"
+      ],
+      "page_start": 123,
+      "page_end": 126
+    },
+    "KC_aaa57d53c9b4": {
+      "pages": [
+        127,
+        128
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE A :",
+        "FICHES SCIENTIFIQUES : COMPREHENSION DU SYSTEME FEU ET EFFETS SUR L’HOMME",
+        "FSCI-CSF-11 Les phénomènes de type « backdraft »"
+      ],
+      "page_start": 127,
+      "page_end": 128
+    },
+    "KC_975fe6791a0c": {
+      "pages": [
+        129,
+        130
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE A :",
+        "FICHES SCIENTIFIQUES : COMPREHENSION DU SYSTEME FEU ET EFFETS SUR L’HOMME",
+        "FSCI-CSF-12 Inflammations de gaz issus d’un incendie : Flash Fire et Smoke Explosion"
+      ],
+      "page_start": 129,
+      "page_end": 130
+    },
+    "KC_141ffd499a31": {
+      "pages": [
+        131,
+        132,
+        133,
+        134
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE A :",
+        "FICHES SCIENTIFIQUES : COMPREHENSION DU SYSTEME FEU ET EFFETS SUR L’HOMME",
+        "FSCI-CSF-13 Les feux pilotés par le vent"
+      ],
+      "page_start": 131,
+      "page_end": 134
+    },
+    "MODULE_9a0fa9b75814": {
+      "pages": [
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE B :"
+      ],
+      "page_start": 135,
+      "page_end": 156
+    },
+    "UNIT_7a473d74b699": {
+      "pages": [
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE B :",
+        "FICHES SCIENTIFIQUES : L’HOMME FACE AU FEU ET AUX FUMEES"
+      ],
+      "page_start": 135,
+      "page_end": 156
+    },
+    "KC_ee71976b0832": {
+      "pages": [
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE B :",
+        "FICHES SCIENTIFIQUES : L’HOMME FACE AU FEU ET AUX FUMEES",
+        "FSCI-HOM-1 Les effets du feu sur l’Homme"
+      ],
+      "page_start": 139,
+      "page_end": 146
+    },
+    "KC_f44e2f2125ee": {
+      "pages": [
+        147,
+        148,
+        149,
+        150,
+        151,
+        152
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE B :",
+        "FICHES SCIENTIFIQUES : L’HOMME FACE AU FEU ET AUX FUMEES",
+        "FSCI-HOM-2 Gérer le stress thermique"
+      ],
+      "page_start": 147,
+      "page_end": 152
+    },
+    "KC_6645c68234cf": {
+      "pages": [
+        153,
+        154,
+        155,
+        156
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE B :",
+        "FICHES SCIENTIFIQUES : L’HOMME FACE AU FEU ET AUX FUMEES",
+        "FSCI-HOM-3 « Aptitude à la mission »"
+      ],
+      "page_start": 153,
+      "page_end": 156
+    },
+    "MODULE_f2aa68c1599c": {
+      "pages": [
+        157
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE C :"
+      ],
+      "page_start": 157,
+      "page_end": 157
+    },
+    "KC_c10019b9adea": {
+      "pages": [
+        157
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE C :",
+        "COMPOSITION DU GROUPE DE TRAVAIL"
+      ],
+      "page_start": 157,
+      "page_end": 157
+    },
+    "MODULE_e5896e782a67": {
+      "pages": [
+        159
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE D :"
+      ],
+      "page_start": 159,
+      "page_end": 159
+    },
+    "KC_b350dd91eb95": {
+      "pages": [
+        159
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXE D :",
+        "DEMANDE D’INCORPORATION DES AMENDEMENTS"
+      ],
+      "page_start": 159,
+      "page_end": 159
+    },
+    "KC_d7852478fe53": {
+      "pages": [
+        161
+      ],
+      "heading_path": [
+        "Guide de doctrine opérationnelle - Interventions sur les incendies de structures",
+        "ANNEXES COMPLEMENTAIRES"
+      ],
+      "page_start": 161,
+      "page_end": 161
+    }
+  },
+  "annotation_decisions": [
+    "Outline source is the sommaire-driven extracted outline for the PDF.",
+    "Compilation follows the deterministic Stage-2 logic: normalize outline, create COURSE root, recursively create nodes, add contains edges, then add sequence edges between adjacent siblings.",
+    "Typing follows the code rule: child of COURSE with children => MODULE; any non-COURSE node with children => UNIT; leaves => KC.",
+    "Page grounding uses page spans/evidence pages carried by the compiled ECG nodes.",
+    "This export keeps the full compiled hierarchy from the sommaire-derived outline and only changes the JSON shape to match the requested example structure.",
+    "Gold ECG is sommaire-driven: only the printed document hierarchy is preserved.",
+    "Front matter items and annexes are included when explicitly listed in the sommaire.",
+    "No additional inferred pedagogical regrouping beyond the printed outline.",
+    "For evaluation comparability, numbered headings keep their numbering inside the title field (e.g., '1.7.4. Synthèse des phénomènes à cinétique rapide'), while the number is also preserved separately."
+  ]
+}

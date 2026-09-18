@@ -1,0 +1,1623 @@
+{
+  "source_pdf": "9789240119208-eng(1).pdf",
+  "source_title": "National Health Simulation Exercise Programme: implementation guidance to strengthen emergency preparedness, readiness and response",
+  "note": "Gold ECG rebuilt from the PDF outline/Contents only. No paraphrased grouping nodes, body-text concepts, figures, tables, or generated summary concepts are used as nodes. The printed outline determines node selection and hierarchy; layout/body text is used only to verify physical page starts.",
+  "page_semantics": {
+    "format": "[start_page, end_page]",
+    "inclusive": true,
+    "page_numbering": "physical PDF pages, 1-based",
+    "meaning": "Start/end are physical PDF pages. Transition pages may be shared by adjacent nested outline sections when both appear on the same page."
+  },
+  "nodes": [
+    {
+      "id": "g_course",
+      "title": "National Health Simulation Exercise Programme: implementation guidance to strengthen emergency preparedness, readiness and response",
+      "kind": "COURSE",
+      "pages": [
+        1,
+        52
+      ]
+    },
+    {
+      "id": "g_k1",
+      "title": "Acknowledgements",
+      "kind": "KC",
+      "pages": [
+        8,
+        8
+      ]
+    },
+    {
+      "id": "g_k2",
+      "title": "Glossary",
+      "kind": "KC",
+      "pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "g_k3",
+      "title": "List of tables",
+      "kind": "KC",
+      "pages": [
+        11,
+        11
+      ]
+    },
+    {
+      "id": "g_k4",
+      "title": "List of abbreviations",
+      "kind": "KC",
+      "pages": [
+        12,
+        14
+      ]
+    },
+    {
+      "id": "g_m1",
+      "title": "Chapter I: Background",
+      "kind": "MODULE",
+      "pages": [
+        15,
+        20
+      ]
+    },
+    {
+      "id": "g_k5",
+      "title": "1.1. Introduction",
+      "kind": "KC",
+      "pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "g_k6",
+      "title": "1.2. Who should use this guidance?",
+      "kind": "KC",
+      "pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "g_k7",
+      "title": "1.3. Why should countries conduct SimEx?",
+      "kind": "KC",
+      "pages": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "g_k8",
+      "title": "1.4. Why should countries have an NHSEP?",
+      "kind": "KC",
+      "pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "g_k9",
+      "title": "1.5. Potential benefits of an NHSEP",
+      "kind": "KC",
+      "pages": [
+        18,
+        18
+      ]
+    },
+    {
+      "id": "g_k10",
+      "title": "1.6. Risk-informed approach to SimEx",
+      "kind": "KC",
+      "pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "g_k11",
+      "title": "1.7. SimEx informed by the WHO Benchmarks for strengthening health emergency capacities",
+      "kind": "KC",
+      "pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "g_m2",
+      "title": "Chapter II: Framework and Structural Elements of the NHSEP",
+      "kind": "MODULE",
+      "pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "g_k12",
+      "title": "2.1. NHSEP design, implementation and evaluation steps",
+      "kind": "KC",
+      "pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "g_k13",
+      "title": "2.2. Key functions and activities of an NHSEP",
+      "kind": "KC",
+      "pages": [
+        22,
+        22
+      ]
+    },
+    {
+      "id": "g_k14",
+      "title": "2.3. Key components of an NHSEP",
+      "kind": "KC",
+      "pages": [
+        22,
+        22
+      ]
+    },
+    {
+      "id": "g_m3",
+      "title": "Chapter III: Step 1. Establish and Design an NHSEP",
+      "kind": "MODULE",
+      "pages": [
+        23,
+        34
+      ]
+    },
+    {
+      "id": "g_u1",
+      "title": "3.1. Establish an NHSEP",
+      "kind": "UNIT",
+      "pages": [
+        23,
+        29
+      ]
+    },
+    {
+      "id": "g_k15",
+      "title": "3.1.1. Introduce the NHSEP concept and secure leadership buy-in",
+      "kind": "KC",
+      "pages": [
+        24,
+        24
+      ]
+    },
+    {
+      "id": "g_k16",
+      "title": "3.1.2. Designate an institute",
+      "kind": "KC",
+      "pages": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "g_k17",
+      "title": "3.1.3. Appoint relevant persons",
+      "kind": "KC",
+      "pages": [
+        25,
+        27
+      ]
+    },
+    {
+      "id": "g_k18",
+      "title": "3.1.4. Ensure an inclusive and gender-responsive approach",
+      "kind": "KC",
+      "pages": [
+        27,
+        28
+      ]
+    },
+    {
+      "id": "g_k19",
+      "title": "3.1.5. Engage key partners and stakeholders",
+      "kind": "KC",
+      "pages": [
+        28,
+        28
+      ]
+    },
+    {
+      "id": "g_k20",
+      "title": "3.1.6. Draft the NHSEP strategy document",
+      "kind": "KC",
+      "pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "g_u2",
+      "title": "3.2. Design the NHSEP operational plan",
+      "kind": "UNIT",
+      "pages": [
+        29,
+        34
+      ]
+    },
+    {
+      "id": "g_k21",
+      "title": "3.2.1. Convene an NHSEP planning workshop",
+      "kind": "KC",
+      "pages": [
+        29,
+        30
+      ]
+    },
+    {
+      "id": "g_k22",
+      "title": "3.2.2. Formulate specific aim, objectives, scope, and timeline",
+      "kind": "KC",
+      "pages": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "g_k23",
+      "title": "3.2.3. Outline personnel requirements",
+      "kind": "KC",
+      "pages": [
+        31,
+        31
+      ]
+    },
+    {
+      "id": "g_k24",
+      "title": "3.2.4. Prepare a budget",
+      "kind": "KC",
+      "pages": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "g_k25",
+      "title": "3.2.5. Draft schedule with individual exercises and their delivery",
+      "kind": "KC",
+      "pages": [
+        32,
+        34
+      ]
+    },
+    {
+      "id": "g_m4",
+      "title": "Chapter IV: Step 2. Implement the NHSEP",
+      "kind": "MODULE",
+      "pages": [
+        35,
+        37
+      ]
+    },
+    {
+      "id": "g_k26",
+      "title": "4.1. Convene coordination meetings",
+      "kind": "KC",
+      "pages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "g_k27",
+      "title": "4.2. Deliver individual SimEx according to schedule",
+      "kind": "KC",
+      "pages": [
+        36,
+        36
+      ]
+    },
+    {
+      "id": "g_k28",
+      "title": "4.3. Conduct post-exercise surveys and evaluation",
+      "kind": "KC",
+      "pages": [
+        36,
+        36
+      ]
+    },
+    {
+      "id": "g_k29",
+      "title": "4.4. Prepare post-exercise reports for national planning",
+      "kind": "KC",
+      "pages": [
+        36,
+        36
+      ]
+    },
+    {
+      "id": "g_k30",
+      "title": "4.5. Prepare a SimEx minimum reporting protocol as part of the IHR",
+      "kind": "KC",
+      "pages": [
+        36,
+        37
+      ]
+    },
+    {
+      "id": "g_m5",
+      "title": "Chapter V: Step 3. Monitor and evaluate the NHSEP",
+      "kind": "MODULE",
+      "pages": [
+        38,
+        45
+      ]
+    },
+    {
+      "id": "g_u3",
+      "title": "5.1. Monitor the implementation of the NHSEP operational plan",
+      "kind": "UNIT",
+      "pages": [
+        39,
+        42
+      ]
+    },
+    {
+      "id": "g_k31",
+      "title": "5.1.1. Adherence to the SimEx schedule",
+      "kind": "KC",
+      "pages": [
+        39,
+        39
+      ]
+    },
+    {
+      "id": "g_k32",
+      "title": "5.1.2. Linking SimEx monitoring to IHR/SPAR/JEE",
+      "kind": "KC",
+      "pages": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "g_k33",
+      "title": "5.1.3. Quality of exercises delivered",
+      "kind": "KC",
+      "pages": [
+        40,
+        40
+      ]
+    },
+    {
+      "id": "g_k34",
+      "title": "5.1.4. Inclusion (uptake) of SimEx recommendations into plans and policy development",
+      "kind": "KC",
+      "pages": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "g_k35",
+      "title": "5.1.5. Implementation of SimEx recommendations articulated in policy documents",
+      "kind": "KC",
+      "pages": [
+        41,
+        42
+      ]
+    },
+    {
+      "id": "g_k36",
+      "title": "5.1.6. Administrative performance",
+      "kind": "KC",
+      "pages": [
+        42,
+        42
+      ]
+    },
+    {
+      "id": "g_u4",
+      "title": "5.2. Evaluate the NHSEP",
+      "kind": "UNIT",
+      "pages": [
+        42,
+        45
+      ]
+    },
+    {
+      "id": "g_k37",
+      "title": "5.2.1. Evaluation purpose",
+      "kind": "KC",
+      "pages": [
+        42,
+        42
+      ]
+    },
+    {
+      "id": "g_k38",
+      "title": "5.2.2. Determine the evaluation interval",
+      "kind": "KC",
+      "pages": [
+        42,
+        43
+      ]
+    },
+    {
+      "id": "g_k39",
+      "title": "5.2.3. Plan and conduct the evaluation",
+      "kind": "KC",
+      "pages": [
+        43,
+        43
+      ]
+    },
+    {
+      "id": "g_k40",
+      "title": "5.2.4. Disseminate evaluation findings",
+      "kind": "KC",
+      "pages": [
+        43,
+        43
+      ]
+    },
+    {
+      "id": "g_k41",
+      "title": "5.2.5. Follow up on evaluation recommendations",
+      "kind": "KC",
+      "pages": [
+        43,
+        45
+      ]
+    },
+    {
+      "id": "g_k42",
+      "title": "5.3. Prepare an NHSEP strategy document for the next planning cycle",
+      "kind": "KC",
+      "pages": [
+        45,
+        45
+      ]
+    },
+    {
+      "id": "g_k43",
+      "title": "5.4. Establish a centralized digital repository for SimEx documentation and recommendations",
+      "kind": "KC",
+      "pages": [
+        45,
+        45
+      ]
+    },
+    {
+      "id": "g_k44",
+      "title": "Conclusion",
+      "kind": "KC",
+      "pages": [
+        46,
+        46
+      ]
+    },
+    {
+      "id": "g_k45",
+      "title": "References",
+      "kind": "KC",
+      "pages": [
+        47,
+        48
+      ]
+    },
+    {
+      "id": "g_m6",
+      "title": "Annex",
+      "kind": "MODULE",
+      "pages": [
+        49,
+        52
+      ]
+    },
+    {
+      "id": "g_u5",
+      "title": "I. Methodology for the Development of the Guidance",
+      "kind": "UNIT",
+      "pages": [
+        49,
+        51
+      ]
+    },
+    {
+      "id": "g_k46",
+      "title": "1.1. Multi-level and Multi-stakeholder Consultation",
+      "kind": "KC",
+      "pages": [
+        49,
+        49
+      ]
+    },
+    {
+      "id": "g_k47",
+      "title": "1.2. Global Consultative Meeting",
+      "kind": "KC",
+      "pages": [
+        49,
+        50
+      ]
+    },
+    {
+      "id": "g_k48",
+      "title": "1.3. Iterative Development and Review",
+      "kind": "KC",
+      "pages": [
+        50,
+        51
+      ]
+    },
+    {
+      "id": "g_k49",
+      "title": "II. Members of the Technical Advisory Group on Simulation Exercises (July 2021 to June 2023)",
+      "kind": "KC",
+      "pages": [
+        51,
+        52
+      ]
+    }
+  ],
+  "contains": [
+    [
+      "g_course",
+      "g_k1"
+    ],
+    [
+      "g_course",
+      "g_k2"
+    ],
+    [
+      "g_course",
+      "g_k3"
+    ],
+    [
+      "g_course",
+      "g_k4"
+    ],
+    [
+      "g_course",
+      "g_m1"
+    ],
+    [
+      "g_course",
+      "g_m2"
+    ],
+    [
+      "g_course",
+      "g_m3"
+    ],
+    [
+      "g_course",
+      "g_m4"
+    ],
+    [
+      "g_course",
+      "g_m5"
+    ],
+    [
+      "g_course",
+      "g_k44"
+    ],
+    [
+      "g_course",
+      "g_k45"
+    ],
+    [
+      "g_course",
+      "g_m6"
+    ],
+    [
+      "g_m1",
+      "g_k5"
+    ],
+    [
+      "g_m1",
+      "g_k6"
+    ],
+    [
+      "g_m1",
+      "g_k7"
+    ],
+    [
+      "g_m1",
+      "g_k8"
+    ],
+    [
+      "g_m1",
+      "g_k9"
+    ],
+    [
+      "g_m1",
+      "g_k10"
+    ],
+    [
+      "g_m1",
+      "g_k11"
+    ],
+    [
+      "g_m2",
+      "g_k12"
+    ],
+    [
+      "g_m2",
+      "g_k13"
+    ],
+    [
+      "g_m2",
+      "g_k14"
+    ],
+    [
+      "g_m3",
+      "g_u1"
+    ],
+    [
+      "g_m3",
+      "g_u2"
+    ],
+    [
+      "g_u1",
+      "g_k15"
+    ],
+    [
+      "g_u1",
+      "g_k16"
+    ],
+    [
+      "g_u1",
+      "g_k17"
+    ],
+    [
+      "g_u1",
+      "g_k18"
+    ],
+    [
+      "g_u1",
+      "g_k19"
+    ],
+    [
+      "g_u1",
+      "g_k20"
+    ],
+    [
+      "g_u2",
+      "g_k21"
+    ],
+    [
+      "g_u2",
+      "g_k22"
+    ],
+    [
+      "g_u2",
+      "g_k23"
+    ],
+    [
+      "g_u2",
+      "g_k24"
+    ],
+    [
+      "g_u2",
+      "g_k25"
+    ],
+    [
+      "g_m4",
+      "g_k26"
+    ],
+    [
+      "g_m4",
+      "g_k27"
+    ],
+    [
+      "g_m4",
+      "g_k28"
+    ],
+    [
+      "g_m4",
+      "g_k29"
+    ],
+    [
+      "g_m4",
+      "g_k30"
+    ],
+    [
+      "g_m5",
+      "g_u3"
+    ],
+    [
+      "g_m5",
+      "g_u4"
+    ],
+    [
+      "g_m5",
+      "g_k42"
+    ],
+    [
+      "g_m5",
+      "g_k43"
+    ],
+    [
+      "g_u3",
+      "g_k31"
+    ],
+    [
+      "g_u3",
+      "g_k32"
+    ],
+    [
+      "g_u3",
+      "g_k33"
+    ],
+    [
+      "g_u3",
+      "g_k34"
+    ],
+    [
+      "g_u3",
+      "g_k35"
+    ],
+    [
+      "g_u3",
+      "g_k36"
+    ],
+    [
+      "g_u4",
+      "g_k37"
+    ],
+    [
+      "g_u4",
+      "g_k38"
+    ],
+    [
+      "g_u4",
+      "g_k39"
+    ],
+    [
+      "g_u4",
+      "g_k40"
+    ],
+    [
+      "g_u4",
+      "g_k41"
+    ],
+    [
+      "g_m6",
+      "g_u5"
+    ],
+    [
+      "g_m6",
+      "g_k49"
+    ],
+    [
+      "g_u5",
+      "g_k46"
+    ],
+    [
+      "g_u5",
+      "g_k47"
+    ],
+    [
+      "g_u5",
+      "g_k48"
+    ]
+  ],
+  "sequence": [
+    [
+      "g_k1",
+      "g_k2"
+    ],
+    [
+      "g_k2",
+      "g_k3"
+    ],
+    [
+      "g_k3",
+      "g_k4"
+    ],
+    [
+      "g_k4",
+      "g_m1"
+    ],
+    [
+      "g_m1",
+      "g_m2"
+    ],
+    [
+      "g_m2",
+      "g_m3"
+    ],
+    [
+      "g_m3",
+      "g_m4"
+    ],
+    [
+      "g_m4",
+      "g_m5"
+    ],
+    [
+      "g_m5",
+      "g_k44"
+    ],
+    [
+      "g_k44",
+      "g_k45"
+    ],
+    [
+      "g_k45",
+      "g_m6"
+    ],
+    [
+      "g_k5",
+      "g_k6"
+    ],
+    [
+      "g_k6",
+      "g_k7"
+    ],
+    [
+      "g_k7",
+      "g_k8"
+    ],
+    [
+      "g_k8",
+      "g_k9"
+    ],
+    [
+      "g_k9",
+      "g_k10"
+    ],
+    [
+      "g_k10",
+      "g_k11"
+    ],
+    [
+      "g_k12",
+      "g_k13"
+    ],
+    [
+      "g_k13",
+      "g_k14"
+    ],
+    [
+      "g_u1",
+      "g_u2"
+    ],
+    [
+      "g_k15",
+      "g_k16"
+    ],
+    [
+      "g_k16",
+      "g_k17"
+    ],
+    [
+      "g_k17",
+      "g_k18"
+    ],
+    [
+      "g_k18",
+      "g_k19"
+    ],
+    [
+      "g_k19",
+      "g_k20"
+    ],
+    [
+      "g_k21",
+      "g_k22"
+    ],
+    [
+      "g_k22",
+      "g_k23"
+    ],
+    [
+      "g_k23",
+      "g_k24"
+    ],
+    [
+      "g_k24",
+      "g_k25"
+    ],
+    [
+      "g_k26",
+      "g_k27"
+    ],
+    [
+      "g_k27",
+      "g_k28"
+    ],
+    [
+      "g_k28",
+      "g_k29"
+    ],
+    [
+      "g_k29",
+      "g_k30"
+    ],
+    [
+      "g_u3",
+      "g_u4"
+    ],
+    [
+      "g_u4",
+      "g_k42"
+    ],
+    [
+      "g_k42",
+      "g_k43"
+    ],
+    [
+      "g_k31",
+      "g_k32"
+    ],
+    [
+      "g_k32",
+      "g_k33"
+    ],
+    [
+      "g_k33",
+      "g_k34"
+    ],
+    [
+      "g_k34",
+      "g_k35"
+    ],
+    [
+      "g_k35",
+      "g_k36"
+    ],
+    [
+      "g_k37",
+      "g_k38"
+    ],
+    [
+      "g_k38",
+      "g_k39"
+    ],
+    [
+      "g_k39",
+      "g_k40"
+    ],
+    [
+      "g_k40",
+      "g_k41"
+    ],
+    [
+      "g_u5",
+      "g_k49"
+    ],
+    [
+      "g_k46",
+      "g_k47"
+    ],
+    [
+      "g_k47",
+      "g_k48"
+    ]
+  ],
+  "grounding": {
+    "g_k1": {
+      "pages": [
+        8,
+        8
+      ],
+      "heading_path": [
+        "Acknowledgements"
+      ]
+    },
+    "g_k2": {
+      "pages": [
+        9,
+        10
+      ],
+      "heading_path": [
+        "Glossary"
+      ]
+    },
+    "g_k3": {
+      "pages": [
+        11,
+        11
+      ],
+      "heading_path": [
+        "List of tables"
+      ]
+    },
+    "g_k4": {
+      "pages": [
+        12,
+        14
+      ],
+      "heading_path": [
+        "List of abbreviations"
+      ]
+    },
+    "g_m1": {
+      "pages": [
+        15,
+        20
+      ],
+      "heading_path": [
+        "Chapter I: Background"
+      ]
+    },
+    "g_k5": {
+      "pages": [
+        15,
+        16
+      ],
+      "heading_path": [
+        "Chapter I: Background",
+        "1.1. Introduction"
+      ]
+    },
+    "g_k6": {
+      "pages": [
+        16,
+        17
+      ],
+      "heading_path": [
+        "Chapter I: Background",
+        "1.2. Who should use this guidance?"
+      ]
+    },
+    "g_k7": {
+      "pages": [
+        17,
+        17
+      ],
+      "heading_path": [
+        "Chapter I: Background",
+        "1.3. Why should countries conduct SimEx?"
+      ]
+    },
+    "g_k8": {
+      "pages": [
+        17,
+        18
+      ],
+      "heading_path": [
+        "Chapter I: Background",
+        "1.4. Why should countries have an NHSEP?"
+      ]
+    },
+    "g_k9": {
+      "pages": [
+        18,
+        18
+      ],
+      "heading_path": [
+        "Chapter I: Background",
+        "1.5. Potential benefits of an NHSEP"
+      ]
+    },
+    "g_k10": {
+      "pages": [
+        18,
+        19
+      ],
+      "heading_path": [
+        "Chapter I: Background",
+        "1.6. Risk-informed approach to SimEx"
+      ]
+    },
+    "g_k11": {
+      "pages": [
+        19,
+        20
+      ],
+      "heading_path": [
+        "Chapter I: Background",
+        "1.7. SimEx informed by the WHO Benchmarks for strengthening health emergency capacities"
+      ]
+    },
+    "g_m2": {
+      "pages": [
+        21,
+        22
+      ],
+      "heading_path": [
+        "Chapter II: Framework and Structural Elements of the NHSEP"
+      ]
+    },
+    "g_k12": {
+      "pages": [
+        21,
+        22
+      ],
+      "heading_path": [
+        "Chapter II: Framework and Structural Elements of the NHSEP",
+        "2.1. NHSEP design, implementation and evaluation steps"
+      ]
+    },
+    "g_k13": {
+      "pages": [
+        22,
+        22
+      ],
+      "heading_path": [
+        "Chapter II: Framework and Structural Elements of the NHSEP",
+        "2.2. Key functions and activities of an NHSEP"
+      ]
+    },
+    "g_k14": {
+      "pages": [
+        22,
+        22
+      ],
+      "heading_path": [
+        "Chapter II: Framework and Structural Elements of the NHSEP",
+        "2.3. Key components of an NHSEP"
+      ]
+    },
+    "g_m3": {
+      "pages": [
+        23,
+        34
+      ],
+      "heading_path": [
+        "Chapter III: Step 1. Establish and Design an NHSEP"
+      ]
+    },
+    "g_u1": {
+      "pages": [
+        23,
+        29
+      ],
+      "heading_path": [
+        "Chapter III: Step 1. Establish and Design an NHSEP",
+        "3.1. Establish an NHSEP"
+      ]
+    },
+    "g_k15": {
+      "pages": [
+        24,
+        24
+      ],
+      "heading_path": [
+        "Chapter III: Step 1. Establish and Design an NHSEP",
+        "3.1. Establish an NHSEP",
+        "3.1.1. Introduce the NHSEP concept and secure leadership buy-in"
+      ]
+    },
+    "g_k16": {
+      "pages": [
+        24,
+        25
+      ],
+      "heading_path": [
+        "Chapter III: Step 1. Establish and Design an NHSEP",
+        "3.1. Establish an NHSEP",
+        "3.1.2. Designate an institute"
+      ]
+    },
+    "g_k17": {
+      "pages": [
+        25,
+        27
+      ],
+      "heading_path": [
+        "Chapter III: Step 1. Establish and Design an NHSEP",
+        "3.1. Establish an NHSEP",
+        "3.1.3. Appoint relevant persons"
+      ]
+    },
+    "g_k18": {
+      "pages": [
+        27,
+        28
+      ],
+      "heading_path": [
+        "Chapter III: Step 1. Establish and Design an NHSEP",
+        "3.1. Establish an NHSEP",
+        "3.1.4. Ensure an inclusive and gender-responsive approach"
+      ]
+    },
+    "g_k19": {
+      "pages": [
+        28,
+        28
+      ],
+      "heading_path": [
+        "Chapter III: Step 1. Establish and Design an NHSEP",
+        "3.1. Establish an NHSEP",
+        "3.1.5. Engage key partners and stakeholders"
+      ]
+    },
+    "g_k20": {
+      "pages": [
+        28,
+        29
+      ],
+      "heading_path": [
+        "Chapter III: Step 1. Establish and Design an NHSEP",
+        "3.1. Establish an NHSEP",
+        "3.1.6. Draft the NHSEP strategy document"
+      ]
+    },
+    "g_u2": {
+      "pages": [
+        29,
+        34
+      ],
+      "heading_path": [
+        "Chapter III: Step 1. Establish and Design an NHSEP",
+        "3.2. Design the NHSEP operational plan"
+      ]
+    },
+    "g_k21": {
+      "pages": [
+        29,
+        30
+      ],
+      "heading_path": [
+        "Chapter III: Step 1. Establish and Design an NHSEP",
+        "3.2. Design the NHSEP operational plan",
+        "3.2.1. Convene an NHSEP planning workshop"
+      ]
+    },
+    "g_k22": {
+      "pages": [
+        30,
+        31
+      ],
+      "heading_path": [
+        "Chapter III: Step 1. Establish and Design an NHSEP",
+        "3.2. Design the NHSEP operational plan",
+        "3.2.2. Formulate specific aim, objectives, scope, and timeline"
+      ]
+    },
+    "g_k23": {
+      "pages": [
+        31,
+        31
+      ],
+      "heading_path": [
+        "Chapter III: Step 1. Establish and Design an NHSEP",
+        "3.2. Design the NHSEP operational plan",
+        "3.2.3. Outline personnel requirements"
+      ]
+    },
+    "g_k24": {
+      "pages": [
+        31,
+        32
+      ],
+      "heading_path": [
+        "Chapter III: Step 1. Establish and Design an NHSEP",
+        "3.2. Design the NHSEP operational plan",
+        "3.2.4. Prepare a budget"
+      ]
+    },
+    "g_k25": {
+      "pages": [
+        32,
+        34
+      ],
+      "heading_path": [
+        "Chapter III: Step 1. Establish and Design an NHSEP",
+        "3.2. Design the NHSEP operational plan",
+        "3.2.5. Draft schedule with individual exercises and their delivery"
+      ]
+    },
+    "g_m4": {
+      "pages": [
+        35,
+        37
+      ],
+      "heading_path": [
+        "Chapter IV: Step 2. Implement the NHSEP"
+      ]
+    },
+    "g_k26": {
+      "pages": [
+        35,
+        36
+      ],
+      "heading_path": [
+        "Chapter IV: Step 2. Implement the NHSEP",
+        "4.1. Convene coordination meetings"
+      ]
+    },
+    "g_k27": {
+      "pages": [
+        36,
+        36
+      ],
+      "heading_path": [
+        "Chapter IV: Step 2. Implement the NHSEP",
+        "4.2. Deliver individual SimEx according to schedule"
+      ]
+    },
+    "g_k28": {
+      "pages": [
+        36,
+        36
+      ],
+      "heading_path": [
+        "Chapter IV: Step 2. Implement the NHSEP",
+        "4.3. Conduct post-exercise surveys and evaluation"
+      ]
+    },
+    "g_k29": {
+      "pages": [
+        36,
+        36
+      ],
+      "heading_path": [
+        "Chapter IV: Step 2. Implement the NHSEP",
+        "4.4. Prepare post-exercise reports for national planning"
+      ]
+    },
+    "g_k30": {
+      "pages": [
+        36,
+        37
+      ],
+      "heading_path": [
+        "Chapter IV: Step 2. Implement the NHSEP",
+        "4.5. Prepare a SimEx minimum reporting protocol as part of the IHR"
+      ]
+    },
+    "g_m5": {
+      "pages": [
+        38,
+        45
+      ],
+      "heading_path": [
+        "Chapter V: Step 3. Monitor and evaluate the NHSEP"
+      ]
+    },
+    "g_u3": {
+      "pages": [
+        39,
+        42
+      ],
+      "heading_path": [
+        "Chapter V: Step 3. Monitor and evaluate the NHSEP",
+        "5.1. Monitor the implementation of the NHSEP operational plan"
+      ]
+    },
+    "g_k31": {
+      "pages": [
+        39,
+        39
+      ],
+      "heading_path": [
+        "Chapter V: Step 3. Monitor and evaluate the NHSEP",
+        "5.1. Monitor the implementation of the NHSEP operational plan",
+        "5.1.1. Adherence to the SimEx schedule"
+      ]
+    },
+    "g_k32": {
+      "pages": [
+        39,
+        40
+      ],
+      "heading_path": [
+        "Chapter V: Step 3. Monitor and evaluate the NHSEP",
+        "5.1. Monitor the implementation of the NHSEP operational plan",
+        "5.1.2. Linking SimEx monitoring to IHR/SPAR/JEE"
+      ]
+    },
+    "g_k33": {
+      "pages": [
+        40,
+        40
+      ],
+      "heading_path": [
+        "Chapter V: Step 3. Monitor and evaluate the NHSEP",
+        "5.1. Monitor the implementation of the NHSEP operational plan",
+        "5.1.3. Quality of exercises delivered"
+      ]
+    },
+    "g_k34": {
+      "pages": [
+        40,
+        41
+      ],
+      "heading_path": [
+        "Chapter V: Step 3. Monitor and evaluate the NHSEP",
+        "5.1. Monitor the implementation of the NHSEP operational plan",
+        "5.1.4. Inclusion (uptake) of SimEx recommendations into plans and policy development"
+      ]
+    },
+    "g_k35": {
+      "pages": [
+        41,
+        42
+      ],
+      "heading_path": [
+        "Chapter V: Step 3. Monitor and evaluate the NHSEP",
+        "5.1. Monitor the implementation of the NHSEP operational plan",
+        "5.1.5. Implementation of SimEx recommendations articulated in policy documents"
+      ]
+    },
+    "g_k36": {
+      "pages": [
+        42,
+        42
+      ],
+      "heading_path": [
+        "Chapter V: Step 3. Monitor and evaluate the NHSEP",
+        "5.1. Monitor the implementation of the NHSEP operational plan",
+        "5.1.6. Administrative performance"
+      ]
+    },
+    "g_u4": {
+      "pages": [
+        42,
+        45
+      ],
+      "heading_path": [
+        "Chapter V: Step 3. Monitor and evaluate the NHSEP",
+        "5.2. Evaluate the NHSEP"
+      ]
+    },
+    "g_k37": {
+      "pages": [
+        42,
+        42
+      ],
+      "heading_path": [
+        "Chapter V: Step 3. Monitor and evaluate the NHSEP",
+        "5.2. Evaluate the NHSEP",
+        "5.2.1. Evaluation purpose"
+      ]
+    },
+    "g_k38": {
+      "pages": [
+        42,
+        43
+      ],
+      "heading_path": [
+        "Chapter V: Step 3. Monitor and evaluate the NHSEP",
+        "5.2. Evaluate the NHSEP",
+        "5.2.2. Determine the evaluation interval"
+      ]
+    },
+    "g_k39": {
+      "pages": [
+        43,
+        43
+      ],
+      "heading_path": [
+        "Chapter V: Step 3. Monitor and evaluate the NHSEP",
+        "5.2. Evaluate the NHSEP",
+        "5.2.3. Plan and conduct the evaluation"
+      ]
+    },
+    "g_k40": {
+      "pages": [
+        43,
+        43
+      ],
+      "heading_path": [
+        "Chapter V: Step 3. Monitor and evaluate the NHSEP",
+        "5.2. Evaluate the NHSEP",
+        "5.2.4. Disseminate evaluation findings"
+      ]
+    },
+    "g_k41": {
+      "pages": [
+        43,
+        45
+      ],
+      "heading_path": [
+        "Chapter V: Step 3. Monitor and evaluate the NHSEP",
+        "5.2. Evaluate the NHSEP",
+        "5.2.5. Follow up on evaluation recommendations"
+      ]
+    },
+    "g_k42": {
+      "pages": [
+        45,
+        45
+      ],
+      "heading_path": [
+        "Chapter V: Step 3. Monitor and evaluate the NHSEP",
+        "5.3. Prepare an NHSEP strategy document for the next planning cycle"
+      ]
+    },
+    "g_k43": {
+      "pages": [
+        45,
+        45
+      ],
+      "heading_path": [
+        "Chapter V: Step 3. Monitor and evaluate the NHSEP",
+        "5.4. Establish a centralized digital repository for SimEx documentation and recommendations"
+      ]
+    },
+    "g_k44": {
+      "pages": [
+        46,
+        46
+      ],
+      "heading_path": [
+        "Conclusion"
+      ]
+    },
+    "g_k45": {
+      "pages": [
+        47,
+        48
+      ],
+      "heading_path": [
+        "References"
+      ]
+    },
+    "g_m6": {
+      "pages": [
+        49,
+        52
+      ],
+      "heading_path": [
+        "Annex"
+      ]
+    },
+    "g_u5": {
+      "pages": [
+        49,
+        51
+      ],
+      "heading_path": [
+        "Annex",
+        "I. Methodology for the Development of the Guidance"
+      ]
+    },
+    "g_k46": {
+      "pages": [
+        49,
+        49
+      ],
+      "heading_path": [
+        "Annex",
+        "I. Methodology for the Development of the Guidance",
+        "1.1. Multi-level and Multi-stakeholder Consultation"
+      ]
+    },
+    "g_k47": {
+      "pages": [
+        49,
+        50
+      ],
+      "heading_path": [
+        "Annex",
+        "I. Methodology for the Development of the Guidance",
+        "1.2. Global Consultative Meeting"
+      ]
+    },
+    "g_k48": {
+      "pages": [
+        50,
+        51
+      ],
+      "heading_path": [
+        "Annex",
+        "I. Methodology for the Development of the Guidance",
+        "1.3. Iterative Development and Review"
+      ]
+    },
+    "g_k49": {
+      "pages": [
+        51,
+        52
+      ],
+      "heading_path": [
+        "Annex",
+        "II. Members of the Technical Advisory Group on Simulation Exercises (July 2021 to June 2023)"
+      ]
+    }
+  },
+  "annotation_decisions": [
+    "Always use the document outline/Contents as the source of gold nodes and hierarchy.",
+    "Keep explicit front-matter outline items: Acknowledgements, Glossary, List of tables, and List of abbreviations.",
+    "Exclude Executive Summary because it is not listed in the document Contents outline.",
+    "Keep Chapters I-V and their numbered subsections exactly as listed in the outline.",
+    "Keep Conclusion, References, and Annex outline entries.",
+    "Within the Annex, preserve I > 1.1/1.2/1.3 and II as shown in the Contents.",
+    "Do not invent semantic grouping nodes or paraphrased KC titles.",
+    "Apply compiler typing deterministically after the outline hierarchy is fixed."
+  ]
+}

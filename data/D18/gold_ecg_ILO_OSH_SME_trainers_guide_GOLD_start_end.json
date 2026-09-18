@@ -1,0 +1,970 @@
+{
+  "source_pdf": "wcms_792036(1).pdf",
+  "source_title": "Improving occupational safety and health in small and medium-sized enterprises — Trainers’ Guide",
+  "note": "Gold ECG rebuilt from the full source-visible outline and typed with the exact compiler logic. The printed Contents is used as the backbone; additional explicit outline headings visible in the document (e.g. Who is this Trainers’ Guide for? and How to use this guide) are retained. Body prose, table cells, form fields and paraphrased concepts are excluded.",
+  "page_semantics": {
+    "format": "[start_page, end_page]",
+    "inclusive": true,
+    "page_numbering": "physical PDF pages, 1-based"
+  },
+  "compiler_typing_rule": {
+    "COURSE_child": "MODULE if has children, else KC",
+    "non_COURSE_child": "UNIT if has children, else KC"
+  },
+  "nodes": [
+    {
+      "id": "g_course",
+      "title": "Improving occupational safety and health in small and medium-sized enterprises — Trainers’ Guide",
+      "kind": "COURSE",
+      "pages": [
+        1,
+        44
+      ]
+    },
+    {
+      "id": "g_k1",
+      "title": "Acknowledgements",
+      "kind": "KC",
+      "pages": [
+        5,
+        8
+      ]
+    },
+    {
+      "id": "g_m1",
+      "title": "1. Introduction",
+      "kind": "MODULE",
+      "pages": [
+        9,
+        9
+      ]
+    },
+    {
+      "id": "g_k2",
+      "title": "Who is this Trainers’ Guide for?",
+      "kind": "KC",
+      "pages": [
+        9,
+        9
+      ]
+    },
+    {
+      "id": "g_k3",
+      "title": "How to use this guide",
+      "kind": "KC",
+      "pages": [
+        9,
+        9
+      ]
+    },
+    {
+      "id": "g_m2",
+      "title": "2. ILO module: Improving occupational safety and health in small and medium-sized enterprises",
+      "kind": "MODULE",
+      "pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "g_k4",
+      "title": "The role of the trainer",
+      "kind": "KC",
+      "pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "g_k5",
+      "title": "Objectives",
+      "kind": "KC",
+      "pages": [
+        11,
+        11
+      ]
+    },
+    {
+      "id": "g_k6",
+      "title": "3. Workshop programme",
+      "kind": "KC",
+      "pages": [
+        12,
+        12
+      ]
+    },
+    {
+      "id": "g_m3",
+      "title": "4. Session plans",
+      "kind": "MODULE",
+      "pages": [
+        13,
+        23
+      ]
+    },
+    {
+      "id": "g_u1",
+      "title": "Day 1",
+      "kind": "UNIT",
+      "pages": [
+        14,
+        19
+      ]
+    },
+    {
+      "id": "g_k7",
+      "title": "Session 1: Introduction to Occupational Safety and Health in Small and Medium-sized Enterprises",
+      "kind": "KC",
+      "pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "g_k8",
+      "title": "Session 2: OSH definitions and concepts",
+      "kind": "KC",
+      "pages": [
+        15,
+        17
+      ]
+    },
+    {
+      "id": "g_k9",
+      "title": "Session 3: Risk assessment — the process",
+      "kind": "KC",
+      "pages": [
+        17,
+        19
+      ]
+    },
+    {
+      "id": "g_u2",
+      "title": "Day 2",
+      "kind": "UNIT",
+      "pages": [
+        19,
+        23
+      ]
+    },
+    {
+      "id": "g_k10",
+      "title": "Session 4: Hierarchy of controls",
+      "kind": "KC",
+      "pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "g_k11",
+      "title": "Session 5: Risk assessment — the process (continued)",
+      "kind": "KC",
+      "pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "g_k12",
+      "title": "Session 6: Occupational Safety and Health Management Systems",
+      "kind": "KC",
+      "pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "g_k13",
+      "title": "Session 7: Taking Action",
+      "kind": "KC",
+      "pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "g_m4",
+      "title": "5. Handouts",
+      "kind": "MODULE",
+      "pages": [
+        24,
+        34
+      ]
+    },
+    {
+      "id": "g_k14",
+      "title": "H/O 1: Workshop programme",
+      "kind": "KC",
+      "pages": [
+        24,
+        25
+      ]
+    },
+    {
+      "id": "g_k15",
+      "title": "H/O 2: Daily Reaction Evaluation Form",
+      "kind": "KC",
+      "pages": [
+        25,
+        25
+      ]
+    },
+    {
+      "id": "g_k16",
+      "title": "H/O 3: Risk assessment template",
+      "kind": "KC",
+      "pages": [
+        25,
+        28
+      ]
+    },
+    {
+      "id": "g_k17",
+      "title": "H/O 4: Work plan incident report form",
+      "kind": "KC",
+      "pages": [
+        28,
+        30
+      ]
+    },
+    {
+      "id": "g_k18",
+      "title": "H/O 5: For factory exercise 2: Identifying who is at risk and assess current level of risks at your workplace",
+      "kind": "KC",
+      "pages": [
+        30,
+        31
+      ]
+    },
+    {
+      "id": "g_k19",
+      "title": "H/O 6a: List of Improvement Ideas",
+      "kind": "KC",
+      "pages": [
+        31,
+        32
+      ]
+    },
+    {
+      "id": "g_k20",
+      "title": "H/O 6b: Enterprise Improvement Plan (EIP)",
+      "kind": "KC",
+      "pages": [
+        32,
+        33
+      ]
+    },
+    {
+      "id": "g_k21",
+      "title": "H/O 7: Workshop evaluation",
+      "kind": "KC",
+      "pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "g_m5",
+      "title": "6. Facilitators’ notes",
+      "kind": "MODULE",
+      "pages": [
+        35,
+        40
+      ]
+    },
+    {
+      "id": "g_k22",
+      "title": "F/N 1: Trainer task list",
+      "kind": "KC",
+      "pages": [
+        35,
+        35
+      ]
+    },
+    {
+      "id": "g_k23",
+      "title": "F/N 2: Exercise: Small business, big challenges",
+      "kind": "KC",
+      "pages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "g_k24",
+      "title": "F/N 3: Factory exercise 1",
+      "kind": "KC",
+      "pages": [
+        36,
+        36
+      ]
+    },
+    {
+      "id": "g_k25",
+      "title": "F/N 4: Factory exercise 2",
+      "kind": "KC",
+      "pages": [
+        36,
+        38
+      ]
+    },
+    {
+      "id": "g_k26",
+      "title": "F/N 5: Factory exercise 3",
+      "kind": "KC",
+      "pages": [
+        38,
+        38
+      ]
+    },
+    {
+      "id": "g_k27",
+      "title": "F/N 6: The Action Exercise",
+      "kind": "KC",
+      "pages": [
+        38,
+        40
+      ]
+    },
+    {
+      "id": "g_k28",
+      "title": "F/N 7: The Joint Health and Safety Committee Exercise",
+      "kind": "KC",
+      "pages": [
+        40,
+        40
+      ]
+    },
+    {
+      "id": "g_k29",
+      "title": "Useful Links",
+      "kind": "KC",
+      "pages": [
+        41,
+        44
+      ]
+    }
+  ],
+  "contains": [
+    [
+      "g_course",
+      "g_k1"
+    ],
+    [
+      "g_course",
+      "g_m1"
+    ],
+    [
+      "g_course",
+      "g_m2"
+    ],
+    [
+      "g_course",
+      "g_k6"
+    ],
+    [
+      "g_course",
+      "g_m3"
+    ],
+    [
+      "g_course",
+      "g_m4"
+    ],
+    [
+      "g_course",
+      "g_m5"
+    ],
+    [
+      "g_course",
+      "g_k29"
+    ],
+    [
+      "g_m1",
+      "g_k2"
+    ],
+    [
+      "g_m1",
+      "g_k3"
+    ],
+    [
+      "g_m2",
+      "g_k4"
+    ],
+    [
+      "g_m2",
+      "g_k5"
+    ],
+    [
+      "g_m3",
+      "g_u1"
+    ],
+    [
+      "g_m3",
+      "g_u2"
+    ],
+    [
+      "g_u1",
+      "g_k7"
+    ],
+    [
+      "g_u1",
+      "g_k8"
+    ],
+    [
+      "g_u1",
+      "g_k9"
+    ],
+    [
+      "g_u2",
+      "g_k10"
+    ],
+    [
+      "g_u2",
+      "g_k11"
+    ],
+    [
+      "g_u2",
+      "g_k12"
+    ],
+    [
+      "g_u2",
+      "g_k13"
+    ],
+    [
+      "g_m4",
+      "g_k14"
+    ],
+    [
+      "g_m4",
+      "g_k15"
+    ],
+    [
+      "g_m4",
+      "g_k16"
+    ],
+    [
+      "g_m4",
+      "g_k17"
+    ],
+    [
+      "g_m4",
+      "g_k18"
+    ],
+    [
+      "g_m4",
+      "g_k19"
+    ],
+    [
+      "g_m4",
+      "g_k20"
+    ],
+    [
+      "g_m4",
+      "g_k21"
+    ],
+    [
+      "g_m5",
+      "g_k22"
+    ],
+    [
+      "g_m5",
+      "g_k23"
+    ],
+    [
+      "g_m5",
+      "g_k24"
+    ],
+    [
+      "g_m5",
+      "g_k25"
+    ],
+    [
+      "g_m5",
+      "g_k26"
+    ],
+    [
+      "g_m5",
+      "g_k27"
+    ],
+    [
+      "g_m5",
+      "g_k28"
+    ]
+  ],
+  "sequence": [
+    [
+      "g_k1",
+      "g_m1"
+    ],
+    [
+      "g_m1",
+      "g_m2"
+    ],
+    [
+      "g_m2",
+      "g_k6"
+    ],
+    [
+      "g_k6",
+      "g_m3"
+    ],
+    [
+      "g_m3",
+      "g_m4"
+    ],
+    [
+      "g_m4",
+      "g_m5"
+    ],
+    [
+      "g_m5",
+      "g_k29"
+    ],
+    [
+      "g_k2",
+      "g_k3"
+    ],
+    [
+      "g_k4",
+      "g_k5"
+    ],
+    [
+      "g_u1",
+      "g_u2"
+    ],
+    [
+      "g_k7",
+      "g_k8"
+    ],
+    [
+      "g_k8",
+      "g_k9"
+    ],
+    [
+      "g_k10",
+      "g_k11"
+    ],
+    [
+      "g_k11",
+      "g_k12"
+    ],
+    [
+      "g_k12",
+      "g_k13"
+    ],
+    [
+      "g_k14",
+      "g_k15"
+    ],
+    [
+      "g_k15",
+      "g_k16"
+    ],
+    [
+      "g_k16",
+      "g_k17"
+    ],
+    [
+      "g_k17",
+      "g_k18"
+    ],
+    [
+      "g_k18",
+      "g_k19"
+    ],
+    [
+      "g_k19",
+      "g_k20"
+    ],
+    [
+      "g_k20",
+      "g_k21"
+    ],
+    [
+      "g_k22",
+      "g_k23"
+    ],
+    [
+      "g_k23",
+      "g_k24"
+    ],
+    [
+      "g_k24",
+      "g_k25"
+    ],
+    [
+      "g_k25",
+      "g_k26"
+    ],
+    [
+      "g_k26",
+      "g_k27"
+    ],
+    [
+      "g_k27",
+      "g_k28"
+    ]
+  ],
+  "grounding": {
+    "g_k1": {
+      "pages": [
+        5,
+        8
+      ],
+      "heading_path": [
+        "Acknowledgements"
+      ]
+    },
+    "g_m1": {
+      "pages": [
+        9,
+        9
+      ],
+      "heading_path": [
+        "1. Introduction"
+      ]
+    },
+    "g_k2": {
+      "pages": [
+        9,
+        9
+      ],
+      "heading_path": [
+        "1. Introduction",
+        "Who is this Trainers’ Guide for?"
+      ]
+    },
+    "g_k3": {
+      "pages": [
+        9,
+        9
+      ],
+      "heading_path": [
+        "1. Introduction",
+        "How to use this guide"
+      ]
+    },
+    "g_m2": {
+      "pages": [
+        10,
+        11
+      ],
+      "heading_path": [
+        "2. ILO module: Improving occupational safety and health in small and medium-sized enterprises"
+      ]
+    },
+    "g_k4": {
+      "pages": [
+        10,
+        11
+      ],
+      "heading_path": [
+        "2. ILO module: Improving occupational safety and health in small and medium-sized enterprises",
+        "The role of the trainer"
+      ]
+    },
+    "g_k5": {
+      "pages": [
+        11,
+        11
+      ],
+      "heading_path": [
+        "2. ILO module: Improving occupational safety and health in small and medium-sized enterprises",
+        "Objectives"
+      ]
+    },
+    "g_k6": {
+      "pages": [
+        12,
+        12
+      ],
+      "heading_path": [
+        "3. Workshop programme"
+      ]
+    },
+    "g_m3": {
+      "pages": [
+        13,
+        23
+      ],
+      "heading_path": [
+        "4. Session plans"
+      ]
+    },
+    "g_u1": {
+      "pages": [
+        14,
+        19
+      ],
+      "heading_path": [
+        "4. Session plans",
+        "Day 1"
+      ]
+    },
+    "g_k7": {
+      "pages": [
+        14,
+        15
+      ],
+      "heading_path": [
+        "4. Session plans",
+        "Day 1",
+        "Session 1: Introduction to Occupational Safety and Health in Small and Medium-sized Enterprises"
+      ]
+    },
+    "g_k8": {
+      "pages": [
+        15,
+        17
+      ],
+      "heading_path": [
+        "4. Session plans",
+        "Day 1",
+        "Session 2: OSH definitions and concepts"
+      ]
+    },
+    "g_k9": {
+      "pages": [
+        17,
+        19
+      ],
+      "heading_path": [
+        "4. Session plans",
+        "Day 1",
+        "Session 3: Risk assessment — the process"
+      ]
+    },
+    "g_u2": {
+      "pages": [
+        19,
+        23
+      ],
+      "heading_path": [
+        "4. Session plans",
+        "Day 2"
+      ]
+    },
+    "g_k10": {
+      "pages": [
+        19,
+        20
+      ],
+      "heading_path": [
+        "4. Session plans",
+        "Day 2",
+        "Session 4: Hierarchy of controls"
+      ]
+    },
+    "g_k11": {
+      "pages": [
+        20,
+        21
+      ],
+      "heading_path": [
+        "4. Session plans",
+        "Day 2",
+        "Session 5: Risk assessment — the process (continued)"
+      ]
+    },
+    "g_k12": {
+      "pages": [
+        21,
+        22
+      ],
+      "heading_path": [
+        "4. Session plans",
+        "Day 2",
+        "Session 6: Occupational Safety and Health Management Systems"
+      ]
+    },
+    "g_k13": {
+      "pages": [
+        22,
+        23
+      ],
+      "heading_path": [
+        "4. Session plans",
+        "Day 2",
+        "Session 7: Taking Action"
+      ]
+    },
+    "g_m4": {
+      "pages": [
+        24,
+        34
+      ],
+      "heading_path": [
+        "5. Handouts"
+      ]
+    },
+    "g_k14": {
+      "pages": [
+        24,
+        25
+      ],
+      "heading_path": [
+        "5. Handouts",
+        "H/O 1: Workshop programme"
+      ]
+    },
+    "g_k15": {
+      "pages": [
+        25,
+        25
+      ],
+      "heading_path": [
+        "5. Handouts",
+        "H/O 2: Daily Reaction Evaluation Form"
+      ]
+    },
+    "g_k16": {
+      "pages": [
+        25,
+        28
+      ],
+      "heading_path": [
+        "5. Handouts",
+        "H/O 3: Risk assessment template"
+      ]
+    },
+    "g_k17": {
+      "pages": [
+        28,
+        30
+      ],
+      "heading_path": [
+        "5. Handouts",
+        "H/O 4: Work plan incident report form"
+      ]
+    },
+    "g_k18": {
+      "pages": [
+        30,
+        31
+      ],
+      "heading_path": [
+        "5. Handouts",
+        "H/O 5: For factory exercise 2: Identifying who is at risk and assess current level of risks at your workplace"
+      ]
+    },
+    "g_k19": {
+      "pages": [
+        31,
+        32
+      ],
+      "heading_path": [
+        "5. Handouts",
+        "H/O 6a: List of Improvement Ideas"
+      ]
+    },
+    "g_k20": {
+      "pages": [
+        32,
+        33
+      ],
+      "heading_path": [
+        "5. Handouts",
+        "H/O 6b: Enterprise Improvement Plan (EIP)"
+      ]
+    },
+    "g_k21": {
+      "pages": [
+        33,
+        34
+      ],
+      "heading_path": [
+        "5. Handouts",
+        "H/O 7: Workshop evaluation"
+      ]
+    },
+    "g_m5": {
+      "pages": [
+        35,
+        40
+      ],
+      "heading_path": [
+        "6. Facilitators’ notes"
+      ]
+    },
+    "g_k22": {
+      "pages": [
+        35,
+        35
+      ],
+      "heading_path": [
+        "6. Facilitators’ notes",
+        "F/N 1: Trainer task list"
+      ]
+    },
+    "g_k23": {
+      "pages": [
+        35,
+        36
+      ],
+      "heading_path": [
+        "6. Facilitators’ notes",
+        "F/N 2: Exercise: Small business, big challenges"
+      ]
+    },
+    "g_k24": {
+      "pages": [
+        36,
+        36
+      ],
+      "heading_path": [
+        "6. Facilitators’ notes",
+        "F/N 3: Factory exercise 1"
+      ]
+    },
+    "g_k25": {
+      "pages": [
+        36,
+        38
+      ],
+      "heading_path": [
+        "6. Facilitators’ notes",
+        "F/N 4: Factory exercise 2"
+      ]
+    },
+    "g_k26": {
+      "pages": [
+        38,
+        38
+      ],
+      "heading_path": [
+        "6. Facilitators’ notes",
+        "F/N 5: Factory exercise 3"
+      ]
+    },
+    "g_k27": {
+      "pages": [
+        38,
+        40
+      ],
+      "heading_path": [
+        "6. Facilitators’ notes",
+        "F/N 6: The Action Exercise"
+      ]
+    },
+    "g_k28": {
+      "pages": [
+        40,
+        40
+      ],
+      "heading_path": [
+        "6. Facilitators’ notes",
+        "F/N 7: The Joint Health and Safety Committee Exercise"
+      ]
+    },
+    "g_k29": {
+      "pages": [
+        41,
+        44
+      ],
+      "heading_path": [
+        "Useful Links"
+      ]
+    }
+  }
+}

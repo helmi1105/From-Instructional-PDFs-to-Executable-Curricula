@@ -1,0 +1,1409 @@
+{
+  "source_pdf": "20240715_guide_sur_la_reorientation_a_l_entree_des_urgences VF (1).pdf",
+  "source_title": "Guide sur la réorientation à l’entrée des urgences",
+  "note": "Gold ECG built from the complete 18-page guide. Strict hierarchy COURSE > MODULE > UNIT > KC. Every pages field is an inclusive [start_page, end_page] interval. Visual flowcharts and tables on pages 11, 12, 14–17 are explicitly represented in KC leaves.",
+  "page_semantics": {
+    "format": "[start_page, end_page]",
+    "inclusive": true,
+    "page_numbering": "physical PDF pages, 1-based",
+    "meaning": "The first value is where the node content starts and the second is where it ends."
+  },
+  "nodes": [
+    {
+      "id": "g_course",
+      "title": "Guide sur la réorientation à l’entrée des urgences",
+      "kind": "COURSE",
+      "pages": [
+        1,
+        18
+      ]
+    },
+    {
+      "id": "g_m1",
+      "title": "01 – Le cadre général du dispositif de réorientation",
+      "kind": "MODULE",
+      "pages": [
+        3,
+        6
+      ]
+    },
+    {
+      "id": "g_k1",
+      "title": "Introduction",
+      "kind": "KC",
+      "pages": [
+        4,
+        4
+      ]
+    },
+    {
+      "id": "g_k2",
+      "title": "Liste des acronymes utilisés dans le guide",
+      "kind": "KC",
+      "pages": [
+        5,
+        5
+      ]
+    },
+    {
+      "id": "g_u1",
+      "title": "Le cadre juridique de la réorientation après la réforme des autorisations de médecine d’urgence",
+      "kind": "UNIT",
+      "pages": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "g_k3",
+      "title": "1. Le cadre juridique général",
+      "kind": "KC",
+      "pages": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "g_k4",
+      "title": "2. Le rôle des infirmiers organisateurs de l’accueil (IOA) dans la réorientation",
+      "kind": "KC",
+      "pages": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "g_m2",
+      "title": "02 – L’organisation de la réorientation à l’entrée des urgences",
+      "kind": "MODULE",
+      "pages": [
+        7,
+        12
+      ]
+    },
+    {
+      "id": "g_u2",
+      "title": "Notice de la réorientation à l’entrée des urgences",
+      "kind": "UNIT",
+      "pages": [
+        8,
+        10
+      ]
+    },
+    {
+      "id": "g_k5",
+      "title": "a. Qui peut réorienter ?",
+      "kind": "KC",
+      "pages": [
+        8,
+        8
+      ]
+    },
+    {
+      "id": "g_k6",
+      "title": "b. Quand peut-on réorienter ?",
+      "kind": "KC",
+      "pages": [
+        8,
+        8
+      ]
+    },
+    {
+      "id": "g_k7",
+      "title": "c. Quelle information du patient réorienté ?",
+      "kind": "KC",
+      "pages": [
+        8,
+        8
+      ]
+    },
+    {
+      "id": "g_k8",
+      "title": "d. Comment tracer les réorientations ?",
+      "kind": "KC",
+      "pages": [
+        8,
+        8
+      ]
+    },
+    {
+      "id": "g_k9",
+      "title": "a. Accueil et évaluation du patient",
+      "kind": "KC",
+      "pages": [
+        8,
+        9
+      ]
+    },
+    {
+      "id": "g_k10",
+      "title": "b. Prise de la décision sur l’orientation du patient",
+      "kind": "KC",
+      "pages": [
+        9,
+        9
+      ]
+    },
+    {
+      "id": "g_k11",
+      "title": "c. Parcours patient si une décision de réorientation est prise",
+      "kind": "KC",
+      "pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "g_k12",
+      "title": "Les étapes de la réorientation du patient en semaine de 8h à 20h et le samedi de 8h à 12h",
+      "kind": "KC",
+      "pages": [
+        11,
+        11
+      ]
+    },
+    {
+      "id": "g_k13",
+      "title": "Les étapes de la réorientation du patient en semaine de 20h à 8h, le samedi à partir de midi, le dimanche et les jours fériés",
+      "kind": "KC",
+      "pages": [
+        12,
+        12
+      ]
+    },
+    {
+      "id": "g_m3",
+      "title": "03 – Les protocoles médicaux de réorientation",
+      "kind": "MODULE",
+      "pages": [
+        13,
+        17
+      ]
+    },
+    {
+      "id": "g_u3",
+      "title": "Modèle national de protocole médical de réorientation de l’adulte",
+      "kind": "UNIT",
+      "pages": [
+        14,
+        16
+      ]
+    },
+    {
+      "id": "g_k14",
+      "title": "Principe du protocole médical de service",
+      "kind": "KC",
+      "pages": [
+        14,
+        14
+      ]
+    },
+    {
+      "id": "g_k15",
+      "title": "Critères médico-sociaux de non-réorientation",
+      "kind": "KC",
+      "pages": [
+        14,
+        14
+      ]
+    },
+    {
+      "id": "g_k16",
+      "title": "Liste indicative des situations cliniques",
+      "kind": "KC",
+      "pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "g_k17",
+      "title": "Général",
+      "kind": "KC",
+      "pages": [
+        15,
+        15
+      ]
+    },
+    {
+      "id": "g_k18",
+      "title": "Cutané",
+      "kind": "KC",
+      "pages": [
+        15,
+        15
+      ]
+    },
+    {
+      "id": "g_k19",
+      "title": "Neurologie",
+      "kind": "KC",
+      "pages": [
+        15,
+        15
+      ]
+    },
+    {
+      "id": "g_k20",
+      "title": "ORL",
+      "kind": "KC",
+      "pages": [
+        15,
+        15
+      ]
+    },
+    {
+      "id": "g_k21",
+      "title": "Ophtalmo",
+      "kind": "KC",
+      "pages": [
+        15,
+        15
+      ]
+    },
+    {
+      "id": "g_k22",
+      "title": "Face et cou",
+      "kind": "KC",
+      "pages": [
+        15,
+        15
+      ]
+    },
+    {
+      "id": "g_k23",
+      "title": "Appareil locomoteur",
+      "kind": "KC",
+      "pages": [
+        15,
+        15
+      ]
+    },
+    {
+      "id": "g_k24",
+      "title": "Cardiocirculatoire",
+      "kind": "KC",
+      "pages": [
+        15,
+        15
+      ]
+    },
+    {
+      "id": "g_k25",
+      "title": "Digestif",
+      "kind": "KC",
+      "pages": [
+        16,
+        16
+      ]
+    },
+    {
+      "id": "g_k26",
+      "title": "Uro-génital et reproduction",
+      "kind": "KC",
+      "pages": [
+        16,
+        16
+      ]
+    },
+    {
+      "id": "g_k27",
+      "title": "Administratif et social",
+      "kind": "KC",
+      "pages": [
+        16,
+        16
+      ]
+    },
+    {
+      "id": "g_k28",
+      "title": "Évaluation clinique et critères cliniques",
+      "kind": "KC",
+      "pages": [
+        14,
+        14
+      ]
+    },
+    {
+      "id": "g_k29",
+      "title": "Information du patient et réorientation",
+      "kind": "KC",
+      "pages": [
+        14,
+        14
+      ]
+    },
+    {
+      "id": "g_u4",
+      "title": "Modèle national de protocole médical de réorientation de l’enfant",
+      "kind": "UNIT",
+      "pages": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "g_k30",
+      "title": "Barrière de la langue, absence de couverture sociale ou impossibilité de reconsulter dans les 24 h : admission aux UPED",
+      "kind": "KC",
+      "pages": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "g_k31",
+      "title": "Enfant de moins d’un mois : admission aux UPED",
+      "kind": "KC",
+      "pages": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "g_k32",
+      "title": "Motifs imposant l’admission aux UPED",
+      "kind": "KC",
+      "pages": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "g_k33",
+      "title": "Critères cliniques de gravité et allergie malgré antalgique de palier 1",
+      "kind": "KC",
+      "pages": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "g_k34",
+      "title": "Situations nécessitant probablement des examens complémentaires",
+      "kind": "KC",
+      "pages": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "g_k35",
+      "title": "Symptômes stables depuis 2 à 3 semaines sans critère de gravité : renvoi vers le médecin traitant",
+      "kind": "KC",
+      "pages": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "g_k36",
+      "title": "Exemples de situations relevant des consultations non programmées (CNP)",
+      "kind": "KC",
+      "pages": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "g_u2_1",
+      "title": "1. Les principes généraux de la réorientation",
+      "kind": "UNIT",
+      "pages": [
+        8,
+        8
+      ]
+    },
+    {
+      "id": "g_u2_2",
+      "title": "2. Les grandes étapes de la réorientation",
+      "kind": "UNIT",
+      "pages": [
+        8,
+        10
+      ]
+    },
+    {
+      "id": "g_u3_s1",
+      "title": "1ère étape",
+      "kind": "UNIT",
+      "pages": [
+        14,
+        14
+      ]
+    },
+    {
+      "id": "g_u3_s2",
+      "title": "2ème étape – Vérification du motif de recours",
+      "kind": "UNIT",
+      "pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "g_u3_s3",
+      "title": "3ème étape",
+      "kind": "UNIT",
+      "pages": [
+        14,
+        14
+      ]
+    },
+    {
+      "id": "g_u3_s4",
+      "title": "4ème étape",
+      "kind": "UNIT",
+      "pages": [
+        14,
+        14
+      ]
+    }
+  ],
+  "contains": [
+    [
+      "g_course",
+      "g_m1"
+    ],
+    [
+      "g_m1",
+      "g_k1"
+    ],
+    [
+      "g_m1",
+      "g_k2"
+    ],
+    [
+      "g_m1",
+      "g_u1"
+    ],
+    [
+      "g_u1",
+      "g_k3"
+    ],
+    [
+      "g_u1",
+      "g_k4"
+    ],
+    [
+      "g_course",
+      "g_m2"
+    ],
+    [
+      "g_m2",
+      "g_u2"
+    ],
+    [
+      "g_m2",
+      "g_k12"
+    ],
+    [
+      "g_m2",
+      "g_k13"
+    ],
+    [
+      "g_course",
+      "g_m3"
+    ],
+    [
+      "g_m3",
+      "g_u3"
+    ],
+    [
+      "g_u3",
+      "g_k14"
+    ],
+    [
+      "g_m3",
+      "g_u4"
+    ],
+    [
+      "g_u4",
+      "g_k30"
+    ],
+    [
+      "g_u4",
+      "g_k31"
+    ],
+    [
+      "g_u4",
+      "g_k32"
+    ],
+    [
+      "g_u4",
+      "g_k33"
+    ],
+    [
+      "g_u4",
+      "g_k34"
+    ],
+    [
+      "g_u4",
+      "g_k35"
+    ],
+    [
+      "g_u4",
+      "g_k36"
+    ],
+    [
+      "g_u2",
+      "g_u2_1"
+    ],
+    [
+      "g_u2_1",
+      "g_k5"
+    ],
+    [
+      "g_u2_1",
+      "g_k6"
+    ],
+    [
+      "g_u2_1",
+      "g_k7"
+    ],
+    [
+      "g_u2_1",
+      "g_k8"
+    ],
+    [
+      "g_u2",
+      "g_u2_2"
+    ],
+    [
+      "g_u2_2",
+      "g_k9"
+    ],
+    [
+      "g_u2_2",
+      "g_k10"
+    ],
+    [
+      "g_u2_2",
+      "g_k11"
+    ],
+    [
+      "g_u3",
+      "g_u3_s1"
+    ],
+    [
+      "g_u3_s1",
+      "g_k15"
+    ],
+    [
+      "g_u3",
+      "g_u3_s2"
+    ],
+    [
+      "g_u3_s2",
+      "g_k16"
+    ],
+    [
+      "g_u3_s2",
+      "g_k17"
+    ],
+    [
+      "g_u3_s2",
+      "g_k18"
+    ],
+    [
+      "g_u3_s2",
+      "g_k19"
+    ],
+    [
+      "g_u3_s2",
+      "g_k20"
+    ],
+    [
+      "g_u3_s2",
+      "g_k21"
+    ],
+    [
+      "g_u3_s2",
+      "g_k22"
+    ],
+    [
+      "g_u3_s2",
+      "g_k23"
+    ],
+    [
+      "g_u3_s2",
+      "g_k24"
+    ],
+    [
+      "g_u3_s2",
+      "g_k25"
+    ],
+    [
+      "g_u3_s2",
+      "g_k26"
+    ],
+    [
+      "g_u3_s2",
+      "g_k27"
+    ],
+    [
+      "g_u3",
+      "g_u3_s3"
+    ],
+    [
+      "g_u3_s3",
+      "g_k28"
+    ],
+    [
+      "g_u3",
+      "g_u3_s4"
+    ],
+    [
+      "g_u3_s4",
+      "g_k29"
+    ]
+  ],
+  "sequence": [
+    [
+      "g_k1",
+      "g_k2"
+    ],
+    [
+      "g_k2",
+      "g_u1"
+    ],
+    [
+      "g_k3",
+      "g_k4"
+    ],
+    [
+      "g_k5",
+      "g_k6"
+    ],
+    [
+      "g_k6",
+      "g_k7"
+    ],
+    [
+      "g_k7",
+      "g_k8"
+    ],
+    [
+      "g_k8",
+      "g_k9"
+    ],
+    [
+      "g_k9",
+      "g_k10"
+    ],
+    [
+      "g_k10",
+      "g_k11"
+    ],
+    [
+      "g_u2",
+      "g_k12"
+    ],
+    [
+      "g_k12",
+      "g_k13"
+    ],
+    [
+      "g_k14",
+      "g_k15"
+    ],
+    [
+      "g_k15",
+      "g_k16"
+    ],
+    [
+      "g_k16",
+      "g_k17"
+    ],
+    [
+      "g_k17",
+      "g_k18"
+    ],
+    [
+      "g_k18",
+      "g_k19"
+    ],
+    [
+      "g_k19",
+      "g_k20"
+    ],
+    [
+      "g_k20",
+      "g_k21"
+    ],
+    [
+      "g_k21",
+      "g_k22"
+    ],
+    [
+      "g_k22",
+      "g_k23"
+    ],
+    [
+      "g_k23",
+      "g_k24"
+    ],
+    [
+      "g_k24",
+      "g_k25"
+    ],
+    [
+      "g_k25",
+      "g_k26"
+    ],
+    [
+      "g_k26",
+      "g_k27"
+    ],
+    [
+      "g_k27",
+      "g_k28"
+    ],
+    [
+      "g_k28",
+      "g_k29"
+    ],
+    [
+      "g_k30",
+      "g_k31"
+    ],
+    [
+      "g_k31",
+      "g_k32"
+    ],
+    [
+      "g_k32",
+      "g_k33"
+    ],
+    [
+      "g_k33",
+      "g_k34"
+    ],
+    [
+      "g_k34",
+      "g_k35"
+    ],
+    [
+      "g_k35",
+      "g_k36"
+    ],
+    [
+      "g_u3",
+      "g_u4"
+    ],
+    [
+      "g_m1",
+      "g_m2"
+    ],
+    [
+      "g_m2",
+      "g_m3"
+    ],
+    [
+      "g_u2_1",
+      "g_u2_2"
+    ],
+    [
+      "g_u3_s1",
+      "g_u3_s2"
+    ],
+    [
+      "g_u3_s2",
+      "g_u3_s3"
+    ],
+    [
+      "g_u3_s3",
+      "g_u3_s4"
+    ]
+  ],
+  "grounding": {
+    "g_m1": {
+      "pages": [
+        3,
+        6
+      ],
+      "heading_path": [
+        "01 – Le cadre général du dispositif de réorientation"
+      ]
+    },
+    "g_k1": {
+      "pages": [
+        4,
+        4
+      ],
+      "heading_path": [
+        "01 – Le cadre général du dispositif de réorientation",
+        "Introduction"
+      ]
+    },
+    "g_k2": {
+      "pages": [
+        5,
+        5
+      ],
+      "heading_path": [
+        "01 – Le cadre général du dispositif de réorientation",
+        "Liste des acronymes utilisés dans le guide"
+      ]
+    },
+    "g_u1": {
+      "pages": [
+        6,
+        6
+      ],
+      "heading_path": [
+        "01 – Le cadre général du dispositif de réorientation",
+        "Le cadre juridique de la réorientation après la réforme des autorisations de médecine d’urgence"
+      ]
+    },
+    "g_k3": {
+      "pages": [
+        6,
+        6
+      ],
+      "heading_path": [
+        "01 – Le cadre général du dispositif de réorientation",
+        "Le cadre juridique de la réorientation après la réforme des autorisations de médecine d’urgence",
+        "1. Le cadre juridique général"
+      ]
+    },
+    "g_k4": {
+      "pages": [
+        6,
+        6
+      ],
+      "heading_path": [
+        "01 – Le cadre général du dispositif de réorientation",
+        "Le cadre juridique de la réorientation après la réforme des autorisations de médecine d’urgence",
+        "2. Le rôle des infirmiers organisateurs de l’accueil (IOA) dans la réorientation"
+      ]
+    },
+    "g_m2": {
+      "pages": [
+        7,
+        12
+      ],
+      "heading_path": [
+        "02 – L’organisation de la réorientation à l’entrée des urgences"
+      ]
+    },
+    "g_u2": {
+      "pages": [
+        8,
+        10
+      ],
+      "heading_path": [
+        "02 – L’organisation de la réorientation à l’entrée des urgences",
+        "Notice de la réorientation à l’entrée des urgences"
+      ]
+    },
+    "g_k5": {
+      "pages": [
+        8,
+        8
+      ],
+      "heading_path": [
+        "02 – L’organisation de la réorientation à l’entrée des urgences",
+        "Notice de la réorientation à l’entrée des urgences",
+        "1. Les principes généraux de la réorientation",
+        "a. Qui peut réorienter ?"
+      ]
+    },
+    "g_k6": {
+      "pages": [
+        8,
+        8
+      ],
+      "heading_path": [
+        "02 – L’organisation de la réorientation à l’entrée des urgences",
+        "Notice de la réorientation à l’entrée des urgences",
+        "1. Les principes généraux de la réorientation",
+        "b. Quand peut-on réorienter ?"
+      ]
+    },
+    "g_k7": {
+      "pages": [
+        8,
+        8
+      ],
+      "heading_path": [
+        "02 – L’organisation de la réorientation à l’entrée des urgences",
+        "Notice de la réorientation à l’entrée des urgences",
+        "1. Les principes généraux de la réorientation",
+        "c. Quelle information du patient réorienté ?"
+      ]
+    },
+    "g_k8": {
+      "pages": [
+        8,
+        8
+      ],
+      "heading_path": [
+        "02 – L’organisation de la réorientation à l’entrée des urgences",
+        "Notice de la réorientation à l’entrée des urgences",
+        "1. Les principes généraux de la réorientation",
+        "d. Comment tracer les réorientations ?"
+      ]
+    },
+    "g_k9": {
+      "pages": [
+        8,
+        9
+      ],
+      "heading_path": [
+        "02 – L’organisation de la réorientation à l’entrée des urgences",
+        "Notice de la réorientation à l’entrée des urgences",
+        "2. Les grandes étapes de la réorientation",
+        "a. Accueil et évaluation du patient"
+      ]
+    },
+    "g_k10": {
+      "pages": [
+        9,
+        9
+      ],
+      "heading_path": [
+        "02 – L’organisation de la réorientation à l’entrée des urgences",
+        "Notice de la réorientation à l’entrée des urgences",
+        "2. Les grandes étapes de la réorientation",
+        "b. Prise de la décision sur l’orientation du patient"
+      ]
+    },
+    "g_k11": {
+      "pages": [
+        9,
+        10
+      ],
+      "heading_path": [
+        "02 – L’organisation de la réorientation à l’entrée des urgences",
+        "Notice de la réorientation à l’entrée des urgences",
+        "2. Les grandes étapes de la réorientation",
+        "c. Parcours patient si une décision de réorientation est prise"
+      ]
+    },
+    "g_k12": {
+      "pages": [
+        11,
+        11
+      ],
+      "heading_path": [
+        "02 – L’organisation de la réorientation à l’entrée des urgences",
+        "Les étapes de la réorientation du patient en semaine de 8h à 20h et le samedi de 8h à 12h"
+      ]
+    },
+    "g_k13": {
+      "pages": [
+        12,
+        12
+      ],
+      "heading_path": [
+        "02 – L’organisation de la réorientation à l’entrée des urgences",
+        "Les étapes de la réorientation du patient en semaine de 20h à 8h, le samedi à partir de midi, le dimanche et les jours fériés"
+      ]
+    },
+    "g_m3": {
+      "pages": [
+        13,
+        17
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation"
+      ]
+    },
+    "g_u3": {
+      "pages": [
+        14,
+        16
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte"
+      ]
+    },
+    "g_k14": {
+      "pages": [
+        14,
+        14
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "Principe du protocole médical de service"
+      ]
+    },
+    "g_k15": {
+      "pages": [
+        14,
+        14
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "1ère étape",
+        "Critères médico-sociaux de non-réorientation"
+      ]
+    },
+    "g_k16": {
+      "pages": [
+        15,
+        16
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "2ème étape – Vérification du motif de recours",
+        "Liste indicative des situations cliniques"
+      ]
+    },
+    "g_k17": {
+      "pages": [
+        15,
+        15
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "2ème étape – Vérification du motif de recours",
+        "Général"
+      ]
+    },
+    "g_k18": {
+      "pages": [
+        15,
+        15
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "2ème étape – Vérification du motif de recours",
+        "Cutané"
+      ]
+    },
+    "g_k19": {
+      "pages": [
+        15,
+        15
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "2ème étape – Vérification du motif de recours",
+        "Neurologie"
+      ]
+    },
+    "g_k20": {
+      "pages": [
+        15,
+        15
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "2ème étape – Vérification du motif de recours",
+        "ORL"
+      ]
+    },
+    "g_k21": {
+      "pages": [
+        15,
+        15
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "2ème étape – Vérification du motif de recours",
+        "Ophtalmo"
+      ]
+    },
+    "g_k22": {
+      "pages": [
+        15,
+        15
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "2ème étape – Vérification du motif de recours",
+        "Face et cou"
+      ]
+    },
+    "g_k23": {
+      "pages": [
+        15,
+        15
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "2ème étape – Vérification du motif de recours",
+        "Appareil locomoteur"
+      ]
+    },
+    "g_k24": {
+      "pages": [
+        15,
+        15
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "2ème étape – Vérification du motif de recours",
+        "Cardiocirculatoire"
+      ]
+    },
+    "g_k25": {
+      "pages": [
+        16,
+        16
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "2ème étape – Vérification du motif de recours",
+        "Digestif"
+      ]
+    },
+    "g_k26": {
+      "pages": [
+        16,
+        16
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "2ème étape – Vérification du motif de recours",
+        "Uro-génital et reproduction"
+      ]
+    },
+    "g_k27": {
+      "pages": [
+        16,
+        16
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "2ème étape – Vérification du motif de recours",
+        "Administratif et social"
+      ]
+    },
+    "g_k28": {
+      "pages": [
+        14,
+        14
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "3ème étape",
+        "Évaluation clinique et critères cliniques"
+      ]
+    },
+    "g_k29": {
+      "pages": [
+        14,
+        14
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "4ème étape",
+        "Information du patient et réorientation"
+      ]
+    },
+    "g_u4": {
+      "pages": [
+        17,
+        17
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’enfant"
+      ]
+    },
+    "g_k30": {
+      "pages": [
+        17,
+        17
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’enfant",
+        "Barrières / impossibilité de reconsultation"
+      ]
+    },
+    "g_k31": {
+      "pages": [
+        17,
+        17
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’enfant",
+        "Âge",
+        "Enfant < 1 mois"
+      ]
+    },
+    "g_k32": {
+      "pages": [
+        17,
+        17
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’enfant",
+        "Motif"
+      ]
+    },
+    "g_k33": {
+      "pages": [
+        17,
+        17
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’enfant",
+        "Clinique"
+      ]
+    },
+    "g_k34": {
+      "pages": [
+        17,
+        17
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’enfant",
+        "Examens complémentaires probablement nécessaires"
+      ]
+    },
+    "g_k35": {
+      "pages": [
+        17,
+        17
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’enfant",
+        "Symptômes stables depuis 2-3 semaines sans critère de gravité"
+      ]
+    },
+    "g_k36": {
+      "pages": [
+        17,
+        17
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’enfant",
+        "Consultations non programmées",
+        "Exemples de CNP"
+      ]
+    },
+    "g_u2_1": {
+      "pages": [
+        8,
+        8
+      ],
+      "heading_path": [
+        "02 – L’organisation de la réorientation à l’entrée des urgences",
+        "Notice de la réorientation à l’entrée des urgences",
+        "1. Les principes généraux de la réorientation"
+      ]
+    },
+    "g_u2_2": {
+      "pages": [
+        8,
+        10
+      ],
+      "heading_path": [
+        "02 – L’organisation de la réorientation à l’entrée des urgences",
+        "Notice de la réorientation à l’entrée des urgences",
+        "2. Les grandes étapes de la réorientation"
+      ]
+    },
+    "g_u3_s1": {
+      "pages": [
+        14,
+        14
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "1ère étape"
+      ]
+    },
+    "g_u3_s2": {
+      "pages": [
+        15,
+        16
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "2ème étape – Vérification du motif de recours"
+      ]
+    },
+    "g_u3_s3": {
+      "pages": [
+        14,
+        14
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "3ème étape"
+      ]
+    },
+    "g_u3_s4": {
+      "pages": [
+        14,
+        14
+      ],
+      "heading_path": [
+        "03 – Les protocoles médicaux de réorientation",
+        "Modèle national de protocole médical de réorientation de l’adulte",
+        "4ème étape"
+      ]
+    }
+  },
+  "annotation_decisions": [
+    "Strict hierarchy applied: COURSE > MODULE > UNIT > KC.",
+    "The three numbered parts 01, 02 and 03 are MODULE nodes.",
+    "A child of a MODULE with internal substructure is represented as a UNIT; terminal topics are KC leaves.",
+    "Intermediate printed headings such as '1. Les principes généraux' and '2. Les grandes étapes' are retained in heading_path when another graph level would exceed the strict four-level hierarchy.",
+    "Pages always mean [start_page, end_page], not a list of individual pages.",
+    "The two operational diagrams on pages 11 and 12 are standalone KC leaves.",
+    "For the adult protocol, the four-step process is represented and the indicative motif list is decomposed by its printed clinical categories on pages 15–16.",
+    "For the pediatric protocol, the decision blocks in the page-17 flowchart are represented as KC leaves.",
+    "Cover, sommaire, section-divider and back-cover pages are not forced into KC leaves because they do not introduce instructional knowledge content."
+  ],
+  "validation": {
+    "modules": 3,
+    "units": 4,
+    "kcs": 36,
+    "total_nodes": 44,
+    "all_nodes_use_start_end_format": true,
+    "page_format_errors": [],
+    "all_children_inside_parent_ranges": true,
+    "parent_range_errors": [],
+    "instructional_page_ranges_expected": [
+      [
+        4,
+        6
+      ],
+      [
+        8,
+        12
+      ],
+      [
+        14,
+        17
+      ]
+    ],
+    "orphan_instructional_pages": [],
+    "all_instructional_pages_represented_by_kc_leaves": true
+  },
+  "gold_version": "2.0-structure-faithful",
+  "annotation_note": "Refined from the prior gold ECG by preserving explicit intermediate instructional headings already evidenced in heading paths, excluding the table of contents as a structural node, and retaining visible subsection labels where available."
+}

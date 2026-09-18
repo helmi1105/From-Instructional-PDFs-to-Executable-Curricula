@@ -1,0 +1,1502 @@
+{
+  "source_pdf": "Guide d'organisation des structures d'urgence en France (1)(1).pdf",
+  "source_title": "Guide d'organisation des structures d'urgence en France",
+  "note": "Independent gold ECG for D09 using the same annotation schema as the Charte example. The source outline is recovered from the PDF first, then mapped with fixed compiler rules: COURSE root; top-level sections with children as MODULE; internal non-leaf as UNIT; leaves as KC.",
+  "nodes": [
+    {
+      "id": "g_course",
+      "title": "Guide d'organisation des structures d'urgence en France",
+      "kind": "COURSE",
+      "pages": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176
+      ]
+    },
+    {
+      "id": "g_k1",
+      "title": "Préface",
+      "kind": "KC",
+      "pages": [
+        7,
+        8
+      ],
+      "number": ""
+    },
+    {
+      "id": "g_k2",
+      "title": "Avant-propos",
+      "kind": "KC",
+      "pages": [
+        9
+      ],
+      "number": ""
+    },
+    {
+      "id": "g_k3",
+      "title": "Abréviations",
+      "kind": "KC",
+      "pages": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "number": ""
+    },
+    {
+      "id": "g_k4",
+      "title": "Liste des auteurs et autrices",
+      "kind": "KC",
+      "pages": [
+        21,
+        22
+      ],
+      "number": ""
+    },
+    {
+      "id": "g_m1",
+      "title": "CHAMP 1 DÉFINITION DE LA MÉDECINE D'URGENCE",
+      "kind": "MODULE",
+      "pages": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "number": ""
+    },
+    {
+      "id": "g_k5",
+      "title": "QUESTION 1 Qu'est-ce qu'un médecin urgentiste ?",
+      "kind": "KC",
+      "pages": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "number": "1"
+    },
+    {
+      "id": "g_k6",
+      "title": "QUESTION 2 Quelles sont les missions des structures d'urgence ?",
+      "kind": "KC",
+      "pages": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "number": "2"
+    },
+    {
+      "id": "g_k7",
+      "title": "QUESTION 3 Quelles sont les spécificités d'une équipe de médecine d'urgence ?",
+      "kind": "KC",
+      "pages": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "number": "3"
+    },
+    {
+      "id": "g_m2",
+      "title": "CHAMP 2 ORGANISATION DES STRUCTURES D'URGENCE",
+      "kind": "MODULE",
+      "pages": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "number": ""
+    },
+    {
+      "id": "g_k8",
+      "title": "QUESTION 4 Quelle organisation territoriale pour répondre aux enjeux de la médecine d'urgence ?",
+      "kind": "KC",
+      "pages": [
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "number": "4"
+    },
+    {
+      "id": "g_k9",
+      "title": "QUESTION 5 Faut-il adapter/faire évoluer/rationaliser/filtrer l'accès aux structures d'urgence ?",
+      "kind": "KC",
+      "pages": [
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "number": "5"
+    },
+    {
+      "id": "g_k10",
+      "title": "QUESTION 6 Quelles sont les organisations pour assurer les missions d'une structure d'urgence ?",
+      "kind": "KC",
+      "pages": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "number": "6"
+    },
+    {
+      "id": "g_m3",
+      "title": "CHAMP 3 MOYENS DES STRUCTURES D'URGENCE",
+      "kind": "MODULE",
+      "pages": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103
+      ],
+      "number": ""
+    },
+    {
+      "id": "g_k11",
+      "title": "QUESTION 7 Quelles spécialités médicales sont nécessaires pour assurer les missions d'une structure d'urgence ?",
+      "kind": "KC",
+      "pages": [
+        73,
+        74,
+        75
+      ],
+      "number": "7"
+    },
+    {
+      "id": "g_k12",
+      "title": "QUESTION 8 Quel encadrement est nécessaire pour assurer les missions d'une structure d'urgence ?",
+      "kind": "KC",
+      "pages": [
+        76,
+        77,
+        78,
+        79
+      ],
+      "number": "8"
+    },
+    {
+      "id": "g_k13",
+      "title": "QUESTION 9 Quels sont les effectifs cohérents pour faire fonctionner la structure d'urgence du futur ?",
+      "kind": "KC",
+      "pages": [
+        80,
+        81,
+        82,
+        83
+      ],
+      "number": "9"
+    },
+    {
+      "id": "g_k14",
+      "title": "QUESTION 10 Quels médecins (spécialistes de l'urgence ou autres) pour répondre aux missions de la MU ?",
+      "kind": "KC",
+      "pages": [
+        84,
+        85,
+        86
+      ],
+      "number": "10"
+    },
+    {
+      "id": "g_k15",
+      "title": "QUESTION 11 Quel environnement institutionnel est nécessaire au fonctionnement d'une structure d'urgence ?",
+      "kind": "KC",
+      "pages": [
+        87,
+        88,
+        89,
+        90,
+        91
+      ],
+      "number": "11"
+    },
+    {
+      "id": "g_k16",
+      "title": "QUESTION 12 Quels moyens architecturaux pour une SU ?",
+      "kind": "KC",
+      "pages": [
+        92,
+        93,
+        94,
+        95
+      ],
+      "number": "12"
+    },
+    {
+      "id": "g_k17",
+      "title": "QUESTION 13 Quels environnements techniques (imagerie, bio, informatique) sont nécessaires dans un service d'urgence pour optimiser la prise en charge ?",
+      "kind": "KC",
+      "pages": [
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103
+      ],
+      "number": "13"
+    },
+    {
+      "id": "g_m4",
+      "title": "CHAMP 4 INDICATEURS ET QUALITÉ DES SOINS DE FONCTIONNEMENT",
+      "kind": "MODULE",
+      "pages": [
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115
+      ],
+      "number": ""
+    },
+    {
+      "id": "g_k18",
+      "title": "QUESTION 14 Quels indicateurs de fonctionnement pour une structure d'urgence ?",
+      "kind": "KC",
+      "pages": [
+        107,
+        108,
+        109,
+        110
+      ],
+      "number": "14"
+    },
+    {
+      "id": "g_k19",
+      "title": "QUESTION 15 Formation in situ, faut-il en faire ? quand ? comment ?",
+      "kind": "KC",
+      "pages": [
+        111,
+        112,
+        113,
+        114,
+        115
+      ],
+      "number": "15"
+    },
+    {
+      "id": "g_m5",
+      "title": "CHAMP 5 QUALITÉ DE VIE AU TRAVAIL DANS LES STRUCTURES D’URGENCE",
+      "kind": "MODULE",
+      "pages": [
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139
+      ],
+      "number": ""
+    },
+    {
+      "id": "g_k20",
+      "title": "QUESTION 16 Comment organiser le temps de travail dans un service d'urgence ?",
+      "kind": "KC",
+      "pages": [
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130
+      ],
+      "number": "16"
+    },
+    {
+      "id": "g_k21",
+      "title": "QUESTION 17 Comment préserver une qualité de vie et des conditions de travail tout au long de la carrière des soignants de l'urgence ?",
+      "kind": "KC",
+      "pages": [
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139
+      ],
+      "number": "17"
+    },
+    {
+      "id": "g_m6",
+      "title": "CHAMP 6 FILIÈRES SPÉCIFIQUES (AFFLUX MASSIF DE PATIENTS/SITUATION SANITAIRE EXCEPTIONNELLE, GÉRIATRIE, PSYCHIATRIE, PÉDIATRIE)",
+      "kind": "MODULE",
+      "pages": [
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176
+      ],
+      "number": ""
+    },
+    {
+      "id": "g_k22",
+      "title": "QUESTION 18 Quelle organisation pour un afflux de victimes (hôpital en tension – situation sanitaire exceptionnelle) ?",
+      "kind": "KC",
+      "pages": [
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152
+      ],
+      "number": "18"
+    },
+    {
+      "id": "g_k23",
+      "title": "QUESTION 19 Comment organiser l'accueil des personnes âgées aux urgences ?",
+      "kind": "KC",
+      "pages": [
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160
+      ],
+      "number": "19"
+    },
+    {
+      "id": "g_k24",
+      "title": "QUESTION 20 Comment organiser la prise en charge des patients pédiatriques aux urgences ?",
+      "kind": "KC",
+      "pages": [
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171
+      ],
+      "number": "20"
+    },
+    {
+      "id": "g_k25",
+      "title": "QUESTION 21 Comment organiser la recherche dans une structure d'urgence ?",
+      "kind": "KC",
+      "pages": [
+        172,
+        173,
+        174,
+        175,
+        176
+      ],
+      "number": "21"
+    }
+  ],
+  "contains": [
+    [
+      "g_course",
+      "g_k1"
+    ],
+    [
+      "g_course",
+      "g_k2"
+    ],
+    [
+      "g_course",
+      "g_k3"
+    ],
+    [
+      "g_course",
+      "g_k4"
+    ],
+    [
+      "g_course",
+      "g_m1"
+    ],
+    [
+      "g_m1",
+      "g_k5"
+    ],
+    [
+      "g_m1",
+      "g_k6"
+    ],
+    [
+      "g_m1",
+      "g_k7"
+    ],
+    [
+      "g_course",
+      "g_m2"
+    ],
+    [
+      "g_m2",
+      "g_k8"
+    ],
+    [
+      "g_m2",
+      "g_k9"
+    ],
+    [
+      "g_m2",
+      "g_k10"
+    ],
+    [
+      "g_course",
+      "g_m3"
+    ],
+    [
+      "g_m3",
+      "g_k11"
+    ],
+    [
+      "g_m3",
+      "g_k12"
+    ],
+    [
+      "g_m3",
+      "g_k13"
+    ],
+    [
+      "g_m3",
+      "g_k14"
+    ],
+    [
+      "g_m3",
+      "g_k15"
+    ],
+    [
+      "g_m3",
+      "g_k16"
+    ],
+    [
+      "g_m3",
+      "g_k17"
+    ],
+    [
+      "g_course",
+      "g_m4"
+    ],
+    [
+      "g_m4",
+      "g_k18"
+    ],
+    [
+      "g_m4",
+      "g_k19"
+    ],
+    [
+      "g_course",
+      "g_m5"
+    ],
+    [
+      "g_m5",
+      "g_k20"
+    ],
+    [
+      "g_m5",
+      "g_k21"
+    ],
+    [
+      "g_course",
+      "g_m6"
+    ],
+    [
+      "g_m6",
+      "g_k22"
+    ],
+    [
+      "g_m6",
+      "g_k23"
+    ],
+    [
+      "g_m6",
+      "g_k24"
+    ],
+    [
+      "g_m6",
+      "g_k25"
+    ]
+  ],
+  "sequence": [
+    [
+      "g_k5",
+      "g_k6"
+    ],
+    [
+      "g_k6",
+      "g_k7"
+    ],
+    [
+      "g_k8",
+      "g_k9"
+    ],
+    [
+      "g_k9",
+      "g_k10"
+    ],
+    [
+      "g_k11",
+      "g_k12"
+    ],
+    [
+      "g_k12",
+      "g_k13"
+    ],
+    [
+      "g_k13",
+      "g_k14"
+    ],
+    [
+      "g_k14",
+      "g_k15"
+    ],
+    [
+      "g_k15",
+      "g_k16"
+    ],
+    [
+      "g_k16",
+      "g_k17"
+    ],
+    [
+      "g_k18",
+      "g_k19"
+    ],
+    [
+      "g_k20",
+      "g_k21"
+    ],
+    [
+      "g_k22",
+      "g_k23"
+    ],
+    [
+      "g_k23",
+      "g_k24"
+    ],
+    [
+      "g_k24",
+      "g_k25"
+    ],
+    [
+      "g_k1",
+      "g_k2"
+    ],
+    [
+      "g_k2",
+      "g_k3"
+    ],
+    [
+      "g_k3",
+      "g_k4"
+    ],
+    [
+      "g_k4",
+      "g_m1"
+    ],
+    [
+      "g_m1",
+      "g_m2"
+    ],
+    [
+      "g_m2",
+      "g_m3"
+    ],
+    [
+      "g_m3",
+      "g_m4"
+    ],
+    [
+      "g_m4",
+      "g_m5"
+    ],
+    [
+      "g_m5",
+      "g_m6"
+    ]
+  ],
+  "grounding": {
+    "g_k1": {
+      "pages": [
+        7,
+        8
+      ],
+      "heading_path": [
+        "Préface"
+      ]
+    },
+    "g_k2": {
+      "pages": [
+        9
+      ],
+      "heading_path": [
+        "Avant-propos"
+      ]
+    },
+    "g_k3": {
+      "pages": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "heading_path": [
+        "Abréviations"
+      ]
+    },
+    "g_k4": {
+      "pages": [
+        21,
+        22
+      ],
+      "heading_path": [
+        "Liste des auteurs et autrices"
+      ]
+    },
+    "g_m1": {
+      "pages": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "heading_path": [
+        "CHAMP 1 DÉFINITION DE LA MÉDECINE D'URGENCE"
+      ]
+    },
+    "g_k5": {
+      "pages": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ],
+      "heading_path": [
+        "CHAMP 1 DÉFINITION DE LA MÉDECINE D'URGENCE",
+        "QUESTION 1 Qu'est-ce qu'un médecin urgentiste ?"
+      ]
+    },
+    "g_k6": {
+      "pages": [
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "heading_path": [
+        "CHAMP 1 DÉFINITION DE LA MÉDECINE D'URGENCE",
+        "QUESTION 2 Quelles sont les missions des structures d'urgence ?"
+      ]
+    },
+    "g_k7": {
+      "pages": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ],
+      "heading_path": [
+        "CHAMP 1 DÉFINITION DE LA MÉDECINE D'URGENCE",
+        "QUESTION 3 Quelles sont les spécificités d'une équipe de médecine d'urgence ?"
+      ]
+    },
+    "g_m2": {
+      "pages": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "heading_path": [
+        "CHAMP 2 ORGANISATION DES STRUCTURES D'URGENCE"
+      ]
+    },
+    "g_k8": {
+      "pages": [
+        45,
+        46,
+        47,
+        48,
+        49
+      ],
+      "heading_path": [
+        "CHAMP 2 ORGANISATION DES STRUCTURES D'URGENCE",
+        "QUESTION 4 Quelle organisation territoriale pour répondre aux enjeux de la médecine d'urgence ?"
+      ]
+    },
+    "g_k9": {
+      "pages": [
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "heading_path": [
+        "CHAMP 2 ORGANISATION DES STRUCTURES D'URGENCE",
+        "QUESTION 5 Faut-il adapter/faire évoluer/rationaliser/filtrer l'accès aux structures d'urgence ?"
+      ]
+    },
+    "g_k10": {
+      "pages": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69
+      ],
+      "heading_path": [
+        "CHAMP 2 ORGANISATION DES STRUCTURES D'URGENCE",
+        "QUESTION 6 Quelles sont les organisations pour assurer les missions d'une structure d'urgence ?"
+      ]
+    },
+    "g_m3": {
+      "pages": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103
+      ],
+      "heading_path": [
+        "CHAMP 3 MOYENS DES STRUCTURES D'URGENCE"
+      ]
+    },
+    "g_k11": {
+      "pages": [
+        73,
+        74,
+        75
+      ],
+      "heading_path": [
+        "CHAMP 3 MOYENS DES STRUCTURES D'URGENCE",
+        "QUESTION 7 Quelles spécialités médicales sont nécessaires pour assurer les missions d'une structure d'urgence ?"
+      ]
+    },
+    "g_k12": {
+      "pages": [
+        76,
+        77,
+        78,
+        79
+      ],
+      "heading_path": [
+        "CHAMP 3 MOYENS DES STRUCTURES D'URGENCE",
+        "QUESTION 8 Quel encadrement est nécessaire pour assurer les missions d'une structure d'urgence ?"
+      ]
+    },
+    "g_k13": {
+      "pages": [
+        80,
+        81,
+        82,
+        83
+      ],
+      "heading_path": [
+        "CHAMP 3 MOYENS DES STRUCTURES D'URGENCE",
+        "QUESTION 9 Quels sont les effectifs cohérents pour faire fonctionner la structure d'urgence du futur ?"
+      ]
+    },
+    "g_k14": {
+      "pages": [
+        84,
+        85,
+        86
+      ],
+      "heading_path": [
+        "CHAMP 3 MOYENS DES STRUCTURES D'URGENCE",
+        "QUESTION 10 Quels médecins (spécialistes de l'urgence ou autres) pour répondre aux missions de la MU ?"
+      ]
+    },
+    "g_k15": {
+      "pages": [
+        87,
+        88,
+        89,
+        90,
+        91
+      ],
+      "heading_path": [
+        "CHAMP 3 MOYENS DES STRUCTURES D'URGENCE",
+        "QUESTION 11 Quel environnement institutionnel est nécessaire au fonctionnement d'une structure d'urgence ?"
+      ]
+    },
+    "g_k16": {
+      "pages": [
+        92,
+        93,
+        94,
+        95
+      ],
+      "heading_path": [
+        "CHAMP 3 MOYENS DES STRUCTURES D'URGENCE",
+        "QUESTION 12 Quels moyens architecturaux pour une SU ?"
+      ]
+    },
+    "g_k17": {
+      "pages": [
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103
+      ],
+      "heading_path": [
+        "CHAMP 3 MOYENS DES STRUCTURES D'URGENCE",
+        "QUESTION 13 Quels environnements techniques (imagerie, bio, informatique) sont nécessaires dans un service d'urgence pour optimiser la prise en charge ?"
+      ]
+    },
+    "g_m4": {
+      "pages": [
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115
+      ],
+      "heading_path": [
+        "CHAMP 4 INDICATEURS ET QUALITÉ DES SOINS DE FONCTIONNEMENT"
+      ]
+    },
+    "g_k18": {
+      "pages": [
+        107,
+        108,
+        109,
+        110
+      ],
+      "heading_path": [
+        "CHAMP 4 INDICATEURS ET QUALITÉ DES SOINS DE FONCTIONNEMENT",
+        "QUESTION 14 Quels indicateurs de fonctionnement pour une structure d'urgence ?"
+      ]
+    },
+    "g_k19": {
+      "pages": [
+        111,
+        112,
+        113,
+        114,
+        115
+      ],
+      "heading_path": [
+        "CHAMP 4 INDICATEURS ET QUALITÉ DES SOINS DE FONCTIONNEMENT",
+        "QUESTION 15 Formation in situ, faut-il en faire ? quand ? comment ?"
+      ]
+    },
+    "g_m5": {
+      "pages": [
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139
+      ],
+      "heading_path": [
+        "CHAMP 5 QUALITÉ DE VIE AU TRAVAIL DANS LES STRUCTURES D’URGENCE"
+      ]
+    },
+    "g_k20": {
+      "pages": [
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130
+      ],
+      "heading_path": [
+        "CHAMP 5 QUALITÉ DE VIE AU TRAVAIL DANS LES STRUCTURES D’URGENCE",
+        "QUESTION 16 Comment organiser le temps de travail dans un service d'urgence ?"
+      ]
+    },
+    "g_k21": {
+      "pages": [
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139
+      ],
+      "heading_path": [
+        "CHAMP 5 QUALITÉ DE VIE AU TRAVAIL DANS LES STRUCTURES D’URGENCE",
+        "QUESTION 17 Comment préserver une qualité de vie et des conditions de travail tout au long de la carrière des soignants de l'urgence ?"
+      ]
+    },
+    "g_m6": {
+      "pages": [
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176
+      ],
+      "heading_path": [
+        "CHAMP 6 FILIÈRES SPÉCIFIQUES (AFFLUX MASSIF DE PATIENTS/SITUATION SANITAIRE EXCEPTIONNELLE, GÉRIATRIE, PSYCHIATRIE, PÉDIATRIE)"
+      ]
+    },
+    "g_k22": {
+      "pages": [
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152
+      ],
+      "heading_path": [
+        "CHAMP 6 FILIÈRES SPÉCIFIQUES (AFFLUX MASSIF DE PATIENTS/SITUATION SANITAIRE EXCEPTIONNELLE, GÉRIATRIE, PSYCHIATRIE, PÉDIATRIE)",
+        "QUESTION 18 Quelle organisation pour un afflux de victimes (hôpital en tension – situation sanitaire exceptionnelle) ?"
+      ]
+    },
+    "g_k23": {
+      "pages": [
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160
+      ],
+      "heading_path": [
+        "CHAMP 6 FILIÈRES SPÉCIFIQUES (AFFLUX MASSIF DE PATIENTS/SITUATION SANITAIRE EXCEPTIONNELLE, GÉRIATRIE, PSYCHIATRIE, PÉDIATRIE)",
+        "QUESTION 19 Comment organiser l'accueil des personnes âgées aux urgences ?"
+      ]
+    },
+    "g_k24": {
+      "pages": [
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171
+      ],
+      "heading_path": [
+        "CHAMP 6 FILIÈRES SPÉCIFIQUES (AFFLUX MASSIF DE PATIENTS/SITUATION SANITAIRE EXCEPTIONNELLE, GÉRIATRIE, PSYCHIATRIE, PÉDIATRIE)",
+        "QUESTION 20 Comment organiser la prise en charge des patients pédiatriques aux urgences ?"
+      ]
+    },
+    "g_k25": {
+      "pages": [
+        172,
+        173,
+        174,
+        175,
+        176
+      ],
+      "heading_path": [
+        "CHAMP 6 FILIÈRES SPÉCIFIQUES (AFFLUX MASSIF DE PATIENTS/SITUATION SANITAIRE EXCEPTIONNELLE, GÉRIATRIE, PSYCHIATRIE, PÉDIATRIE)",
+        "QUESTION 21 Comment organiser la recherche dans une structure d'urgence ?"
+      ]
+    }
+  },
+  "annotation_decisions": [
+    "Strict hierarchy applied: COURSE > MODULE > UNIT > KC.",
+    "The gold is source-derived and not copied from the system prediction.",
+    "Sommaire is excluded because it is navigation evidence rather than instructional structure.",
+    "Préface, Avant-propos, Abréviations, and Liste des auteurs et autrices remain standalone top-level KCs.",
+    "CHAMP 1 to CHAMP 6 are MODULE nodes because each contains QUESTION children.",
+    "QUESTION 1 to QUESTION 21 are terminal KCs in the accepted global document outline.",
+    "Recommendation-level R... items are excluded because they are below the benchmark's accepted outline granularity.",
+    "The number field is retained for QUESTION nodes to mirror the compiler schema while titles remain source-visible."
+  ]
+}

@@ -4,9 +4,10 @@ Extract document outlines from PDF OCR and compile them into hierarchical ECG gr
 Compare direct LLM generation with deterministic compilation, evaluate graphs against
 external gold references, and run a controlled downstream navigation pilot.
 
-This repository publishes code and tests only. PDFs, gold annotations, OCR caches,
-API responses, experimental results and article tables are not distributed here.
-Supply your own inputs. Local credentials and generated files are excluded by `.gitignore`.
+This repository publishes code, tests and a curated source corpus: 20 PDFs, current gold
+annotations and `data/manifest.json`. See [the corpus documentation](data/README.md) for
+versions and page conventions. OCR caches, API responses, experimental results and article
+tables are excluded. Local credentials and generated files remain excluded by `.gitignore`.
 
 The publication allowlist includes the active pipeline, shared evaluator, baseline adapters,
 downstream navigation runner and regression tests. It excludes document-specific article
@@ -189,5 +190,6 @@ python -m unittest ecg_downstream_eval.test_pilot -v
 Tests use local fixtures/mocks and do not launch paid requests. Keep gold, prompts,
 evaluator versions, model settings and selected prediction artifacts frozen when
 combining results. Missing API usage must remain unknown rather than being counted as
-free. Reports from incomplete runs are not final results. Source datasets and historical
-experiment snapshots are excluded from this code-only release.
+free. Reports from incomplete runs are not final results. Generated datasets and historical
+experiment snapshots are excluded from this release. The source corpus is included;
+use the manifest to select its current references, including D01 gold v2.

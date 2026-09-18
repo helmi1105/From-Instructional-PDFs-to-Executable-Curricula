@@ -1,0 +1,474 @@
+{
+  "source_pdf": "9789240104846-eng(1).pdf",
+  "source_title": "Mass gathering practical guide for simulation exercises and after action reviews",
+  "note": "Gold ECG rebuilt strictly from the printed Contents/outline. Only entries explicitly listed in the Contents are nodes. Body-only headings, figures, preparedness-cycle components, scenario details, methods subphases, and paraphrased semantic grouping nodes are excluded.",
+  "page_semantics": {
+    "format": "[start_page, end_page]",
+    "inclusive": true,
+    "page_numbering": "physical PDF pages, 1-based",
+    "meaning": "The first integer is the physical PDF page where the outline item starts and the second is where its section ends."
+  },
+  "nodes": [
+    {
+      "id": "g_course",
+      "title": "Mass gathering practical guide for simulation exercises and after action reviews",
+      "kind": "COURSE",
+      "pages": [
+        1,
+        48
+      ]
+    },
+    {
+      "id": "g_k1",
+      "title": "Acknowledgements",
+      "kind": "KC",
+      "pages": [
+        6,
+        6
+      ]
+    },
+    {
+      "id": "g_k2",
+      "title": "Abbreviations",
+      "kind": "KC",
+      "pages": [
+        7,
+        7
+      ]
+    },
+    {
+      "id": "g_k3",
+      "title": "Introduction",
+      "kind": "KC",
+      "pages": [
+        8,
+        8
+      ]
+    },
+    {
+      "id": "g_k4",
+      "title": "Methods description",
+      "kind": "KC",
+      "pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "g_k5",
+      "title": "Chapter 1. Mass gathering preparedness",
+      "kind": "KC",
+      "pages": [
+        11,
+        14
+      ]
+    },
+    {
+      "id": "g_k6",
+      "title": "Chapter 2. Mass gathering simulation exercises",
+      "kind": "KC",
+      "pages": [
+        15,
+        17
+      ]
+    },
+    {
+      "id": "g_k7",
+      "title": "Chapter 3. After action reviews of mass gatherings",
+      "kind": "KC",
+      "pages": [
+        18,
+        21
+      ]
+    },
+    {
+      "id": "g_k8",
+      "title": "References",
+      "kind": "KC",
+      "pages": [
+        22,
+        22
+      ]
+    },
+    {
+      "id": "g_k9",
+      "title": "Further reading and resource materials",
+      "kind": "KC",
+      "pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "g_m1",
+      "title": "Annex 1. Mass gathering simulation exercise toolkit",
+      "kind": "MODULE",
+      "pages": [
+        25,
+        45
+      ]
+    },
+    {
+      "id": "g_k10",
+      "title": "Tool 1. Facilitator’s guide",
+      "kind": "KC",
+      "pages": [
+        26,
+        35
+      ]
+    },
+    {
+      "id": "g_k11",
+      "title": "Tool 2. Concept note template",
+      "kind": "KC",
+      "pages": [
+        35,
+        40
+      ]
+    },
+    {
+      "id": "g_k12",
+      "title": "Tool 3. SimEx scenarios examples on health emergency incidents",
+      "kind": "KC",
+      "pages": [
+        40,
+        41
+      ]
+    },
+    {
+      "id": "g_k13",
+      "title": "Tool 4. Participant’s guide",
+      "kind": "KC",
+      "pages": [
+        41,
+        44
+      ]
+    },
+    {
+      "id": "g_k14",
+      "title": "Tool 5. Feedback form template",
+      "kind": "KC",
+      "pages": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "g_m2",
+      "title": "Annex 2. Mass gathering after action review toolkit",
+      "kind": "MODULE",
+      "pages": [
+        46,
+        48
+      ]
+    },
+    {
+      "id": "g_k15",
+      "title": "Tool 1. Mass gathering AAR trigger question database",
+      "kind": "KC",
+      "pages": [
+        46,
+        48
+      ]
+    }
+  ],
+  "contains": [
+    [
+      "g_course",
+      "g_k1"
+    ],
+    [
+      "g_course",
+      "g_k2"
+    ],
+    [
+      "g_course",
+      "g_k3"
+    ],
+    [
+      "g_course",
+      "g_k4"
+    ],
+    [
+      "g_course",
+      "g_k5"
+    ],
+    [
+      "g_course",
+      "g_k6"
+    ],
+    [
+      "g_course",
+      "g_k7"
+    ],
+    [
+      "g_course",
+      "g_k8"
+    ],
+    [
+      "g_course",
+      "g_k9"
+    ],
+    [
+      "g_course",
+      "g_m1"
+    ],
+    [
+      "g_course",
+      "g_m2"
+    ],
+    [
+      "g_m1",
+      "g_k10"
+    ],
+    [
+      "g_m1",
+      "g_k11"
+    ],
+    [
+      "g_m1",
+      "g_k12"
+    ],
+    [
+      "g_m1",
+      "g_k13"
+    ],
+    [
+      "g_m1",
+      "g_k14"
+    ],
+    [
+      "g_m2",
+      "g_k15"
+    ]
+  ],
+  "sequence": [
+    [
+      "g_k1",
+      "g_k2"
+    ],
+    [
+      "g_k2",
+      "g_k3"
+    ],
+    [
+      "g_k3",
+      "g_k4"
+    ],
+    [
+      "g_k4",
+      "g_k5"
+    ],
+    [
+      "g_k5",
+      "g_k6"
+    ],
+    [
+      "g_k6",
+      "g_k7"
+    ],
+    [
+      "g_k7",
+      "g_k8"
+    ],
+    [
+      "g_k8",
+      "g_k9"
+    ],
+    [
+      "g_k9",
+      "g_m1"
+    ],
+    [
+      "g_m1",
+      "g_m2"
+    ],
+    [
+      "g_k10",
+      "g_k11"
+    ],
+    [
+      "g_k11",
+      "g_k12"
+    ],
+    [
+      "g_k12",
+      "g_k13"
+    ],
+    [
+      "g_k13",
+      "g_k14"
+    ]
+  ],
+  "grounding": {
+    "g_k1": {
+      "pages": [
+        6,
+        6
+      ],
+      "heading_path": [
+        "Acknowledgements"
+      ]
+    },
+    "g_k2": {
+      "pages": [
+        7,
+        7
+      ],
+      "heading_path": [
+        "Abbreviations"
+      ]
+    },
+    "g_k3": {
+      "pages": [
+        8,
+        8
+      ],
+      "heading_path": [
+        "Introduction"
+      ]
+    },
+    "g_k4": {
+      "pages": [
+        9,
+        10
+      ],
+      "heading_path": [
+        "Methods description"
+      ]
+    },
+    "g_k5": {
+      "pages": [
+        11,
+        14
+      ],
+      "heading_path": [
+        "Chapter 1. Mass gathering preparedness"
+      ]
+    },
+    "g_k6": {
+      "pages": [
+        15,
+        17
+      ],
+      "heading_path": [
+        "Chapter 2. Mass gathering simulation exercises"
+      ]
+    },
+    "g_k7": {
+      "pages": [
+        18,
+        21
+      ],
+      "heading_path": [
+        "Chapter 3. After action reviews of mass gatherings"
+      ]
+    },
+    "g_k8": {
+      "pages": [
+        22,
+        22
+      ],
+      "heading_path": [
+        "References"
+      ]
+    },
+    "g_k9": {
+      "pages": [
+        23,
+        24
+      ],
+      "heading_path": [
+        "Further reading and resource materials"
+      ]
+    },
+    "g_m1": {
+      "pages": [
+        25,
+        45
+      ],
+      "heading_path": [
+        "Annex 1. Mass gathering simulation exercise toolkit"
+      ]
+    },
+    "g_k10": {
+      "pages": [
+        26,
+        35
+      ],
+      "heading_path": [
+        "Annex 1. Mass gathering simulation exercise toolkit",
+        "Tool 1. Facilitator’s guide"
+      ]
+    },
+    "g_k11": {
+      "pages": [
+        35,
+        40
+      ],
+      "heading_path": [
+        "Annex 1. Mass gathering simulation exercise toolkit",
+        "Tool 2. Concept note template"
+      ]
+    },
+    "g_k12": {
+      "pages": [
+        40,
+        41
+      ],
+      "heading_path": [
+        "Annex 1. Mass gathering simulation exercise toolkit",
+        "Tool 3. SimEx scenarios examples on health emergency incidents"
+      ]
+    },
+    "g_k13": {
+      "pages": [
+        41,
+        44
+      ],
+      "heading_path": [
+        "Annex 1. Mass gathering simulation exercise toolkit",
+        "Tool 4. Participant’s guide"
+      ]
+    },
+    "g_k14": {
+      "pages": [
+        44,
+        45
+      ],
+      "heading_path": [
+        "Annex 1. Mass gathering simulation exercise toolkit",
+        "Tool 5. Feedback form template"
+      ]
+    },
+    "g_m2": {
+      "pages": [
+        46,
+        48
+      ],
+      "heading_path": [
+        "Annex 2. Mass gathering after action review toolkit"
+      ]
+    },
+    "g_k15": {
+      "pages": [
+        46,
+        48
+      ],
+      "heading_path": [
+        "Annex 2. Mass gathering after action review toolkit",
+        "Tool 1. Mass gathering AAR trigger question database"
+      ]
+    }
+  },
+  "annotation_decisions": [
+    "Always use the document Contents/outline as the source of gold nodes and hierarchy.",
+    "Keep Acknowledgements, Abbreviations, Introduction, and Methods description because they are explicit Contents entries.",
+    "Keep Chapters 1-3 exactly as listed; do not add body-only subheadings such as Overview, Purpose and scope, Risk assessment considerations, or Methods for performing simulation exercises.",
+    "Keep References and Further reading and resource materials because they are explicit Contents entries.",
+    "Keep Annex 1 and its Tools 1-5 exactly as listed in the Contents.",
+    "Keep Annex 2 and its Tool 1 exactly as listed in the Contents.",
+    "Exclude figures, bullets, scenario components, template fields, toolkit internal headings, and paraphrased concepts not present in the Contents.",
+    "Apply compiler typing only after the outline hierarchy is fixed."
+  ]
+}

@@ -1,6 +1,7 @@
-# Code-only publication allowlist. Local data and reports remain on disk.
+# Publication allowlist: active code and explicitly listed source corpus files.
 /*
 !/.gitignore
+!/.gitattributes
 !/.env.example
 !/README.md
 !/requirements.txt
@@ -40,7 +41,7 @@
 !/ecg_downstream_eval/review_run.py
 !/ecg_downstream_eval/test_pilot.py
 
-# Never publish credentials, caches, datasets or generated artifacts.
+# Never publish credentials, caches or generated artifacts.
 **/__pycache__/
 *.py[cod]
 .env
@@ -58,3 +59,90 @@ venv/
 /eval_out*/
 /diff_plots/
 /ecg_downstream_eval/benchmark/
+
+# Curated source corpus only; all other data files remain ignored.
+!/data/
+/data/*
+!/data/D01/
+/data/D01/*
+!/data/D02/
+/data/D02/*
+!/data/D03/
+/data/D03/*
+!/data/D04/
+/data/D04/*
+!/data/D05/
+/data/D05/*
+!/data/D06/
+/data/D06/*
+!/data/D07/
+/data/D07/*
+!/data/D08/
+/data/D08/*
+!/data/D09/
+/data/D09/*
+!/data/D10/
+/data/D10/*
+!/data/D11/
+/data/D11/*
+!/data/D12/
+/data/D12/*
+!/data/D13/
+/data/D13/*
+!/data/D14/
+/data/D14/*
+!/data/D15/
+/data/D15/*
+!/data/D16/
+/data/D16/*
+!/data/D17/
+/data/D17/*
+!/data/D18/
+/data/D18/*
+!/data/D19/
+/data/D19/*
+!/data/D20/
+/data/D20/*
+!/data/manifest.json
+!/data/README.md
+!/data/D01/Charte graphique 2025 - Impression.pdf
+!/data/D01/gold_ecg_annotation_v2.json
+!/data/D01/gold_ecg_annotation_v1.json
+!/data/D02/MEMENTO_CDG_20080902.pdf
+!/data/D02/gold_ecg_memento_chef_de_groupe_same_form.json
+!/data/D03/MEMENTO CdC.pdf
+!/data/D03/gold_ecg_memento_chef_de_colonne_same_form.json
+!/data/D04/MEMENTO_CDS_20080902.pdf
+!/data/D04/gold_ecg_memento_chef_de_site_same_form.json
+!/data/D05/15205.pdf
+!/data/D05/gold_ecg_livret_chef_de_groupe_same_form.json
+!/data/D06/GDO_incendies_de_structures_2018.pdf
+!/data/D06/gold_ecg_gdo_incendies_de_structures_same_form.json
+!/data/D07/gto-etablissements-techniques-extinction.pdf
+!/data/D07/gold_ecg_gto_etablissements_techniques_extinction_2018.json
+!/data/D08/585f6204106bb43d0c6083eceef1b04b.pdf
+!/data/D08/gold_ecg_sauvegarde_operationnelle_2024.json
+!/data/D09/Guide d'organisation des structures d'urgence en France (1).pdf
+!/data/D09/gold_ecg_guide_structures_urgence_france_GOLD_FINAL_start_end.json
+!/data/D10/20240715_guide_sur_la_reorientation_a_l_entree_des_urgences VF (1).pdf
+!/data/D10/gold_ecg_reorientation_entree_urgences_GOLD_start_end.json
+!/data/D11/20240715_guide_interventions_paramedicalisees_smur VF (1).pdf
+!/data/D11/gold_ecg_interventions_paramedicalisees_smur_GOLD_start_end.json
+!/data/D12/9789241513081-eng (1).pdf
+!/data/D12/gold_ecg_basic_emergency_care_WHO_GOLD_start_end.json
+!/data/D13/WHO-WHE-CPI-2017.10-eng (1).pdf
+!/data/D13/gold_ecg_WHO_simulation_exercise_manual_GOLD_start_end.json
+!/data/D14/9789240119208-eng.pdf
+!/data/D14/gold_ecg_NHSEP_WHO_2025_GOLD_start_end.json
+!/data/D15/9789241515139-eng (1).pdf
+!/data/D15/gold_ecg_PHEOC_training_exercises_WHO_2018_GOLD_start_end.json
+!/data/D16/9789240104846-eng.pdf
+!/data/D16/gold_ecg_mass_gathering_SimEx_AAR_WHO_2025_GOLD_start_end.json
+!/data/D17/wcms_215344.pdf
+!/data/D17/gold_ecg_ILO_workplace_risk_assessment_SME_GOLD_start_end.json
+!/data/D18/wcms_792036.pdf
+!/data/D18/gold_ecg_ILO_OSH_SME_trainers_guide_GOLD_start_end.json
+!/data/D19/wcms_906942.pdf
+!/data/D19/gold_ecg_ILO_OSH_skills_training_Myanmar_GOLD_start_end.json
+!/data/D20/wcms_210950.pdf
+!/data/D20/gold_ecg_ILO_NSRNOD_practical_guide_GOLD_start_end.json

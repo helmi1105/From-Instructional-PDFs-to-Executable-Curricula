@@ -1,0 +1,4899 @@
+{
+  "source_pdf": "gto-etablissements-techniques-extinction.pdf",
+  "source_title": "Guide de techniques opérationnelles - Etablissements et techniques d’extinction",
+  "note": "Gold ECG revised in a more detailed form with strict hierarchy COURSE > MODULE > UNIT > KC. Printed family headings are MODULEs; major fiches are UNITs; visible numbered/internal subheadings are KCs.",
+  "nodes": [
+    {
+      "id": "g_course",
+      "title": "Guide de techniques opérationnelles - Etablissements et techniques d’extinction",
+      "kind": "COURSE",
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112
+      ]
+    },
+    {
+      "id": "g_k_pref",
+      "title": "Préface",
+      "kind": "KC",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "id": "g_m1",
+      "title": "RESSOURCES EN EAU",
+      "kind": "MODULE",
+      "pages": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "id": "g_m2",
+      "title": "LES ETABLISSEMENTS",
+      "kind": "MODULE",
+      "pages": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ]
+    },
+    {
+      "id": "g_m3",
+      "title": "LES TECHNIQUES D’EXTINCTION",
+      "kind": "MODULE",
+      "pages": [
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112
+      ]
+    },
+    {
+      "id": "g_k_biblio",
+      "title": "Annexe A - Bibliographie",
+      "kind": "KC",
+      "pages": [
+        107
+      ]
+    },
+    {
+      "id": "g_k_group",
+      "title": "Annexe B - Composition du groupe de travail",
+      "kind": "KC",
+      "pages": [
+        109
+      ]
+    },
+    {
+      "id": "g_k_modif",
+      "title": "Annexe C - Demande d’incorporation des modifications",
+      "kind": "KC",
+      "pages": [
+        111
+      ]
+    },
+    {
+      "id": "g_k_resume",
+      "title": "Résumé",
+      "kind": "KC",
+      "pages": [
+        112
+      ]
+    },
+    {
+      "id": "g_u1",
+      "title": "Principes de la défense extérieure contre l’incendie – DECI",
+      "kind": "UNIT",
+      "pages": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "id": "g_k1",
+      "title": "1. Objectifs",
+      "kind": "KC",
+      "pages": [
+        13
+      ]
+    },
+    {
+      "id": "g_k2",
+      "title": "1.1. L’analyse des risques",
+      "kind": "KC",
+      "pages": [
+        13
+      ]
+    },
+    {
+      "id": "g_k3",
+      "title": "1.1.1. Risques courants dans les zones composées majoritairement d’habitations",
+      "kind": "KC",
+      "pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "g_k4",
+      "title": "1.1.2. Les bâtiments à risque particulier",
+      "kind": "KC",
+      "pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "g_k5",
+      "title": "1.2. Les besoins en eau",
+      "kind": "KC",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "id": "g_k6",
+      "title": "1.2.1. Risques courants",
+      "kind": "KC",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "id": "g_k7",
+      "title": "1.2.2. Risques particuliers",
+      "kind": "KC",
+      "pages": [
+        15
+      ]
+    },
+    {
+      "id": "g_k8",
+      "title": "2. L’identification des points d’eau disponibles",
+      "kind": "KC",
+      "pages": [
+        16
+      ]
+    },
+    {
+      "id": "g_k9",
+      "title": "2.1. Principes du choix du dispositif d’alimentation",
+      "kind": "KC",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "id": "g_k10",
+      "title": "2.2. Les situations types",
+      "kind": "KC",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "id": "g_k11",
+      "title": "3. Les ressources en eau",
+      "kind": "KC",
+      "pages": [
+        17
+      ]
+    },
+    {
+      "id": "g_k12",
+      "title": "4. Symboles utilisés dans les plans de secours",
+      "kind": "KC",
+      "pages": [
+        19
+      ]
+    },
+    {
+      "id": "g_k13",
+      "title": "5. Pérennité des points d’eau dans le temps",
+      "kind": "KC",
+      "pages": [
+        19
+      ]
+    },
+    {
+      "id": "g_k14",
+      "title": "6. Les autres ressources en agents extincteurs",
+      "kind": "KC",
+      "pages": [
+        19
+      ]
+    },
+    {
+      "id": "g_k15",
+      "title": "7. Les fiches relatives aux ressources en eau ou en agent extincteur",
+      "kind": "KC",
+      "pages": [
+        19
+      ]
+    },
+    {
+      "id": "g_u2",
+      "title": "Les points d’eau incendie",
+      "kind": "UNIT",
+      "pages": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ]
+    },
+    {
+      "id": "g_k16",
+      "title": "1. Principes généraux et définition",
+      "kind": "KC",
+      "pages": [
+        21
+      ]
+    },
+    {
+      "id": "g_k17",
+      "title": "2. Les réseaux de distribution",
+      "kind": "KC",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "id": "g_k18",
+      "title": "2.1. Cycle de l’eau",
+      "kind": "KC",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "id": "g_k19",
+      "title": "2.2. Principe d’alimentation des hydrants",
+      "kind": "KC",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "id": "g_k20",
+      "title": "2.3. Les principaux types de réseaux d’hydrants",
+      "kind": "KC",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "id": "g_k21",
+      "title": "3. Poteaux d’incendie",
+      "kind": "KC",
+      "pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "g_k22",
+      "title": "3.1. Nomenclature des PI",
+      "kind": "KC",
+      "pages": [
+        25
+      ]
+    },
+    {
+      "id": "g_k23",
+      "title": "3.2. Poteaux sur canalisation d’eau surpressée",
+      "kind": "KC",
+      "pages": [
+        26
+      ]
+    },
+    {
+      "id": "g_k24",
+      "title": "3.3. Signalisation des poteaux d’incendie",
+      "kind": "KC",
+      "pages": [
+        26
+      ]
+    },
+    {
+      "id": "g_k25",
+      "title": "3.4. Protection des poteaux d’incendie",
+      "kind": "KC",
+      "pages": [
+        27
+      ]
+    },
+    {
+      "id": "g_k26",
+      "title": "4. Les bouches d'incendie (BI)",
+      "kind": "KC",
+      "pages": [
+        28
+      ]
+    },
+    {
+      "id": "g_k27",
+      "title": "4.1. Nomenclature des BI",
+      "kind": "KC",
+      "pages": [
+        29
+      ]
+    },
+    {
+      "id": "g_k28",
+      "title": "4.2. Signalisation des BI",
+      "kind": "KC",
+      "pages": [
+        29
+      ]
+    },
+    {
+      "id": "g_k29",
+      "title": "4.3. Protection et signalisation complémentaire",
+      "kind": "KC",
+      "pages": [
+        30
+      ]
+    },
+    {
+      "id": "g_k30",
+      "title": "5. Poteaux relais ou poteaux dalle",
+      "kind": "KC",
+      "pages": [
+        31
+      ]
+    },
+    {
+      "id": "g_u3",
+      "title": "Les points d’aspiration naturels et artificiels",
+      "kind": "UNIT",
+      "pages": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    },
+    {
+      "id": "g_k31",
+      "title": "1. Principe",
+      "kind": "KC",
+      "pages": [
+        33
+      ]
+    },
+    {
+      "id": "g_k32",
+      "title": "2. L’identification des points d’eau disponibles",
+      "kind": "KC",
+      "pages": [
+        33
+      ]
+    },
+    {
+      "id": "g_k33",
+      "title": "3. Les points d'eau naturels ou artificiels",
+      "kind": "KC",
+      "pages": [
+        33
+      ]
+    },
+    {
+      "id": "g_k34",
+      "title": "3.1. Les points d'eau naturels",
+      "kind": "KC",
+      "pages": [
+        33
+      ]
+    },
+    {
+      "id": "g_k35",
+      "title": "3.1.1. Aires d'aspiration",
+      "kind": "KC",
+      "pages": [
+        33,
+        34
+      ]
+    },
+    {
+      "id": "g_k36",
+      "title": "3.1.2. Les estacades permettant l’aspiration verticale",
+      "kind": "KC",
+      "pages": [
+        34
+      ]
+    },
+    {
+      "id": "g_k37",
+      "title": "3.1.2.1. Aménagements des ponts",
+      "kind": "KC",
+      "pages": [
+        35
+      ]
+    },
+    {
+      "id": "g_k38",
+      "title": "3.1.2.2. Aires d'aspiration et dispositifs fixes d'aspiration",
+      "kind": "KC",
+      "pages": [
+        35,
+        36
+      ]
+    },
+    {
+      "id": "g_k39",
+      "title": "3.1.2.3. Point d'aspiration déporté",
+      "kind": "KC",
+      "pages": [
+        37
+      ]
+    },
+    {
+      "id": "g_k40",
+      "title": "4. Points d'eau artificiels",
+      "kind": "KC",
+      "pages": [
+        38
+      ]
+    },
+    {
+      "id": "g_k41",
+      "title": "4.1. Réservoirs d'incendie ouverts",
+      "kind": "KC",
+      "pages": [
+        38
+      ]
+    },
+    {
+      "id": "g_k42",
+      "title": "4.2. Réservoirs d'incendie couverts ou enterrés",
+      "kind": "KC",
+      "pages": [
+        39
+      ]
+    },
+    {
+      "id": "g_k43",
+      "title": "4.3. Réservoirs d'incendie aériens",
+      "kind": "KC",
+      "pages": [
+        40
+      ]
+    },
+    {
+      "id": "g_k44",
+      "title": "4.4. Réservoirs d'incendie souples (appelés aussi citernes souples)",
+      "kind": "KC",
+      "pages": [
+        41
+      ]
+    },
+    {
+      "id": "g_k45",
+      "title": "4.5. Les piscines privées",
+      "kind": "KC",
+      "pages": [
+        41
+      ]
+    },
+    {
+      "id": "g_k46",
+      "title": "4.6. Les points d’eau inaccessibles aux engins",
+      "kind": "KC",
+      "pages": [
+        41
+      ]
+    },
+    {
+      "id": "g_k47",
+      "title": "4.7. Les réseaux d’irrigation agricoles",
+      "kind": "KC",
+      "pages": [
+        42
+      ]
+    },
+    {
+      "id": "g_k48",
+      "title": "5. Signalisation",
+      "kind": "KC",
+      "pages": [
+        42
+      ]
+    },
+    {
+      "id": "g_k49",
+      "title": "5.1. Réserves incendie",
+      "kind": "KC",
+      "pages": [
+        42
+      ]
+    },
+    {
+      "id": "g_k50",
+      "title": "5.2. Points d'aspiration",
+      "kind": "KC",
+      "pages": [
+        43
+      ]
+    },
+    {
+      "id": "g_u4",
+      "title": "Les établissements pour les incendies de structures",
+      "kind": "UNIT",
+      "pages": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ]
+    },
+    {
+      "id": "g_k51",
+      "title": "Préambule",
+      "kind": "KC",
+      "pages": [
+        47
+      ]
+    },
+    {
+      "id": "g_k52",
+      "title": "1. Principes de calcul de dimensionnement hydraulique",
+      "kind": "KC",
+      "pages": [
+        47
+      ]
+    },
+    {
+      "id": "g_k53",
+      "title": "1.1. Débit",
+      "kind": "KC",
+      "pages": [
+        47
+      ]
+    },
+    {
+      "id": "g_k54",
+      "title": "1.2. Pression",
+      "kind": "KC",
+      "pages": [
+        47
+      ]
+    },
+    {
+      "id": "g_k55",
+      "title": "1.3. Les pertes de charge",
+      "kind": "KC",
+      "pages": [
+        48
+      ]
+    },
+    {
+      "id": "g_k56",
+      "title": "1.4. La pression atmosphérique",
+      "kind": "KC",
+      "pages": [
+        48
+      ]
+    },
+    {
+      "id": "g_k57",
+      "title": "1.5. Pression statique",
+      "kind": "KC",
+      "pages": [
+        48
+      ]
+    },
+    {
+      "id": "g_k58",
+      "title": "1.6. Pression dynamique – dimensionnement du dispositif hydraulique",
+      "kind": "KC",
+      "pages": [
+        48
+      ]
+    },
+    {
+      "id": "g_k59",
+      "title": "2. Choix des tuyaux",
+      "kind": "KC",
+      "pages": [
+        49
+      ]
+    },
+    {
+      "id": "g_k60",
+      "title": "3. Quelques définitions relatives aux établissements",
+      "kind": "KC",
+      "pages": [
+        49
+      ]
+    },
+    {
+      "id": "g_k61",
+      "title": "3.1. Du point d’eau vers le point d’attaque",
+      "kind": "KC",
+      "pages": [
+        49
+      ]
+    },
+    {
+      "id": "g_k62",
+      "title": "3.2. Les accessoires hydrauliques",
+      "kind": "KC",
+      "pages": [
+        50
+      ]
+    },
+    {
+      "id": "g_k63",
+      "title": "3.3. La ligne d’attaque",
+      "kind": "KC",
+      "pages": [
+        50
+      ]
+    },
+    {
+      "id": "g_k64",
+      "title": "3.4. La lance du dévidoir tournant (LDT)",
+      "kind": "KC",
+      "pages": [
+        51
+      ]
+    },
+    {
+      "id": "g_k65",
+      "title": "3.5. La division",
+      "kind": "KC",
+      "pages": [
+        51
+      ]
+    },
+    {
+      "id": "g_k66",
+      "title": "4. Sécurité lors des établissements",
+      "kind": "KC",
+      "pages": [
+        51
+      ]
+    },
+    {
+      "id": "g_k67",
+      "title": "4.1. Sécurité vis-à-vis du feu",
+      "kind": "KC",
+      "pages": [
+        52
+      ]
+    },
+    {
+      "id": "g_k68",
+      "title": "4.2. Sécurité vis-à-vis des autres risques",
+      "kind": "KC",
+      "pages": [
+        52
+      ]
+    },
+    {
+      "id": "g_k69",
+      "title": "5. Les manœuvres types",
+      "kind": "KC",
+      "pages": [
+        53
+      ]
+    },
+    {
+      "id": "g_k70",
+      "title": "5.1. Les missions des binômes et du conducteur",
+      "kind": "KC",
+      "pages": [
+        53
+      ]
+    },
+    {
+      "id": "g_k71",
+      "title": "6. Les commandements associés aux manœuvres d’établissement",
+      "kind": "KC",
+      "pages": [
+        53
+      ]
+    },
+    {
+      "id": "g_k72",
+      "title": "6.1. Ordres préparatoires",
+      "kind": "KC",
+      "pages": [
+        53
+      ]
+    },
+    {
+      "id": "g_k73",
+      "title": "6.2. Ordre d’exécution",
+      "kind": "KC",
+      "pages": [
+        54
+      ]
+    },
+    {
+      "id": "g_k74",
+      "title": "6.3. Emport de matériels",
+      "kind": "KC",
+      "pages": [
+        54
+      ]
+    },
+    {
+      "id": "g_u5",
+      "title": "Etablissement de la lance en eau du dévidoir tournant (LDT)",
+      "kind": "UNIT",
+      "pages": [
+        55,
+        56,
+        57,
+        58
+      ]
+    },
+    {
+      "id": "g_k75",
+      "title": "1. Conditions de mise en œuvre",
+      "kind": "KC",
+      "pages": [
+        55
+      ]
+    },
+    {
+      "id": "g_k76",
+      "title": "2. Matériels nécessaires proposés",
+      "kind": "KC",
+      "pages": [
+        55
+      ]
+    },
+    {
+      "id": "g_k77",
+      "title": "3. Mise en œuvre de la LDT",
+      "kind": "KC",
+      "pages": [
+        56
+      ]
+    },
+    {
+      "id": "g_k78",
+      "title": "5. Remarques",
+      "kind": "KC",
+      "pages": [
+        57
+      ]
+    },
+    {
+      "id": "g_u6",
+      "title": "Etablissement d’une division d’alimentation ou d’une division d’attaque (en prolongation)",
+      "kind": "UNIT",
+      "pages": [
+        59,
+        60,
+        61,
+        62
+      ]
+    },
+    {
+      "id": "g_k79",
+      "title": "1. Conditions de mise en œuvre",
+      "kind": "KC",
+      "pages": [
+        59
+      ]
+    },
+    {
+      "id": "g_k80",
+      "title": "2. Matériels nécessaires proposés",
+      "kind": "KC",
+      "pages": [
+        59
+      ]
+    },
+    {
+      "id": "g_k81",
+      "title": "3. Différentes mises en œuvre de division sur ligne de diamètre 70",
+      "kind": "KC",
+      "pages": [
+        60
+      ]
+    },
+    {
+      "id": "g_k82",
+      "title": "4. Schémas de principe d’établissements d’alimentation d’une division",
+      "kind": "KC",
+      "pages": [
+        61
+      ]
+    },
+    {
+      "id": "g_k83",
+      "title": "Alimentation d’une colonne sèche",
+      "kind": "KC",
+      "pages": [
+        62
+      ]
+    },
+    {
+      "id": "g_u7",
+      "title": "Ligne d’attaque sur une prise d’eau",
+      "kind": "UNIT",
+      "pages": [
+        63,
+        64,
+        65,
+        66
+      ]
+    },
+    {
+      "id": "g_k84",
+      "title": "1. Conditions de mise en œuvre",
+      "kind": "KC",
+      "pages": [
+        63
+      ]
+    },
+    {
+      "id": "g_k85",
+      "title": "2. Matériels nécessaires proposés",
+      "kind": "KC",
+      "pages": [
+        63
+      ]
+    },
+    {
+      "id": "g_k86",
+      "title": "3. Différentes mises en œuvre d’une ligne d’attaque en tuyaux de 40 mm de diamètre",
+      "kind": "KC",
+      "pages": [
+        64
+      ]
+    },
+    {
+      "id": "g_u7a",
+      "title": "4. Les différents établissements de la ligne d’attaque",
+      "kind": "UNIT",
+      "pages": [
+        65,
+        66
+      ]
+    },
+    {
+      "id": "g_k87",
+      "title": "Etablissement d’une lance sur l’engin",
+      "kind": "KC",
+      "pages": [
+        65
+      ]
+    },
+    {
+      "id": "g_k88",
+      "title": "Etablissement d’une lance sur une division d’alimentation",
+      "kind": "KC",
+      "pages": [
+        65
+      ]
+    },
+    {
+      "id": "g_k89",
+      "title": "Etablissement d’une lance sur une colonne sèche ou humide",
+      "kind": "KC",
+      "pages": [
+        65,
+        66
+      ]
+    },
+    {
+      "id": "g_u8",
+      "title": "Alimentation d’un dispositif hydraulique",
+      "kind": "UNIT",
+      "pages": [
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74
+      ]
+    },
+    {
+      "id": "g_k90",
+      "title": "1. Objectifs",
+      "kind": "KC",
+      "pages": [
+        67
+      ]
+    },
+    {
+      "id": "g_k91",
+      "title": "2. L’identification et choix des points d’eau",
+      "kind": "KC",
+      "pages": [
+        67
+      ]
+    },
+    {
+      "id": "g_k92",
+      "title": "3. Connaissances techniques des pompes facilitant le choix de l’établissement",
+      "kind": "KC",
+      "pages": [
+        68
+      ]
+    },
+    {
+      "id": "g_k93",
+      "title": "4. Les situations types",
+      "kind": "KC",
+      "pages": [
+        68
+      ]
+    },
+    {
+      "id": "g_k94",
+      "title": "4.1. Alimentation de l’engin par le conducteur",
+      "kind": "KC",
+      "pages": [
+        68,
+        69
+      ]
+    },
+    {
+      "id": "g_k95",
+      "title": "5. Alimentation de l’engin par le binôme d’alimentation",
+      "kind": "KC",
+      "pages": [
+        70
+      ]
+    },
+    {
+      "id": "g_k96",
+      "title": "5.1. Matériels nécessaires proposés",
+      "kind": "KC",
+      "pages": [
+        70
+      ]
+    },
+    {
+      "id": "g_k97",
+      "title": "5.2. Schéma de principe",
+      "kind": "KC",
+      "pages": [
+        70
+      ]
+    },
+    {
+      "id": "g_k98",
+      "title": "6. Mise en aspiration de l’engin",
+      "kind": "KC",
+      "pages": [
+        71
+      ]
+    },
+    {
+      "id": "g_k99",
+      "title": "7. Etablissements particuliers",
+      "kind": "KC",
+      "pages": [
+        71
+      ]
+    },
+    {
+      "id": "g_k100",
+      "title": "7.1. Alimentation par un gros porteur",
+      "kind": "KC",
+      "pages": [
+        72
+      ]
+    },
+    {
+      "id": "g_k101",
+      "title": "7.2. Alimentation par une noria d’engins-pompe",
+      "kind": "KC",
+      "pages": [
+        72
+      ]
+    },
+    {
+      "id": "g_k102",
+      "title": "7.3. Création d’une réserve artificielle",
+      "kind": "KC",
+      "pages": [
+        73
+      ]
+    },
+    {
+      "id": "g_k103",
+      "title": "7.4. Etablissement d’une ligne d’alimentation à l’aide d’un dévidoir automobile",
+      "kind": "KC",
+      "pages": [
+        73
+      ]
+    },
+    {
+      "id": "g_u9",
+      "title": "Etablissements particuliers",
+      "kind": "UNIT",
+      "pages": [
+        75,
+        76
+      ]
+    },
+    {
+      "id": "g_k104",
+      "title": "1. Objectifs",
+      "kind": "KC",
+      "pages": [
+        75
+      ]
+    },
+    {
+      "id": "g_k105",
+      "title": "2. Etablissement d’une lance canon ou d’une lance queue de paon",
+      "kind": "KC",
+      "pages": [
+        75
+      ]
+    },
+    {
+      "id": "g_u10",
+      "title": "Prolongement d’établissement ou remplacement de tuyau",
+      "kind": "UNIT",
+      "pages": [
+        77,
+        78
+      ]
+    },
+    {
+      "id": "g_k106",
+      "title": "1. Objectifs",
+      "kind": "KC",
+      "pages": [
+        77
+      ]
+    },
+    {
+      "id": "g_k107",
+      "title": "2. Principes généraux du prolongement d’établissement ou remplacement de tuyau",
+      "kind": "KC",
+      "pages": [
+        77
+      ]
+    },
+    {
+      "id": "g_k108",
+      "title": "3. Principes généraux",
+      "kind": "KC",
+      "pages": [
+        77
+      ]
+    },
+    {
+      "id": "g_k109",
+      "title": "4. Schémas de principe",
+      "kind": "KC",
+      "pages": [
+        78
+      ]
+    },
+    {
+      "id": "g_u11",
+      "title": "Les techniques d’extinction",
+      "kind": "UNIT",
+      "pages": [
+        79,
+        80,
+        81,
+        82,
+        83,
+        84
+      ]
+    },
+    {
+      "id": "g_k110",
+      "title": "1. Principes généraux",
+      "kind": "KC",
+      "pages": [
+        81
+      ]
+    },
+    {
+      "id": "g_k111",
+      "title": "2. Utilisation des lances",
+      "kind": "KC",
+      "pages": [
+        81
+      ]
+    },
+    {
+      "id": "g_k112",
+      "title": "2.1. Principes d’utilisation",
+      "kind": "KC",
+      "pages": [
+        81,
+        82,
+        83,
+        84
+      ]
+    },
+    {
+      "id": "g_u12",
+      "title": "Refroidissement des fumées (Gas cooling)",
+      "kind": "UNIT",
+      "pages": [
+        85,
+        86,
+        87,
+        88
+      ]
+    },
+    {
+      "id": "g_k113",
+      "title": "1. Objectif",
+      "kind": "KC",
+      "pages": [
+        85
+      ]
+    },
+    {
+      "id": "g_k114",
+      "title": "2. Méthodes",
+      "kind": "KC",
+      "pages": [
+        85,
+        86,
+        87,
+        88
+      ]
+    },
+    {
+      "id": "g_u13",
+      "title": "L’extinction directe",
+      "kind": "UNIT",
+      "pages": [
+        89,
+        90,
+        91,
+        92
+      ]
+    },
+    {
+      "id": "g_k115",
+      "title": "1. Objectifs",
+      "kind": "KC",
+      "pages": [
+        89
+      ]
+    },
+    {
+      "id": "g_k116",
+      "title": "2. Applications directes",
+      "kind": "KC",
+      "pages": [
+        89
+      ]
+    },
+    {
+      "id": "g_k117",
+      "title": "2.1. Le badigeonnage (painting)",
+      "kind": "KC",
+      "pages": [
+        89
+      ]
+    },
+    {
+      "id": "g_k118",
+      "title": "2.2. L’application d’eau très ponctuelle (penciling)",
+      "kind": "KC",
+      "pages": [
+        90
+      ]
+    },
+    {
+      "id": "g_k119",
+      "title": "3. Applications ricochets",
+      "kind": "KC",
+      "pages": [
+        90
+      ]
+    },
+    {
+      "id": "g_k120",
+      "title": "3.1. Le ricochet",
+      "kind": "KC",
+      "pages": [
+        90,
+        91
+      ]
+    },
+    {
+      "id": "g_u14",
+      "title": "Les extinctions indirectes",
+      "kind": "UNIT",
+      "pages": [
+        93,
+        94
+      ]
+    },
+    {
+      "id": "g_k121",
+      "title": "1. Objectif",
+      "kind": "KC",
+      "pages": [
+        93
+      ]
+    },
+    {
+      "id": "g_k122",
+      "title": "2. Application",
+      "kind": "KC",
+      "pages": [
+        93
+      ]
+    },
+    {
+      "id": "g_u15",
+      "title": "Extinction combinée / massive",
+      "kind": "UNIT",
+      "pages": [
+        95,
+        96
+      ]
+    },
+    {
+      "id": "g_k123",
+      "title": "1. Objectif",
+      "kind": "KC",
+      "pages": [
+        95
+      ]
+    },
+    {
+      "id": "g_k124",
+      "title": "2. Application",
+      "kind": "KC",
+      "pages": [
+        95,
+        96
+      ]
+    },
+    {
+      "id": "g_u16",
+      "title": "Situation pré-backdraft",
+      "kind": "UNIT",
+      "pages": [
+        97,
+        98,
+        99,
+        100
+      ]
+    },
+    {
+      "id": "g_k125",
+      "title": "1. Principe",
+      "kind": "KC",
+      "pages": [
+        97
+      ]
+    },
+    {
+      "id": "g_k126",
+      "title": "2. Extinction indirecte",
+      "kind": "KC",
+      "pages": [
+        97
+      ]
+    },
+    {
+      "id": "g_k127",
+      "title": "3. Inertage par trouée / percement",
+      "kind": "KC",
+      "pages": [
+        97
+      ]
+    },
+    {
+      "id": "g_k128",
+      "title": "3.1. Réalisation d’une trouée pour inertage avec une lance classique",
+      "kind": "KC",
+      "pages": [
+        97
+      ]
+    },
+    {
+      "id": "g_k129",
+      "title": "3.2. Utilisation d’une lance à brouillard après percement",
+      "kind": "KC",
+      "pages": [
+        98
+      ]
+    },
+    {
+      "id": "g_k130",
+      "title": "3.3. Utilisation d’une lance perçante avec brumisation",
+      "kind": "KC",
+      "pages": [
+        98
+      ]
+    },
+    {
+      "id": "g_k131",
+      "title": "3.4. Utilisation d’une lance perforante",
+      "kind": "KC",
+      "pages": [
+        99
+      ]
+    },
+    {
+      "id": "g_u17",
+      "title": "Le repli sous protection hydraulique",
+      "kind": "UNIT",
+      "pages": [
+        101,
+        102
+      ]
+    },
+    {
+      "id": "g_k132",
+      "title": "1. Objectif",
+      "kind": "KC",
+      "pages": [
+        101
+      ]
+    },
+    {
+      "id": "g_k133",
+      "title": "2. Application",
+      "kind": "KC",
+      "pages": [
+        101
+      ]
+    },
+    {
+      "id": "g_k134",
+      "title": "2.1. Repli sous refroidissement des fumées",
+      "kind": "KC",
+      "pages": [
+        101
+      ]
+    },
+    {
+      "id": "g_k135",
+      "title": "2.2. Repli sous écran d’eau",
+      "kind": "KC",
+      "pages": [
+        102
+      ]
+    },
+    {
+      "id": "g_u18",
+      "title": "Feu soumis aux effets du vent et effet chalumeau",
+      "kind": "UNIT",
+      "pages": [
+        103,
+        104
+      ]
+    },
+    {
+      "id": "g_k136",
+      "title": "1. Objectif",
+      "kind": "KC",
+      "pages": [
+        103
+      ]
+    },
+    {
+      "id": "g_k137",
+      "title": "2. Principe opérationnel",
+      "kind": "KC",
+      "pages": [
+        103
+      ]
+    },
+    {
+      "id": "g_k138",
+      "title": "3. Quelques possibilités",
+      "kind": "KC",
+      "pages": [
+        104
+      ]
+    },
+    {
+      "id": "g_u19",
+      "title": "Attaque d’atténuation",
+      "kind": "UNIT",
+      "pages": [
+        105,
+        106
+      ]
+    },
+    {
+      "id": "g_k139",
+      "title": "1. Objectif",
+      "kind": "KC",
+      "pages": [
+        105
+      ]
+    },
+    {
+      "id": "g_k140",
+      "title": "2. Application",
+      "kind": "KC",
+      "pages": [
+        105
+      ]
+    },
+    {
+      "id": "g_k141",
+      "title": "3. Quelques repères",
+      "kind": "KC",
+      "pages": [
+        106
+      ]
+    }
+  ],
+  "contains": [
+    [
+      "g_course",
+      "g_k_pref"
+    ],
+    [
+      "g_course",
+      "g_m1"
+    ],
+    [
+      "g_course",
+      "g_m2"
+    ],
+    [
+      "g_course",
+      "g_m3"
+    ],
+    [
+      "g_course",
+      "g_k_biblio"
+    ],
+    [
+      "g_course",
+      "g_k_group"
+    ],
+    [
+      "g_course",
+      "g_k_modif"
+    ],
+    [
+      "g_course",
+      "g_k_resume"
+    ],
+    [
+      "g_u1",
+      "g_k1"
+    ],
+    [
+      "g_u1",
+      "g_k2"
+    ],
+    [
+      "g_u1",
+      "g_k3"
+    ],
+    [
+      "g_u1",
+      "g_k4"
+    ],
+    [
+      "g_u1",
+      "g_k5"
+    ],
+    [
+      "g_u1",
+      "g_k6"
+    ],
+    [
+      "g_u1",
+      "g_k7"
+    ],
+    [
+      "g_u1",
+      "g_k8"
+    ],
+    [
+      "g_u1",
+      "g_k9"
+    ],
+    [
+      "g_u1",
+      "g_k10"
+    ],
+    [
+      "g_u1",
+      "g_k11"
+    ],
+    [
+      "g_u1",
+      "g_k12"
+    ],
+    [
+      "g_u1",
+      "g_k13"
+    ],
+    [
+      "g_u1",
+      "g_k14"
+    ],
+    [
+      "g_u1",
+      "g_k15"
+    ],
+    [
+      "g_u2",
+      "g_k16"
+    ],
+    [
+      "g_u2",
+      "g_k17"
+    ],
+    [
+      "g_u2",
+      "g_k18"
+    ],
+    [
+      "g_u2",
+      "g_k19"
+    ],
+    [
+      "g_u2",
+      "g_k20"
+    ],
+    [
+      "g_u2",
+      "g_k21"
+    ],
+    [
+      "g_u2",
+      "g_k22"
+    ],
+    [
+      "g_u2",
+      "g_k23"
+    ],
+    [
+      "g_u2",
+      "g_k24"
+    ],
+    [
+      "g_u2",
+      "g_k25"
+    ],
+    [
+      "g_u2",
+      "g_k26"
+    ],
+    [
+      "g_u2",
+      "g_k27"
+    ],
+    [
+      "g_u2",
+      "g_k28"
+    ],
+    [
+      "g_u2",
+      "g_k29"
+    ],
+    [
+      "g_u2",
+      "g_k30"
+    ],
+    [
+      "g_u3",
+      "g_k31"
+    ],
+    [
+      "g_u3",
+      "g_k32"
+    ],
+    [
+      "g_u3",
+      "g_k33"
+    ],
+    [
+      "g_u3",
+      "g_k34"
+    ],
+    [
+      "g_u3",
+      "g_k35"
+    ],
+    [
+      "g_u3",
+      "g_k36"
+    ],
+    [
+      "g_u3",
+      "g_k37"
+    ],
+    [
+      "g_u3",
+      "g_k38"
+    ],
+    [
+      "g_u3",
+      "g_k39"
+    ],
+    [
+      "g_u3",
+      "g_k40"
+    ],
+    [
+      "g_u3",
+      "g_k41"
+    ],
+    [
+      "g_u3",
+      "g_k42"
+    ],
+    [
+      "g_u3",
+      "g_k43"
+    ],
+    [
+      "g_u3",
+      "g_k44"
+    ],
+    [
+      "g_u3",
+      "g_k45"
+    ],
+    [
+      "g_u3",
+      "g_k46"
+    ],
+    [
+      "g_u3",
+      "g_k47"
+    ],
+    [
+      "g_u3",
+      "g_k48"
+    ],
+    [
+      "g_u3",
+      "g_k49"
+    ],
+    [
+      "g_u3",
+      "g_k50"
+    ],
+    [
+      "g_m1",
+      "g_u1"
+    ],
+    [
+      "g_m1",
+      "g_u2"
+    ],
+    [
+      "g_m1",
+      "g_u3"
+    ],
+    [
+      "g_u4",
+      "g_k51"
+    ],
+    [
+      "g_u4",
+      "g_k52"
+    ],
+    [
+      "g_u4",
+      "g_k53"
+    ],
+    [
+      "g_u4",
+      "g_k54"
+    ],
+    [
+      "g_u4",
+      "g_k55"
+    ],
+    [
+      "g_u4",
+      "g_k56"
+    ],
+    [
+      "g_u4",
+      "g_k57"
+    ],
+    [
+      "g_u4",
+      "g_k58"
+    ],
+    [
+      "g_u4",
+      "g_k59"
+    ],
+    [
+      "g_u4",
+      "g_k60"
+    ],
+    [
+      "g_u4",
+      "g_k61"
+    ],
+    [
+      "g_u4",
+      "g_k62"
+    ],
+    [
+      "g_u4",
+      "g_k63"
+    ],
+    [
+      "g_u4",
+      "g_k64"
+    ],
+    [
+      "g_u4",
+      "g_k65"
+    ],
+    [
+      "g_u4",
+      "g_k66"
+    ],
+    [
+      "g_u4",
+      "g_k67"
+    ],
+    [
+      "g_u4",
+      "g_k68"
+    ],
+    [
+      "g_u4",
+      "g_k69"
+    ],
+    [
+      "g_u4",
+      "g_k70"
+    ],
+    [
+      "g_u4",
+      "g_k71"
+    ],
+    [
+      "g_u4",
+      "g_k72"
+    ],
+    [
+      "g_u4",
+      "g_k73"
+    ],
+    [
+      "g_u4",
+      "g_k74"
+    ],
+    [
+      "g_u5",
+      "g_k75"
+    ],
+    [
+      "g_u5",
+      "g_k76"
+    ],
+    [
+      "g_u5",
+      "g_k77"
+    ],
+    [
+      "g_u5",
+      "g_k78"
+    ],
+    [
+      "g_u6",
+      "g_k79"
+    ],
+    [
+      "g_u6",
+      "g_k80"
+    ],
+    [
+      "g_u6",
+      "g_k81"
+    ],
+    [
+      "g_u6",
+      "g_k82"
+    ],
+    [
+      "g_u6",
+      "g_k83"
+    ],
+    [
+      "g_u7",
+      "g_k84"
+    ],
+    [
+      "g_u7",
+      "g_k85"
+    ],
+    [
+      "g_u7",
+      "g_k86"
+    ],
+    [
+      "g_u7",
+      "g_u7a"
+    ],
+    [
+      "g_u7a",
+      "g_k87"
+    ],
+    [
+      "g_u7a",
+      "g_k88"
+    ],
+    [
+      "g_u7a",
+      "g_k89"
+    ],
+    [
+      "g_u8",
+      "g_k90"
+    ],
+    [
+      "g_u8",
+      "g_k91"
+    ],
+    [
+      "g_u8",
+      "g_k92"
+    ],
+    [
+      "g_u8",
+      "g_k93"
+    ],
+    [
+      "g_u8",
+      "g_k94"
+    ],
+    [
+      "g_u8",
+      "g_k95"
+    ],
+    [
+      "g_u8",
+      "g_k96"
+    ],
+    [
+      "g_u8",
+      "g_k97"
+    ],
+    [
+      "g_u8",
+      "g_k98"
+    ],
+    [
+      "g_u8",
+      "g_k99"
+    ],
+    [
+      "g_u8",
+      "g_k100"
+    ],
+    [
+      "g_u8",
+      "g_k101"
+    ],
+    [
+      "g_u8",
+      "g_k102"
+    ],
+    [
+      "g_u8",
+      "g_k103"
+    ],
+    [
+      "g_u9",
+      "g_k104"
+    ],
+    [
+      "g_u9",
+      "g_k105"
+    ],
+    [
+      "g_u10",
+      "g_k106"
+    ],
+    [
+      "g_u10",
+      "g_k107"
+    ],
+    [
+      "g_u10",
+      "g_k108"
+    ],
+    [
+      "g_u10",
+      "g_k109"
+    ],
+    [
+      "g_m2",
+      "g_u4"
+    ],
+    [
+      "g_m2",
+      "g_u5"
+    ],
+    [
+      "g_m2",
+      "g_u6"
+    ],
+    [
+      "g_m2",
+      "g_u7"
+    ],
+    [
+      "g_m2",
+      "g_u8"
+    ],
+    [
+      "g_m2",
+      "g_u9"
+    ],
+    [
+      "g_m2",
+      "g_u10"
+    ],
+    [
+      "g_u11",
+      "g_k110"
+    ],
+    [
+      "g_u11",
+      "g_k111"
+    ],
+    [
+      "g_u11",
+      "g_k112"
+    ],
+    [
+      "g_u12",
+      "g_k113"
+    ],
+    [
+      "g_u12",
+      "g_k114"
+    ],
+    [
+      "g_u13",
+      "g_k115"
+    ],
+    [
+      "g_u13",
+      "g_k116"
+    ],
+    [
+      "g_u13",
+      "g_k117"
+    ],
+    [
+      "g_u13",
+      "g_k118"
+    ],
+    [
+      "g_u13",
+      "g_k119"
+    ],
+    [
+      "g_u13",
+      "g_k120"
+    ],
+    [
+      "g_u14",
+      "g_k121"
+    ],
+    [
+      "g_u14",
+      "g_k122"
+    ],
+    [
+      "g_u15",
+      "g_k123"
+    ],
+    [
+      "g_u15",
+      "g_k124"
+    ],
+    [
+      "g_u16",
+      "g_k125"
+    ],
+    [
+      "g_u16",
+      "g_k126"
+    ],
+    [
+      "g_u16",
+      "g_k127"
+    ],
+    [
+      "g_u16",
+      "g_k128"
+    ],
+    [
+      "g_u16",
+      "g_k129"
+    ],
+    [
+      "g_u16",
+      "g_k130"
+    ],
+    [
+      "g_u16",
+      "g_k131"
+    ],
+    [
+      "g_u17",
+      "g_k132"
+    ],
+    [
+      "g_u17",
+      "g_k133"
+    ],
+    [
+      "g_u17",
+      "g_k134"
+    ],
+    [
+      "g_u17",
+      "g_k135"
+    ],
+    [
+      "g_u18",
+      "g_k136"
+    ],
+    [
+      "g_u18",
+      "g_k137"
+    ],
+    [
+      "g_u18",
+      "g_k138"
+    ],
+    [
+      "g_u19",
+      "g_k139"
+    ],
+    [
+      "g_u19",
+      "g_k140"
+    ],
+    [
+      "g_u19",
+      "g_k141"
+    ],
+    [
+      "g_m3",
+      "g_u11"
+    ],
+    [
+      "g_m3",
+      "g_u12"
+    ],
+    [
+      "g_m3",
+      "g_u13"
+    ],
+    [
+      "g_m3",
+      "g_u14"
+    ],
+    [
+      "g_m3",
+      "g_u15"
+    ],
+    [
+      "g_m3",
+      "g_u16"
+    ],
+    [
+      "g_m3",
+      "g_u17"
+    ],
+    [
+      "g_m3",
+      "g_u18"
+    ],
+    [
+      "g_m3",
+      "g_u19"
+    ]
+  ],
+  "sequence": [
+    [
+      "g_k_pref",
+      "g_m1"
+    ],
+    [
+      "g_m1",
+      "g_m2"
+    ],
+    [
+      "g_m2",
+      "g_m3"
+    ],
+    [
+      "g_m3",
+      "g_k_biblio"
+    ],
+    [
+      "g_k_biblio",
+      "g_k_group"
+    ],
+    [
+      "g_k_group",
+      "g_k_modif"
+    ],
+    [
+      "g_k_modif",
+      "g_k_resume"
+    ],
+    [
+      "g_k1",
+      "g_k2"
+    ],
+    [
+      "g_k2",
+      "g_k3"
+    ],
+    [
+      "g_k3",
+      "g_k4"
+    ],
+    [
+      "g_k4",
+      "g_k5"
+    ],
+    [
+      "g_k5",
+      "g_k6"
+    ],
+    [
+      "g_k6",
+      "g_k7"
+    ],
+    [
+      "g_k7",
+      "g_k8"
+    ],
+    [
+      "g_k8",
+      "g_k9"
+    ],
+    [
+      "g_k9",
+      "g_k10"
+    ],
+    [
+      "g_k10",
+      "g_k11"
+    ],
+    [
+      "g_k11",
+      "g_k12"
+    ],
+    [
+      "g_k12",
+      "g_k13"
+    ],
+    [
+      "g_k13",
+      "g_k14"
+    ],
+    [
+      "g_k14",
+      "g_k15"
+    ],
+    [
+      "g_k16",
+      "g_k17"
+    ],
+    [
+      "g_k17",
+      "g_k18"
+    ],
+    [
+      "g_k18",
+      "g_k19"
+    ],
+    [
+      "g_k19",
+      "g_k20"
+    ],
+    [
+      "g_k20",
+      "g_k21"
+    ],
+    [
+      "g_k21",
+      "g_k22"
+    ],
+    [
+      "g_k22",
+      "g_k23"
+    ],
+    [
+      "g_k23",
+      "g_k24"
+    ],
+    [
+      "g_k24",
+      "g_k25"
+    ],
+    [
+      "g_k25",
+      "g_k26"
+    ],
+    [
+      "g_k26",
+      "g_k27"
+    ],
+    [
+      "g_k27",
+      "g_k28"
+    ],
+    [
+      "g_k28",
+      "g_k29"
+    ],
+    [
+      "g_k29",
+      "g_k30"
+    ],
+    [
+      "g_k31",
+      "g_k32"
+    ],
+    [
+      "g_k32",
+      "g_k33"
+    ],
+    [
+      "g_k33",
+      "g_k34"
+    ],
+    [
+      "g_k34",
+      "g_k35"
+    ],
+    [
+      "g_k35",
+      "g_k36"
+    ],
+    [
+      "g_k36",
+      "g_k37"
+    ],
+    [
+      "g_k37",
+      "g_k38"
+    ],
+    [
+      "g_k38",
+      "g_k39"
+    ],
+    [
+      "g_k39",
+      "g_k40"
+    ],
+    [
+      "g_k40",
+      "g_k41"
+    ],
+    [
+      "g_k41",
+      "g_k42"
+    ],
+    [
+      "g_k42",
+      "g_k43"
+    ],
+    [
+      "g_k43",
+      "g_k44"
+    ],
+    [
+      "g_k44",
+      "g_k45"
+    ],
+    [
+      "g_k45",
+      "g_k46"
+    ],
+    [
+      "g_k46",
+      "g_k47"
+    ],
+    [
+      "g_k47",
+      "g_k48"
+    ],
+    [
+      "g_k48",
+      "g_k49"
+    ],
+    [
+      "g_k49",
+      "g_k50"
+    ],
+    [
+      "g_u1",
+      "g_u2"
+    ],
+    [
+      "g_u2",
+      "g_u3"
+    ],
+    [
+      "g_k51",
+      "g_k52"
+    ],
+    [
+      "g_k52",
+      "g_k53"
+    ],
+    [
+      "g_k53",
+      "g_k54"
+    ],
+    [
+      "g_k54",
+      "g_k55"
+    ],
+    [
+      "g_k55",
+      "g_k56"
+    ],
+    [
+      "g_k56",
+      "g_k57"
+    ],
+    [
+      "g_k57",
+      "g_k58"
+    ],
+    [
+      "g_k58",
+      "g_k59"
+    ],
+    [
+      "g_k59",
+      "g_k60"
+    ],
+    [
+      "g_k60",
+      "g_k61"
+    ],
+    [
+      "g_k61",
+      "g_k62"
+    ],
+    [
+      "g_k62",
+      "g_k63"
+    ],
+    [
+      "g_k63",
+      "g_k64"
+    ],
+    [
+      "g_k64",
+      "g_k65"
+    ],
+    [
+      "g_k65",
+      "g_k66"
+    ],
+    [
+      "g_k66",
+      "g_k67"
+    ],
+    [
+      "g_k67",
+      "g_k68"
+    ],
+    [
+      "g_k68",
+      "g_k69"
+    ],
+    [
+      "g_k69",
+      "g_k70"
+    ],
+    [
+      "g_k70",
+      "g_k71"
+    ],
+    [
+      "g_k71",
+      "g_k72"
+    ],
+    [
+      "g_k72",
+      "g_k73"
+    ],
+    [
+      "g_k73",
+      "g_k74"
+    ],
+    [
+      "g_k75",
+      "g_k76"
+    ],
+    [
+      "g_k76",
+      "g_k77"
+    ],
+    [
+      "g_k77",
+      "g_k78"
+    ],
+    [
+      "g_k79",
+      "g_k80"
+    ],
+    [
+      "g_k80",
+      "g_k81"
+    ],
+    [
+      "g_k81",
+      "g_k82"
+    ],
+    [
+      "g_k82",
+      "g_k83"
+    ],
+    [
+      "g_k84",
+      "g_k85"
+    ],
+    [
+      "g_k85",
+      "g_k86"
+    ],
+    [
+      "g_k86",
+      "g_u7a"
+    ],
+    [
+      "g_k87",
+      "g_k88"
+    ],
+    [
+      "g_k88",
+      "g_k89"
+    ],
+    [
+      "g_k90",
+      "g_k91"
+    ],
+    [
+      "g_k91",
+      "g_k92"
+    ],
+    [
+      "g_k92",
+      "g_k93"
+    ],
+    [
+      "g_k93",
+      "g_k94"
+    ],
+    [
+      "g_k94",
+      "g_k95"
+    ],
+    [
+      "g_k95",
+      "g_k96"
+    ],
+    [
+      "g_k96",
+      "g_k97"
+    ],
+    [
+      "g_k97",
+      "g_k98"
+    ],
+    [
+      "g_k98",
+      "g_k99"
+    ],
+    [
+      "g_k99",
+      "g_k100"
+    ],
+    [
+      "g_k100",
+      "g_k101"
+    ],
+    [
+      "g_k101",
+      "g_k102"
+    ],
+    [
+      "g_k102",
+      "g_k103"
+    ],
+    [
+      "g_k104",
+      "g_k105"
+    ],
+    [
+      "g_k106",
+      "g_k107"
+    ],
+    [
+      "g_k107",
+      "g_k108"
+    ],
+    [
+      "g_k108",
+      "g_k109"
+    ],
+    [
+      "g_u4",
+      "g_u5"
+    ],
+    [
+      "g_u5",
+      "g_u6"
+    ],
+    [
+      "g_u6",
+      "g_u7"
+    ],
+    [
+      "g_u7",
+      "g_u8"
+    ],
+    [
+      "g_u8",
+      "g_u9"
+    ],
+    [
+      "g_u9",
+      "g_u10"
+    ],
+    [
+      "g_k110",
+      "g_k111"
+    ],
+    [
+      "g_k111",
+      "g_k112"
+    ],
+    [
+      "g_k113",
+      "g_k114"
+    ],
+    [
+      "g_k115",
+      "g_k116"
+    ],
+    [
+      "g_k116",
+      "g_k117"
+    ],
+    [
+      "g_k117",
+      "g_k118"
+    ],
+    [
+      "g_k118",
+      "g_k119"
+    ],
+    [
+      "g_k119",
+      "g_k120"
+    ],
+    [
+      "g_k121",
+      "g_k122"
+    ],
+    [
+      "g_k123",
+      "g_k124"
+    ],
+    [
+      "g_k125",
+      "g_k126"
+    ],
+    [
+      "g_k126",
+      "g_k127"
+    ],
+    [
+      "g_k127",
+      "g_k128"
+    ],
+    [
+      "g_k128",
+      "g_k129"
+    ],
+    [
+      "g_k129",
+      "g_k130"
+    ],
+    [
+      "g_k130",
+      "g_k131"
+    ],
+    [
+      "g_k132",
+      "g_k133"
+    ],
+    [
+      "g_k133",
+      "g_k134"
+    ],
+    [
+      "g_k134",
+      "g_k135"
+    ],
+    [
+      "g_k136",
+      "g_k137"
+    ],
+    [
+      "g_k137",
+      "g_k138"
+    ],
+    [
+      "g_k139",
+      "g_k140"
+    ],
+    [
+      "g_k140",
+      "g_k141"
+    ],
+    [
+      "g_u11",
+      "g_u12"
+    ],
+    [
+      "g_u12",
+      "g_u13"
+    ],
+    [
+      "g_u13",
+      "g_u14"
+    ],
+    [
+      "g_u14",
+      "g_u15"
+    ],
+    [
+      "g_u15",
+      "g_u16"
+    ],
+    [
+      "g_u16",
+      "g_u17"
+    ],
+    [
+      "g_u17",
+      "g_u18"
+    ],
+    [
+      "g_u18",
+      "g_u19"
+    ]
+  ],
+  "grounding": {
+    "g_course": {
+      "pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112
+      ],
+      "heading_path": [
+        "Guide de techniques opérationnelles - Etablissements et techniques d’extinction"
+      ]
+    },
+    "g_k_pref": {
+      "pages": [
+        7
+      ],
+      "heading_path": [
+        "Préface"
+      ]
+    },
+    "g_m1": {
+      "pages": [
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU"
+      ]
+    },
+    "g_m2": {
+      "pages": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS"
+      ]
+    },
+    "g_m3": {
+      "pages": [
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION"
+      ]
+    },
+    "g_k_biblio": {
+      "pages": [
+        107
+      ],
+      "heading_path": [
+        "Annexe A - Bibliographie"
+      ]
+    },
+    "g_k_group": {
+      "pages": [
+        109
+      ],
+      "heading_path": [
+        "Annexe B - Composition du groupe de travail"
+      ]
+    },
+    "g_k_modif": {
+      "pages": [
+        111
+      ],
+      "heading_path": [
+        "Annexe C - Demande d’incorporation des modifications"
+      ]
+    },
+    "g_k_resume": {
+      "pages": [
+        112
+      ],
+      "heading_path": [
+        "Résumé"
+      ]
+    },
+    "g_u1": {
+      "pages": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Principes de la défense extérieure contre l’incendie – DECI"
+      ]
+    },
+    "g_k1": {
+      "pages": [
+        13
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Principes de la défense extérieure contre l’incendie – DECI",
+        "1. Objectifs"
+      ]
+    },
+    "g_k2": {
+      "pages": [
+        13
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Principes de la défense extérieure contre l’incendie – DECI",
+        "1.1. L’analyse des risques"
+      ]
+    },
+    "g_k3": {
+      "pages": [
+        13,
+        14
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Principes de la défense extérieure contre l’incendie – DECI",
+        "1.1.1. Risques courants dans les zones composées majoritairement d’habitations"
+      ]
+    },
+    "g_k4": {
+      "pages": [
+        14,
+        15
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Principes de la défense extérieure contre l’incendie – DECI",
+        "1.1.2. Les bâtiments à risque particulier"
+      ]
+    },
+    "g_k5": {
+      "pages": [
+        15
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Principes de la défense extérieure contre l’incendie – DECI",
+        "1.2. Les besoins en eau"
+      ]
+    },
+    "g_k6": {
+      "pages": [
+        15
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Principes de la défense extérieure contre l’incendie – DECI",
+        "1.2.1. Risques courants"
+      ]
+    },
+    "g_k7": {
+      "pages": [
+        15
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Principes de la défense extérieure contre l’incendie – DECI",
+        "1.2.2. Risques particuliers"
+      ]
+    },
+    "g_k8": {
+      "pages": [
+        16
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Principes de la défense extérieure contre l’incendie – DECI",
+        "2. L’identification des points d’eau disponibles"
+      ]
+    },
+    "g_k9": {
+      "pages": [
+        17
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Principes de la défense extérieure contre l’incendie – DECI",
+        "2.1. Principes du choix du dispositif d’alimentation"
+      ]
+    },
+    "g_k10": {
+      "pages": [
+        17
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Principes de la défense extérieure contre l’incendie – DECI",
+        "2.2. Les situations types"
+      ]
+    },
+    "g_k11": {
+      "pages": [
+        17
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Principes de la défense extérieure contre l’incendie – DECI",
+        "3. Les ressources en eau"
+      ]
+    },
+    "g_k12": {
+      "pages": [
+        19
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Principes de la défense extérieure contre l’incendie – DECI",
+        "4. Symboles utilisés dans les plans de secours"
+      ]
+    },
+    "g_k13": {
+      "pages": [
+        19
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Principes de la défense extérieure contre l’incendie – DECI",
+        "5. Pérennité des points d’eau dans le temps"
+      ]
+    },
+    "g_k14": {
+      "pages": [
+        19
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Principes de la défense extérieure contre l’incendie – DECI",
+        "6. Les autres ressources en agents extincteurs"
+      ]
+    },
+    "g_k15": {
+      "pages": [
+        19
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Principes de la défense extérieure contre l’incendie – DECI",
+        "7. Les fiches relatives aux ressources en eau ou en agent extincteur"
+      ]
+    },
+    "g_u2": {
+      "pages": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’eau incendie"
+      ]
+    },
+    "g_k16": {
+      "pages": [
+        21
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’eau incendie",
+        "1. Principes généraux et définition"
+      ]
+    },
+    "g_k17": {
+      "pages": [
+        22
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’eau incendie",
+        "2. Les réseaux de distribution"
+      ]
+    },
+    "g_k18": {
+      "pages": [
+        22
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’eau incendie",
+        "2.1. Cycle de l’eau"
+      ]
+    },
+    "g_k19": {
+      "pages": [
+        22
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’eau incendie",
+        "2.2. Principe d’alimentation des hydrants"
+      ]
+    },
+    "g_k20": {
+      "pages": [
+        23
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’eau incendie",
+        "2.3. Les principaux types de réseaux d’hydrants"
+      ]
+    },
+    "g_k21": {
+      "pages": [
+        23,
+        24
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’eau incendie",
+        "3. Poteaux d’incendie"
+      ]
+    },
+    "g_k22": {
+      "pages": [
+        25
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’eau incendie",
+        "3.1. Nomenclature des PI"
+      ]
+    },
+    "g_k23": {
+      "pages": [
+        26
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’eau incendie",
+        "3.2. Poteaux sur canalisation d’eau surpressée"
+      ]
+    },
+    "g_k24": {
+      "pages": [
+        26
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’eau incendie",
+        "3.3. Signalisation des poteaux d’incendie"
+      ]
+    },
+    "g_k25": {
+      "pages": [
+        27
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’eau incendie",
+        "3.4. Protection des poteaux d’incendie"
+      ]
+    },
+    "g_k26": {
+      "pages": [
+        28
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’eau incendie",
+        "4. Les bouches d'incendie (BI)"
+      ]
+    },
+    "g_k27": {
+      "pages": [
+        29
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’eau incendie",
+        "4.1. Nomenclature des BI"
+      ]
+    },
+    "g_k28": {
+      "pages": [
+        29
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’eau incendie",
+        "4.2. Signalisation des BI"
+      ]
+    },
+    "g_k29": {
+      "pages": [
+        30
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’eau incendie",
+        "4.3. Protection et signalisation complémentaire"
+      ]
+    },
+    "g_k30": {
+      "pages": [
+        31
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’eau incendie",
+        "5. Poteaux relais ou poteaux dalle"
+      ]
+    },
+    "g_u3": {
+      "pages": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels"
+      ]
+    },
+    "g_k31": {
+      "pages": [
+        33
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "1. Principe"
+      ]
+    },
+    "g_k32": {
+      "pages": [
+        33
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "2. L’identification des points d’eau disponibles"
+      ]
+    },
+    "g_k33": {
+      "pages": [
+        33
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "3. Les points d'eau naturels ou artificiels"
+      ]
+    },
+    "g_k34": {
+      "pages": [
+        33
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "3.1. Les points d'eau naturels"
+      ]
+    },
+    "g_k35": {
+      "pages": [
+        33,
+        34
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "3.1.1. Aires d'aspiration"
+      ]
+    },
+    "g_k36": {
+      "pages": [
+        34
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "3.1.2. Les estacades permettant l’aspiration verticale"
+      ]
+    },
+    "g_k37": {
+      "pages": [
+        35
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "3.1.2.1. Aménagements des ponts"
+      ]
+    },
+    "g_k38": {
+      "pages": [
+        35,
+        36
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "3.1.2.2. Aires d'aspiration et dispositifs fixes d'aspiration"
+      ]
+    },
+    "g_k39": {
+      "pages": [
+        37
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "3.1.2.3. Point d'aspiration déporté"
+      ]
+    },
+    "g_k40": {
+      "pages": [
+        38
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "4. Points d'eau artificiels"
+      ]
+    },
+    "g_k41": {
+      "pages": [
+        38
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "4.1. Réservoirs d'incendie ouverts"
+      ]
+    },
+    "g_k42": {
+      "pages": [
+        39
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "4.2. Réservoirs d'incendie couverts ou enterrés"
+      ]
+    },
+    "g_k43": {
+      "pages": [
+        40
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "4.3. Réservoirs d'incendie aériens"
+      ]
+    },
+    "g_k44": {
+      "pages": [
+        41
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "4.4. Réservoirs d'incendie souples (appelés aussi citernes souples)"
+      ]
+    },
+    "g_k45": {
+      "pages": [
+        41
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "4.5. Les piscines privées"
+      ]
+    },
+    "g_k46": {
+      "pages": [
+        41
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "4.6. Les points d’eau inaccessibles aux engins"
+      ]
+    },
+    "g_k47": {
+      "pages": [
+        42
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "4.7. Les réseaux d’irrigation agricoles"
+      ]
+    },
+    "g_k48": {
+      "pages": [
+        42
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "5. Signalisation"
+      ]
+    },
+    "g_k49": {
+      "pages": [
+        42
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "5.1. Réserves incendie"
+      ]
+    },
+    "g_k50": {
+      "pages": [
+        43
+      ],
+      "heading_path": [
+        "RESSOURCES EN EAU",
+        "Les points d’aspiration naturels et artificiels",
+        "5.2. Points d'aspiration"
+      ]
+    },
+    "g_u4": {
+      "pages": [
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures"
+      ]
+    },
+    "g_k51": {
+      "pages": [
+        47
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "Préambule"
+      ]
+    },
+    "g_k52": {
+      "pages": [
+        47
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "1. Principes de calcul de dimensionnement hydraulique"
+      ]
+    },
+    "g_k53": {
+      "pages": [
+        47
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "1.1. Débit"
+      ]
+    },
+    "g_k54": {
+      "pages": [
+        47
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "1.2. Pression"
+      ]
+    },
+    "g_k55": {
+      "pages": [
+        48
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "1.3. Les pertes de charge"
+      ]
+    },
+    "g_k56": {
+      "pages": [
+        48
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "1.4. La pression atmosphérique"
+      ]
+    },
+    "g_k57": {
+      "pages": [
+        48
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "1.5. Pression statique"
+      ]
+    },
+    "g_k58": {
+      "pages": [
+        48
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "1.6. Pression dynamique – dimensionnement du dispositif hydraulique"
+      ]
+    },
+    "g_k59": {
+      "pages": [
+        49
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "2. Choix des tuyaux"
+      ]
+    },
+    "g_k60": {
+      "pages": [
+        49
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "3. Quelques définitions relatives aux établissements"
+      ]
+    },
+    "g_k61": {
+      "pages": [
+        49
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "3.1. Du point d’eau vers le point d’attaque"
+      ]
+    },
+    "g_k62": {
+      "pages": [
+        50
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "3.2. Les accessoires hydrauliques"
+      ]
+    },
+    "g_k63": {
+      "pages": [
+        50
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "3.3. La ligne d’attaque"
+      ]
+    },
+    "g_k64": {
+      "pages": [
+        51
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "3.4. La lance du dévidoir tournant (LDT)"
+      ]
+    },
+    "g_k65": {
+      "pages": [
+        51
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "3.5. La division"
+      ]
+    },
+    "g_k66": {
+      "pages": [
+        51
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "4. Sécurité lors des établissements"
+      ]
+    },
+    "g_k67": {
+      "pages": [
+        52
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "4.1. Sécurité vis-à-vis du feu"
+      ]
+    },
+    "g_k68": {
+      "pages": [
+        52
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "4.2. Sécurité vis-à-vis des autres risques"
+      ]
+    },
+    "g_k69": {
+      "pages": [
+        53
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "5. Les manœuvres types"
+      ]
+    },
+    "g_k70": {
+      "pages": [
+        53
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "5.1. Les missions des binômes et du conducteur"
+      ]
+    },
+    "g_k71": {
+      "pages": [
+        53
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "6. Les commandements associés aux manœuvres d’établissement"
+      ]
+    },
+    "g_k72": {
+      "pages": [
+        53
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "6.1. Ordres préparatoires"
+      ]
+    },
+    "g_k73": {
+      "pages": [
+        54
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "6.2. Ordre d’exécution"
+      ]
+    },
+    "g_k74": {
+      "pages": [
+        54
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Les établissements pour les incendies de structures",
+        "6.3. Emport de matériels"
+      ]
+    },
+    "g_u5": {
+      "pages": [
+        55,
+        56,
+        57,
+        58
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Etablissement de la lance en eau du dévidoir tournant (LDT)"
+      ]
+    },
+    "g_k75": {
+      "pages": [
+        55
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Etablissement de la lance en eau du dévidoir tournant (LDT)",
+        "1. Conditions de mise en œuvre"
+      ]
+    },
+    "g_k76": {
+      "pages": [
+        55
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Etablissement de la lance en eau du dévidoir tournant (LDT)",
+        "2. Matériels nécessaires proposés"
+      ]
+    },
+    "g_k77": {
+      "pages": [
+        56
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Etablissement de la lance en eau du dévidoir tournant (LDT)",
+        "3. Mise en œuvre de la LDT"
+      ]
+    },
+    "g_k78": {
+      "pages": [
+        57
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Etablissement de la lance en eau du dévidoir tournant (LDT)",
+        "5. Remarques"
+      ]
+    },
+    "g_u6": {
+      "pages": [
+        59,
+        60,
+        61,
+        62
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Etablissement d’une division d’alimentation ou d’une division d’attaque (en prolongation)"
+      ]
+    },
+    "g_k79": {
+      "pages": [
+        59
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Etablissement d’une division d’alimentation ou d’une division d’attaque (en prolongation)",
+        "1. Conditions de mise en œuvre"
+      ]
+    },
+    "g_k80": {
+      "pages": [
+        59
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Etablissement d’une division d’alimentation ou d’une division d’attaque (en prolongation)",
+        "2. Matériels nécessaires proposés"
+      ]
+    },
+    "g_k81": {
+      "pages": [
+        60
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Etablissement d’une division d’alimentation ou d’une division d’attaque (en prolongation)",
+        "3. Différentes mises en œuvre de division sur ligne de diamètre 70"
+      ]
+    },
+    "g_k82": {
+      "pages": [
+        61
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Etablissement d’une division d’alimentation ou d’une division d’attaque (en prolongation)",
+        "4. Schémas de principe d’établissements d’alimentation d’une division"
+      ]
+    },
+    "g_k83": {
+      "pages": [
+        62
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Etablissement d’une division d’alimentation ou d’une division d’attaque (en prolongation)",
+        "Alimentation d’une colonne sèche"
+      ]
+    },
+    "g_u7": {
+      "pages": [
+        63,
+        64,
+        65,
+        66
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Ligne d’attaque sur une prise d’eau"
+      ]
+    },
+    "g_k84": {
+      "pages": [
+        63
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Ligne d’attaque sur une prise d’eau",
+        "1. Conditions de mise en œuvre"
+      ]
+    },
+    "g_k85": {
+      "pages": [
+        63
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Ligne d’attaque sur une prise d’eau",
+        "2. Matériels nécessaires proposés"
+      ]
+    },
+    "g_k86": {
+      "pages": [
+        64
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Ligne d’attaque sur une prise d’eau",
+        "3. Différentes mises en œuvre d’une ligne d’attaque en tuyaux de 40 mm de diamètre"
+      ]
+    },
+    "g_u7a": {
+      "pages": [
+        65,
+        66
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Ligne d’attaque sur une prise d’eau",
+        "4. Les différents établissements de la ligne d’attaque"
+      ]
+    },
+    "g_k87": {
+      "pages": [
+        65
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Ligne d’attaque sur une prise d’eau",
+        "4. Les différents établissements de la ligne d’attaque",
+        "Etablissement d’une lance sur l’engin"
+      ]
+    },
+    "g_k88": {
+      "pages": [
+        65
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Ligne d’attaque sur une prise d’eau",
+        "4. Les différents établissements de la ligne d’attaque",
+        "Etablissement d’une lance sur une division d’alimentation"
+      ]
+    },
+    "g_k89": {
+      "pages": [
+        65,
+        66
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Ligne d’attaque sur une prise d’eau",
+        "4. Les différents établissements de la ligne d’attaque",
+        "Etablissement d’une lance sur une colonne sèche ou humide"
+      ]
+    },
+    "g_u8": {
+      "pages": [
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Alimentation d’un dispositif hydraulique"
+      ]
+    },
+    "g_k90": {
+      "pages": [
+        67
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Alimentation d’un dispositif hydraulique",
+        "1. Objectifs"
+      ]
+    },
+    "g_k91": {
+      "pages": [
+        67
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Alimentation d’un dispositif hydraulique",
+        "2. L’identification et choix des points d’eau"
+      ]
+    },
+    "g_k92": {
+      "pages": [
+        68
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Alimentation d’un dispositif hydraulique",
+        "3. Connaissances techniques des pompes facilitant le choix de l’établissement"
+      ]
+    },
+    "g_k93": {
+      "pages": [
+        68
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Alimentation d’un dispositif hydraulique",
+        "4. Les situations types"
+      ]
+    },
+    "g_k94": {
+      "pages": [
+        68,
+        69
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Alimentation d’un dispositif hydraulique",
+        "4.1. Alimentation de l’engin par le conducteur"
+      ]
+    },
+    "g_k95": {
+      "pages": [
+        70
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Alimentation d’un dispositif hydraulique",
+        "5. Alimentation de l’engin par le binôme d’alimentation"
+      ]
+    },
+    "g_k96": {
+      "pages": [
+        70
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Alimentation d’un dispositif hydraulique",
+        "5.1. Matériels nécessaires proposés"
+      ]
+    },
+    "g_k97": {
+      "pages": [
+        70
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Alimentation d’un dispositif hydraulique",
+        "5.2. Schéma de principe"
+      ]
+    },
+    "g_k98": {
+      "pages": [
+        71
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Alimentation d’un dispositif hydraulique",
+        "6. Mise en aspiration de l’engin"
+      ]
+    },
+    "g_k99": {
+      "pages": [
+        71
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Alimentation d’un dispositif hydraulique",
+        "7. Etablissements particuliers"
+      ]
+    },
+    "g_k100": {
+      "pages": [
+        72
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Alimentation d’un dispositif hydraulique",
+        "7.1. Alimentation par un gros porteur"
+      ]
+    },
+    "g_k101": {
+      "pages": [
+        72
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Alimentation d’un dispositif hydraulique",
+        "7.2. Alimentation par une noria d’engins-pompe"
+      ]
+    },
+    "g_k102": {
+      "pages": [
+        73
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Alimentation d’un dispositif hydraulique",
+        "7.3. Création d’une réserve artificielle"
+      ]
+    },
+    "g_k103": {
+      "pages": [
+        73
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Alimentation d’un dispositif hydraulique",
+        "7.4. Etablissement d’une ligne d’alimentation à l’aide d’un dévidoir automobile"
+      ]
+    },
+    "g_u9": {
+      "pages": [
+        75,
+        76
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Etablissements particuliers"
+      ]
+    },
+    "g_k104": {
+      "pages": [
+        75
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Etablissements particuliers",
+        "1. Objectifs"
+      ]
+    },
+    "g_k105": {
+      "pages": [
+        75
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Etablissements particuliers",
+        "2. Etablissement d’une lance canon ou d’une lance queue de paon"
+      ]
+    },
+    "g_u10": {
+      "pages": [
+        77,
+        78
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Prolongement d’établissement ou remplacement de tuyau"
+      ]
+    },
+    "g_k106": {
+      "pages": [
+        77
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Prolongement d’établissement ou remplacement de tuyau",
+        "1. Objectifs"
+      ]
+    },
+    "g_k107": {
+      "pages": [
+        77
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Prolongement d’établissement ou remplacement de tuyau",
+        "2. Principes généraux du prolongement d’établissement ou remplacement de tuyau"
+      ]
+    },
+    "g_k108": {
+      "pages": [
+        77
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Prolongement d’établissement ou remplacement de tuyau",
+        "3. Principes généraux"
+      ]
+    },
+    "g_k109": {
+      "pages": [
+        78
+      ],
+      "heading_path": [
+        "LES ETABLISSEMENTS",
+        "Prolongement d’établissement ou remplacement de tuyau",
+        "4. Schémas de principe"
+      ]
+    },
+    "g_u11": {
+      "pages": [
+        79,
+        80,
+        81,
+        82,
+        83,
+        84
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Les techniques d’extinction"
+      ]
+    },
+    "g_k110": {
+      "pages": [
+        81
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Les techniques d’extinction",
+        "1. Principes généraux"
+      ]
+    },
+    "g_k111": {
+      "pages": [
+        81
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Les techniques d’extinction",
+        "2. Utilisation des lances"
+      ]
+    },
+    "g_k112": {
+      "pages": [
+        81,
+        82,
+        83,
+        84
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Les techniques d’extinction",
+        "2.1. Principes d’utilisation"
+      ]
+    },
+    "g_u12": {
+      "pages": [
+        85,
+        86,
+        87,
+        88
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Refroidissement des fumées (Gas cooling)"
+      ]
+    },
+    "g_k113": {
+      "pages": [
+        85
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Refroidissement des fumées (Gas cooling)",
+        "1. Objectif"
+      ]
+    },
+    "g_k114": {
+      "pages": [
+        85,
+        86,
+        87,
+        88
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Refroidissement des fumées (Gas cooling)",
+        "2. Méthodes"
+      ]
+    },
+    "g_u13": {
+      "pages": [
+        89,
+        90,
+        91,
+        92
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "L’extinction directe"
+      ]
+    },
+    "g_k115": {
+      "pages": [
+        89
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "L’extinction directe",
+        "1. Objectifs"
+      ]
+    },
+    "g_k116": {
+      "pages": [
+        89
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "L’extinction directe",
+        "2. Applications directes"
+      ]
+    },
+    "g_k117": {
+      "pages": [
+        89
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "L’extinction directe",
+        "2.1. Le badigeonnage (painting)"
+      ]
+    },
+    "g_k118": {
+      "pages": [
+        90
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "L’extinction directe",
+        "2.2. L’application d’eau très ponctuelle (penciling)"
+      ]
+    },
+    "g_k119": {
+      "pages": [
+        90
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "L’extinction directe",
+        "3. Applications ricochets"
+      ]
+    },
+    "g_k120": {
+      "pages": [
+        90,
+        91
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "L’extinction directe",
+        "3.1. Le ricochet"
+      ]
+    },
+    "g_u14": {
+      "pages": [
+        93,
+        94
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Les extinctions indirectes"
+      ]
+    },
+    "g_k121": {
+      "pages": [
+        93
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Les extinctions indirectes",
+        "1. Objectif"
+      ]
+    },
+    "g_k122": {
+      "pages": [
+        93
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Les extinctions indirectes",
+        "2. Application"
+      ]
+    },
+    "g_u15": {
+      "pages": [
+        95,
+        96
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Extinction combinée / massive"
+      ]
+    },
+    "g_k123": {
+      "pages": [
+        95
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Extinction combinée / massive",
+        "1. Objectif"
+      ]
+    },
+    "g_k124": {
+      "pages": [
+        95,
+        96
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Extinction combinée / massive",
+        "2. Application"
+      ]
+    },
+    "g_u16": {
+      "pages": [
+        97,
+        98,
+        99,
+        100
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Situation pré-backdraft"
+      ]
+    },
+    "g_k125": {
+      "pages": [
+        97
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Situation pré-backdraft",
+        "1. Principe"
+      ]
+    },
+    "g_k126": {
+      "pages": [
+        97
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Situation pré-backdraft",
+        "2. Extinction indirecte"
+      ]
+    },
+    "g_k127": {
+      "pages": [
+        97
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Situation pré-backdraft",
+        "3. Inertage par trouée / percement"
+      ]
+    },
+    "g_k128": {
+      "pages": [
+        97
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Situation pré-backdraft",
+        "3.1. Réalisation d’une trouée pour inertage avec une lance classique"
+      ]
+    },
+    "g_k129": {
+      "pages": [
+        98
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Situation pré-backdraft",
+        "3.2. Utilisation d’une lance à brouillard après percement"
+      ]
+    },
+    "g_k130": {
+      "pages": [
+        98
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Situation pré-backdraft",
+        "3.3. Utilisation d’une lance perçante avec brumisation"
+      ]
+    },
+    "g_k131": {
+      "pages": [
+        99
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Situation pré-backdraft",
+        "3.4. Utilisation d’une lance perforante"
+      ]
+    },
+    "g_u17": {
+      "pages": [
+        101,
+        102
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Le repli sous protection hydraulique"
+      ]
+    },
+    "g_k132": {
+      "pages": [
+        101
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Le repli sous protection hydraulique",
+        "1. Objectif"
+      ]
+    },
+    "g_k133": {
+      "pages": [
+        101
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Le repli sous protection hydraulique",
+        "2. Application"
+      ]
+    },
+    "g_k134": {
+      "pages": [
+        101
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Le repli sous protection hydraulique",
+        "2.1. Repli sous refroidissement des fumées"
+      ]
+    },
+    "g_k135": {
+      "pages": [
+        102
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Le repli sous protection hydraulique",
+        "2.2. Repli sous écran d’eau"
+      ]
+    },
+    "g_u18": {
+      "pages": [
+        103,
+        104
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Feu soumis aux effets du vent et effet chalumeau"
+      ]
+    },
+    "g_k136": {
+      "pages": [
+        103
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Feu soumis aux effets du vent et effet chalumeau",
+        "1. Objectif"
+      ]
+    },
+    "g_k137": {
+      "pages": [
+        103
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Feu soumis aux effets du vent et effet chalumeau",
+        "2. Principe opérationnel"
+      ]
+    },
+    "g_k138": {
+      "pages": [
+        104
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Feu soumis aux effets du vent et effet chalumeau",
+        "3. Quelques possibilités"
+      ]
+    },
+    "g_u19": {
+      "pages": [
+        105,
+        106
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Attaque d’atténuation"
+      ]
+    },
+    "g_k139": {
+      "pages": [
+        105
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Attaque d’atténuation",
+        "1. Objectif"
+      ]
+    },
+    "g_k140": {
+      "pages": [
+        105
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Attaque d’atténuation",
+        "2. Application"
+      ]
+    },
+    "g_k141": {
+      "pages": [
+        106
+      ],
+      "heading_path": [
+        "LES TECHNIQUES D’EXTINCTION",
+        "Attaque d’atténuation",
+        "3. Quelques repères"
+      ]
+    }
+  },
+  "annotation_decisions": [
+    "Strict hierarchy applied: COURSE > MODULE > UNIT > KC.",
+    "Printed family headings 'RESSOURCES EN EAU', 'LES ETABLISSEMENTS', and 'LES TECHNIQUES D’EXTINCTION' are treated as MODULE nodes.",
+    "Major fiches listed in the Sommaire are treated as UNIT nodes under their corresponding family MODULE.",
+    "Visible numbered/internal subheadings inside a fiche are treated as KC nodes.",
+    "Preface and end-matter annex pages are kept as standalone KCs under COURSE because they are not printed under one of the three family headings.",
+    "Page grounding follows printed page anchors from the Sommaire and visible internal headings on the corresponding pages."
+  ]
+}

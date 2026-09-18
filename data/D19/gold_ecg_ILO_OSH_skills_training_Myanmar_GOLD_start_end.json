@@ -1,0 +1,1080 @@
+{
+  "source_pdf": "wcms_906942(1).pdf",
+  "source_title": "Occupational safety and health in skills training - Myanmar: Trainer’s manual",
+  "note": "Gold ECG rebuilt from the full source-visible outline and typed with the exact compiler logic. Explicit numbered activities and visible subheadings are retained when they function as structural headings; answer text, bullets, form fields and paraphrased concepts are excluded.",
+  "compiler_typing_rule": {
+    "COURSE_child": "MODULE if has children, else KC",
+    "non_COURSE_child": "UNIT if has children, else KC"
+  },
+  "nodes": [
+    {
+      "id": "g_course",
+      "title": "Occupational safety and health in skills training - Myanmar: Trainer’s manual",
+      "kind": "COURSE",
+      "pages": [
+        1,
+        26
+      ]
+    },
+    {
+      "id": "g_k1",
+      "title": "Preface",
+      "kind": "KC",
+      "pages": [
+        7,
+        7
+      ]
+    },
+    {
+      "id": "g_k2",
+      "title": "How to use the Trainer’s manual",
+      "kind": "KC",
+      "pages": [
+        8,
+        8
+      ]
+    },
+    {
+      "id": "g_m1",
+      "title": "1. Session information",
+      "kind": "MODULE",
+      "pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "g_k3",
+      "title": "Role of the trainer",
+      "kind": "KC",
+      "pages": [
+        9,
+        9
+      ]
+    },
+    {
+      "id": "g_k4",
+      "title": "Session format",
+      "kind": "KC",
+      "pages": [
+        9,
+        9
+      ]
+    },
+    {
+      "id": "g_k5",
+      "title": "Resources required for in-class teaching",
+      "kind": "KC",
+      "pages": [
+        9,
+        9
+      ]
+    },
+    {
+      "id": "g_u1",
+      "title": "Training programme",
+      "kind": "UNIT",
+      "pages": [
+        9,
+        10
+      ]
+    },
+    {
+      "id": "g_k6",
+      "title": "Model programme for one-day course (8 hours)",
+      "kind": "KC",
+      "pages": [
+        10,
+        10
+      ]
+    },
+    {
+      "id": "g_m2",
+      "title": "2. Course activities and answer key",
+      "kind": "MODULE",
+      "pages": [
+        11,
+        20
+      ]
+    },
+    {
+      "id": "g_u2",
+      "title": "Module 1. Workers’ rights and entitlements",
+      "kind": "UNIT",
+      "pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "g_k7",
+      "title": "1.1 Individual activity",
+      "kind": "KC",
+      "pages": [
+        11,
+        11
+      ]
+    },
+    {
+      "id": "g_k8",
+      "title": "1.2 Individual activity",
+      "kind": "KC",
+      "pages": [
+        11,
+        11
+      ]
+    },
+    {
+      "id": "g_k9",
+      "title": "1.3 Group activity",
+      "kind": "KC",
+      "pages": [
+        11,
+        12
+      ]
+    },
+    {
+      "id": "g_u3",
+      "title": "Module 2. Occupational safety and health definitions and concepts",
+      "kind": "UNIT",
+      "pages": [
+        12,
+        12
+      ]
+    },
+    {
+      "id": "g_k10",
+      "title": "2.1 Individual activity",
+      "kind": "KC",
+      "pages": [
+        12,
+        12
+      ]
+    },
+    {
+      "id": "g_k11",
+      "title": "2.2 Individual activity",
+      "kind": "KC",
+      "pages": [
+        12,
+        12
+      ]
+    },
+    {
+      "id": "g_k12",
+      "title": "2.3 Individual activity",
+      "kind": "KC",
+      "pages": [
+        12,
+        12
+      ]
+    },
+    {
+      "id": "g_u4",
+      "title": "Module 3. Risk assessment and control",
+      "kind": "UNIT",
+      "pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "g_u5",
+      "title": "3.1 Activity",
+      "kind": "UNIT",
+      "pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "g_k13",
+      "title": "Risk assessment exercise",
+      "kind": "KC",
+      "pages": [
+        12,
+        12
+      ]
+    },
+    {
+      "id": "g_k14",
+      "title": "Aim",
+      "kind": "KC",
+      "pages": [
+        12,
+        12
+      ]
+    },
+    {
+      "id": "g_k15",
+      "title": "Task",
+      "kind": "KC",
+      "pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "g_k16",
+      "title": "Time",
+      "kind": "KC",
+      "pages": [
+        13,
+        13
+      ]
+    },
+    {
+      "id": "g_u6",
+      "title": "Module 4. Occupational safety and health management system (OSHMS)",
+      "kind": "UNIT",
+      "pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "g_k17",
+      "title": "4.1 Individual or group activity",
+      "kind": "KC",
+      "pages": [
+        13,
+        13
+      ]
+    },
+    {
+      "id": "g_k18",
+      "title": "4.2 Individual activity",
+      "kind": "KC",
+      "pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "g_k19",
+      "title": "4.3 Group activity",
+      "kind": "KC",
+      "pages": [
+        14,
+        14
+      ]
+    },
+    {
+      "id": "g_k20",
+      "title": "4.4 Individual or group activity",
+      "kind": "KC",
+      "pages": [
+        14,
+        14
+      ]
+    },
+    {
+      "id": "g_u7",
+      "title": "Module 5. Recording and notification of occupational accidents and diseases",
+      "kind": "UNIT",
+      "pages": [
+        14,
+        20
+      ]
+    },
+    {
+      "id": "g_u8",
+      "title": "5.1 Individual or group activity",
+      "kind": "UNIT",
+      "pages": [
+        14,
+        16
+      ]
+    },
+    {
+      "id": "g_k21",
+      "title": "Example of completed form",
+      "kind": "KC",
+      "pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "g_u9",
+      "title": "5.2 Individual or group activity",
+      "kind": "UNIT",
+      "pages": [
+        16,
+        20
+      ]
+    },
+    {
+      "id": "g_k22",
+      "title": "Example of completed form for “Mr Gecko”",
+      "kind": "KC",
+      "pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "g_k23",
+      "title": "Example of completed form for “NAPO: Report it!”",
+      "kind": "KC",
+      "pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "g_k24",
+      "title": "Example of completed form for “Killer on the loose”",
+      "kind": "KC",
+      "pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "g_k25",
+      "title": "5.3 Individual or group activity",
+      "kind": "KC",
+      "pages": [
+        20,
+        20
+      ]
+    },
+    {
+      "id": "g_m3",
+      "title": "3. Handouts",
+      "kind": "MODULE",
+      "pages": [
+        21,
+        26
+      ]
+    },
+    {
+      "id": "g_k26",
+      "title": "Workplace risk assessment template (Module 3)",
+      "kind": "KC",
+      "pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "g_k27",
+      "title": "Incident report form (Module 5)",
+      "kind": "KC",
+      "pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "g_k28",
+      "title": "End of course evaluation",
+      "kind": "KC",
+      "pages": [
+        24,
+        26
+      ]
+    }
+  ],
+  "contains": [
+    [
+      "g_course",
+      "g_k1"
+    ],
+    [
+      "g_course",
+      "g_k2"
+    ],
+    [
+      "g_course",
+      "g_m1"
+    ],
+    [
+      "g_course",
+      "g_m2"
+    ],
+    [
+      "g_course",
+      "g_m3"
+    ],
+    [
+      "g_m1",
+      "g_k3"
+    ],
+    [
+      "g_m1",
+      "g_k4"
+    ],
+    [
+      "g_m1",
+      "g_k5"
+    ],
+    [
+      "g_m1",
+      "g_u1"
+    ],
+    [
+      "g_u1",
+      "g_k6"
+    ],
+    [
+      "g_m2",
+      "g_u2"
+    ],
+    [
+      "g_m2",
+      "g_u3"
+    ],
+    [
+      "g_m2",
+      "g_u4"
+    ],
+    [
+      "g_m2",
+      "g_u6"
+    ],
+    [
+      "g_m2",
+      "g_u7"
+    ],
+    [
+      "g_u2",
+      "g_k7"
+    ],
+    [
+      "g_u2",
+      "g_k8"
+    ],
+    [
+      "g_u2",
+      "g_k9"
+    ],
+    [
+      "g_u3",
+      "g_k10"
+    ],
+    [
+      "g_u3",
+      "g_k11"
+    ],
+    [
+      "g_u3",
+      "g_k12"
+    ],
+    [
+      "g_u4",
+      "g_u5"
+    ],
+    [
+      "g_u5",
+      "g_k13"
+    ],
+    [
+      "g_u5",
+      "g_k14"
+    ],
+    [
+      "g_u5",
+      "g_k15"
+    ],
+    [
+      "g_u5",
+      "g_k16"
+    ],
+    [
+      "g_u6",
+      "g_k17"
+    ],
+    [
+      "g_u6",
+      "g_k18"
+    ],
+    [
+      "g_u6",
+      "g_k19"
+    ],
+    [
+      "g_u6",
+      "g_k20"
+    ],
+    [
+      "g_u7",
+      "g_u8"
+    ],
+    [
+      "g_u7",
+      "g_u9"
+    ],
+    [
+      "g_u7",
+      "g_k25"
+    ],
+    [
+      "g_u8",
+      "g_k21"
+    ],
+    [
+      "g_u9",
+      "g_k22"
+    ],
+    [
+      "g_u9",
+      "g_k23"
+    ],
+    [
+      "g_u9",
+      "g_k24"
+    ],
+    [
+      "g_m3",
+      "g_k26"
+    ],
+    [
+      "g_m3",
+      "g_k27"
+    ],
+    [
+      "g_m3",
+      "g_k28"
+    ]
+  ],
+  "sequence": [
+    [
+      "g_k1",
+      "g_k2"
+    ],
+    [
+      "g_k2",
+      "g_m1"
+    ],
+    [
+      "g_m1",
+      "g_m2"
+    ],
+    [
+      "g_m2",
+      "g_m3"
+    ],
+    [
+      "g_k3",
+      "g_k4"
+    ],
+    [
+      "g_k4",
+      "g_k5"
+    ],
+    [
+      "g_k5",
+      "g_u1"
+    ],
+    [
+      "g_u2",
+      "g_u3"
+    ],
+    [
+      "g_u3",
+      "g_u4"
+    ],
+    [
+      "g_u4",
+      "g_u6"
+    ],
+    [
+      "g_u6",
+      "g_u7"
+    ],
+    [
+      "g_k7",
+      "g_k8"
+    ],
+    [
+      "g_k8",
+      "g_k9"
+    ],
+    [
+      "g_k10",
+      "g_k11"
+    ],
+    [
+      "g_k11",
+      "g_k12"
+    ],
+    [
+      "g_k13",
+      "g_k14"
+    ],
+    [
+      "g_k14",
+      "g_k15"
+    ],
+    [
+      "g_k15",
+      "g_k16"
+    ],
+    [
+      "g_k17",
+      "g_k18"
+    ],
+    [
+      "g_k18",
+      "g_k19"
+    ],
+    [
+      "g_k19",
+      "g_k20"
+    ],
+    [
+      "g_u8",
+      "g_u9"
+    ],
+    [
+      "g_u9",
+      "g_k25"
+    ],
+    [
+      "g_k22",
+      "g_k23"
+    ],
+    [
+      "g_k23",
+      "g_k24"
+    ],
+    [
+      "g_k26",
+      "g_k27"
+    ],
+    [
+      "g_k27",
+      "g_k28"
+    ]
+  ],
+  "grounding": {
+    "g_k1": {
+      "pages": [
+        7,
+        7
+      ],
+      "heading_path": [
+        "Preface"
+      ]
+    },
+    "g_k2": {
+      "pages": [
+        8,
+        8
+      ],
+      "heading_path": [
+        "How to use the Trainer’s manual"
+      ]
+    },
+    "g_m1": {
+      "pages": [
+        9,
+        10
+      ],
+      "heading_path": [
+        "1. Session information"
+      ]
+    },
+    "g_k3": {
+      "pages": [
+        9,
+        9
+      ],
+      "heading_path": [
+        "1. Session information",
+        "Role of the trainer"
+      ]
+    },
+    "g_k4": {
+      "pages": [
+        9,
+        9
+      ],
+      "heading_path": [
+        "1. Session information",
+        "Session format"
+      ]
+    },
+    "g_k5": {
+      "pages": [
+        9,
+        9
+      ],
+      "heading_path": [
+        "1. Session information",
+        "Resources required for in-class teaching"
+      ]
+    },
+    "g_u1": {
+      "pages": [
+        9,
+        10
+      ],
+      "heading_path": [
+        "1. Session information",
+        "Training programme"
+      ]
+    },
+    "g_k6": {
+      "pages": [
+        10,
+        10
+      ],
+      "heading_path": [
+        "1. Session information",
+        "Training programme",
+        "Model programme for one-day course (8 hours)"
+      ]
+    },
+    "g_m2": {
+      "pages": [
+        11,
+        20
+      ],
+      "heading_path": [
+        "2. Course activities and answer key"
+      ]
+    },
+    "g_u2": {
+      "pages": [
+        11,
+        12
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 1. Workers’ rights and entitlements"
+      ]
+    },
+    "g_k7": {
+      "pages": [
+        11,
+        11
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 1. Workers’ rights and entitlements",
+        "1.1 Individual activity"
+      ]
+    },
+    "g_k8": {
+      "pages": [
+        11,
+        11
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 1. Workers’ rights and entitlements",
+        "1.2 Individual activity"
+      ]
+    },
+    "g_k9": {
+      "pages": [
+        11,
+        12
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 1. Workers’ rights and entitlements",
+        "1.3 Group activity"
+      ]
+    },
+    "g_u3": {
+      "pages": [
+        12,
+        12
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 2. Occupational safety and health definitions and concepts"
+      ]
+    },
+    "g_k10": {
+      "pages": [
+        12,
+        12
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 2. Occupational safety and health definitions and concepts",
+        "2.1 Individual activity"
+      ]
+    },
+    "g_k11": {
+      "pages": [
+        12,
+        12
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 2. Occupational safety and health definitions and concepts",
+        "2.2 Individual activity"
+      ]
+    },
+    "g_k12": {
+      "pages": [
+        12,
+        12
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 2. Occupational safety and health definitions and concepts",
+        "2.3 Individual activity"
+      ]
+    },
+    "g_u4": {
+      "pages": [
+        12,
+        13
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 3. Risk assessment and control"
+      ]
+    },
+    "g_u5": {
+      "pages": [
+        12,
+        13
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 3. Risk assessment and control",
+        "3.1 Activity"
+      ]
+    },
+    "g_k13": {
+      "pages": [
+        12,
+        12
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 3. Risk assessment and control",
+        "3.1 Activity",
+        "Risk assessment exercise"
+      ]
+    },
+    "g_k14": {
+      "pages": [
+        12,
+        12
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 3. Risk assessment and control",
+        "3.1 Activity",
+        "Aim"
+      ]
+    },
+    "g_k15": {
+      "pages": [
+        12,
+        13
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 3. Risk assessment and control",
+        "3.1 Activity",
+        "Task"
+      ]
+    },
+    "g_k16": {
+      "pages": [
+        13,
+        13
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 3. Risk assessment and control",
+        "3.1 Activity",
+        "Time"
+      ]
+    },
+    "g_u6": {
+      "pages": [
+        13,
+        14
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 4. Occupational safety and health management system (OSHMS)"
+      ]
+    },
+    "g_k17": {
+      "pages": [
+        13,
+        13
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 4. Occupational safety and health management system (OSHMS)",
+        "4.1 Individual or group activity"
+      ]
+    },
+    "g_k18": {
+      "pages": [
+        13,
+        14
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 4. Occupational safety and health management system (OSHMS)",
+        "4.2 Individual activity"
+      ]
+    },
+    "g_k19": {
+      "pages": [
+        14,
+        14
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 4. Occupational safety and health management system (OSHMS)",
+        "4.3 Group activity"
+      ]
+    },
+    "g_k20": {
+      "pages": [
+        14,
+        14
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 4. Occupational safety and health management system (OSHMS)",
+        "4.4 Individual or group activity"
+      ]
+    },
+    "g_u7": {
+      "pages": [
+        14,
+        20
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 5. Recording and notification of occupational accidents and diseases"
+      ]
+    },
+    "g_u8": {
+      "pages": [
+        14,
+        16
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 5. Recording and notification of occupational accidents and diseases",
+        "5.1 Individual or group activity"
+      ]
+    },
+    "g_k21": {
+      "pages": [
+        15,
+        16
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 5. Recording and notification of occupational accidents and diseases",
+        "5.1 Individual or group activity",
+        "Example of completed form"
+      ]
+    },
+    "g_u9": {
+      "pages": [
+        16,
+        20
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 5. Recording and notification of occupational accidents and diseases",
+        "5.2 Individual or group activity"
+      ]
+    },
+    "g_k22": {
+      "pages": [
+        17,
+        18
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 5. Recording and notification of occupational accidents and diseases",
+        "5.2 Individual or group activity",
+        "Example of completed form for “Mr Gecko”"
+      ]
+    },
+    "g_k23": {
+      "pages": [
+        18,
+        19
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 5. Recording and notification of occupational accidents and diseases",
+        "5.2 Individual or group activity",
+        "Example of completed form for “NAPO: Report it!”"
+      ]
+    },
+    "g_k24": {
+      "pages": [
+        19,
+        20
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 5. Recording and notification of occupational accidents and diseases",
+        "5.2 Individual or group activity",
+        "Example of completed form for “Killer on the loose”"
+      ]
+    },
+    "g_k25": {
+      "pages": [
+        20,
+        20
+      ],
+      "heading_path": [
+        "2. Course activities and answer key",
+        "Module 5. Recording and notification of occupational accidents and diseases",
+        "5.3 Individual or group activity"
+      ]
+    },
+    "g_m3": {
+      "pages": [
+        21,
+        26
+      ],
+      "heading_path": [
+        "3. Handouts"
+      ]
+    },
+    "g_k26": {
+      "pages": [
+        22,
+        23
+      ],
+      "heading_path": [
+        "3. Handouts",
+        "Workplace risk assessment template (Module 3)"
+      ]
+    },
+    "g_k27": {
+      "pages": [
+        23,
+        24
+      ],
+      "heading_path": [
+        "3. Handouts",
+        "Incident report form (Module 5)"
+      ]
+    },
+    "g_k28": {
+      "pages": [
+        24,
+        26
+      ],
+      "heading_path": [
+        "3. Handouts",
+        "End of course evaluation"
+      ]
+    }
+  }
+}

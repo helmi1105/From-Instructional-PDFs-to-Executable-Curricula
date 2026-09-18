@@ -1,0 +1,1300 @@
+{
+  "source_pdf": "wcms_210950(2).pdf",
+  "source_title": "National System for Recording and Notification of Occupational Diseases — Practical guide",
+  "note": "Gold ECG rebuilt from the document outline/Contents and typed with the exact compiler logic. Only outline headings are nodes. Body prose, bullet points, figures, tables, checklist items, country-card fields and paraphrased concepts are excluded.",
+  "page_semantics": {
+    "format": "[start_page, end_page]",
+    "inclusive": true,
+    "page_numbering": "physical PDF pages, 1-based"
+  },
+  "compiler_typing_rule": {
+    "COURSE_child": "MODULE if has children, else KC",
+    "non_COURSE_child": "UNIT if has children, else KC"
+  },
+  "nodes": [
+    {
+      "id": "g_course",
+      "title": "National System for Recording and Notification of Occupational Diseases — Practical guide",
+      "kind": "COURSE",
+      "pages": [
+        1,
+        83
+      ]
+    },
+    {
+      "id": "g_k1",
+      "title": "Preface",
+      "kind": "KC",
+      "pages": [
+        6,
+        7
+      ]
+    },
+    {
+      "id": "g_k2",
+      "title": "Acknowledgements",
+      "kind": "KC",
+      "pages": [
+        8,
+        11
+      ]
+    },
+    {
+      "id": "g_k3",
+      "title": "1. Preamble",
+      "kind": "KC",
+      "pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "g_m1",
+      "title": "2. Key elements and objectives of the national system for recording and notification of occupational diseases (NSRNOD)",
+      "kind": "MODULE",
+      "pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "g_k4",
+      "title": "Key elements",
+      "kind": "KC",
+      "pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "g_k5",
+      "title": "Objectives",
+      "kind": "KC",
+      "pages": [
+        15,
+        15
+      ]
+    },
+    {
+      "id": "g_m2",
+      "title": "3. Health surveillance and identification of occupational diseases",
+      "kind": "MODULE",
+      "pages": [
+        16,
+        19
+      ]
+    },
+    {
+      "id": "g_k6",
+      "title": "Assessment of workers’ health",
+      "kind": "KC",
+      "pages": [
+        16,
+        16
+      ]
+    },
+    {
+      "id": "g_k7",
+      "title": "Procedures for medical examinations",
+      "kind": "KC",
+      "pages": [
+        16,
+        17
+      ]
+    },
+    {
+      "id": "g_k8",
+      "title": "Establishing a national system for health surveillance of workers",
+      "kind": "KC",
+      "pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "g_k9",
+      "title": "Assessment of exposure at work",
+      "kind": "KC",
+      "pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "g_m3",
+      "title": "4. Diagnosis and recognition of occupational diseases",
+      "kind": "MODULE",
+      "pages": [
+        20,
+        23
+      ]
+    },
+    {
+      "id": "g_k10",
+      "title": "Definitions of occupational disease",
+      "kind": "KC",
+      "pages": [
+        20,
+        20
+      ]
+    },
+    {
+      "id": "g_k11",
+      "title": "Diagnosis of occupational diseases",
+      "kind": "KC",
+      "pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "g_k12",
+      "title": "Criteria for identifying and recognizing an individual disease",
+      "kind": "KC",
+      "pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "g_k13",
+      "title": "Implications of recognition of occupational diseases",
+      "kind": "KC",
+      "pages": [
+        22,
+        23
+      ]
+    },
+    {
+      "id": "g_k14",
+      "title": "Lists of occupational diseases",
+      "kind": "KC",
+      "pages": [
+        23,
+        23
+      ]
+    },
+    {
+      "id": "g_m4",
+      "title": "5. Establishing an NSRNOD",
+      "kind": "MODULE",
+      "pages": [
+        24,
+        31
+      ]
+    },
+    {
+      "id": "g_k15",
+      "title": "National competent authority and national policy",
+      "kind": "KC",
+      "pages": [
+        24,
+        24
+      ]
+    },
+    {
+      "id": "g_k16",
+      "title": "Institutional arrangements",
+      "kind": "KC",
+      "pages": [
+        24,
+        24
+      ]
+    },
+    {
+      "id": "g_k17",
+      "title": "Mechanisms for reporting, recording and notification of occupational diseases",
+      "kind": "KC",
+      "pages": [
+        24,
+        26
+      ]
+    },
+    {
+      "id": "g_k18",
+      "title": "Use and application of data on occupational diseases",
+      "kind": "KC",
+      "pages": [
+        26,
+        29
+      ]
+    },
+    {
+      "id": "g_k19",
+      "title": "Establishing an employer-based record-keeping and notification system",
+      "kind": "KC",
+      "pages": [
+        29,
+        31
+      ]
+    },
+    {
+      "id": "g_m5",
+      "title": "6. Roles of the relevant parties",
+      "kind": "MODULE",
+      "pages": [
+        32,
+        43
+      ]
+    },
+    {
+      "id": "g_k20",
+      "title": "Competent authority",
+      "kind": "KC",
+      "pages": [
+        32,
+        35
+      ]
+    },
+    {
+      "id": "g_k21",
+      "title": "Employers",
+      "kind": "KC",
+      "pages": [
+        35,
+        38
+      ]
+    },
+    {
+      "id": "g_k22",
+      "title": "Workers",
+      "kind": "KC",
+      "pages": [
+        38,
+        39
+      ]
+    },
+    {
+      "id": "g_k23",
+      "title": "OSH inspectors",
+      "kind": "KC",
+      "pages": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "g_k24",
+      "title": "Occupational health professionals and general health practitioners",
+      "kind": "KC",
+      "pages": [
+        40,
+        43
+      ]
+    },
+    {
+      "id": "g_m6",
+      "title": "7. Information to be recorded and notified",
+      "kind": "MODULE",
+      "pages": [
+        44,
+        47
+      ]
+    },
+    {
+      "id": "g_k25",
+      "title": "Minimum information required for recording and notification",
+      "kind": "KC",
+      "pages": [
+        44,
+        45
+      ]
+    },
+    {
+      "id": "g_k26",
+      "title": "Developing national classification systems",
+      "kind": "KC",
+      "pages": [
+        45,
+        47
+      ]
+    },
+    {
+      "id": "g_k27",
+      "title": "Occupational injuries and disease surveys",
+      "kind": "KC",
+      "pages": [
+        47,
+        47
+      ]
+    },
+    {
+      "id": "g_k28",
+      "title": "Other data sources",
+      "kind": "KC",
+      "pages": [
+        47,
+        47
+      ]
+    },
+    {
+      "id": "g_m7",
+      "title": "8. Data analysis and publication of annual statistics",
+      "kind": "MODULE",
+      "pages": [
+        48,
+        51
+      ]
+    },
+    {
+      "id": "g_k29",
+      "title": "Main issues to be considered",
+      "kind": "KC",
+      "pages": [
+        48,
+        49
+      ]
+    },
+    {
+      "id": "g_k30",
+      "title": "Standardized classifications of data in the publication of statistics",
+      "kind": "KC",
+      "pages": [
+        49,
+        51
+      ]
+    },
+    {
+      "id": "g_m8",
+      "title": "9. Information on occupational diseases among self-employed persons",
+      "kind": "MODULE",
+      "pages": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "g_k31",
+      "title": "Extending the recording and notification system to self-employed persons",
+      "kind": "KC",
+      "pages": [
+        52,
+        52
+      ]
+    },
+    {
+      "id": "g_k32",
+      "title": "Extending the NSRNOD through Basic Occupational Health Services",
+      "kind": "KC",
+      "pages": [
+        52,
+        53
+      ]
+    },
+    {
+      "id": "g_k33",
+      "title": "10. Conclusions and summary",
+      "kind": "KC",
+      "pages": [
+        54,
+        57
+      ]
+    },
+    {
+      "id": "g_k34",
+      "title": "Glossary",
+      "kind": "KC",
+      "pages": [
+        58,
+        59
+      ]
+    },
+    {
+      "id": "g_m9",
+      "title": "Annexes",
+      "kind": "MODULE",
+      "pages": [
+        60,
+        83
+      ]
+    },
+    {
+      "id": "g_k35",
+      "title": "Annex 1. Checklist for NSRNOD",
+      "kind": "KC",
+      "pages": [
+        62,
+        64
+      ]
+    },
+    {
+      "id": "g_k36",
+      "title": "Annex 2. Weighting in estimation procedures for surveys of occupational injuries and diseases (SOID)",
+      "kind": "KC",
+      "pages": [
+        64,
+        68
+      ]
+    },
+    {
+      "id": "g_k37",
+      "title": "Annex 3. Measures of the survey of occupational injuries and illnesses (SOII)",
+      "kind": "KC",
+      "pages": [
+        68,
+        70
+      ]
+    },
+    {
+      "id": "g_k38",
+      "title": "Annex 4. Examples of notification cards for occupational diseases in various countries",
+      "kind": "KC",
+      "pages": [
+        70,
+        78
+      ]
+    },
+    {
+      "id": "g_k39",
+      "title": "Annex 5. Summary of current data collection system for occupational diseases in various countries",
+      "kind": "KC",
+      "pages": [
+        78,
+        82
+      ]
+    },
+    {
+      "id": "g_k40",
+      "title": "Annex 6. List of useful ILO instruments",
+      "kind": "KC",
+      "pages": [
+        82,
+        83
+      ]
+    }
+  ],
+  "contains": [
+    [
+      "g_course",
+      "g_k1"
+    ],
+    [
+      "g_course",
+      "g_k2"
+    ],
+    [
+      "g_course",
+      "g_k3"
+    ],
+    [
+      "g_course",
+      "g_m1"
+    ],
+    [
+      "g_course",
+      "g_m2"
+    ],
+    [
+      "g_course",
+      "g_m3"
+    ],
+    [
+      "g_course",
+      "g_m4"
+    ],
+    [
+      "g_course",
+      "g_m5"
+    ],
+    [
+      "g_course",
+      "g_m6"
+    ],
+    [
+      "g_course",
+      "g_m7"
+    ],
+    [
+      "g_course",
+      "g_m8"
+    ],
+    [
+      "g_course",
+      "g_k33"
+    ],
+    [
+      "g_course",
+      "g_k34"
+    ],
+    [
+      "g_course",
+      "g_m9"
+    ],
+    [
+      "g_m1",
+      "g_k4"
+    ],
+    [
+      "g_m1",
+      "g_k5"
+    ],
+    [
+      "g_m2",
+      "g_k6"
+    ],
+    [
+      "g_m2",
+      "g_k7"
+    ],
+    [
+      "g_m2",
+      "g_k8"
+    ],
+    [
+      "g_m2",
+      "g_k9"
+    ],
+    [
+      "g_m3",
+      "g_k10"
+    ],
+    [
+      "g_m3",
+      "g_k11"
+    ],
+    [
+      "g_m3",
+      "g_k12"
+    ],
+    [
+      "g_m3",
+      "g_k13"
+    ],
+    [
+      "g_m3",
+      "g_k14"
+    ],
+    [
+      "g_m4",
+      "g_k15"
+    ],
+    [
+      "g_m4",
+      "g_k16"
+    ],
+    [
+      "g_m4",
+      "g_k17"
+    ],
+    [
+      "g_m4",
+      "g_k18"
+    ],
+    [
+      "g_m4",
+      "g_k19"
+    ],
+    [
+      "g_m5",
+      "g_k20"
+    ],
+    [
+      "g_m5",
+      "g_k21"
+    ],
+    [
+      "g_m5",
+      "g_k22"
+    ],
+    [
+      "g_m5",
+      "g_k23"
+    ],
+    [
+      "g_m5",
+      "g_k24"
+    ],
+    [
+      "g_m6",
+      "g_k25"
+    ],
+    [
+      "g_m6",
+      "g_k26"
+    ],
+    [
+      "g_m6",
+      "g_k27"
+    ],
+    [
+      "g_m6",
+      "g_k28"
+    ],
+    [
+      "g_m7",
+      "g_k29"
+    ],
+    [
+      "g_m7",
+      "g_k30"
+    ],
+    [
+      "g_m8",
+      "g_k31"
+    ],
+    [
+      "g_m8",
+      "g_k32"
+    ],
+    [
+      "g_m9",
+      "g_k35"
+    ],
+    [
+      "g_m9",
+      "g_k36"
+    ],
+    [
+      "g_m9",
+      "g_k37"
+    ],
+    [
+      "g_m9",
+      "g_k38"
+    ],
+    [
+      "g_m9",
+      "g_k39"
+    ],
+    [
+      "g_m9",
+      "g_k40"
+    ]
+  ],
+  "sequence": [
+    [
+      "g_k1",
+      "g_k2"
+    ],
+    [
+      "g_k2",
+      "g_k3"
+    ],
+    [
+      "g_k3",
+      "g_m1"
+    ],
+    [
+      "g_m1",
+      "g_m2"
+    ],
+    [
+      "g_m2",
+      "g_m3"
+    ],
+    [
+      "g_m3",
+      "g_m4"
+    ],
+    [
+      "g_m4",
+      "g_m5"
+    ],
+    [
+      "g_m5",
+      "g_m6"
+    ],
+    [
+      "g_m6",
+      "g_m7"
+    ],
+    [
+      "g_m7",
+      "g_m8"
+    ],
+    [
+      "g_m8",
+      "g_k33"
+    ],
+    [
+      "g_k33",
+      "g_k34"
+    ],
+    [
+      "g_k34",
+      "g_m9"
+    ],
+    [
+      "g_k4",
+      "g_k5"
+    ],
+    [
+      "g_k6",
+      "g_k7"
+    ],
+    [
+      "g_k7",
+      "g_k8"
+    ],
+    [
+      "g_k8",
+      "g_k9"
+    ],
+    [
+      "g_k10",
+      "g_k11"
+    ],
+    [
+      "g_k11",
+      "g_k12"
+    ],
+    [
+      "g_k12",
+      "g_k13"
+    ],
+    [
+      "g_k13",
+      "g_k14"
+    ],
+    [
+      "g_k15",
+      "g_k16"
+    ],
+    [
+      "g_k16",
+      "g_k17"
+    ],
+    [
+      "g_k17",
+      "g_k18"
+    ],
+    [
+      "g_k18",
+      "g_k19"
+    ],
+    [
+      "g_k20",
+      "g_k21"
+    ],
+    [
+      "g_k21",
+      "g_k22"
+    ],
+    [
+      "g_k22",
+      "g_k23"
+    ],
+    [
+      "g_k23",
+      "g_k24"
+    ],
+    [
+      "g_k25",
+      "g_k26"
+    ],
+    [
+      "g_k26",
+      "g_k27"
+    ],
+    [
+      "g_k27",
+      "g_k28"
+    ],
+    [
+      "g_k29",
+      "g_k30"
+    ],
+    [
+      "g_k31",
+      "g_k32"
+    ],
+    [
+      "g_k35",
+      "g_k36"
+    ],
+    [
+      "g_k36",
+      "g_k37"
+    ],
+    [
+      "g_k37",
+      "g_k38"
+    ],
+    [
+      "g_k38",
+      "g_k39"
+    ],
+    [
+      "g_k39",
+      "g_k40"
+    ]
+  ],
+  "grounding": {
+    "g_k1": {
+      "pages": [
+        6,
+        7
+      ],
+      "heading_path": [
+        "Preface"
+      ]
+    },
+    "g_k2": {
+      "pages": [
+        8,
+        11
+      ],
+      "heading_path": [
+        "Acknowledgements"
+      ]
+    },
+    "g_k3": {
+      "pages": [
+        12,
+        13
+      ],
+      "heading_path": [
+        "1. Preamble"
+      ]
+    },
+    "g_m1": {
+      "pages": [
+        14,
+        15
+      ],
+      "heading_path": [
+        "2. Key elements and objectives of the national system for recording and notification of occupational diseases (NSRNOD)"
+      ]
+    },
+    "g_k4": {
+      "pages": [
+        14,
+        15
+      ],
+      "heading_path": [
+        "2. Key elements and objectives of the national system for recording and notification of occupational diseases (NSRNOD)",
+        "Key elements"
+      ]
+    },
+    "g_k5": {
+      "pages": [
+        15,
+        15
+      ],
+      "heading_path": [
+        "2. Key elements and objectives of the national system for recording and notification of occupational diseases (NSRNOD)",
+        "Objectives"
+      ]
+    },
+    "g_m2": {
+      "pages": [
+        16,
+        19
+      ],
+      "heading_path": [
+        "3. Health surveillance and identification of occupational diseases"
+      ]
+    },
+    "g_k6": {
+      "pages": [
+        16,
+        16
+      ],
+      "heading_path": [
+        "3. Health surveillance and identification of occupational diseases",
+        "Assessment of workers’ health"
+      ]
+    },
+    "g_k7": {
+      "pages": [
+        16,
+        17
+      ],
+      "heading_path": [
+        "3. Health surveillance and identification of occupational diseases",
+        "Procedures for medical examinations"
+      ]
+    },
+    "g_k8": {
+      "pages": [
+        17,
+        18
+      ],
+      "heading_path": [
+        "3. Health surveillance and identification of occupational diseases",
+        "Establishing a national system for health surveillance of workers"
+      ]
+    },
+    "g_k9": {
+      "pages": [
+        18,
+        19
+      ],
+      "heading_path": [
+        "3. Health surveillance and identification of occupational diseases",
+        "Assessment of exposure at work"
+      ]
+    },
+    "g_m3": {
+      "pages": [
+        20,
+        23
+      ],
+      "heading_path": [
+        "4. Diagnosis and recognition of occupational diseases"
+      ]
+    },
+    "g_k10": {
+      "pages": [
+        20,
+        20
+      ],
+      "heading_path": [
+        "4. Diagnosis and recognition of occupational diseases",
+        "Definitions of occupational disease"
+      ]
+    },
+    "g_k11": {
+      "pages": [
+        20,
+        21
+      ],
+      "heading_path": [
+        "4. Diagnosis and recognition of occupational diseases",
+        "Diagnosis of occupational diseases"
+      ]
+    },
+    "g_k12": {
+      "pages": [
+        21,
+        22
+      ],
+      "heading_path": [
+        "4. Diagnosis and recognition of occupational diseases",
+        "Criteria for identifying and recognizing an individual disease"
+      ]
+    },
+    "g_k13": {
+      "pages": [
+        22,
+        23
+      ],
+      "heading_path": [
+        "4. Diagnosis and recognition of occupational diseases",
+        "Implications of recognition of occupational diseases"
+      ]
+    },
+    "g_k14": {
+      "pages": [
+        23,
+        23
+      ],
+      "heading_path": [
+        "4. Diagnosis and recognition of occupational diseases",
+        "Lists of occupational diseases"
+      ]
+    },
+    "g_m4": {
+      "pages": [
+        24,
+        31
+      ],
+      "heading_path": [
+        "5. Establishing an NSRNOD"
+      ]
+    },
+    "g_k15": {
+      "pages": [
+        24,
+        24
+      ],
+      "heading_path": [
+        "5. Establishing an NSRNOD",
+        "National competent authority and national policy"
+      ]
+    },
+    "g_k16": {
+      "pages": [
+        24,
+        24
+      ],
+      "heading_path": [
+        "5. Establishing an NSRNOD",
+        "Institutional arrangements"
+      ]
+    },
+    "g_k17": {
+      "pages": [
+        24,
+        26
+      ],
+      "heading_path": [
+        "5. Establishing an NSRNOD",
+        "Mechanisms for reporting, recording and notification of occupational diseases"
+      ]
+    },
+    "g_k18": {
+      "pages": [
+        26,
+        29
+      ],
+      "heading_path": [
+        "5. Establishing an NSRNOD",
+        "Use and application of data on occupational diseases"
+      ]
+    },
+    "g_k19": {
+      "pages": [
+        29,
+        31
+      ],
+      "heading_path": [
+        "5. Establishing an NSRNOD",
+        "Establishing an employer-based record-keeping and notification system"
+      ]
+    },
+    "g_m5": {
+      "pages": [
+        32,
+        43
+      ],
+      "heading_path": [
+        "6. Roles of the relevant parties"
+      ]
+    },
+    "g_k20": {
+      "pages": [
+        32,
+        35
+      ],
+      "heading_path": [
+        "6. Roles of the relevant parties",
+        "Competent authority"
+      ]
+    },
+    "g_k21": {
+      "pages": [
+        35,
+        38
+      ],
+      "heading_path": [
+        "6. Roles of the relevant parties",
+        "Employers"
+      ]
+    },
+    "g_k22": {
+      "pages": [
+        38,
+        39
+      ],
+      "heading_path": [
+        "6. Roles of the relevant parties",
+        "Workers"
+      ]
+    },
+    "g_k23": {
+      "pages": [
+        39,
+        40
+      ],
+      "heading_path": [
+        "6. Roles of the relevant parties",
+        "OSH inspectors"
+      ]
+    },
+    "g_k24": {
+      "pages": [
+        40,
+        43
+      ],
+      "heading_path": [
+        "6. Roles of the relevant parties",
+        "Occupational health professionals and general health practitioners"
+      ]
+    },
+    "g_m6": {
+      "pages": [
+        44,
+        47
+      ],
+      "heading_path": [
+        "7. Information to be recorded and notified"
+      ]
+    },
+    "g_k25": {
+      "pages": [
+        44,
+        45
+      ],
+      "heading_path": [
+        "7. Information to be recorded and notified",
+        "Minimum information required for recording and notification"
+      ]
+    },
+    "g_k26": {
+      "pages": [
+        45,
+        47
+      ],
+      "heading_path": [
+        "7. Information to be recorded and notified",
+        "Developing national classification systems"
+      ]
+    },
+    "g_k27": {
+      "pages": [
+        47,
+        47
+      ],
+      "heading_path": [
+        "7. Information to be recorded and notified",
+        "Occupational injuries and disease surveys"
+      ]
+    },
+    "g_k28": {
+      "pages": [
+        47,
+        47
+      ],
+      "heading_path": [
+        "7. Information to be recorded and notified",
+        "Other data sources"
+      ]
+    },
+    "g_m7": {
+      "pages": [
+        48,
+        51
+      ],
+      "heading_path": [
+        "8. Data analysis and publication of annual statistics"
+      ]
+    },
+    "g_k29": {
+      "pages": [
+        48,
+        49
+      ],
+      "heading_path": [
+        "8. Data analysis and publication of annual statistics",
+        "Main issues to be considered"
+      ]
+    },
+    "g_k30": {
+      "pages": [
+        49,
+        51
+      ],
+      "heading_path": [
+        "8. Data analysis and publication of annual statistics",
+        "Standardized classifications of data in the publication of statistics"
+      ]
+    },
+    "g_m8": {
+      "pages": [
+        52,
+        53
+      ],
+      "heading_path": [
+        "9. Information on occupational diseases among self-employed persons"
+      ]
+    },
+    "g_k31": {
+      "pages": [
+        52,
+        52
+      ],
+      "heading_path": [
+        "9. Information on occupational diseases among self-employed persons",
+        "Extending the recording and notification system to self-employed persons"
+      ]
+    },
+    "g_k32": {
+      "pages": [
+        52,
+        53
+      ],
+      "heading_path": [
+        "9. Information on occupational diseases among self-employed persons",
+        "Extending the NSRNOD through Basic Occupational Health Services"
+      ]
+    },
+    "g_k33": {
+      "pages": [
+        54,
+        57
+      ],
+      "heading_path": [
+        "10. Conclusions and summary"
+      ]
+    },
+    "g_k34": {
+      "pages": [
+        58,
+        59
+      ],
+      "heading_path": [
+        "Glossary"
+      ]
+    },
+    "g_m9": {
+      "pages": [
+        60,
+        83
+      ],
+      "heading_path": [
+        "Annexes"
+      ]
+    },
+    "g_k35": {
+      "pages": [
+        62,
+        64
+      ],
+      "heading_path": [
+        "Annexes",
+        "Annex 1. Checklist for NSRNOD"
+      ]
+    },
+    "g_k36": {
+      "pages": [
+        64,
+        68
+      ],
+      "heading_path": [
+        "Annexes",
+        "Annex 2. Weighting in estimation procedures for surveys of occupational injuries and diseases (SOID)"
+      ]
+    },
+    "g_k37": {
+      "pages": [
+        68,
+        70
+      ],
+      "heading_path": [
+        "Annexes",
+        "Annex 3. Measures of the survey of occupational injuries and illnesses (SOII)"
+      ]
+    },
+    "g_k38": {
+      "pages": [
+        70,
+        78
+      ],
+      "heading_path": [
+        "Annexes",
+        "Annex 4. Examples of notification cards for occupational diseases in various countries"
+      ]
+    },
+    "g_k39": {
+      "pages": [
+        78,
+        82
+      ],
+      "heading_path": [
+        "Annexes",
+        "Annex 5. Summary of current data collection system for occupational diseases in various countries"
+      ]
+    },
+    "g_k40": {
+      "pages": [
+        82,
+        83
+      ],
+      "heading_path": [
+        "Annexes",
+        "Annex 6. List of useful ILO instruments"
+      ]
+    }
+  }
+}

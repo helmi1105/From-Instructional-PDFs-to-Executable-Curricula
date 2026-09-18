@@ -1,0 +1,1760 @@
+{
+  "source_pdf": "WHO-WHE-CPI-2017.10-eng (1)(1).pdf",
+  "source_title": "WHO Simulation Exercise Manual",
+  "note": "Independent PDF-only gold built from the document outline. The outline (front-matter heading plus numbered section hierarchy) defines the nodes and parent-child structure. Layout is used only to verify headings and page starts. No prediction and no body-derived Step nodes are used.",
+  "page_semantics": {
+    "format": "[start_page, end_page]",
+    "inclusive": true,
+    "page_numbering": "physical PDF pages, 1-based"
+  },
+  "nodes": [
+    {
+      "id": "g_course",
+      "title": "WHO Simulation Exercise Manual",
+      "kind": "COURSE",
+      "pages": [
+        1,
+        77
+      ]
+    },
+    {
+      "id": "g_k1",
+      "title": "Acknowledgements",
+      "kind": "KC",
+      "pages": [
+        8,
+        18
+      ]
+    },
+    {
+      "id": "g_m1",
+      "title": "3. Exercise selection process",
+      "kind": "MODULE",
+      "pages": [
+        19,
+        49
+      ]
+    },
+    {
+      "id": "g_k2",
+      "title": "3.1 Exercises as part of emergency risk management",
+      "kind": "KC",
+      "pages": [
+        19,
+        19
+      ]
+    },
+    {
+      "id": "g_u1",
+      "title": "3.2 Exercise programme",
+      "kind": "UNIT",
+      "pages": [
+        19,
+        20
+      ]
+    },
+    {
+      "id": "g_k3",
+      "title": "3.2.1 Training",
+      "kind": "KC",
+      "pages": [
+        20,
+        20
+      ]
+    },
+    {
+      "id": "g_k4",
+      "title": "3.2.2 Exercise planning tool (EPT)",
+      "kind": "KC",
+      "pages": [
+        21,
+        21
+      ]
+    },
+    {
+      "id": "g_k5",
+      "title": "3.2.3 Exercise planning tool (EPT)",
+      "kind": "KC",
+      "pages": [
+        21,
+        21
+      ]
+    },
+    {
+      "id": "g_u2",
+      "title": "3.3 Selecting the exercise type",
+      "kind": "UNIT",
+      "pages": [
+        21,
+        49
+      ]
+    },
+    {
+      "id": "g_k6",
+      "title": "3.3.1 Defining the exercise purpose and objectives",
+      "kind": "KC",
+      "pages": [
+        22,
+        49
+      ]
+    },
+    {
+      "id": "g_m2",
+      "title": "6. Functional exercise (FX) guidance and tools",
+      "kind": "MODULE",
+      "pages": [
+        50,
+        62
+      ]
+    },
+    {
+      "id": "g_u3",
+      "title": "6.1 Overview",
+      "kind": "UNIT",
+      "pages": [
+        50,
+        50
+      ]
+    },
+    {
+      "id": "g_k7",
+      "title": "6.1.1 FX project phases",
+      "kind": "KC",
+      "pages": [
+        51,
+        51
+      ]
+    },
+    {
+      "id": "g_u4",
+      "title": "6.2 Pre-exercise",
+      "kind": "UNIT",
+      "pages": [
+        51,
+        56
+      ]
+    },
+    {
+      "id": "g_k8",
+      "title": "6.2.1 Planning",
+      "kind": "KC",
+      "pages": [
+        51,
+        53
+      ]
+    },
+    {
+      "id": "g_k9",
+      "title": "6.2.2 Material development",
+      "kind": "KC",
+      "pages": [
+        54,
+        55
+      ]
+    },
+    {
+      "id": "g_k10",
+      "title": "6.2.3 Setting up the exercise",
+      "kind": "KC",
+      "pages": [
+        56,
+        56
+      ]
+    },
+    {
+      "id": "g_k11",
+      "title": "6.3 Conducting the exercise",
+      "kind": "KC",
+      "pages": [
+        57,
+        59
+      ]
+    },
+    {
+      "id": "g_k12",
+      "title": "6.4 Post-exercise",
+      "kind": "KC",
+      "pages": [
+        60,
+        60
+      ]
+    },
+    {
+      "id": "g_k13",
+      "title": "6.5 Tools and templates found in annex of this chapter",
+      "kind": "KC",
+      "pages": [
+        61,
+        62
+      ]
+    },
+    {
+      "id": "g_m3",
+      "title": "7. Field/full-scale exercise (FSX) guidance",
+      "kind": "MODULE",
+      "pages": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "g_u5",
+      "title": "7.1 Overview",
+      "kind": "UNIT",
+      "pages": [
+        63,
+        64
+      ]
+    },
+    {
+      "id": "g_k14",
+      "title": "7.1.1 FSX project phases",
+      "kind": "KC",
+      "pages": [
+        64,
+        64
+      ]
+    },
+    {
+      "id": "g_u6",
+      "title": "7.2 Pre-exercise",
+      "kind": "UNIT",
+      "pages": [
+        65,
+        71
+      ]
+    },
+    {
+      "id": "g_k15",
+      "title": "7.2.1 Planning",
+      "kind": "KC",
+      "pages": [
+        65,
+        67
+      ]
+    },
+    {
+      "id": "g_k16",
+      "title": "7.2.2 Material development",
+      "kind": "KC",
+      "pages": [
+        68,
+        69
+      ]
+    },
+    {
+      "id": "g_k17",
+      "title": "7.2.3 Setting up the exercise",
+      "kind": "KC",
+      "pages": [
+        70,
+        71
+      ]
+    },
+    {
+      "id": "g_k18",
+      "title": "7.3 Conducting the exercise",
+      "kind": "KC",
+      "pages": [
+        72,
+        73
+      ]
+    },
+    {
+      "id": "g_k19",
+      "title": "7.4 Post-exercise",
+      "kind": "KC",
+      "pages": [
+        74,
+        75
+      ]
+    },
+    {
+      "id": "g_k20",
+      "title": "7.5 Tools and templates found in annex of this chapter",
+      "kind": "KC",
+      "pages": [
+        76,
+        77
+      ]
+    },
+    {
+      "id": "g_m4",
+      "title": "1. PLANNING",
+      "kind": "MODULE",
+      "pages": [
+        65,
+        65
+      ]
+    },
+    {
+      "id": "g_k21",
+      "title": "1.1 Background",
+      "kind": "KC",
+      "pages": [
+        9,
+        9
+      ]
+    },
+    {
+      "id": "g_k22",
+      "title": "1.2 Purpose & objectives of the exercise manual",
+      "kind": "KC",
+      "pages": [
+        10,
+        10
+      ]
+    },
+    {
+      "id": "g_k23",
+      "title": "1.3 Target audience",
+      "kind": "KC",
+      "pages": [
+        10,
+        10
+      ]
+    },
+    {
+      "id": "g_k24",
+      "title": "1.4 Use of this manual",
+      "kind": "KC",
+      "pages": [
+        10,
+        10
+      ]
+    },
+    {
+      "id": "g_k25",
+      "title": "1.5 Manual structure",
+      "kind": "KC",
+      "pages": [
+        10,
+        65
+      ]
+    },
+    {
+      "id": "g_m5",
+      "title": "2. MATERIAL DEVELOPMENT",
+      "kind": "MODULE",
+      "pages": [
+        65,
+        65
+      ]
+    },
+    {
+      "id": "g_k26",
+      "title": "2.1 Introduction",
+      "kind": "KC",
+      "pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "g_k27",
+      "title": "2.2 Definitions & terminology",
+      "kind": "KC",
+      "pages": [
+        14,
+        15
+      ]
+    },
+    {
+      "id": "g_u7",
+      "title": "2.3 Common exercise principles",
+      "kind": "UNIT",
+      "pages": [
+        16,
+        65
+      ]
+    },
+    {
+      "id": "g_k28",
+      "title": "2.3.1 Senior management commitment",
+      "kind": "KC",
+      "pages": [
+        16,
+        16
+      ]
+    },
+    {
+      "id": "g_k29",
+      "title": "2.3.2 Exercise needs assessment",
+      "kind": "KC",
+      "pages": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "g_k30",
+      "title": "2.3.3 Exercise purpose, scope and objectives",
+      "kind": "KC",
+      "pages": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "g_k31",
+      "title": "2.3.4 Time and resources",
+      "kind": "KC",
+      "pages": [
+        17,
+        17
+      ]
+    },
+    {
+      "id": "g_k32",
+      "title": "2.3.5 Selecting the exercise type",
+      "kind": "KC",
+      "pages": [
+        18,
+        18
+      ]
+    },
+    {
+      "id": "g_k33",
+      "title": "2.3.6 Exercise capacity & management",
+      "kind": "KC",
+      "pages": [
+        18,
+        18
+      ]
+    },
+    {
+      "id": "g_k34",
+      "title": "2.3.7 Selecting the exercise participants",
+      "kind": "KC",
+      "pages": [
+        18,
+        65
+      ]
+    },
+    {
+      "id": "g_m6",
+      "title": "4. CONDUCT",
+      "kind": "MODULE",
+      "pages": [
+        65,
+        65
+      ]
+    },
+    {
+      "id": "g_u8",
+      "title": "4.1 Overview",
+      "kind": "UNIT",
+      "pages": [
+        24,
+        24
+      ]
+    },
+    {
+      "id": "g_k35",
+      "title": "4.1.1 Project phases",
+      "kind": "KC",
+      "pages": [
+        25,
+        25
+      ]
+    },
+    {
+      "id": "g_u9",
+      "title": "4.2 Pre-exercise",
+      "kind": "UNIT",
+      "pages": [
+        25,
+        30
+      ]
+    },
+    {
+      "id": "g_k36",
+      "title": "4.2.1 Planning",
+      "kind": "KC",
+      "pages": [
+        25,
+        27
+      ]
+    },
+    {
+      "id": "g_k37",
+      "title": "4.2.2 Material development",
+      "kind": "KC",
+      "pages": [
+        28,
+        29
+      ]
+    },
+    {
+      "id": "g_k38",
+      "title": "4.2.3 Setting up the exercise",
+      "kind": "KC",
+      "pages": [
+        30,
+        30
+      ]
+    },
+    {
+      "id": "g_k39",
+      "title": "4.3 Conducting the exercise",
+      "kind": "KC",
+      "pages": [
+        31,
+        33
+      ]
+    },
+    {
+      "id": "g_k40",
+      "title": "4.4 Post-simulation",
+      "kind": "KC",
+      "pages": [
+        34,
+        34
+      ]
+    },
+    {
+      "id": "g_k41",
+      "title": "4.5 Tools and templates found in annex of this chapter",
+      "kind": "KC",
+      "pages": [
+        35,
+        65
+      ]
+    },
+    {
+      "id": "g_m7",
+      "title": "5. RESULTS & FOLLOW UP",
+      "kind": "MODULE",
+      "pages": [
+        65,
+        77
+      ]
+    },
+    {
+      "id": "g_u10",
+      "title": "5.1 Overview",
+      "kind": "UNIT",
+      "pages": [
+        37,
+        38
+      ]
+    },
+    {
+      "id": "g_k42",
+      "title": "5.1.1 Project phases",
+      "kind": "KC",
+      "pages": [
+        38,
+        38
+      ]
+    },
+    {
+      "id": "g_u11",
+      "title": "5.2 Pre-exercise",
+      "kind": "UNIT",
+      "pages": [
+        39,
+        43
+      ]
+    },
+    {
+      "id": "g_k43",
+      "title": "5.2.1 Planning",
+      "kind": "KC",
+      "pages": [
+        39,
+        40
+      ]
+    },
+    {
+      "id": "g_k44",
+      "title": "5.2.2 Material development",
+      "kind": "KC",
+      "pages": [
+        41,
+        42
+      ]
+    },
+    {
+      "id": "g_k45",
+      "title": "5.2.3 Setting up the exercise",
+      "kind": "KC",
+      "pages": [
+        43,
+        43
+      ]
+    },
+    {
+      "id": "g_k46",
+      "title": "5.3 Conducting the exercise",
+      "kind": "KC",
+      "pages": [
+        44,
+        46
+      ]
+    },
+    {
+      "id": "g_k47",
+      "title": "5.4 Post-exercise",
+      "kind": "KC",
+      "pages": [
+        47,
+        47
+      ]
+    },
+    {
+      "id": "g_k48",
+      "title": "5.5 Tools and templates found in annex of this chapter",
+      "kind": "KC",
+      "pages": [
+        48,
+        77
+      ]
+    }
+  ],
+  "contains": [
+    [
+      "g_course",
+      "g_k1"
+    ],
+    [
+      "g_course",
+      "g_m1"
+    ],
+    [
+      "g_course",
+      "g_m2"
+    ],
+    [
+      "g_course",
+      "g_m3"
+    ],
+    [
+      "g_course",
+      "g_m4"
+    ],
+    [
+      "g_course",
+      "g_m5"
+    ],
+    [
+      "g_course",
+      "g_m6"
+    ],
+    [
+      "g_course",
+      "g_m7"
+    ],
+    [
+      "g_m1",
+      "g_k2"
+    ],
+    [
+      "g_m1",
+      "g_u1"
+    ],
+    [
+      "g_m1",
+      "g_u2"
+    ],
+    [
+      "g_u1",
+      "g_k3"
+    ],
+    [
+      "g_u1",
+      "g_k4"
+    ],
+    [
+      "g_u1",
+      "g_k5"
+    ],
+    [
+      "g_u2",
+      "g_k6"
+    ],
+    [
+      "g_m2",
+      "g_u3"
+    ],
+    [
+      "g_m2",
+      "g_u4"
+    ],
+    [
+      "g_m2",
+      "g_k11"
+    ],
+    [
+      "g_m2",
+      "g_k12"
+    ],
+    [
+      "g_m2",
+      "g_k13"
+    ],
+    [
+      "g_u3",
+      "g_k7"
+    ],
+    [
+      "g_u4",
+      "g_k8"
+    ],
+    [
+      "g_u4",
+      "g_k9"
+    ],
+    [
+      "g_u4",
+      "g_k10"
+    ],
+    [
+      "g_m3",
+      "g_u5"
+    ],
+    [
+      "g_m3",
+      "g_u6"
+    ],
+    [
+      "g_m3",
+      "g_k18"
+    ],
+    [
+      "g_m3",
+      "g_k19"
+    ],
+    [
+      "g_m3",
+      "g_k20"
+    ],
+    [
+      "g_u5",
+      "g_k14"
+    ],
+    [
+      "g_u6",
+      "g_k15"
+    ],
+    [
+      "g_u6",
+      "g_k16"
+    ],
+    [
+      "g_u6",
+      "g_k17"
+    ],
+    [
+      "g_m4",
+      "g_k21"
+    ],
+    [
+      "g_m4",
+      "g_k22"
+    ],
+    [
+      "g_m4",
+      "g_k23"
+    ],
+    [
+      "g_m4",
+      "g_k24"
+    ],
+    [
+      "g_m4",
+      "g_k25"
+    ],
+    [
+      "g_m5",
+      "g_k26"
+    ],
+    [
+      "g_m5",
+      "g_k27"
+    ],
+    [
+      "g_m5",
+      "g_u7"
+    ],
+    [
+      "g_u7",
+      "g_k28"
+    ],
+    [
+      "g_u7",
+      "g_k29"
+    ],
+    [
+      "g_u7",
+      "g_k30"
+    ],
+    [
+      "g_u7",
+      "g_k31"
+    ],
+    [
+      "g_u7",
+      "g_k32"
+    ],
+    [
+      "g_u7",
+      "g_k33"
+    ],
+    [
+      "g_u7",
+      "g_k34"
+    ],
+    [
+      "g_m6",
+      "g_u8"
+    ],
+    [
+      "g_m6",
+      "g_u9"
+    ],
+    [
+      "g_m6",
+      "g_k39"
+    ],
+    [
+      "g_m6",
+      "g_k40"
+    ],
+    [
+      "g_m6",
+      "g_k41"
+    ],
+    [
+      "g_u8",
+      "g_k35"
+    ],
+    [
+      "g_u9",
+      "g_k36"
+    ],
+    [
+      "g_u9",
+      "g_k37"
+    ],
+    [
+      "g_u9",
+      "g_k38"
+    ],
+    [
+      "g_m7",
+      "g_u10"
+    ],
+    [
+      "g_m7",
+      "g_u11"
+    ],
+    [
+      "g_m7",
+      "g_k46"
+    ],
+    [
+      "g_m7",
+      "g_k47"
+    ],
+    [
+      "g_m7",
+      "g_k48"
+    ],
+    [
+      "g_u10",
+      "g_k42"
+    ],
+    [
+      "g_u11",
+      "g_k43"
+    ],
+    [
+      "g_u11",
+      "g_k44"
+    ],
+    [
+      "g_u11",
+      "g_k45"
+    ]
+  ],
+  "sequence": [
+    [
+      "g_k1",
+      "g_m1"
+    ],
+    [
+      "g_m1",
+      "g_m2"
+    ],
+    [
+      "g_m2",
+      "g_m3"
+    ],
+    [
+      "g_m3",
+      "g_m4"
+    ],
+    [
+      "g_m4",
+      "g_m5"
+    ],
+    [
+      "g_m5",
+      "g_m6"
+    ],
+    [
+      "g_m6",
+      "g_m7"
+    ],
+    [
+      "g_k2",
+      "g_u1"
+    ],
+    [
+      "g_u1",
+      "g_u2"
+    ],
+    [
+      "g_k3",
+      "g_k4"
+    ],
+    [
+      "g_k4",
+      "g_k5"
+    ],
+    [
+      "g_u3",
+      "g_u4"
+    ],
+    [
+      "g_u4",
+      "g_k11"
+    ],
+    [
+      "g_k11",
+      "g_k12"
+    ],
+    [
+      "g_k12",
+      "g_k13"
+    ],
+    [
+      "g_k8",
+      "g_k9"
+    ],
+    [
+      "g_k9",
+      "g_k10"
+    ],
+    [
+      "g_u5",
+      "g_u6"
+    ],
+    [
+      "g_u6",
+      "g_k18"
+    ],
+    [
+      "g_k18",
+      "g_k19"
+    ],
+    [
+      "g_k19",
+      "g_k20"
+    ],
+    [
+      "g_k15",
+      "g_k16"
+    ],
+    [
+      "g_k16",
+      "g_k17"
+    ],
+    [
+      "g_k21",
+      "g_k22"
+    ],
+    [
+      "g_k22",
+      "g_k23"
+    ],
+    [
+      "g_k23",
+      "g_k24"
+    ],
+    [
+      "g_k24",
+      "g_k25"
+    ],
+    [
+      "g_k26",
+      "g_k27"
+    ],
+    [
+      "g_k27",
+      "g_u7"
+    ],
+    [
+      "g_k28",
+      "g_k29"
+    ],
+    [
+      "g_k29",
+      "g_k30"
+    ],
+    [
+      "g_k30",
+      "g_k31"
+    ],
+    [
+      "g_k31",
+      "g_k32"
+    ],
+    [
+      "g_k32",
+      "g_k33"
+    ],
+    [
+      "g_k33",
+      "g_k34"
+    ],
+    [
+      "g_u8",
+      "g_u9"
+    ],
+    [
+      "g_u9",
+      "g_k39"
+    ],
+    [
+      "g_k39",
+      "g_k40"
+    ],
+    [
+      "g_k40",
+      "g_k41"
+    ],
+    [
+      "g_k36",
+      "g_k37"
+    ],
+    [
+      "g_k37",
+      "g_k38"
+    ],
+    [
+      "g_u10",
+      "g_u11"
+    ],
+    [
+      "g_u11",
+      "g_k46"
+    ],
+    [
+      "g_k46",
+      "g_k47"
+    ],
+    [
+      "g_k47",
+      "g_k48"
+    ],
+    [
+      "g_k43",
+      "g_k44"
+    ],
+    [
+      "g_k44",
+      "g_k45"
+    ]
+  ],
+  "grounding": {
+    "g_k1": {
+      "pages": [
+        8,
+        18
+      ],
+      "heading_path": [
+        "Acknowledgements"
+      ]
+    },
+    "g_m1": {
+      "pages": [
+        19,
+        49
+      ],
+      "heading_path": [
+        "3. Exercise selection process"
+      ]
+    },
+    "g_k2": {
+      "pages": [
+        19,
+        19
+      ],
+      "heading_path": [
+        "3. Exercise selection process",
+        "3.1 Exercises as part of emergency risk management"
+      ]
+    },
+    "g_u1": {
+      "pages": [
+        19,
+        20
+      ],
+      "heading_path": [
+        "3. Exercise selection process",
+        "3.2 Exercise programme"
+      ]
+    },
+    "g_k3": {
+      "pages": [
+        20,
+        20
+      ],
+      "heading_path": [
+        "3. Exercise selection process",
+        "3.2 Exercise programme",
+        "3.2.1 Training"
+      ]
+    },
+    "g_k4": {
+      "pages": [
+        21,
+        21
+      ],
+      "heading_path": [
+        "3. Exercise selection process",
+        "3.2 Exercise programme",
+        "3.2.2 Exercise planning tool (EPT)"
+      ]
+    },
+    "g_k5": {
+      "pages": [
+        21,
+        21
+      ],
+      "heading_path": [
+        "3. Exercise selection process",
+        "3.2 Exercise programme",
+        "3.2.3 Exercise planning tool (EPT)"
+      ]
+    },
+    "g_u2": {
+      "pages": [
+        21,
+        49
+      ],
+      "heading_path": [
+        "3. Exercise selection process",
+        "3.3 Selecting the exercise type"
+      ]
+    },
+    "g_k6": {
+      "pages": [
+        22,
+        49
+      ],
+      "heading_path": [
+        "3. Exercise selection process",
+        "3.3 Selecting the exercise type",
+        "3.3.1 Defining the exercise purpose and objectives"
+      ]
+    },
+    "g_m2": {
+      "pages": [
+        50,
+        62
+      ],
+      "heading_path": [
+        "6. Functional exercise (FX) guidance and tools"
+      ]
+    },
+    "g_u3": {
+      "pages": [
+        50,
+        50
+      ],
+      "heading_path": [
+        "6. Functional exercise (FX) guidance and tools",
+        "6.1 Overview"
+      ]
+    },
+    "g_k7": {
+      "pages": [
+        51,
+        51
+      ],
+      "heading_path": [
+        "6. Functional exercise (FX) guidance and tools",
+        "6.1 Overview",
+        "6.1.1 FX project phases"
+      ]
+    },
+    "g_u4": {
+      "pages": [
+        51,
+        56
+      ],
+      "heading_path": [
+        "6. Functional exercise (FX) guidance and tools",
+        "6.2 Pre-exercise"
+      ]
+    },
+    "g_k8": {
+      "pages": [
+        51,
+        53
+      ],
+      "heading_path": [
+        "6. Functional exercise (FX) guidance and tools",
+        "6.2 Pre-exercise",
+        "6.2.1 Planning"
+      ]
+    },
+    "g_k9": {
+      "pages": [
+        54,
+        55
+      ],
+      "heading_path": [
+        "6. Functional exercise (FX) guidance and tools",
+        "6.2 Pre-exercise",
+        "6.2.2 Material development"
+      ]
+    },
+    "g_k10": {
+      "pages": [
+        56,
+        56
+      ],
+      "heading_path": [
+        "6. Functional exercise (FX) guidance and tools",
+        "6.2 Pre-exercise",
+        "6.2.3 Setting up the exercise"
+      ]
+    },
+    "g_k11": {
+      "pages": [
+        57,
+        59
+      ],
+      "heading_path": [
+        "6. Functional exercise (FX) guidance and tools",
+        "6.3 Conducting the exercise"
+      ]
+    },
+    "g_k12": {
+      "pages": [
+        60,
+        60
+      ],
+      "heading_path": [
+        "6. Functional exercise (FX) guidance and tools",
+        "6.4 Post-exercise"
+      ]
+    },
+    "g_k13": {
+      "pages": [
+        61,
+        62
+      ],
+      "heading_path": [
+        "6. Functional exercise (FX) guidance and tools",
+        "6.5 Tools and templates found in annex of this chapter"
+      ]
+    },
+    "g_m3": {
+      "pages": [
+        63,
+        64
+      ],
+      "heading_path": [
+        "7. Field/full-scale exercise (FSX) guidance"
+      ]
+    },
+    "g_u5": {
+      "pages": [
+        63,
+        64
+      ],
+      "heading_path": [
+        "7. Field/full-scale exercise (FSX) guidance",
+        "7.1 Overview"
+      ]
+    },
+    "g_k14": {
+      "pages": [
+        64,
+        64
+      ],
+      "heading_path": [
+        "7. Field/full-scale exercise (FSX) guidance",
+        "7.1 Overview",
+        "7.1.1 FSX project phases"
+      ]
+    },
+    "g_u6": {
+      "pages": [
+        65,
+        71
+      ],
+      "heading_path": [
+        "7. Field/full-scale exercise (FSX) guidance",
+        "7.2 Pre-exercise"
+      ]
+    },
+    "g_k15": {
+      "pages": [
+        65,
+        67
+      ],
+      "heading_path": [
+        "7. Field/full-scale exercise (FSX) guidance",
+        "7.2 Pre-exercise",
+        "7.2.1 Planning"
+      ]
+    },
+    "g_k16": {
+      "pages": [
+        68,
+        69
+      ],
+      "heading_path": [
+        "7. Field/full-scale exercise (FSX) guidance",
+        "7.2 Pre-exercise",
+        "7.2.2 Material development"
+      ]
+    },
+    "g_k17": {
+      "pages": [
+        70,
+        71
+      ],
+      "heading_path": [
+        "7. Field/full-scale exercise (FSX) guidance",
+        "7.2 Pre-exercise",
+        "7.2.3 Setting up the exercise"
+      ]
+    },
+    "g_k18": {
+      "pages": [
+        72,
+        73
+      ],
+      "heading_path": [
+        "7. Field/full-scale exercise (FSX) guidance",
+        "7.3 Conducting the exercise"
+      ]
+    },
+    "g_k19": {
+      "pages": [
+        74,
+        75
+      ],
+      "heading_path": [
+        "7. Field/full-scale exercise (FSX) guidance",
+        "7.4 Post-exercise"
+      ]
+    },
+    "g_k20": {
+      "pages": [
+        76,
+        77
+      ],
+      "heading_path": [
+        "7. Field/full-scale exercise (FSX) guidance",
+        "7.5 Tools and templates found in annex of this chapter"
+      ]
+    },
+    "g_m4": {
+      "pages": [
+        65,
+        65
+      ],
+      "heading_path": [
+        "1. PLANNING"
+      ]
+    },
+    "g_k21": {
+      "pages": [
+        9,
+        9
+      ],
+      "heading_path": [
+        "1. PLANNING",
+        "1.1 Background"
+      ]
+    },
+    "g_k22": {
+      "pages": [
+        10,
+        10
+      ],
+      "heading_path": [
+        "1. PLANNING",
+        "1.2 Purpose & objectives of the exercise manual"
+      ]
+    },
+    "g_k23": {
+      "pages": [
+        10,
+        10
+      ],
+      "heading_path": [
+        "1. PLANNING",
+        "1.3 Target audience"
+      ]
+    },
+    "g_k24": {
+      "pages": [
+        10,
+        10
+      ],
+      "heading_path": [
+        "1. PLANNING",
+        "1.4 Use of this manual"
+      ]
+    },
+    "g_k25": {
+      "pages": [
+        10,
+        65
+      ],
+      "heading_path": [
+        "1. PLANNING",
+        "1.5 Manual structure"
+      ]
+    },
+    "g_m5": {
+      "pages": [
+        65,
+        65
+      ],
+      "heading_path": [
+        "2. MATERIAL DEVELOPMENT"
+      ]
+    },
+    "g_k26": {
+      "pages": [
+        12,
+        13
+      ],
+      "heading_path": [
+        "2. MATERIAL DEVELOPMENT",
+        "2.1 Introduction"
+      ]
+    },
+    "g_k27": {
+      "pages": [
+        14,
+        15
+      ],
+      "heading_path": [
+        "2. MATERIAL DEVELOPMENT",
+        "2.2 Definitions & terminology"
+      ]
+    },
+    "g_u7": {
+      "pages": [
+        16,
+        65
+      ],
+      "heading_path": [
+        "2. MATERIAL DEVELOPMENT",
+        "2.3 Common exercise principles"
+      ]
+    },
+    "g_k28": {
+      "pages": [
+        16,
+        16
+      ],
+      "heading_path": [
+        "2. MATERIAL DEVELOPMENT",
+        "2.3 Common exercise principles",
+        "2.3.1 Senior management commitment"
+      ]
+    },
+    "g_k29": {
+      "pages": [
+        17,
+        17
+      ],
+      "heading_path": [
+        "2. MATERIAL DEVELOPMENT",
+        "2.3 Common exercise principles",
+        "2.3.2 Exercise needs assessment"
+      ]
+    },
+    "g_k30": {
+      "pages": [
+        17,
+        17
+      ],
+      "heading_path": [
+        "2. MATERIAL DEVELOPMENT",
+        "2.3 Common exercise principles",
+        "2.3.3 Exercise purpose, scope and objectives"
+      ]
+    },
+    "g_k31": {
+      "pages": [
+        17,
+        17
+      ],
+      "heading_path": [
+        "2. MATERIAL DEVELOPMENT",
+        "2.3 Common exercise principles",
+        "2.3.4 Time and resources"
+      ]
+    },
+    "g_k32": {
+      "pages": [
+        18,
+        18
+      ],
+      "heading_path": [
+        "2. MATERIAL DEVELOPMENT",
+        "2.3 Common exercise principles",
+        "2.3.5 Selecting the exercise type"
+      ]
+    },
+    "g_k33": {
+      "pages": [
+        18,
+        18
+      ],
+      "heading_path": [
+        "2. MATERIAL DEVELOPMENT",
+        "2.3 Common exercise principles",
+        "2.3.6 Exercise capacity & management"
+      ]
+    },
+    "g_k34": {
+      "pages": [
+        18,
+        65
+      ],
+      "heading_path": [
+        "2. MATERIAL DEVELOPMENT",
+        "2.3 Common exercise principles",
+        "2.3.7 Selecting the exercise participants"
+      ]
+    },
+    "g_m6": {
+      "pages": [
+        65,
+        65
+      ],
+      "heading_path": [
+        "4. CONDUCT"
+      ]
+    },
+    "g_u8": {
+      "pages": [
+        24,
+        24
+      ],
+      "heading_path": [
+        "4. CONDUCT",
+        "4.1 Overview"
+      ]
+    },
+    "g_k35": {
+      "pages": [
+        25,
+        25
+      ],
+      "heading_path": [
+        "4. CONDUCT",
+        "4.1 Overview",
+        "4.1.1 Project phases"
+      ]
+    },
+    "g_u9": {
+      "pages": [
+        25,
+        30
+      ],
+      "heading_path": [
+        "4. CONDUCT",
+        "4.2 Pre-exercise"
+      ]
+    },
+    "g_k36": {
+      "pages": [
+        25,
+        27
+      ],
+      "heading_path": [
+        "4. CONDUCT",
+        "4.2 Pre-exercise",
+        "4.2.1 Planning"
+      ]
+    },
+    "g_k37": {
+      "pages": [
+        28,
+        29
+      ],
+      "heading_path": [
+        "4. CONDUCT",
+        "4.2 Pre-exercise",
+        "4.2.2 Material development"
+      ]
+    },
+    "g_k38": {
+      "pages": [
+        30,
+        30
+      ],
+      "heading_path": [
+        "4. CONDUCT",
+        "4.2 Pre-exercise",
+        "4.2.3 Setting up the exercise"
+      ]
+    },
+    "g_k39": {
+      "pages": [
+        31,
+        33
+      ],
+      "heading_path": [
+        "4. CONDUCT",
+        "4.3 Conducting the exercise"
+      ]
+    },
+    "g_k40": {
+      "pages": [
+        34,
+        34
+      ],
+      "heading_path": [
+        "4. CONDUCT",
+        "4.4 Post-simulation"
+      ]
+    },
+    "g_k41": {
+      "pages": [
+        35,
+        65
+      ],
+      "heading_path": [
+        "4. CONDUCT",
+        "4.5 Tools and templates found in annex of this chapter"
+      ]
+    },
+    "g_m7": {
+      "pages": [
+        65,
+        77
+      ],
+      "heading_path": [
+        "5. RESULTS & FOLLOW UP"
+      ]
+    },
+    "g_u10": {
+      "pages": [
+        37,
+        38
+      ],
+      "heading_path": [
+        "5. RESULTS & FOLLOW UP",
+        "5.1 Overview"
+      ]
+    },
+    "g_k42": {
+      "pages": [
+        38,
+        38
+      ],
+      "heading_path": [
+        "5. RESULTS & FOLLOW UP",
+        "5.1 Overview",
+        "5.1.1 Project phases"
+      ]
+    },
+    "g_u11": {
+      "pages": [
+        39,
+        43
+      ],
+      "heading_path": [
+        "5. RESULTS & FOLLOW UP",
+        "5.2 Pre-exercise"
+      ]
+    },
+    "g_k43": {
+      "pages": [
+        39,
+        40
+      ],
+      "heading_path": [
+        "5. RESULTS & FOLLOW UP",
+        "5.2 Pre-exercise",
+        "5.2.1 Planning"
+      ]
+    },
+    "g_k44": {
+      "pages": [
+        41,
+        42
+      ],
+      "heading_path": [
+        "5. RESULTS & FOLLOW UP",
+        "5.2 Pre-exercise",
+        "5.2.2 Material development"
+      ]
+    },
+    "g_k45": {
+      "pages": [
+        43,
+        43
+      ],
+      "heading_path": [
+        "5. RESULTS & FOLLOW UP",
+        "5.2 Pre-exercise",
+        "5.2.3 Setting up the exercise"
+      ]
+    },
+    "g_k46": {
+      "pages": [
+        44,
+        46
+      ],
+      "heading_path": [
+        "5. RESULTS & FOLLOW UP",
+        "5.3 Conducting the exercise"
+      ]
+    },
+    "g_k47": {
+      "pages": [
+        47,
+        47
+      ],
+      "heading_path": [
+        "5. RESULTS & FOLLOW UP",
+        "5.4 Post-exercise"
+      ]
+    },
+    "g_k48": {
+      "pages": [
+        48,
+        77
+      ],
+      "heading_path": [
+        "5. RESULTS & FOLLOW UP",
+        "5.5 Tools and templates found in annex of this chapter"
+      ]
+    }
+  },
+  "annotation_decisions": [
+    "Gold nodes come from the document outline, not from prediction output.",
+    "Acknowledgements is retained because it is an explicit outline/front-matter heading.",
+    "Numbered hierarchy determines parent-child relations.",
+    "No Step headings, bullets, tips, tool lists, figures, tables, or body-text concepts are added as nodes.",
+    "Layout is supporting evidence only.",
+    "Typing is derived deterministically with the compiler rule."
+  ]
+}

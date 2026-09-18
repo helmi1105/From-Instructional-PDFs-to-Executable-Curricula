@@ -1,0 +1,876 @@
+{
+  "source_pdf": "15205.pdf",
+  "source_title": "Livret d’accompagnement du chef de groupe - Formation de chef de groupe",
+  "note": "Gold ECG revised in the same format as the provided example, with explicit nodes, contains, sequence, grounding, and annotation decisions. Page 1 is treated as cover. The structure follows the printed table of contents and visible section headings.",
+  "nodes": [
+    {
+      "id": "g_course",
+      "title": "Livret d’accompagnement du chef de groupe - Formation de chef de groupe",
+      "kind": "COURSE",
+      "pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "id": "g_k1",
+      "title": "Préambule",
+      "kind": "KC",
+      "pages": [
+        3
+      ]
+    },
+    {
+      "id": "g_k2",
+      "title": "Bibliographie",
+      "kind": "KC",
+      "pages": [
+        4
+      ]
+    },
+    {
+      "id": "g_m1",
+      "title": "1. Principe général du fonctionnement du chef de groupe",
+      "kind": "MODULE",
+      "pages": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "g_k3",
+      "title": "1.1. Notion de compétence de groupe",
+      "kind": "KC",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "id": "g_u1",
+      "title": "1.2. Prise en compte de la complexité d’une opération de secours. L’analyse systémique, un outil utile et simple",
+      "kind": "UNIT",
+      "pages": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "g_k4",
+      "title": "1.2.1. Le système feu",
+      "kind": "KC",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "id": "g_k5",
+      "title": "1.2.2. Le secours à personnes",
+      "kind": "KC",
+      "pages": [
+        8
+      ]
+    },
+    {
+      "id": "g_k6",
+      "title": "1.2.3. La protection des biens et de l’Environnement et les risques technologiques et naturels",
+      "kind": "KC",
+      "pages": [
+        9
+      ]
+    },
+    {
+      "id": "g_m2",
+      "title": "2. Parcours de préparation à la formation du chef de groupe",
+      "kind": "MODULE",
+      "pages": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ]
+    },
+    {
+      "id": "g_u2",
+      "title": "2.1. Compréhension des activités des équipiers, chefs d’équipe et chefs d’agrès",
+      "kind": "UNIT",
+      "pages": [
+        10,
+        11
+      ]
+    },
+    {
+      "id": "g_k7",
+      "title": "Outils transversaux communs aux différents domaines d’activités",
+      "kind": "KC",
+      "pages": [
+        11
+      ]
+    },
+    {
+      "id": "g_k8",
+      "title": "2.2. Secours à personnes",
+      "kind": "KC",
+      "pages": [
+        12,
+        13
+      ]
+    },
+    {
+      "id": "g_k9",
+      "title": "2.3. Secours routier",
+      "kind": "KC",
+      "pages": [
+        13,
+        14
+      ]
+    },
+    {
+      "id": "g_u3",
+      "title": "2.4. Incendie",
+      "kind": "UNIT",
+      "pages": [
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "id": "g_k10",
+      "title": "2.4.1. Activités d’équipier et chef d’équipe",
+      "kind": "KC",
+      "pages": [
+        15,
+        16
+      ]
+    },
+    {
+      "id": "g_k11",
+      "title": "2.4.2. Activités de chef d’agrès",
+      "kind": "KC",
+      "pages": [
+        17,
+        18
+      ]
+    },
+    {
+      "id": "g_k12",
+      "title": "2.5. Protection des Biens et de l’Environnement",
+      "kind": "KC",
+      "pages": [
+        18,
+        19
+      ]
+    },
+    {
+      "id": "g_m3",
+      "title": "3. Formation pratique de chef de groupe",
+      "kind": "MODULE",
+      "pages": [
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "id": "g_u4",
+      "title": "3.1. Présentation du plateau technique de l’ENSOSP",
+      "kind": "UNIT",
+      "pages": [
+        20,
+        21
+      ]
+    },
+    {
+      "id": "g_k13",
+      "title": "3.1.1. Un SDIS à l’échelle de la formation",
+      "kind": "KC",
+      "pages": [
+        20
+      ]
+    },
+    {
+      "id": "g_k14",
+      "title": "3.1.2. Organisation des centres de secours",
+      "kind": "KC",
+      "pages": [
+        21
+      ]
+    },
+    {
+      "id": "g_u5",
+      "title": "3.2. Déroulement pédagogique",
+      "kind": "UNIT",
+      "pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "g_k15",
+      "title": "3.2.1. L’apprenant au cœur du dispositif",
+      "kind": "KC",
+      "pages": [
+        21,
+        22
+      ]
+    },
+    {
+      "id": "g_k16",
+      "title": "3.2.2. Progression pédagogique",
+      "kind": "KC",
+      "pages": [
+        22
+      ]
+    },
+    {
+      "id": "g_m4",
+      "title": "4. Quelques éléments logistiques",
+      "kind": "MODULE",
+      "pages": [
+        23,
+        24
+      ]
+    },
+    {
+      "id": "g_u6",
+      "title": "4.1. Formations se déroulant au plateau technique de l’ENSOSP à Vitrolles",
+      "kind": "UNIT",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "id": "g_k17",
+      "title": "4.1.1. Equipements de protection individuelle et tenue d’intervention",
+      "kind": "KC",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "id": "g_k18",
+      "title": "4.1.2. Hébergement et restauration",
+      "kind": "KC",
+      "pages": [
+        23
+      ]
+    },
+    {
+      "id": "g_u7",
+      "title": "4.2. Formations se déroulant en école chargée de mission (ECM)",
+      "kind": "UNIT",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "id": "g_k19",
+      "title": "4.2.1. Equipements de protection individuelle et tenue d’intervention",
+      "kind": "KC",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "id": "g_k20",
+      "title": "4.2.2. Hébergement et restauration",
+      "kind": "KC",
+      "pages": [
+        24
+      ]
+    },
+    {
+      "id": "g_k21",
+      "title": "Conclusion",
+      "kind": "KC",
+      "pages": [
+        25
+      ]
+    }
+  ],
+  "contains": [
+    [
+      "g_course",
+      "g_k1"
+    ],
+    [
+      "g_course",
+      "g_k2"
+    ],
+    [
+      "g_course",
+      "g_m1"
+    ],
+    [
+      "g_course",
+      "g_m2"
+    ],
+    [
+      "g_course",
+      "g_m3"
+    ],
+    [
+      "g_course",
+      "g_m4"
+    ],
+    [
+      "g_course",
+      "g_k21"
+    ],
+    [
+      "g_m1",
+      "g_k3"
+    ],
+    [
+      "g_m1",
+      "g_u1"
+    ],
+    [
+      "g_u1",
+      "g_k4"
+    ],
+    [
+      "g_u1",
+      "g_k5"
+    ],
+    [
+      "g_u1",
+      "g_k6"
+    ],
+    [
+      "g_m2",
+      "g_u2"
+    ],
+    [
+      "g_u2",
+      "g_k7"
+    ],
+    [
+      "g_m2",
+      "g_k8"
+    ],
+    [
+      "g_m2",
+      "g_k9"
+    ],
+    [
+      "g_m2",
+      "g_u3"
+    ],
+    [
+      "g_u3",
+      "g_k10"
+    ],
+    [
+      "g_u3",
+      "g_k11"
+    ],
+    [
+      "g_m2",
+      "g_k12"
+    ],
+    [
+      "g_m3",
+      "g_u4"
+    ],
+    [
+      "g_u4",
+      "g_k13"
+    ],
+    [
+      "g_u4",
+      "g_k14"
+    ],
+    [
+      "g_m3",
+      "g_u5"
+    ],
+    [
+      "g_u5",
+      "g_k15"
+    ],
+    [
+      "g_u5",
+      "g_k16"
+    ],
+    [
+      "g_m4",
+      "g_u6"
+    ],
+    [
+      "g_u6",
+      "g_k17"
+    ],
+    [
+      "g_u6",
+      "g_k18"
+    ],
+    [
+      "g_m4",
+      "g_u7"
+    ],
+    [
+      "g_u7",
+      "g_k19"
+    ],
+    [
+      "g_u7",
+      "g_k20"
+    ]
+  ],
+  "sequence": [
+    [
+      "g_k1",
+      "g_k2"
+    ],
+    [
+      "g_k2",
+      "g_m1"
+    ],
+    [
+      "g_m1",
+      "g_m2"
+    ],
+    [
+      "g_m2",
+      "g_m3"
+    ],
+    [
+      "g_m3",
+      "g_m4"
+    ],
+    [
+      "g_m4",
+      "g_k21"
+    ],
+    [
+      "g_k3",
+      "g_u1"
+    ],
+    [
+      "g_k4",
+      "g_k5"
+    ],
+    [
+      "g_k5",
+      "g_k6"
+    ],
+    [
+      "g_u2",
+      "g_k8"
+    ],
+    [
+      "g_k8",
+      "g_k9"
+    ],
+    [
+      "g_k9",
+      "g_u3"
+    ],
+    [
+      "g_k10",
+      "g_k11"
+    ],
+    [
+      "g_u3",
+      "g_k12"
+    ],
+    [
+      "g_u4",
+      "g_u5"
+    ],
+    [
+      "g_k13",
+      "g_k14"
+    ],
+    [
+      "g_k15",
+      "g_k16"
+    ],
+    [
+      "g_u6",
+      "g_u7"
+    ],
+    [
+      "g_k17",
+      "g_k18"
+    ],
+    [
+      "g_k19",
+      "g_k20"
+    ]
+  ],
+  "grounding": {
+    "g_k1": {
+      "pages": [
+        3
+      ],
+      "heading_path": [
+        "Préambule"
+      ]
+    },
+    "g_k2": {
+      "pages": [
+        4
+      ],
+      "heading_path": [
+        "Bibliographie"
+      ]
+    },
+    "g_m1": {
+      "pages": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "heading_path": [
+        "1. Principe général du fonctionnement du chef de groupe"
+      ]
+    },
+    "g_k3": {
+      "pages": [
+        5
+      ],
+      "heading_path": [
+        "1. Principe général du fonctionnement du chef de groupe",
+        "1.1. Notion de compétence de groupe"
+      ]
+    },
+    "g_u1": {
+      "pages": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "heading_path": [
+        "1. Principe général du fonctionnement du chef de groupe",
+        "1.2. Prise en compte de la complexité d’une opération de secours. L’analyse systémique, un outil utile et simple"
+      ]
+    },
+    "g_k4": {
+      "pages": [
+        7
+      ],
+      "heading_path": [
+        "1. Principe général du fonctionnement du chef de groupe",
+        "1.2. Prise en compte de la complexité d’une opération de secours. L’analyse systémique, un outil utile et simple",
+        "1.2.1. Le système feu"
+      ]
+    },
+    "g_k5": {
+      "pages": [
+        8
+      ],
+      "heading_path": [
+        "1. Principe général du fonctionnement du chef de groupe",
+        "1.2. Prise en compte de la complexité d’une opération de secours. L’analyse systémique, un outil utile et simple",
+        "1.2.2. Le secours à personnes"
+      ]
+    },
+    "g_k6": {
+      "pages": [
+        9
+      ],
+      "heading_path": [
+        "1. Principe général du fonctionnement du chef de groupe",
+        "1.2. Prise en compte de la complexité d’une opération de secours. L’analyse systémique, un outil utile et simple",
+        "1.2.3. La protection des biens et de l’Environnement et les risques technologiques et naturels"
+      ]
+    },
+    "g_m2": {
+      "pages": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "heading_path": [
+        "2. Parcours de préparation à la formation du chef de groupe"
+      ]
+    },
+    "g_u2": {
+      "pages": [
+        10,
+        11
+      ],
+      "heading_path": [
+        "2. Parcours de préparation à la formation du chef de groupe",
+        "2.1. Compréhension des activités des équipiers, chefs d’équipe et chefs d’agrès"
+      ]
+    },
+    "g_k7": {
+      "pages": [
+        11
+      ],
+      "heading_path": [
+        "2. Parcours de préparation à la formation du chef de groupe",
+        "2.1. Compréhension des activités des équipiers, chefs d’équipe et chefs d’agrès",
+        "Outils transversaux communs aux différents domaines d’activités"
+      ]
+    },
+    "g_k8": {
+      "pages": [
+        12,
+        13
+      ],
+      "heading_path": [
+        "2. Parcours de préparation à la formation du chef de groupe",
+        "2.2. Secours à personnes"
+      ]
+    },
+    "g_k9": {
+      "pages": [
+        13,
+        14
+      ],
+      "heading_path": [
+        "2. Parcours de préparation à la formation du chef de groupe",
+        "2.3. Secours routier"
+      ]
+    },
+    "g_u3": {
+      "pages": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "heading_path": [
+        "2. Parcours de préparation à la formation du chef de groupe",
+        "2.4. Incendie"
+      ]
+    },
+    "g_k10": {
+      "pages": [
+        15,
+        16
+      ],
+      "heading_path": [
+        "2. Parcours de préparation à la formation du chef de groupe",
+        "2.4. Incendie",
+        "2.4.1. Activités d’équipier et chef d’équipe"
+      ]
+    },
+    "g_k11": {
+      "pages": [
+        17,
+        18
+      ],
+      "heading_path": [
+        "2. Parcours de préparation à la formation du chef de groupe",
+        "2.4. Incendie",
+        "2.4.2. Activités de chef d’agrès"
+      ]
+    },
+    "g_k12": {
+      "pages": [
+        18,
+        19
+      ],
+      "heading_path": [
+        "2. Parcours de préparation à la formation du chef de groupe",
+        "2.5. Protection des Biens et de l’Environnement"
+      ]
+    },
+    "g_m3": {
+      "pages": [
+        20,
+        21,
+        22
+      ],
+      "heading_path": [
+        "3. Formation pratique de chef de groupe"
+      ]
+    },
+    "g_u4": {
+      "pages": [
+        20,
+        21
+      ],
+      "heading_path": [
+        "3. Formation pratique de chef de groupe",
+        "3.1. Présentation du plateau technique de l’ENSOSP"
+      ]
+    },
+    "g_k13": {
+      "pages": [
+        20
+      ],
+      "heading_path": [
+        "3. Formation pratique de chef de groupe",
+        "3.1. Présentation du plateau technique de l’ENSOSP",
+        "3.1.1. Un SDIS à l’échelle de la formation"
+      ]
+    },
+    "g_k14": {
+      "pages": [
+        21
+      ],
+      "heading_path": [
+        "3. Formation pratique de chef de groupe",
+        "3.1. Présentation du plateau technique de l’ENSOSP",
+        "3.1.2. Organisation des centres de secours"
+      ]
+    },
+    "g_u5": {
+      "pages": [
+        21,
+        22
+      ],
+      "heading_path": [
+        "3. Formation pratique de chef de groupe",
+        "3.2. Déroulement pédagogique"
+      ]
+    },
+    "g_k15": {
+      "pages": [
+        21,
+        22
+      ],
+      "heading_path": [
+        "3. Formation pratique de chef de groupe",
+        "3.2. Déroulement pédagogique",
+        "3.2.1. L’apprenant au cœur du dispositif"
+      ]
+    },
+    "g_k16": {
+      "pages": [
+        22
+      ],
+      "heading_path": [
+        "3. Formation pratique de chef de groupe",
+        "3.2. Déroulement pédagogique",
+        "3.2.2. Progression pédagogique"
+      ]
+    },
+    "g_m4": {
+      "pages": [
+        23,
+        24
+      ],
+      "heading_path": [
+        "4. Quelques éléments logistiques"
+      ]
+    },
+    "g_u6": {
+      "pages": [
+        23
+      ],
+      "heading_path": [
+        "4. Quelques éléments logistiques",
+        "4.1. Formations se déroulant au plateau technique de l’ENSOSP à Vitrolles"
+      ]
+    },
+    "g_k17": {
+      "pages": [
+        23
+      ],
+      "heading_path": [
+        "4. Quelques éléments logistiques",
+        "4.1. Formations se déroulant au plateau technique de l’ENSOSP à Vitrolles",
+        "4.1.1. Equipements de protection individuelle et tenue d’intervention"
+      ]
+    },
+    "g_k18": {
+      "pages": [
+        23
+      ],
+      "heading_path": [
+        "4. Quelques éléments logistiques",
+        "4.1. Formations se déroulant au plateau technique de l’ENSOSP à Vitrolles",
+        "4.1.2. Hébergement et restauration"
+      ]
+    },
+    "g_u7": {
+      "pages": [
+        24
+      ],
+      "heading_path": [
+        "4. Quelques éléments logistiques",
+        "4.2. Formations se déroulant en école chargée de mission (ECM)"
+      ]
+    },
+    "g_k19": {
+      "pages": [
+        24
+      ],
+      "heading_path": [
+        "4. Quelques éléments logistiques",
+        "4.2. Formations se déroulant en école chargée de mission (ECM)",
+        "4.2.1. Equipements de protection individuelle et tenue d’intervention"
+      ]
+    },
+    "g_k20": {
+      "pages": [
+        24
+      ],
+      "heading_path": [
+        "4. Quelques éléments logistiques",
+        "4.2. Formations se déroulant en école chargée de mission (ECM)",
+        "4.2.2. Hébergement et restauration"
+      ]
+    },
+    "g_k21": {
+      "pages": [
+        25
+      ],
+      "heading_path": [
+        "Conclusion"
+      ]
+    }
+  },
+  "annotation_decisions": [
+    "Same JSON form as the provided example: source_pdf, source_title, note, nodes, contains, sequence, grounding, annotation_decisions.",
+    "Page 1 is excluded as cover.",
+    "The hierarchy follows the printed sommaire on page 2 and the visible section headings throughout the document.",
+    "Préambule, Bibliographie, and Conclusion are kept as standalone KCs under COURSE.",
+    "Top-level numbered sections are typed as MODULE.",
+    "Second-level sections with children are typed as UNIT.",
+    "Leaf sections are typed as KC.",
+    "The table on page 11 is grouped as a standalone KC under section 2.1 because it is presented as a transversal competency block without a separate printed numbered subsection title.",
+    "Page spans reflect the visible continuation of sections across pages, including cases where a subsection begins on one page and continues on the next."
+  ]
+}
