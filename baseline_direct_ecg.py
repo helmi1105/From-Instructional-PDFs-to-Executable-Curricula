@@ -401,4 +401,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    from revision_pipeline import main as revision_main
+    revision_main(direct=True)

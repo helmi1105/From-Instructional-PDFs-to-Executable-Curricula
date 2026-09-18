@@ -8,6 +8,7 @@ import unicodedata
 from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Dict, List, Tuple, Set, Any, Optional
+from page_grounding import gold_pages_by_id
 
 
 def strip_accents(text: str) -> str:
@@ -359,7 +360,7 @@ def collect_text_only_near_matches(gold: Dict[str, Any], pred: Dict[str, Any]) -
     return {"count": len(near_matches), "examples": near_matches[:50]}
 
 
-def evaluate(gold_path: Path, pred_path: Path, include_course: bool = False) -> Dict[str, Any]:
+def evaluate(gold_path: Path, pred_path: Path, include_course: bool = False, fuzzy_threshold=None) -> Dict[str, Any]:
     gold_raw = load_json(gold_path)
     pred_raw = load_json(pred_path)
 
@@ -371,6 +372,12 @@ def evaluate(gold_path: Path, pred_path: Path, include_course: bool = False) -> 
     contains_metrics = compare_sets(gold["contains"], pred["contains"])
     sequence_metrics = compare_sets(gold["sequence"], pred["sequence"])
     page_grounding = evaluate_page_grounding(gold["grounding"], pred["grounding"])
+    # Preserve legacy calculations above; report encoding-aware grounding alongside.
+    decoded_pages = gold_pages_by_id(gold_raw)
+    corrected_grounding = {}
+    for node in gold["nodes"]:
+        corrected_grounding[node["full_norm"]] = {"pages": decoded_pages[node["id"]]}
+    encoding_aware_grounding = evaluate_page_grounding(corrected_grounding, pred["grounding"])
     kind_agreement = evaluate_kind_agreement(gold["kind_by_title"], pred["kind_by_title"])
     diffs = collect_differences(gold, pred)
     near_matches = collect_text_only_near_matches(gold, pred)
@@ -378,8 +385,13 @@ def evaluate(gold_path: Path, pred_path: Path, include_course: bool = False) -> 
     validation = pred.get("validation", {})
     metadata = pred.get("metadata", {})
 
+    from ecg_evaluation_core import evaluate_graphs
+    corrected = evaluate_graphs(gold_raw, pred_raw, include_course, fuzzy_threshold)
     return {
+        "corrected": corrected,
         "inputs": {
+            "evaluator_version": "2.0-instance-alignment",
+            "gold_page_semantics": gold_raw.get("page_semantics", {"format": "enumerated_pages"}),
             "gold": str(gold_path),
             "pred": str(pred_path),
             "include_course": include_course,
@@ -398,6 +410,7 @@ def evaluate(gold_path: Path, pred_path: Path, include_course: bool = False) -> 
             "contains": contains_metrics,
             "sequence": sequence_metrics,
             "page_grounding": page_grounding["micro"],
+            "page_grounding_encoding_aware": encoding_aware_grounding["micro"],
             "kind_agreement": {
                 "title_kind_accuracy": kind_agreement["title_kind_accuracy"],
                 "matched_titles": kind_agreement["matched_titles"],
@@ -411,6 +424,7 @@ def evaluate(gold_path: Path, pred_path: Path, include_course: bool = False) -> 
         },
         "details": {
             "page_grounding_per_title": page_grounding["per_title"],
+            "page_grounding_encoding_aware_per_title": encoding_aware_grounding["per_title"],
             "kind_agreement_per_title": kind_agreement["per_title"],
             "kind_confusion": kind_agreement["confusion"],
             "differences": diffs,
@@ -440,6 +454,8 @@ def print_summary(results: Dict[str, Any]) -> None:
         mm = m[key]
         print(f"{label:30s} P={mm['precision']:.3f} R={mm['recall']:.3f} F1={mm['f1']:.3f}")
     pg = m["page_grounding"]
+    corrected = m["page_grounding_encoding_aware"]
+    print(f"Encoding-aware grounding F1: {corrected['f1']:.3f} (conditional on matched titles)")
     print(f"{'Page grounding':30s} P={pg['precision']:.3f} R={pg['recall']:.3f} F1={pg['f1']:.3f}  grounded_rate={pg['grounded_kc_rate']:.3f}")
     ka = m["kind_agreement"]
     print(f"{'Kind agreement':30s} acc={ka['title_kind_accuracy']:.3f}  matched_titles={ka['matched_titles']}")
@@ -456,14 +472,19 @@ def main() -> None:
     parser.add_argument("--pred", required=True, help="Path to predicted ECG JSON")
     parser.add_argument("--outdir", default="eval_out", help="Directory for outputs")
     parser.add_argument("--include_course", action="store_true", help="Include COURSE nodes in comparison")
+    parser.add_argument("--fuzzy_threshold", type=float, default=None, help="Opt-in corrected matching sensitivity")
     args = parser.parse_args()
 
     gold_path = Path(args.gold)
     pred_path = Path(args.pred)
     outdir = Path(args.outdir)
+    if outdir.exists() and any(outdir.iterdir()):
+        raise ValueError(f"Use a fresh evaluation directory: {outdir}")
     outdir.mkdir(parents=True, exist_ok=True)
 
-    results = evaluate(gold_path, pred_path, include_course=args.include_course)
+    results = evaluate(gold_path, pred_path, include_course=args.include_course, fuzzy_threshold=args.fuzzy_threshold)
+    from ecg_evaluation_core import export_alignment
+    export_alignment(results["corrected"], outdir)
     out_json = outdir / "evaluation_results.json"
     out_md = outdir / "evaluation_summary.md"
 
@@ -485,6 +506,9 @@ def main() -> None:
             mm = m[key]
             f.write(f"- **{label}**: P={mm['precision']:.3f}, R={mm['recall']:.3f}, F1={mm['f1']:.3f}\n")
         pg = m["page_grounding"]
+        corrected = m["page_grounding_encoding_aware"]
+        f.write(f"- **Encoding-aware conditional grounding**: P={corrected['precision']:.3f}, R={corrected['recall']:.3f}, F1={corrected['f1']:.3f}\n")
+        f.write("- The following page-grounding score preserves legacy page-list interpretation.\n")
         f.write(f"- **Page grounding**: P={pg['precision']:.3f}, R={pg['recall']:.3f}, F1={pg['f1']:.3f}, grounded_rate={pg['grounded_kc_rate']:.3f}\n")
         ka = m["kind_agreement"]
         f.write(f"- **Kind agreement**: acc={ka['title_kind_accuracy']:.3f}, matched_titles={ka['matched_titles']}\n")
@@ -493,6 +517,10 @@ def main() -> None:
         near = results["details"]["text_only_near_matches"]
         f.write(f"- **Text-only near matches**: count={near['count']}\n")
 
+    with out_md.open("a", encoding="utf-8") as f:
+        f.write("\n## Corrected instance-based metrics\n\n")
+        for name, metric in results["corrected"]["metrics"].items():
+            f.write(f"- {name}: F1={metric['f1']:.6f}\n")
     print_summary(results)
     print(f"\nSaved JSON results to: {out_json}")
     print(f"Saved Markdown summary to: {out_md}")

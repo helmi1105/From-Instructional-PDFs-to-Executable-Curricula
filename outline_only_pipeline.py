@@ -176,13 +176,14 @@ You are an outline extraction assistant.
 Extract a clean global document outline from OCR pages.
 
 Rules:
-- Use only visible section titles and instructional headings.
-- Do not invent titles, levels, or missing content.
-- Ignore page numbers, headers, footers, decorative text, and body text.
-- Preserve hierarchy only when clearly visible from numbering, layout, or typography.
-- If hierarchy is unclear, keep headings at the same level.
-- Keep numbering when visible (Roman or decimal), otherwise null.
-- Return only JSON.
+- Keep only real section titles and instructional headings.
+- Do not invent content.
+- Infer hierarchy from numbering, layout, typography, TOC, and document order.
+- Preserve repeated headings and source order.
+- Keep visible numbering and page evidence.
+- Ignore headers, footers, page numbers, captions, decorative text, and body text.
+- Avoid flattening the hierarchy when structural evidence supports nesting.
+- Return valid JSON only.
 
 JSON format:
 {
@@ -213,11 +214,10 @@ Rules:
 - If a section is not a real container, remove it or keep its useful subsections under the correct parent.
 - Fix the hierarchy when it is clearly wrong.
 - Keep correct titles and structure unchanged.
-- Do not invent new content, titles, or unsupported hierarchy.
 - If evidence is weak, keep the current structure.
-- Prefer minimal changes.
 - Return only JSON with the same format.
 """
+
 
 
 def _usage_from_mistral(resp: Any) -> Dict[str, Any]:
@@ -583,7 +583,7 @@ def run_pipeline(
     write_json(os.path.join(outdir, "outline_diff.json"), build_outline_diff(raw_outline, repaired_outline))
 
     print("[6/6] Normalizing outline")
-    outline_clean = normalize_outline(raw_outline)
+    outline_clean = normalize_outline(repaired_outline)
     write_json(os.path.join(outdir, "outline_clean.json"), outline_clean)
     write_json(os.path.join(outdir, "summary.json"), build_summary(outline_clean))
     write_json(
@@ -641,4 +641,5 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    from revision_pipeline import main as revision_main
+    revision_main(direct=False)

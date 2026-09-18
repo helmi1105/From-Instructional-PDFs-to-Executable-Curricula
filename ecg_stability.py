@@ -131,9 +131,20 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Compute ECG stability across multiple runs")
     parser.add_argument("--inputs", nargs="+", required=True, help="List of ecg.json paths (5 runs, etc.)")
     parser.add_argument("--out", required=True, help="Output JSON path")
+    parser.add_argument("--gold", help="Add gold-reference scoring for every run")
     args = parser.parse_args()
 
-    summary = summarize_runs(args.inputs)
+    if Path(args.out).exists():
+        raise ValueError("Use a new output file")
+    if args.gold:
+        from experiment_analysis import stability
+        summary = {"corrected_gold_stability": stability(args.inputs, load_json(args.gold))}
+        try:
+            summary["legacy"] = summarize_runs(args.inputs)
+        except (OSError, ValueError, KeyError, TypeError) as exc:
+            summary["legacy_error"] = type(exc).__name__
+    else:
+        summary = summarize_runs(args.inputs)
     Path(args.out).parent.mkdir(parents=True, exist_ok=True)
     Path(args.out).write_text(json.dumps(summary, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"Saved stability summary to {args.out}")

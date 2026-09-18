@@ -387,7 +387,11 @@ def main() -> None:
     ]
 
     outdir = Path(args.outdir)
+    if outdir.exists() and any(outdir.iterdir()):
+        raise ValueError("Use a fresh output directory")
     outdir.mkdir(parents=True, exist_ok=True)
+    from experiment_analysis import batch
+    batch(pairs, outdir / "corrected")
 
     (outdir / "structural_error_report.json").write_text(
         json.dumps({"documents": rows}, ensure_ascii=False, indent=2),
